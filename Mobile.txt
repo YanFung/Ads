@@ -1,7 +1,7 @@
-﻿! Version:2017/7/30/11:30
+! Version:2017/8/1  11:30
 ! Title:Mobile Ads filter(China)
 ! Author:YanFung
-! https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ！----------------------------------------
 ！百度
 baidu.com###index-card > div[id*="0"]
