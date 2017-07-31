@@ -91,7 +91,7 @@ youku.com###Bigdrama,.iconPop
 ||stat.youku.com/
 ||youku.com/compvlog?
 !  youtube
-youtube.com###koya_child_6
+youtube.com#[id^="koya_child"]
 ！威峰
 bbs.feng.com###nav
 bbs.feng.com##.floorHost
