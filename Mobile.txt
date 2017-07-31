@@ -3,7 +3,7 @@
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ！----------------------------------------
-！百度
+！百度搜索
 baidu.com###index-card > div[id*="0"]
 baidu.com###index-card > div[id*="1"]
 baidu.com###index-card > div[id*="2"]
@@ -34,6 +34,10 @@ baidu.com##[tpl="recommend_list"]
 baidu.com##[tpl="sigma_celebrity_rela"]
 baidu.com##[tpl="sd_imgs"]
 baidu.com##.se-ft-promlink
+！百度翻译
+fanyi.baidu.com##.app-bar
+fanyi.baidu.com##.article
+fanyi.baidu.com##.bottom-intro
 ！贴吧
 baidu.com###index-app-overlay
 baidu.com###index-tuijian-wrap
