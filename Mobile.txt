@@ -59,8 +59,10 @@ qiqu.uc.cn##.advertise
 qiqu.uc.cn##.closeAdvertise
 qiqu.uc.cn##div[class^="uuu"]
 ！糗事百科
-www.qiushibaike.com##.itemOther
-www.qiushibaike.com###u_main_href_DR
+qiushibaike.com##.itemOther
+qiushibaike.com###u_main_href_DR
+qiushibaike.com##.adTop
+qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
 ！微博
 m.weibo.cn##.tips
 ！91直播
