@@ -1,7 +1,7 @@
 ﻿! Version:2017/7/30/11:30
-! Title:uBlock Hide CSS Ads(china)
+! Title:uBlock Ads(china)
 ! Author:YanFung
-! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Safari.txt
+! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/uBlock.txt
 ！----------------------------------------
 ! 贴吧
 tieba.baidu.com##.top-sec,.r-top-sec,.app_download_box,.aside_region,.tbui_fbar_nobottle,.tbui_fbar_refresh,.tbui_fbar_share
