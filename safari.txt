@@ -1,5 +1,5 @@
 ! Version:2017/7/30/11:30
-! Title:Safari Css(China)
+! Title:Safari CSS hidden(China)
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/ad/master/safari.txt
 ！----------------------------------------
