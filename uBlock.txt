@@ -1,5 +1,5 @@
-﻿! Version:2017/7/30/11:30
-! Title:uBlock Ads(china)
+! Version:2017/7/30/11:30
+! Title:uBlock Ads filter(china)
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/uBlock.txt
 ！----------------------------------------
