@@ -1,7 +1,7 @@
 ! Version:2017/7/30/11:30
 ! Title:Hide CSS ads(china)
 ! Author:YanFung
-! Homepage:https://raw.githubusercontent.com/YanFung/ad/master/safari.txt
+! https://raw.githubusercontent.com/YanFung/Ads/master/Safari.txt
 ！----------------------------------------
 ！百度
 baidu.com###index-card > div[id*="0"]
