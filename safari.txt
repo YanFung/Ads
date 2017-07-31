@@ -90,6 +90,8 @@ youku.com###Bigdrama,.iconPop
 ||atm.youku.com/
 ||stat.youku.com/
 ||youku.com/compvlog?
+!  youtube
+youtube.com###koya_child_6
 ！威峰
 bbs.feng.com###nav
 bbs.feng.com##.floorHost
