@@ -1,4 +1,4 @@
-﻿! Version:2017/7/30/11:30
+! Version:2017/7/30/11:30
 ! Title:Adguard China
 ! Author:YanFung
 ！----------------------------------------
