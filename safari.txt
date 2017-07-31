@@ -1,6 +1,7 @@
 ! Version:2017/7/30/11:30
-! Title:Safari China Css
+! Title:Safari Css(China)
 ! Author:YanFung
+! Homepage:https://raw.githubusercontent.com/YanFung/ad/master/safari.txt
 ！----------------------------------------
 ！百度
 baidu.com###index-card > div[id*="0"]
