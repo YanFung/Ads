@@ -1,0 +1,161 @@
+﻿! Version:2017/7/30/11:30
+! Title:Mobile Ads filter(China)
+! Author:YanFung
+! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+！----------------------------------------
+！百度
+baidu.com###index-card > div[id*="0"]
+baidu.com###index-card > div[id*="1"]
+baidu.com###index-card > div[id*="2"]
+baidu.com###index-card > div[id*="3"]
+baidu.com###index-card > div[id*="4"]
+baidu.com###index-card > div[id*="5"]
+baidu.com###index-card > div[id*="6"]
+baidu.com###index-card > div[id*="7"]
+baidu.com###index-card > div[id*="8"]
+baidu.com###index-card > div[id*="9"]
+baidu.com###page >[id*="0"]
+baidu.com###page >[id*="1"]
+baidu.com###page >[id*="2"]
+baidu.com###page >[id*="3"]
+baidu.com###page >[id*="4"]
+baidu.com###page >[id*="5"]
+baidu.com###page >[id*="6"]
+baidu.com###page >[id*="7"]
+baidu.com###page >[id*="8"]
+baidu.com###page >[id*="9"]
+baidu.com##.weather-outline
+baidu.com###ns-swipe
+baidu.com###tab_news_1
+baidu.com###bottom
+baidu.com##[id="page-tips"]
+baidu.com##[tpl="wise_ios_app_open"]
+baidu.com##[tpl="recommend_list"]
+baidu.com##[tpl="sigma_celebrity_rela"]
+baidu.com##[tpl="sd_imgs"]
+baidu.com##.se-ft-promlink
+！贴吧
+baidu.com###index-app-overlay
+baidu.com###index-tuijian-wrap
+baidu.com##.appPromote
+baidu.com##.forum_recommend_c
+baidu.com##.fixed_bar
+baidu.com##.j_footer_link
+baidu.com##[class="ti_item j_click_stats"]
+baidu.com##.tl_shadow > .clearfix.ti_infos
+baidu.com###app-special,.top_ext_li
+baidu.com##.j_client_ghost_icon
+baidu.com###j_light_see_index,bottom-share-button
+baidu.com##.make_myreplyPrompt.make_prompt.j_make_prompt
+baidu.com##.more_btn_package
+baidu.com###bottom-share-button
+baidu.com##[id^="dia_"]
+！汤不热
+tumblr.com##.mobile-banner-inner
+！ys168网盘
+ys168.com###zdy_wz0
+！奇趣百科
+qiqu.uc.cn##.advertise
+qiqu.uc.cn##.closeAdvertise
+qiqu.uc.cn##div[class^="uuu"]
+！糗事百科
+www.qiushibaike.com##.itemOther
+www.qiushibaike.com###u_main_href_DR
+！微博
+m.weibo.cn##.tips
+！91直播
+m.91kds.com##.ui-first-child.ui-li.ui-li-has-arrow.ui-btn-icon-right.ui-btn-up-c.ui-btn
+！爱奇艺
+iqiyi.com##.m-guide
+iqiyi.com##.header-app
+iqiyi.com##.m-imgicon-list
+iqiyi.com##[data-tag-name="应用推荐"]
+iqiyi.com##.c-btn-block-lxx.c-btn-block
+iqiyi.com##.m-box-bottom.m-box
+iqiyi.com##.m-ipRelation
+iqiyi.com##[glue-component="page.playMovie.component.wonderful"]
+iqiyi.com##[data-component="page.playMovie.component.soundtrack"]
+iqiyi.com##[data-component="page.playMovie.component.recommend"]
+iqiyi.com##[data-component="page.bubble.component.playJoiner"]
+iqiyi.com##[class="m-video-extendBar"]
+iqiyi.com##.m-addToScreen
+m.iqiyi.com##.m-addDesk
+m.iqiyi.com###bottomNativePopup
+！优酷
+youku.com##[id="fullpromotion"]
+youku.com##[style="position: fixed; display: block;"]
+youku.com###sideBar,[class="vo-link"]
+youku.com##[style^="color"]
+youku.com###Hold
+youku.com###vStars
+youku.com###Recommend,.shortVideo
+youku.com###Bigdrama,.iconPop
+||atm.youku.com/
+||stat.youku.com/
+||youku.com/compvlog?
+!  youtube
+youtube.com##[class="_mamb _mrmb _msmb"]
+！威峰
+bbs.feng.com###nav
+bbs.feng.com##.floorHost
+bbs.feng.com##.comments_downLoad
+bbs.feng.com##.adsbygoogle
+bbs.feng.com##.posi-fixed-btn
+bbs.feng.com##.footerNav
+！多玩
+duowan.cn##.swiper-container.da-container
+duowan.cn#play-video-list
+！今日头条
+m.toutiao.com##[style^="display"]
+m.toutiao.com##[class="icon-container"]
+m.toutiao.com##[data-tag="ad"]
+m.toutiao.com##.banner-top.news-banner-container-new-article
+m.toutiao.com##[class^="recommendation"]
+！汽车之家
+autohome.com.cn##.wrapper > section[class*="0"]
+autohome.com.cn##.wrapper > section[class*="1"]
+autohome.com.cn##.wrapper > section[class*="2"]
+autohome.com.cn##.wrapper > section[class*="3"]
+autohome.com.cn##.wrapper > section[class*="4"]
+autohome.com.cn##.wrapper > section[class*="5"]
+autohome.com.cn##.wrapper > section[class*="6"]
+autohome.com.cn##.wrapper > section[class*="7"]
+autohome.com.cn##.wrapper > section[class*="8"]
+autohome.com.cn##.wrapper > section[class*="9"]
+autohome.com.cn##.wrapper>div>section[class*="1"]
+autohome.com.cn##.wrapper>div>section[class*="2"]
+autohome.com.cn##.wrapper>div>section[class*="3"]
+autohome.com.cn##.wrapper>div>section[class*="4"]
+autohome.com.cn##.wrapper>div>section[class*="5"]
+autohome.com.cn##.wrapper>div>section[class*="6"]
+autohome.com.cn##.wrapper>div>section[class*="7"]
+autohome.com.cn##.wrapper>div>section[class*="8"]
+autohome.com.cn##.wrapper>div>section[class*="9"]
+autohome.com.cn##.wrapper>div>section[class*="0"]
+autohome.com.cn##[class^="box_"]
+autohome.com.cn##[style^="width: 24px; height: 40px; float: right;"]
+autohome.com.cn##[class="layer"]
+autohome.com.cn##[class="recommend-gift"]
+autohome.com.cn##.is-mobile,.adv-mall,
+autohome.com.cn##[class="fn-analyze-a"]
+autohome.com.cn##[class="is-mobile"]
+autohome.com.cn##[class="sale"]
+autohome.com.cn###articletag_2
+autohome.com.cn##[target="_self"]
+autohome.com.cn##[class="ad-tpl-img is-mobile"]
+！铁血军情
+tiexue.net##a[href*="/wechat2"]
+tiexue.net##a[href*="m.3diche.com/?id="]
+tiexue.net##[style="position: relative; width: 100%; height: 96px;"]
+tiexue.net##[style="position:relative;width:100%;height:96px;"]
+tiexue.net##[id^="BAIDU_SSP__wrapper_"]
+tiexue.net##[class*="baidu"]
+tiexue.net##iframe[src*="pos.baidu.com/s"]
+tiexue.net##a[href*="m.tiexue.net/game/jstt/"]
+tiexue.net###mainListContainer
+tiexue.net##.moneyBox
+tiexue.net##iframe[src*="//js.firefang.cn/"]
+！通用
+||google-analytics.com/analytics.js
+||cpro.baidustatic.com/cpro/ui/pr.js
+||hm.baidu.com^$third-party
