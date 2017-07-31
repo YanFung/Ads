@@ -1,2 +1,2 @@
 # ad
-Adguard China
+个人轻量级CSS元素广告规则
