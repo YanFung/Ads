@@ -1,4 +1,4 @@
-﻿! Version:2017/7/30/11:30
+! Version:2017/8/1/  11:30
 ! Title:Mobile Ads filter(China)
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
@@ -34,6 +34,7 @@ baidu.com##[tpl="recommend_list"]
 baidu.com##[tpl="sigma_celebrity_rela"]
 baidu.com##[tpl="sd_imgs"]
 baidu.com##.se-ft-promlink
+baidu.com##.new-ux-recom-wrapper
 ！贴吧
 baidu.com###index-app-overlay
 baidu.com###index-tuijian-wrap
