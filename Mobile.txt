@@ -121,7 +121,15 @@ m.toutiao.com##[class^="recommendation"]
 ！汽车之家
 m.autohome.com.cn##section#wrapper>div
 m.autohome.com.cn##section.wrapper>div[class]>div
-m.autohome.com.cn##.wrapper>div[class*="1"],.wrapper>div[class*="2"],.wrapper>div[class*="3"],.wrapper>div[class*="4"],.wrapper>div[class*="5"],.wrapper>div[class*="6"],.wrapper>div[class*="7"],.wrapper>div[class*="8"],.wrapper>div[class*="9"],.wrapper>div[class*="0"]
+m.autohome.com.cn##.wrapper>div[class*="1"]
+m.autohome.com.cn##.wrapper>div[class*="2"]
+m.autohome.com.cn##.wrapper>div[class*="3"]
+m.autohome.com.cn##.wrapper>div[class*="4"]
+m.autohome.com.cn##.wrapper>div[class*="5"]
+m.autohome.com.cn##.wrapper>div[class*="6"]
+m.autohome.com.cn##.wrapper>div[class*="7"]
+m.autohome.com.cn##.wrapper>div[class*="8"]
+m.autohome.com.cn##.wrapper>div[class*="9"]
 autohome.com.cn##[class^="box_"]
 autohome.com.cn##[style^="width: 24px; height: 40px; float: right;"]
 autohome.com.cn##[class="layer"]
