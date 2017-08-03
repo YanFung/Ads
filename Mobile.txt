@@ -130,7 +130,7 @@ m.autohome.com.cn##.wrapper>div[class*="6"]
 m.autohome.com.cn##.wrapper>div[class*="7"]
 m.autohome.com.cn##.wrapper>div[class*="8"]
 m.autohome.com.cn##.wrapper>div[class*="9"]
-m.autohome.com.cn##.wrapper>div[class*="0"]
+m.autohome.com.cn##.wrapper>div[data-side-content]>div
 autohome.com.cn##nav>div>p
 m.autohome.com.cn###wrapper>header>p
 m.autohome.com.cn###recommend-envelope
@@ -143,6 +143,7 @@ m.autohome.com.cn##.recommend-headline
 m.autohome.com.cn##div[id] > .fn-analyze-a
 m.autohome.com.cn##div[id] > .is-mobile
 m.autohome.com.cn##.myAppendList4
+m.autohome.com.cn##.entrance
 ！铁血军情
 tiexue.net##a[href*="/wechat2"]
 tiexue.net##a[href*="m.3diche.com/?id="]
