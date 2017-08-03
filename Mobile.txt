@@ -98,6 +98,18 @@ youku.com###Bigdrama,.iconPop
 ||atm.youku.com/
 ||stat.youku.com/
 ||youku.com/compvlog?
+！腾讯视频
+m.v.qq.com##[id$=_banner]
+m.v.qq.com##[id$="_clips"]
+m.v.qq.com##[id$="_mini"]
+m.v.qq.com##[id$=_recommendation]
+m.v.qq.com##section >.mod_bd >div[_hot="commentsbanner"]
+m.v.qq.com##section[class="mod_box mod_sponsor_banner U_bg_b"]
+m.v.qq.com##.btn_open
+m.v.qq.com###vip_privilege
+m.v.qq.com###vip_activity
+m.v.qq.com##._banner.btn_open_v
+m.v.qq.com###vip_prevue
 ！哔哩哔哩
 m.bilibili.com##.index__cccBtn__src-home-topArea-
 m.bilibili.com##.index__cccTips__src-videoPage-player-
