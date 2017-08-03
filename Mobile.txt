@@ -136,6 +136,12 @@ m.autohome.com.cn###recommend-envelope
 m.autohome.com.cn##.myAppendList3
 m.autohome.com.cn###mall
 m.autohome.com.cn##[id^=data-modelid-sale]
+m.autohome.com.cn##[class="adv04 fn-mt fn-mlr mark-hide"]
+m.autohome.com.cn##.is-mobile.ad-tpl-img
+m.autohome.com.cn##.recommend-headline
+m.autohome.com.cn##div[id] > .fn-analyze-a
+m.autohome.com.cn##div[id] > .is-mobile
+m.autohome.com.cn##.myAppendList4
 ！铁血军情
 tiexue.net##a[href*="/wechat2"]
 tiexue.net##a[href*="m.3diche.com/?id="]
