@@ -130,17 +130,12 @@ m.autohome.com.cn##.wrapper>div[class*="6"]
 m.autohome.com.cn##.wrapper>div[class*="7"]
 m.autohome.com.cn##.wrapper>div[class*="8"]
 m.autohome.com.cn##.wrapper>div[class*="9"]
-autohome.com.cn##[class^="box_"]
-autohome.com.cn##[style^="width: 24px; height: 40px; float: right;"]
-autohome.com.cn##[class="layer"]
-autohome.com.cn##[class="recommend-gift"]
-autohome.com.cn##.is-mobile,.adv-mall,
-autohome.com.cn##[class="fn-analyze-a"]
-autohome.com.cn##[class="is-mobile"]
-autohome.com.cn##[class="sale"]
-autohome.com.cn###articletag_2
-autohome.com.cn##[target="_self"]
-autohome.com.cn##[class="ad-tpl-img is-mobile"]
+autohome.com.cn##nav>div>p
+m.autohome.com.cn###wrapper>header>p
+m.autohome.com.cn###recommend-envelope
+m.autohome.com.cn##.myAppendList3
+m.autohome.com.cn###mall
+m.autohome.com.cn##[id^=data-modelid-sale]
 ！铁血军情
 tiexue.net##a[href*="/wechat2"]
 tiexue.net##a[href*="m.3diche.com/?id="]
