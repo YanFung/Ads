@@ -4,26 +4,9 @@
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ！----------------------------------------
 ！百度
-baidu.com###index-card > div[id*="0"]
-baidu.com###index-card > div[id*="1"]
-baidu.com###index-card > div[id*="2"]
-baidu.com###index-card > div[id*="3"]
-baidu.com###index-card > div[id*="4"]
-baidu.com###index-card > div[id*="5"]
-baidu.com###index-card > div[id*="6"]
-baidu.com###index-card > div[id*="7"]
-baidu.com###index-card > div[id*="8"]
-baidu.com###index-card > div[id*="9"]
-baidu.com###page >[id*="0"]
-baidu.com###page >[id*="1"]
-baidu.com###page >[id*="2"]
-baidu.com###page >[id*="3"]
-baidu.com###page >[id*="4"]
-baidu.com###page >[id*="5"]
-baidu.com###page >[id*="6"]
-baidu.com###page >[id*="7"]
-baidu.com###page >[id*="8"]
-baidu.com###page >[id*="9"]
+baidu.com##div#page>style+div
+baidu.com##div.sf-frame>ul>div[id]
+baidu.com##div#index-card>div[style]
 baidu.com##.weather-outline
 baidu.com###ns-swipe
 baidu.com###tab_news_1
