@@ -130,6 +130,7 @@ m.autohome.com.cn##.wrapper>div[class*="6"]
 m.autohome.com.cn##.wrapper>div[class*="7"]
 m.autohome.com.cn##.wrapper>div[class*="8"]
 m.autohome.com.cn##.wrapper>div[class*="9"]
+m.autohome.com.cn##.wrapper>div[class*="0"]
 autohome.com.cn##nav>div>p
 m.autohome.com.cn###wrapper>header>p
 m.autohome.com.cn###recommend-envelope
