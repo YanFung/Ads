@@ -109,6 +109,7 @@ bbs.feng.com##.adsbygoogle
 bbs.feng.com##.posi-fixed-btn
 bbs.feng.com##.footerNav
 bbs.feng.com##img[src="http://cdn.image2.cloudmobi.net/manual/picture/xgsp/640/160.png"]
+bbs.feng.com##.discuz_index_ad
 ！多玩
 duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
