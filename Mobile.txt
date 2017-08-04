@@ -100,7 +100,7 @@ m.bilibili.com##.index__fullVideoHint__src-videoPage-player-
 m.bilibili.com##.index__upBtn__src-videoPage-topArea-
 m.bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
 !  youtube
-youtube.com##[class="_mamb _mrmb _msmb"]
+m.youtube.com##._mtob>._mgb>#koya_child_6
 ！威峰
 bbs.feng.com###nav
 bbs.feng.com##.floorHost
