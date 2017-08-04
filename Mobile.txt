@@ -120,9 +120,10 @@ m.toutiao.com##[data-tag="ad"]
 m.toutiao.com##.banner-top.news-banner-container-new-article
 m.toutiao.com##[class^="recommendation"]
 ！汽车之家
-||autohome.com.cn/risk_fp_log?
-||pcmx.autohome.com.cn/impress?
-||autohome.com.cn/news/js_resource/resource/commonfile?
+m.autohome.com.cn##section#wrapper>div
+m.autohome.com.cn##section.wrapper>div[class]>div
+m.autohome.com.cn##.wrapper>div:not([data-side-content])
+m.autohome.com.cn##.wrapper>div[data-side-content]>div
 autohome.com.cn##nav>div>p
 m.autohome.com.cn###wrapper>header>p
 m.autohome.com.cn###recommend-envelope
