@@ -173,6 +173,8 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||push.zhanzhang.baidu.com/push.js
 ||ad.
 */ad.
+*/ad_
+*/ad-
 */ad0$script
 */ad1$script
 */ad2$script
