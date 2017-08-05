@@ -167,7 +167,7 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||google-analytics.com/analytics.js
 ||cpro.baidustatic.com/cpro/ui/pr.js
 ||hm.baidu.com^$third-party
-api.baiyug.cn##[id^="\"]
+api.baiyug.cn##div:first-child > iframe:last-child
 ！视频站
 ||atm.youku.com^
 ||stat.youku.com^
