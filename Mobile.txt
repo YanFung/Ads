@@ -176,17 +176,6 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 */ad/$domain=~www.xingk.cc|~iqiyi.com
 */ad_
 */ad-
-*/ad0$script
-*/ad1$script
-*/ad2$script
-*/ad3$script
-*/adbox/
-||ads.
-*/ads.
-*/ads/
-*/adload.
-||adsense.
-*/adsense/
 ！视频站
 ||atm.youku.com^
 ||stat.youku.com^
