@@ -171,6 +171,9 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||hm.baidu.com^$third-party
 ||msg.71.am^
 ||push.zhanzhang.baidu.com/push.js
+||ad.
+*/ad.
+*/ad/$domain=~www.xingk.cc|~iqiyi.com
 */ad0$script
 */ad1$script
 */ad2$script
