@@ -70,6 +70,7 @@ iqiyi.com##.m-addToScreen
 m.iqiyi.com##.m-addDesk
 m.iqiyi.com###bottomNativePopup
 m.iqiyi.com##div.m-box-items.m-box-items-full > div.m-wl-entrance.m-wl-borderT
+m.iqiyi.com##[data-component="page.playMovie.component.ugcHotSearch"]
 ！优酷
 youku.com##[id="fullpromotion"]
 youku.com##[style="position: fixed; display: block;"]
