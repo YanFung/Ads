@@ -95,12 +95,24 @@ m.tv.sohu.com##.dl-top-banner
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 m.tv.sohu.com##.x-dl-shake.x-download-panel
+！乐视
+m.le.com###j-leappMore
+m.le.com###j-zhoubian
+m.le.com###j-recommend > .animate1.column_box
+m.le.com##.footer
+m.le.com##.leapp_btn
+m.le.com##.addDesktop
 ！哔哩哔哩
 m.bilibili.com##.index__cccBtn__src-home-topArea-
 m.bilibili.com##.index__cccTips__src-videoPage-player-
 m.bilibili.com##.index__fullVideoHint__src-videoPage-player-
 m.bilibili.com##.index__upBtn__src-videoPage-topArea-
 m.bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
+！土豆
+tudou.com##.td-h5__appguide
+tudou.com##.td-h5__appguide-fix
+tudou.com##.td-h5__appguide-fix
+tudou.com##.td-h5__player__appguide
 !  youtube
 m.youtube.com##._mtob>._mgb>#koya_child_6
 ！威峰
@@ -156,7 +168,7 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||cpro.baidustatic.com/cpro/ui/pr.js
 ||hm.baidu.com^$third-party
 ！视频站
-||atm.youku.com/
-||stat.youku.com/
+||atm.youku.com^
+||stat.youku.com^
 ||youku.com/compvlog?
 ||m.aty.sohu.com^
