@@ -170,10 +170,13 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||cpro.baidustatic.com/cpro/ui/pr.js
 ||hm.baidu.com^$third-party
 api.baiyug.cn##div:first-child > iframe:last-child
+||msg.71.am^
+||push.zhanzhang.baidu.com/push.js
 ！视频站
 ||atm.youku.com^
 ||stat.youku.com^
 ||youku.com/compvlog?
 ||m.aty.sohu.com^
 /adplayer.
-
+||msg.video.qiyi.com^
+||iqiyi.com/show2?$domain=m.iqiyi.com
