@@ -78,9 +78,6 @@ youku.com###Hold
 youku.com###vStars
 youku.com###Recommend,.shortVideo
 youku.com###Bigdrama,.iconPop
-||atm.youku.com/
-||stat.youku.com/
-||youku.com/compvlog?
 ！腾讯视频
 m.v.qq.com##[id$=_banner]
 m.v.qq.com##[id$="_clips"]
@@ -93,6 +90,11 @@ m.v.qq.com###vip_privilege
 m.v.qq.com###vip_activity
 m.v.qq.com##._banner.btn_open_v
 m.v.qq.com###vip_prevue
+！搜狐视频
+m.tv.sohu.com##.dl-top-banner
+m.tv.sohu.com##.btn-xz-app
+m.tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
+m.tv.sohu.com##.x-dl-shake.x-download-panel
 ！哔哩哔哩
 m.bilibili.com##.index__cccBtn__src-home-topArea-
 m.bilibili.com##.index__cccTips__src-videoPage-player-
@@ -153,3 +155,8 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||google-analytics.com/analytics.js
 ||cpro.baidustatic.com/cpro/ui/pr.js
 ||hm.baidu.com^$third-party
+！视频站
+||atm.youku.com/
+||stat.youku.com/
+||youku.com/compvlog?
+||m.aty.sohu.com^
