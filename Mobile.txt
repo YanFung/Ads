@@ -175,10 +175,7 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 */ad.
 */ad/$domain=~www.xingk.cc|~iqiyi.com
 */ad_
-*/ad0$script
-*/ad1$script
-*/ad2$script
-*/ad3$script
+*/ad-
 */adbox/
 ||ads.
 */ads.
