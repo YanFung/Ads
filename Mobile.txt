@@ -176,8 +176,8 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 */ad/$domain=~www.xingk.cc|~iqiyi.com
 */ad-
 */ad_
-*/ad-$domain=~baidu.com
-*/ad_$domain=~baidu.com
+@@||*/ad-$domain=baidu.com
+@@||*/ad_$domain=baidu.com
 */ad0$script
 */ad1$script
 */ad2$script
