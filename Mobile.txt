@@ -51,6 +51,7 @@ baidu.com##[id^="dia_"]
 ！汤不热
 tumblr.com##.mobile-banner-inner
 ！ys168网盘
+ys168.com###nnn > table
 ys168.com###zdy_wz0
 ！奇趣百科
 qiqu.uc.cn##.advertise
