@@ -18,6 +18,20 @@ baidu.com##[tpl="sigma_celebrity_rela"]
 baidu.com##[tpl="sd_imgs"]
 baidu.com##.se-ft-promlink
 baidu.com##.new-ux-recom-wrapper
+！百度知道
+zhidao.baidu.com##div[class$="-ecom-ads"]
+zhidao.baidu.com##.link
+zhidao.baidu.com##[class^="mm-content-box ndb"]
+zhidao.baidu.com###releatd-mavin-pagelet
+zhidao.baidu.com###people-concern-pagelet
+zhidao.baidu.com###p-relate-question > .question-line
+zhidao.baidu.com##.cur
+zhidao.baidu.com##.last.share.msg-link
+zhidao.baidu.com##.sz_ad_test_half.dl
+zhidao.baidu.com##div[class^="cvk"]
+zhidao.baidu.com##.w-top-ba-nner > a
+zhidao.baidu.com##.home-mod.home-app-promotion
+zhidao.baidu.com##.dl
 ！贴吧
 baidu.com###index-app-overlay
 baidu.com###index-tuijian-wrap
@@ -165,8 +179,18 @@ tiexue.net##a[href*="m.tiexue.net/game/jstt/"]
 tiexue.net###mainListContainer
 tiexue.net##.moneyBox
 tiexue.net##iframe[src*="//js.firefang.cn/"]
+！视频站
+||atm.youku.com^
+||stat.youku.com^
+||youku.com/compvlog?
+||m.aty.sohu.com^
+/adplayer.
+||msg.video.qiyi.com^
+||iqiyi.com/show2?$domain=m.iqiyi.com
+api.baiyug.cn##div:first-child > iframe:last-child
 ！通用
 ||google-analytics.com/analytics.js
+||pos.baidu.com^
 ||cpro.
 ||hm.baidu.com^$third-party
 ||msg.71.am^
@@ -179,6 +203,8 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 */ad2$script
 */ad3$script
 */adbox/
+/hunter/alog/
+/log.gif?
 ||ads.
 */ads.
 */ads/
@@ -199,12 +225,3 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||1133.cc^
 ||114so.cn/
 ||1234xm.com/
-！视频站
-||atm.youku.com^
-||stat.youku.com^
-||youku.com/compvlog?
-||m.aty.sohu.com^
-/adplayer.
-||msg.video.qiyi.com^
-||iqiyi.com/show2?$domain=m.iqiyi.com
-api.baiyug.cn##div:first-child > iframe:last-child
