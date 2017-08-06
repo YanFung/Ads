@@ -199,8 +199,8 @@ api.baiyug.cn##div:first-child > iframe:last-child
 */ad.
 */ad_
 */ad-
-@@||*/ad_$domain=tieba.com|wapp.baidu.com
-@@||*/ad-$domain=tieba.com|wapp.baidu.com
+*/ad_$domain=~tieba.com|~wapp.baidu.com
+*/ad-$domain=~tieba.com|~wapp.baidu.com
 */ad/$domain=~www.xingk.cc|~iqiyi.com
 */ad0$script
 */ad1$script
