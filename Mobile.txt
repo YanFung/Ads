@@ -120,6 +120,9 @@ m.le.com##.footer
 m.le.com##.leapp_btn
 m.le.com##.addDesktop
 !   芒果TV
+m.mgtv.com##.on.mg-app-open
+m.mgtv.com##.bottom-gap.v5-area-bar > .bd
+m.mgtv.com##.ft
 m.mgtv.com##.mg-apps-download
 m.mgtv.com##.add-desktop
 ！哔哩哔哩
