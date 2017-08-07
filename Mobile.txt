@@ -202,6 +202,9 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 api.baiyug.cn##div:first-child > iframe:last-child
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||mb.atm.youku.com^$script,domain=m.youku.com
+||mf.atm.youku.com^$script,domain=m.youku.com
+||v2html.atm.youku.com^$script,domain=m.youku.com
+||*.atm.youku.com^$script,domain=m.youku.com
 ！通用
 ||spcode.baidu.com^
 ||cb.baidu.com^
