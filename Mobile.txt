@@ -47,7 +47,6 @@ baidu.com###j_light_see_index,bottom-share-button
 baidu.com##.make_myreplyPrompt.make_prompt.j_make_prompt
 baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 baidu.com##.more_btn_package
-baidu.com###bottom-share-button
 baidu.com##[id^="dia_"]
 ！汤不热
 tumblr.com##.mobile-banner-inner
