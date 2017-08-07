@@ -119,6 +119,9 @@ m.le.com###j-recommend > .animate1.column_box
 m.le.com##.footer
 m.le.com##.leapp_btn
 m.le.com##.addDesktop
+!   芒果TV
+m.mgtv.com##.mg-apps-download
+m.mgtv.com##.add-desktop
 ！哔哩哔哩
 m.bilibili.com##.index__cccBtn__src-home-topArea-
 m.bilibili.com##.index__cccTips__src-videoPage-player-
