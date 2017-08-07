@@ -196,7 +196,8 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 api.baiyug.cn##div:first-child > iframe:last-child
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^$script,domain=m.youku.com
-||*/videos/other/*$domain=iqiyi.com
+||*.*.*.*/videos/other/*/*/*/*.ts?$domain=iqiyi.com
+||data/videos.iqiyi/.com/videos/other/*/*/*/*.ts?$domain=iqiyi.com
 ！通用
 ||spcode.baidu.com^
 ||cb.baidu.com^
