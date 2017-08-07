@@ -173,7 +173,6 @@ m.autohome.com.cn##.is-mobile
 m.autohome.com.cn###i3x1me
 m.autohome.com.cn###articletag_2
 m.autohome.com.cn##.fn-analyze-a
-m.autohome.com.cn###pinpzhuanqu > section.summary-brand.fn-mt
 ！铁血军情
 tiexue.net##a[href*="/wechat2"]
 tiexue.net##a[href*="m.3diche.com/?id="]
