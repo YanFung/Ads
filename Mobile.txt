@@ -194,14 +194,7 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||msg.video.qiyi.com^
 ||iqiyi.com/show2?$domain=m.iqiyi.com
 api.baiyug.cn##div:first-child > iframe:last-child
-www.mgtv.com##.on.footAd
-||click.hunantv.com/
-||da.hunantv.com/
-||da.mgtv.com/
-||res.hunantv.com/
-||res.mgtv.com/video/$object-subrequest
-||sdk.yunfan.com/crossdomain.xml
-||log.$domain=mgtv.com
+||x.da.mgtv.com^$script,domain=m.mgtv.com
 ！通用
 ||spcode.baidu.com^
 ||cb.baidu.com^
