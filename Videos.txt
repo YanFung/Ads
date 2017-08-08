@@ -1,42 +1,9 @@
 ! Version:2017/7/30/11:30
-! Title:uBlock Ads filter(china)
+! Title:Videos Ads
 ! Author:YanFung
-! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/uBlVideousVideosock.txt
+! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Videos.txt
 ！----------------------------------------
-! 贴吧
-tieba.baidu.com##.top-sec,.r-top-sec,.app_download_box,.aside_region,.tbui_fbar_nobottle,.tbui_fbar_refresh,.tbui_fbar_share
-tieba.baidu.com###spage-tbshare-container,#spage_liveshow_slide
-! 远景
-bbs.pcbeta.com##div#wp>style+div
-||www.pcbeta.com//data/cache/jquery.js
-bbs.pcbeta.com##[style="width:998px;height:75px;border:1px solid #cdcdcd;border-top:3px solid #009ad9;margin:0 0 10px 0;background:#fff;"]
-bbs.pcbeta.com##[style="padding:0 10px 10px;background:#d0dae5;"]
-! 威峰
-||znsv.baidu.com^$domain=feng.com
-bbs.feng.com##.lk.bm,.footer_wrap,#header,.section_panel,[class="wrap fl_row"],[style="display: block;background:#fff;box-shadow: 0 1px 3px #BCBCBC;margin: 0 auto 10px;padding: 10px 0 5px;overflow: hidden;text-align: center;"]
-! 卡饭
-bbs.kafan.cn##[class="comeing_box comeing_box_n"],[class="bm_c cl pbn"],[class="comeing_box comeing_box_d"]
-! 爱奇艺
-www.iqiyi.com##.mod_footer_links,.index-footer
-www.iqiyi.com###wnav-appdown,#widget-appdown-random1
-! 优酷
-www.youku.com##.g-nav-appdown,.g-footer,.yk-discovery
-||atm.youku.com^
-||stat.youku.com^
-||youku.com/compvlog?
-! 多玩
-duowan.com##.dw-mini-popup,.dw-comment-view-ctn,.video-col-tag2,.video-bot-col.video-col-tag,#video-des,aside,#v-alist-tip
-! 奇趣
-qiqu.uc.cn##.advertise
-qiqu.uc.cn##.closeAdvertise
-! 铁血
-bbs.tiexue.net##.xiaqi
-bbs.tiexue.net##.goushi
-www.tiexue.net##[style]>.main>div:nth-of-type(3)
-www.tiexue.net##[style]>.main>div:nth-of-type(5)
-www.tiexue.net##[style]>.main>.layout_3>.cel_3>div:nth-of-type(7)
-script=tiexue.net
-! 购物站
-www.taobao.com##.tbh-qr-wrapper
-www.jd.com###J_event,.mobile_static,.mobile_txt.dt
-
+||m.aty.sohu.com^
+||x.da.mgtv.com^$script,domain=m.mgtv.com
+||*.atm.youku.com^
+/adplayer.
