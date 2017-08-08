@@ -7,4 +7,4 @@
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
 /adplayer.
-/videos\/other/
+/videos/other/
