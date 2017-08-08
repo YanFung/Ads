@@ -150,6 +150,8 @@ bbs.feng.com##.discuz_index_ad
 ！多玩
 duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
+!  百域阁
+api.baiyug.cn##div:first-child > iframe:last-child
 ！今日头条
 m.toutiao.com##[style^="display"]
 m.toutiao.com##[class="icon-container"]
