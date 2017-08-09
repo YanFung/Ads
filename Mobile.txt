@@ -193,6 +193,12 @@ tiexue.net##a[href*="m.tiexue.net/game/jstt/"]
 tiexue.net###mainListContainer
 tiexue.net##.moneyBox
 tiexue.net##iframe[src*="//js.firefang.cn/"]
+! 视频站
+||m.aty.sohu.com^
+||x.da.mgtv.com^$script,domain=m.mgtv.com
+||*.atm.youku.com^
+/adplayer.
+/videos/other/
 ！通用
 ||spcode.baidu.com^
 ||cb.baidu.com^
