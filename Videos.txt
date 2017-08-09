@@ -8,4 +8,4 @@
 ||*.atm.youku.com^
 /adplayer.
 /videos/other/
-||cache.m.iqiyi.com^$script,domain=m.iqiyi.com
+||b.scorecardresearch.com/beacon.js$script,domain=m.iqiyi.com
