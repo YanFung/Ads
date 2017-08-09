@@ -8,4 +8,4 @@
 ||*.atm.youku.com^
 /adplayer.
 /videos/other/
-||static.qiyi.com/js/html5/js/page/playMovie/*app.js$script,domain=m.iqiyi.com
+||static.iqiyi.com/js/common/ares*.min.js$script,domain=m.iqiyi.com
