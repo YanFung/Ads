@@ -8,3 +8,4 @@
 ||*.atm.youku.com^
 /adplayer.
 /videos/other/
+||static.qiyi.com^$script,domain=m.iqiyi.com
