@@ -8,4 +8,4 @@
 ||*.atm.youku.com^
 /adplayer.
 /videos/other/
-||security.iqiyi.com/static/cook/v1/cooksdk.js$script,domain=m.iqiyi.com
+||cache.m.iqiyi.com^$script,domain=m.iqiyi.com
