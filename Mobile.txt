@@ -139,7 +139,7 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 !  youtube
-m.youtube.com##._mtob>._mgb>#koya_child_6
+||s.youtube.com/api/stats/
 ！威峰
 bbs.feng.com###nav
 bbs.feng.com##.floorHost
