@@ -7,5 +7,3 @@
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
 /adplayer.
-/videos/other/
-||b.scorecardresearch.com/beacon.js$script,domain=m.iqiyi.com
