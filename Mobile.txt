@@ -237,6 +237,5 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||1133.cc^
 ||114so.cn/
 ||1234xm.com/
-||cnzz.com
-||51gpt.com
-||cnzz.com
+||*.51gpt.com
+||*.cnzz.com
