@@ -58,6 +58,7 @@ ys168.com###zdy_wz0
 qiqu.uc.cn##.advertise
 qiqu.uc.cn##.closeAdvertise
 qiqu.uc.cn##div[class^="uuu"]
+||g.alicdn.com^$script,domain=qiqu.uc.cn
 ！糗事百科
 qiushibaike.com##.itemOther
 qiushibaike.com###u_main_href_DR
