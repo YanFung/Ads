@@ -185,6 +185,12 @@ m.autohome.com.cn##.fn-analyze-a
 m.autohome.com.cn###pinpzhuanqu > section.summary-brand.fn-mt
 ！铁血军情
 tiexue.net##a[href*=".junph."]
+m.tiexue.net##.titleDownT.mainWrap
+m.tiexue.net##script +.a_t_box
+m.tiexue.net##.mainWrap>#mainListContainer>div
+m.tiexue.net##body > a[href^="http://m.3diche.com/"]
+m.tiexue.net##a[href*="/wechat2/"]
+m.tiexue.net##a[href*="m.3diche.com/?id="]
 ！通用
 ||spcode.baidu.com
 ||cb.baidu.com
