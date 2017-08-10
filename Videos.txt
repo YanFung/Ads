@@ -7,4 +7,8 @@
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
 /adplayer.
-
+||msg.71.am^
+||msg.video.qiyi.com^
+||*.qiyipic.com/common/$object
+||*.sohu.com/api/labs/hotnews/c/load?
+/videos\/other/
