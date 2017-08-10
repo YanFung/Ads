@@ -12,3 +12,4 @@
 ||*.qiyipic.com/common/$object
 ||*.sohu.com/api/labs/hotnews/c/load?
 /videos\/other/
+||t7z.cupid.iqiyi.com
