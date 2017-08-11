@@ -40,6 +40,7 @@ baidu.com##.forum_recommend_c
 baidu.com##.fixed_bar
 baidu.com##.j_footer_link
 baidu.com##[class="ti_item j_click_stats"]
+baidu.com## .j_click_stats.list_item_wrapper
 baidu.com##.tl_shadow > .clearfix.ti_infos
 baidu.com###app-special,.top_ext_li
 baidu.com##.j_client_ghost_icon
