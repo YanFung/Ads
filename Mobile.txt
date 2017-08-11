@@ -195,9 +195,6 @@ tiexue.net##a[href*="m.tiexue.net/game/jstt/"]
 tiexue.net###mainListContainer
 tiexue.net##.moneyBox
 tiexue.net##iframe[src*="//js.firefang.cn/"]
-!  书点
-||me.cdwhmc.com^$domain=m.123du.cc
-m.123du.cc##div[style^="display:inline-block; margin:5px; padding:0 8px;"]
 ! 通用
 ||spcode.baidu.com
 ||cb.baidu.com
@@ -211,6 +208,7 @@ m.123du.cc##div[style^="display:inline-block; margin:5px; padding:0 8px;"]
 ||google-analytics.com/analytics.js
 ||cpro.
 ||hm.baidu.com
+||*.zxhymh.com
 ||msg.71.am
 ||push.zhanzhang.baidu.com/push.js
 ||ad.
