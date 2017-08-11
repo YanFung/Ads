@@ -195,9 +195,7 @@ tiexue.net##a[href*="m.tiexue.net/game/jstt/"]
 tiexue.net###mainListContainer
 tiexue.net##.moneyBox
 tiexue.net##iframe[src*="//js.firefang.cn/"]
-!  书站
-||me.cdwhmc.com/b8fe0e89fc/*.jpg$image
-！通用
+! 通用
 ||spcode.baidu.com
 ||cb.baidu.com
 ||cbjs.baidu.com
@@ -245,4 +243,3 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||*.51gpt.com
 ||*.cnzz.com
 ||1.xilu.com
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$third-party,xmlhttprequest
