@@ -243,3 +243,4 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||*.51gpt.com
 ||*.cnzz.com
 ||1.xilu.com
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$third-party,xmlhttprequest
