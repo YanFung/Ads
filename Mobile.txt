@@ -4,7 +4,7 @@
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ！----------------------------------------
 ！百度
-www.baidu.com###index-card>div[id]:not(.blank-frame):not(#header):not(#weather)
+www.baidu.com###index-card>div[id]:not([class]):not(#header):not(#weather):not(#center-content-1)
 ##.ads-item
 ||baidu.com/static/ecom/js/wise/home/nativeads_
 www.baidu.com###banner_call + div[id]
