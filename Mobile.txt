@@ -245,3 +245,5 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||*.51gpt.com
 ||*.cnzz.com
 ||1.xilu.com
+||*.24haitao.net
+
