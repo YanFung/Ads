@@ -4,20 +4,15 @@
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ！----------------------------------------
 ！百度
-baidu.com##div#page>style+div
-baidu.com##div.sf-frame>ul>div[id]
-baidu.com##div#index-card>div[style]
-baidu.com##.weather-outline
-baidu.com###ns-swipe
-baidu.com###tab_news_1
-baidu.com###bottom
+www.baidu.com###index-card>div[id]:not(#weather):not(#header):not(#bottom)
+www.baidu.com##div#page>style+div
+www.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
+www.baidu.com###banner_call + div[id]
 baidu.com##[id="page-tips"]
-baidu.com##[tpl="wise_ios_app_open"]
-baidu.com##[tpl="recommend_list"]
-baidu.com##[tpl="sigma_celebrity_rela"]
-baidu.com##[tpl="sd_imgs"]
-baidu.com##.se-ft-promlink
-baidu.com##.new-ux-recom-wrapper
+www.baidu.com##[tpl="wise_ios_app_open"]
+www.baidu.com##[tpl="recommend_list"]
+www.baidu.com##[tpl="sigma_celebrity_rela"]
+www.baidu.com##[tpl="sd_imgs"]
 ！百度知道
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
@@ -246,4 +241,5 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||*.cnzz.com
 ||1.xilu.com
 ||*.24haitao.net
-
+||sp*.baidu.com^*.gif?
+||imgstat.baidu.com^
