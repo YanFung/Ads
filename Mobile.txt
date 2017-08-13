@@ -257,3 +257,4 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||*.24haitao.net
 ||sp*.baidu.com^*.gif?
 ||imgstat.baidu.com^
+||*.pubbirdf.com^
