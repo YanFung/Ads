@@ -222,12 +222,6 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||adsense.
 */adsense/
 ||adserver.
-||changyan.$subdocument
-@@||g.alicdn.com/$script
-@@||g.tbcdn.cn/
-||g.$third-party,subdocument,script
-||gg.
-||ggg.
 ||spcode.baidu.com
 ||cb.baidu.com
 ||cbjs.baidu.com
