@@ -212,6 +212,7 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 */adload.
 ||adsense.
 */adsense/
+/hunter/alog/
 ||adserver.
 ||changyan.$subdocument
 @@||g.alicdn.com/$script
