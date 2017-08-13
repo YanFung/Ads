@@ -49,6 +49,8 @@ baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 baidu.com##.more_btn_package
 baidu.com##[id^="dia_"]
 baidu.com##.iSlider-wrapper-container-hot-thread
+!  百度图片
+image.baidu.com##.istextlink.ec_image_title_new
 ！汤不热
 tumblr.com##.mobile-banner-inner
 ！ys168网盘
@@ -212,7 +214,6 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 */adload.
 ||adsense.
 */adsense/
-/hunter/alog/
 ||adserver.
 ||changyan.$subdocument
 @@||g.alicdn.com/$script
