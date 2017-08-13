@@ -51,6 +51,12 @@ baidu.com##[id^="dia_"]
 baidu.com##.iSlider-wrapper-container-hot-thread
 !  百度图片
 image.baidu.com##.istextlink.ec_image_title_new
+!  百度文库
+wk.baidu.com##.addToHomescreenBtn
+wk.baidu.com##.topFc
+wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
+wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
+wk.baidu.com##.sf-edu-wenku-id-adwrap
 ！汤不热
 tumblr.com##.mobile-banner-inner
 ！ys168网盘
