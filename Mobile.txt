@@ -57,27 +57,6 @@ wk.baidu.com##.topFc
 wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
 wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
 wk.baidu.com##.sf-edu-wenku-id-adwrap
-！汤不热
-tumblr.com##.mobile-banner-inner
-！ys168网盘
-ys168.com###nnn > table
-ys168.com###zdy_wz0
-！奇趣百科
-qiqu.uc.cn##.advertise
-qiqu.uc.cn##.closeAdvertise
-qiqu.uc.cn##div[class^="uuu"]
-qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
-！糗事百科
-qiushibaike.com##.itemOther
-qiushibaike.com###u_main_href_DR
-qiushibaike.com##.adTop
-qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
-qiushibaike.com###gif-list-top
-qiushibaike.com##p[class="list-tips"]
-！微博
-m.weibo.cn##.tips
-！91直播
-m.91kds.com##.ui-first-child.ui-li.ui-li-has-arrow.ui-btn-icon-right.ui-btn-up-c.ui-btn
 ！爱奇艺
 iqiyi.com##.m-guide
 iqiyi.com##.header-app
@@ -148,6 +127,27 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 !  youtube
 m.youtube.com##._mgb>#koya_child_6
+！91直播
+m.91kds.com##.ui-first-child.ui-li.ui-li-has-arrow.ui-btn-icon-right.ui-btn-up-c.ui-btn
+！汤不热
+tumblr.com##.mobile-banner-inner
+！ys168网盘
+ys168.com###nnn > table
+ys168.com###zdy_wz0
+！奇趣百科
+qiqu.uc.cn##.advertise
+qiqu.uc.cn##.closeAdvertise
+qiqu.uc.cn##div[class^="uuu"]
+qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
+！糗事百科
+qiushibaike.com##.itemOther
+qiushibaike.com###u_main_href_DR
+qiushibaike.com##.adTop
+qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
+qiushibaike.com###gif-list-top
+qiushibaike.com##p[class="list-tips"]
+！微博
+m.weibo.cn##.tips
 ！威峰
 bbs.feng.com###nav
 bbs.feng.com##.floorHost
@@ -168,6 +168,9 @@ m.toutiao.com##[class="icon-container"]
 m.toutiao.com##[data-tag="ad"]
 m.toutiao.com##.banner-top.news-banner-container-new-article
 m.toutiao.com##[class^="recommendation"]
+!  少数派
+sspai.com##.is-shown.open-in-app-button
+||sspai.com/api/v1/advertisements?*=article_
 ！汽车之家
 m.autohome.com.cn##section#wrapper>div
 m.autohome.com.cn##section.wrapper>div[class]>div
