@@ -34,22 +34,7 @@ zhidao.baidu.com##.w-top-ba-nner > a
 zhidao.baidu.com##.home-mod.home-app-promotion
 zhidao.baidu.com##.dl
 ！贴吧
-baidu.com###index-app-overlay
-baidu.com###index-tuijian-wrap
-baidu.com##.appPromote
-baidu.com##.forum_recommend_c
-baidu.com##.fixed_bar
-baidu.com##.j_footer_link
-baidu.com##[class="ti_item j_click_stats"]
-baidu.com##.tl_shadow > .clearfix.ti_infos
-baidu.com###app-special,.top_ext_li
-baidu.com##.j_client_ghost_icon
-baidu.com###j_light_see_index,bottom-share-button
-baidu.com##.make_myreplyPrompt.make_prompt.j_make_prompt
-baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
-baidu.com##.more_btn_package
-baidu.com##[id^="dia_"]
-baidu.com##.iSlider-wrapper-container-hot-thread
+tieba.baidu.com##img[src*="tb1.bdstatic.com/tb/"]
 !  百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !  百度文库
