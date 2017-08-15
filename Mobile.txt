@@ -29,7 +29,7 @@ zhidao.baidu.com##.link
 zhidao.baidu.com##.cur
 ！贴吧
 baidu.com##.appPromote
-baidu.com##.fixed_bar_logo
+baidu.com##a.fixed_bar
 baidu.com###index-tuijian
 baidu.com###app-special
 baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
