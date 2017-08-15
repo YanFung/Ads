@@ -60,6 +60,7 @@ youku.com##.iconPop
 ！腾讯视频
 m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
+m.v.qq.com##div[_hot="minisbanner"]
 ！搜狐视频
 m.tv.sohu.com##.dl-top-banner
 m.tv.sohu.com##.btn-xz-app
