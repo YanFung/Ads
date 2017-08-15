@@ -132,6 +132,15 @@ api.baiyug.cn##div:first-child > iframe:last-child
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
+!  凤凰网
+||*.ifengimg.com^*/sta_collection
+||*.ifeng.com/client_share_bottom_
+||*.ifengimg.com/p/ax_
+||*.ifeng.com*/wapifeng
+||*.fcai.com/ifengindex.html
+ifeng.com###swiper_bottom
+ifeng.com##.luckybag
+ifeng.com##.pullClient
 ! 今日头条
 toutiao.com##.article_link[data-tag="ad"]
 toutiao.com##.banner-top
@@ -175,6 +184,7 @@ tiexue.net###mainListContainer
 ||push.zhanzhang.baidu.com/push.js
 ||*.sogoucdn.com/wap/js/
 ||google-analytics.com/analytics.js
+||*.jd.com/exsites?spread_type=
 ||*.zxhymh.com
 ||ad.
 ||000dn.com/
