@@ -66,14 +66,12 @@ iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com###bottomNativePopup
 iqiyi.com##div[id^="100000"]
 ！优酷
-youku.com##[id="fullpromotion"]
-youku.com##[style="position: fixed; display: block;"]
-youku.com###sideBar,[class="vo-link"]
-youku.com##[style^="color"]
-youku.com###Hold
-youku.com###vStars
-youku.com###Recommend,.shortVideo
-youku.com###Bigdrama,.iconPop
+||*.youku.com/video/js/yksmartbanner.
+youku.com###J_banner
+youku.com###Recommend
+youku.com##.clearfix.cmt-more
+youku.com###Bigdrama
+youku.com##.iconPop
 ！腾讯视频
 m.v.qq.com##[id$=_banner]
 m.v.qq.com##[id$="_clips"]
