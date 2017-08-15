@@ -100,7 +100,6 @@ tumblr.com##.mobile-banner-inner
 ys168.com###nnn > table
 ys168.com###zdy_wz0
 ! 奇趣百科
-||qiqu.uc.cn/qiqu//uc-share-sdk_*.js$script,domain=qiqu.uc.cn
 qiqu.uc.cn##.advertise
 qiqu.uc.cn##.closeAdvertise
 qiqu.uc.cn##div[class^="uuu"]
