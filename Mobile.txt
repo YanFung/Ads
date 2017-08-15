@@ -6,6 +6,8 @@
 ！百度
 ||*.baidu.com/static/ecom/js/wise/home/nativeads_
 www.baidu.com###index-card>div[style]
+www.baidu.com##.weather-outline
+www.baidu.com###ns-swipe
 ！百度知道
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
