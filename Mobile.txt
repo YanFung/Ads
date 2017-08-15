@@ -1,4 +1,4 @@
-! Version:2017/8/5/  11:30
+! Version:2017/8/15/  11:30
 ! Title:Mobile Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
@@ -149,14 +149,11 @@ qiushibaike.com##p[class="list-tips"]
 ！微博
 m.weibo.cn##.tips
 ！威峰
+||yes1.feng.com^
 bbs.feng.com###nav
-bbs.feng.com##.floorHost
-bbs.feng.com##.comments_downLoad
-bbs.feng.com##.adsbygoogle
 bbs.feng.com##.posi-fixed-btn
+bbs.feng.com##.comments_downLoad
 bbs.feng.com##.footerNav
-bbs.feng.com##img[src="http://cdn.image2.cloudmobi.net/manual/picture/xgsp/640/160.png"]
-bbs.feng.com##.discuz_index_ad
 ！多玩
 duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
