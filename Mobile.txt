@@ -138,6 +138,9 @@ bbs.tianya.cn##.rec-app
 ||*.ifengimg.com/p/ax_
 ||*.ifeng.com*/wapifeng
 ||*.fcai.com/ifengindex.html
+||*.ifengimg.com/a/o.js
+||stadig.ifeng.com^
+||*.ifengimg.com/w702_h371/
 ifeng.com###swiper_bottom
 ifeng.com##.luckybag
 ifeng.com##.pullClient
