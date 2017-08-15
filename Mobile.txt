@@ -132,18 +132,6 @@ api.baiyug.cn##div:first-child > iframe:last-child
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
-!  凤凰网
-||*.ifengimg.com^*/sta_collection
-||*.ifeng.com/client_share_bottom_
-||*.ifengimg.com/p/ax_
-||*.ifeng.com*/wapifeng
-||*.fcai.com/ifengindex.html
-||*.ifengimg.com/a/o.js
-||stadig.ifeng.com^
-||*.ifengimg.com/w702_h371/
-ifeng.com###swiper_bottom
-ifeng.com##.luckybag
-ifeng.com##.pullClient
 ! 今日头条
 toutiao.com##.article_link[data-tag="ad"]
 toutiao.com##.banner-top
@@ -170,6 +158,7 @@ tiexue.net###mainListContainer
 ! 通用
 |http:$third-party,script,domain=lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
 ##.ads-item
+&ad_ids=
 /adstatic/
 */adsense/
 /__utm.gif
