@@ -5,7 +5,7 @@
 ！----------------------------------------
 ！百度
 ||*.baidu.com/static/ecom/js/wise/home/nativeads_
-www.baidu.com###index-card > div[style]:not([style="min-height: 600px;"]):not([style="height: 248px"])
+www.baidu.com###index-card>div[style]
 ！百度知道
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
