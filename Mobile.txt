@@ -153,7 +153,6 @@ m.weibo.cn##.tips
 bbs.feng.com###nav
 bbs.feng.com##.posi-fixed-btn
 bbs.feng.com##.comments_downLoad
-bbs.feng.com##.footerNav
 ！多玩
 duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
