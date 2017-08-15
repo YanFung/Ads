@@ -127,7 +127,7 @@ api.baiyug.cn##div:first-child > iframe:last-child
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
 !  网易新闻
-||163.com*/special/*_ad_
+||*.163.com*/special/*_ad_
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
