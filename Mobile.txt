@@ -163,11 +163,11 @@ duowan.cn#play-video-list
 !  百域阁
 api.baiyug.cn##div:first-child > iframe:last-child
 ！今日头条
-m.toutiao.com##[style^="display"]
-m.toutiao.com##[class="icon-container"]
-m.toutiao.com##[data-tag="ad"]
-m.toutiao.com##.banner-top.news-banner-container-new-article
-m.toutiao.com##[class^="recommendation"]
+toutiao.com##.article_link[data-tag="ad"]
+toutiao.com##.banner-top
+||*.toutiao.com^*/ad/
+toutiao.com##.icon-container
+toutiao.com##.recommendation-item
 !  少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
@@ -193,23 +193,9 @@ tiexue.net##.moneyBox
 tiexue.net##iframe[src*="//js.firefang.cn/"]
 ! 通用
 |http:$third-party,script,domain=lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
-*/ad.
-*/ad/$domain=~www.xingk.cc|~iqiyi.com
-*/ad0$script
-*/ad1$script
-*/ad2$script
-*/ad3$script
-*/adbox/
-/hunter/alog/
-/log.gif?
-##.ads-item
-||ads.
-*/ads.
-*/ads/
-*/adload.
-||adsense.
+/adstatic/
 */adsense/
-||adserver.
+/__utm.gif
 ||spcode.baidu.com
 ||cb.baidu.com
 ||cbjs.baidu.com
@@ -217,16 +203,16 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||drmcmm.baidu.com
 ||eiv.baidu.com
 ||pos.baidu.com
+||cpu.baidu.com
+||hm.baidu.com
+||push.zhanzhang.baidu.com/push.js
 ||*.sogoucdn.com/wap/js/
 ||mobads.baidu.com
 ||google-analytics.com/analytics.js
 ||cpro.
-||hm.baidu.com
 ||*.zxhymh.com
 ||msg.71.am
-||push.zhanzhang.baidu.com/push.js
 ||ad.
-||cpu.baidu.com
 ||000dn.com/
 ||00oo00.com
 ||025suyu.com/
@@ -241,3 +227,5 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||sp*.baidu.com^*.gif?
 ||imgstat.baidu.com^
 ||*.pubbirdf.com^
+||*.pstatp.com/growth/mobile_list/image/bonus_
+||*.pstatp.com^*/bannersdk/
