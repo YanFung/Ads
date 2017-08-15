@@ -116,6 +116,8 @@ qiushibaike.com##p[class="list-tips"]
 m.weibo.cn##.m-container-max.tips
 m.weibo.cn##.appTips
 ! 威峰
+||static.geetest.com/static/
+||bbs.feng.com/plugin.php
 ||yes1.feng.com^
 bbs.feng.com###nav
 bbs.feng.com##.posi-fixed-btn
