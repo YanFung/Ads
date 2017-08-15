@@ -2,8 +2,8 @@
 ! Title:Mobile Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
-！----------------------------------------
-！百度
+! ----------------------------------------
+! 百度
 ||*.baidu.com/static/ecom/js/wise/home/nativeads_
 baidu.com##div#page>style+div
 baidu.com##div.sf-frame>ul>div[id]
@@ -19,7 +19,7 @@ baidu.com##[tpl="sigma_celebrity_rela"]
 baidu.com##[tpl="sd_imgs"]
 baidu.com##.se-ft-promlink
 baidu.com##.new-ux-recom-wrapper
-！百度知道
+! 百度知道
 zhidao.baidu.com##.home-app-promotion
 zhidao.baidu.com##.wm-wrapper.pannel
 zhidao.baidu.com##.w-search-zhidao.w-search-app-download
@@ -27,7 +27,7 @@ zhidao.baidu.com##.new-search-relate
 zhidao.baidu.com###main-content > div[class]:first-child > a
 zhidao.baidu.com##.link
 zhidao.baidu.com##.cur
-！贴吧
+! 贴吧
 baidu.com##.appPromote
 baidu.com##a.fixed_bar
 baidu.com###index-tuijian
@@ -42,7 +42,7 @@ wk.baidu.com##.topFc
 wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
 wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
 wk.baidu.com##.sf-edu-wenku-id-adwrap
-！爱奇艺
+! 爱奇艺
 ||msg.video.qiyi.com^
 ||msg.71.am^
 iqiyi.com##.po-fixed.m-guide
@@ -50,80 +50,80 @@ iqiyi.com##.header-app
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com###bottomNativePopup
 iqiyi.com##div[id^="100000"]
-！优酷
+! 优酷
 ||*.youku.com/video/js/yksmartbanner.
 youku.com###J_banner
 youku.com###Recommend
 youku.com##.clearfix.cmt-more
 youku.com###Bigdrama
 youku.com##.iconPop
-！腾讯视频
+! 腾讯视频
 m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
 m.v.qq.com##div[_hot="minisbanner"]
-！搜狐视频
+! 搜狐视频
 m.tv.sohu.com##.dl-top-banner
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 m.tv.sohu.com##.x-dl-shake.x-download-panel
-！乐视
+! 乐视
 m.le.com###j-leappMore
 m.le.com###j-zhoubian
 m.le.com###j-recommend > .animate1.column_box
 m.le.com##.footer
 m.le.com##.leapp_btn
 m.le.com##.addDesktop
-!   芒果TV
+!  芒果TV
 m.mgtv.com##.on.mg-app-open
 m.mgtv.com##.bottom-gap.v5-area-bar > .bd
 m.mgtv.com##.ft
 m.mgtv.com##.mg-apps-download
 m.mgtv.com##.add-desktop
-！哔哩哔哩
+! 哔哩哔哩
 m.bilibili.com##.index__cccBtn__src-home-topArea-
 m.bilibili.com##.index__cccTips__src-videoPage-player-
 m.bilibili.com##.index__fullVideoHint__src-videoPage-player-
 m.bilibili.com##.index__upBtn__src-videoPage-topArea-
 m.bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
-！土豆
+! 土豆
 tudou.com##.td-h5__appguide
 tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 !  youtube
 m.youtube.com##._mgb>#koya_child_6
-！91直播
+! 91直播
 m.91kds.com##.ui-first-child.ui-li.ui-li-has-arrow.ui-btn-icon-right.ui-btn-up-c.ui-btn
-！汤不热
+! 汤不热
 tumblr.com##.mobile-banner-inner
-！ys168网盘
+! ys168网盘
 ys168.com###nnn > table
 ys168.com###zdy_wz0
-！奇趣百科
+! 奇趣百科
 qiqu.uc.cn##.advertise
 qiqu.uc.cn##.closeAdvertise
 qiqu.uc.cn##div[class^="uuu"]
 qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
-！糗事百科
+! 糗事百科
 qiushibaike.com##.itemOther
 qiushibaike.com###u_main_href_DR
 qiushibaike.com##.adTop
 qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
 qiushibaike.com###gif-list-top
 qiushibaike.com##p[class="list-tips"]
-！微博
+! 微博
 m.weibo.cn##.tips
-！威峰
+! 威峰
 ||yes1.feng.com^
 bbs.feng.com###nav
 bbs.feng.com##.posi-fixed-btn
 bbs.feng.com##.comments_downLoad
-！多玩
+! 多玩
 duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
 !  百域阁
 api.baiyug.cn##div:first-child > iframe:last-child
-！今日头条
+! 今日头条
 toutiao.com##.article_link[data-tag="ad"]
 toutiao.com##.banner-top
 ||*.toutiao.com^*/ad/
@@ -132,7 +132,7 @@ toutiao.com##.recommendation-item
 !  少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
-！汽车之家
+! 汽车之家
 ||*.autohome.com.cn/risk_fp_log?
 ||pcmx.autohome.com.cn/impress?
 ||*.autohome.com.cn/news/js_resource/resource/commonfile?
@@ -140,7 +140,7 @@ sspai.com##.is-shown.open-in-app-button
 m.autohome.com.cn###s2205
 m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
-！铁血军情
+! 铁血军情
 tiexue.net##a[href*=".junph."]
 tiexue.net##[href*="wechat"]
 tiexue.net##a[href*="m.3diche.com/?id="]
