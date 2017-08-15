@@ -39,6 +39,7 @@ tieba.baidu.com,wapp.baidu.com##.fixed_bar_logo
 tieba.baidu.com,wapp.baidu.com###index-tuijian
 tieba.baidu.com,wapp.baidu.com###app-special
 tieba.baidu.com,wapp.baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
+tieba.baidu.com,wapp.baidu.com##.iSlider-wrapper-container-hot-thread
 !  百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !  百度文库
