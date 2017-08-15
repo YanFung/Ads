@@ -180,17 +180,9 @@ m.autohome.com.cn###s2205
 m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
 ！铁血军情
-tiexue.net##a[href*="/wechat2"]
+tiexue.net##a[href*=".junph."]
+tiexue.net##[href*="wechat"]
 tiexue.net##a[href*="m.3diche.com/?id="]
-tiexue.net##[style="position: relative; width: 100%; height: 96px;"]
-tiexue.net##[style="position:relative;width:100%;height:96px;"]
-tiexue.net##[id^="BAIDU_SSP__wrapper_"]
-tiexue.net##[class*="baidu"]
-tiexue.net##iframe[src*="pos.baidu.com/s"]
-tiexue.net##a[href*="m.tiexue.net/game/jstt/"]
-tiexue.net###mainListContainer
-tiexue.net##.moneyBox
-tiexue.net##iframe[src*="//js.firefang.cn/"]
 ! 通用
 |http:$third-party,script,domain=lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com
 /adstatic/
@@ -229,3 +221,4 @@ tiexue.net##iframe[src*="//js.firefang.cn/"]
 ||*.pubbirdf.com^
 ||*.pstatp.com/growth/mobile_list/image/bonus_
 ||*.pstatp.com^*/bannersdk/
+||*.firefang.cn^
