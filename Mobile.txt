@@ -21,6 +21,9 @@ baidu.com##.se-ft-promlink
 baidu.com##.new-ux-recom-wrapper
 ！百度知道
 baidu.com##.home-app-promotion
+zhidao.baidu.com##.wm-wrapper.pannel
+zhidao.baidu.com##.w-search-zhidao.w-search-app-download
+zhidao.baidu.com##.new-search-relate
 ！贴吧
 baidu.com##.appPromote
 baidu.com##.fixed_bar_logo
