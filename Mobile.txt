@@ -58,23 +58,13 @@ wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
 wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
 wk.baidu.com##.sf-edu-wenku-id-adwrap
 ！爱奇艺
-iqiyi.com##.m-guide
+||msg.video.qiyi.com^
+||msg.71.am^
+iqiyi.com##.po-fixed.m-guide
 iqiyi.com##.header-app
-iqiyi.com##.m-imgicon-list
-iqiyi.com##[data-tag-name="应用推荐"]
-iqiyi.com##.c-btn-block-lxx.c-btn-block
-iqiyi.com##.m-box-bottom.m-box
-iqiyi.com##.m-ipRelation
-iqiyi.com##[glue-component="page.playMovie.component.wonderful"]
-iqiyi.com##[data-component="page.playMovie.component.soundtrack"]
-iqiyi.com##[data-component="page.playMovie.component.recommend"]
-iqiyi.com##[data-component="page.bubble.component.playJoiner"]
-iqiyi.com##[class="m-video-extendBar"]
-iqiyi.com##.m-addToScreen
-m.iqiyi.com##.m-addDesk
-m.iqiyi.com###bottomNativePopup
-m.iqiyi.com##div.m-box-items.m-box-items-full > div.m-wl-entrance.m-wl-borderT
-m.iqiyi.com##[data-component="page.playMovie.component.ugcHotSearch"]
+iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
+iqiyi.com###bottomNativePopup
+iqiyi.com##div[id^="100000"]
 ！优酷
 youku.com##[id="fullpromotion"]
 youku.com##[style="position: fixed; display: block;"]
@@ -201,7 +191,6 @@ tiexue.net###mainListContainer
 ||google-analytics.com/analytics.js
 ||cpro.
 ||*.zxhymh.com
-||msg.71.am
 ||ad.
 ||000dn.com/
 ||00oo00.com
