@@ -34,12 +34,12 @@ zhidao.baidu.com##.w-top-ba-nner > a
 zhidao.baidu.com##.home-mod.home-app-promotion
 zhidao.baidu.com##.dl
 ！贴吧
-tieba.baidu.com,wapp.baidu.com##.appPromote
-tieba.baidu.com,wapp.baidu.com##.fixed_bar_logo
-tieba.baidu.com,wapp.baidu.com###index-tuijian
-tieba.baidu.com,wapp.baidu.com###app-special
-tieba.baidu.com,wapp.baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
-tieba.baidu.com,wapp.baidu.com##.iSlider-wrapper-container-hot-thread
+baidu.com##.appPromote
+baidu.com##.fixed_bar_logo
+baidu.com###index-tuijian
+baidu.com###app-special
+baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
+baidu.com##.iSlider-wrapper-container-hot-thread
 !  百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !  百度文库
