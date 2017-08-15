@@ -172,12 +172,12 @@ m.toutiao.com##[class^="recommendation"]
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
 ！汽车之家
-||x.autoimg.cn/m/news/images/envelope_1.png$image
 ||*.autohome.com.cn/risk_fp_log?
 ||pcmx.autohome.com.cn/impress?
 ||*.autohome.com.cn/news/js_resource/resource/commonfile?
 ||*.autoimg.cn/bi/mda/ahas_body.
 m.autohome.com.cn###s2205
+m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
 ！铁血军情
 tiexue.net##a[href*="/wechat2"]
