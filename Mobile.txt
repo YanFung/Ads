@@ -123,6 +123,9 @@ duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
 !  百域阁
 api.baiyug.cn##div:first-child > iframe:last-child
+!  天涯
+||dol.tianya.cn/s?z=tianya&
+bbs.tianya.cn##.rec-app
 ! 今日头条
 toutiao.com##.article_link[data-tag="ad"]
 toutiao.com##.banner-top
