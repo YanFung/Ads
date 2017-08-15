@@ -172,28 +172,6 @@ m.toutiao.com##[class^="recommendation"]
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
 ！汽车之家
-m.autohome.com.cn##section#wrapper>div
-m.autohome.com.cn##section.wrapper>div[class]>div
-m.autohome.com.cn##.wrapper>div:not([data-side-content])
-m.autohome.com.cn##.wrapper>div[data-side-content]>div
-autohome.com.cn##nav>div>p
-m.autohome.com.cn###wrapper>header>p
-m.autohome.com.cn###recommend-envelope
-m.autohome.com.cn##.myAppendList3
-m.autohome.com.cn###mall
-m.autohome.com.cn##[id^=data-modelid-sale]
-m.autohome.com.cn##[class="adv04 fn-mt fn-mlr mark-hide"]
-m.autohome.com.cn##.is-mobile.ad-tpl-img
-m.autohome.com.cn##.recommend-headline
-m.autohome.com.cn##div[id] > .fn-analyze-a
-m.autohome.com.cn##div[id] > .is-mobile
-m.autohome.com.cn##.myAppendList4
-m.autohome.com.cn##.entrance
-m.autohome.com.cn##.is-mobile
-m.autohome.com.cn###i3x1me
-m.autohome.com.cn###articletag_2
-m.autohome.com.cn##.fn-analyze-a
-m.autohome.com.cn###pinpzhuanqu > section.summary-brand.fn-mt
 ！铁血军情
 tiexue.net##a[href*="/wechat2"]
 tiexue.net##a[href*="m.3diche.com/?id="]
