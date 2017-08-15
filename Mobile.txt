@@ -24,8 +24,9 @@ baidu.com##.home-app-promotion
 zhidao.baidu.com##.wm-wrapper.pannel
 zhidao.baidu.com##.w-search-zhidao.w-search-app-download
 zhidao.baidu.com##.new-search-relate
-zhidao.baidu.com###main-content > DIV[class]:first-child > a
+zhidao.baidu.com###main-content > div[class]:first-child > a
 zhidao.baidu.com##.link
+zhidao.baidu.com#@##respect-footer
 ！贴吧
 baidu.com##.appPromote
 baidu.com##.fixed_bar_logo
