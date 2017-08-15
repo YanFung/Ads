@@ -128,6 +128,7 @@ api.baiyug.cn##div:first-child > iframe:last-child
 ||images.sohu.com/bill/
 !  网易新闻
 ||*.163.com*/special/*_ad_
+3g.163.com##.doc-footer-wrapper
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
