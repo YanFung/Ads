@@ -20,19 +20,7 @@ baidu.com##[tpl="sd_imgs"]
 baidu.com##.se-ft-promlink
 baidu.com##.new-ux-recom-wrapper
 ！百度知道
-zhidao.baidu.com##div[class$="-ecom-ads"]
-zhidao.baidu.com##.link
-zhidao.baidu.com##[class^="mm-content-box ndb"]
-zhidao.baidu.com###releatd-mavin-pagelet
-zhidao.baidu.com###people-concern-pagelet
-zhidao.baidu.com###p-relate-question > .question-line
-zhidao.baidu.com##.cur
-zhidao.baidu.com##.last.share.msg-link
-zhidao.baidu.com##.sz_ad_test_half.dl
-zhidao.baidu.com##div[class^="cvk"]
-zhidao.baidu.com##.w-top-ba-nner > a
-zhidao.baidu.com##.home-mod.home-app-promotion
-zhidao.baidu.com##.dl
+baidu.com##.home-app-promotion
 ！贴吧
 baidu.com##.appPromote
 baidu.com##.fixed_bar_logo
