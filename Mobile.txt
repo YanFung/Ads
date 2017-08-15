@@ -112,7 +112,8 @@ qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
 qiushibaike.com###gif-list-top
 qiushibaike.com##p[class="list-tips"]
 ! 微博
-m.weibo.cn##.tips
+m.weibo.cn##.m-container-max.tips
+m.weibo.cn##.appTips
 ! 威峰
 ||yes1.feng.com^
 bbs.feng.com###nav
