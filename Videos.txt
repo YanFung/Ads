@@ -7,8 +7,4 @@
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
 /adplayer.
-/videos\/other/
-||mixer.video.iqiyi.com/jp/mixin/resources/
-||*.iqiyi.com/js/pingback/
-||*/beacon.js
-||b.scorecardresearch.com/beacon.js
+
