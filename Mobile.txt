@@ -124,7 +124,7 @@ duowan.cn##.swiper-container.da-container
 duowan.cn#play-video-list
 !  VIP解析网
 api.baiyug.cn##div:first-child > iframe:last-child
-||s.xz15801.com/y.js$domain=api.47ks.com
+||s.xz15801.com/y.js
 !  搜狐新闻
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
