@@ -10,4 +10,5 @@
 /videos\/other/
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||*.iqiyi.com/js/pingback/
-/beacon.js
+||*/beacon.js
+||b.scorecardresearch.com/beacon.js
