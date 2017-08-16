@@ -10,3 +10,4 @@
 /videos\/other/
 ||mixer.video.iqiyi.com/jp/mixin/resources/
 ||*.iqiyi.com/js/pingback/
+/beacon.js
