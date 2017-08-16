@@ -146,6 +146,8 @@ toutiao.com##.recommendation-item
 !  少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
+!   爱范儿
+ifanr.com##.popup-app-download
 ! 汽车之家
 ||*.autohome.com.cn/risk_fp_log?
 ||pcmx.autohome.com.cn/impress?
