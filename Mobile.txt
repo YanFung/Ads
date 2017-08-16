@@ -43,8 +43,8 @@ wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
 wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
 wk.baidu.com##.sf-edu-wenku-id-adwrap
 ! 爱奇艺
-||msg.video.qiyi.com^
-||msg.71.am^
+||msg.video.qiyi.com
+||msg.71.am
 iqiyi.com##.po-fixed.m-guide
 iqiyi.com##.header-app
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
