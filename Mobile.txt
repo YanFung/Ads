@@ -130,8 +130,9 @@ api.baiyug.cn##div:first-child > iframe:last-child
 !  网易新闻
 ||*.163.com*/special/*_ad_
 3g.163.com##.doc-footer-wrapper
-||g.163.com/ur?site=netease&affiliate=
 ||g.163.com/*&affiliate=
+3g.163.com##[class="m_pbpb_m0 m_pbpb pbpb-item clearfix"]
+3g.163.com##.home_packet.ne_rps
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
