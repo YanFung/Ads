@@ -7,3 +7,6 @@
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
 /adplayer.
+/videos\/other/
+||mixer.video.iqiyi.com/jp/mixin/resources/
+||*.iqiyi.com/js/pingback/
