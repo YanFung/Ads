@@ -100,8 +100,6 @@ m.huya.com###down_div
 m.huya.com##.chat_btn
 m.huya.com###iosQuickLink
 m.huya.com##.u-btn-down.info_down_load_banner
-! 91直播
-m.91kds.com##.ui-first-child.ui-li.ui-li-has-arrow.ui-btn-icon-right.ui-btn-up-c.ui-btn
 ! 汤不热
 tumblr.com##.mobile-banner-inner
 ! ys168网盘
