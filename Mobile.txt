@@ -169,6 +169,10 @@ tiexue.net###mainListContainer
 |http:$third-party,script,domain=lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com|btlibrary.pw
 ##.bottom-adv
 ##.ads-item
+##a[href*="/?intr="]
+##a[href*=".com/Register/?a="]
+##a[href*=".com/?p="] > img[src$=".gif"]
+##a[href*=".com/?Extend="]
 &ad_ids=
 /adstatic/
 */adsense/
