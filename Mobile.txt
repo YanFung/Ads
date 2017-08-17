@@ -106,6 +106,8 @@ qiqu.uc.cn##div[class^="uuu"]
 qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
 ! 糗事百科
 ||becode.qiushibaike.com
+qiushibaike.com###gif-list-top
+qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
 ! 微博
 m.weibo.cn##.m-container-max.tips
 m.weibo.cn##.appTips
@@ -184,6 +186,7 @@ tiexue.net###mainListContainer
 ||000dn.com/
 ||00oo00.com
 ||025suyu.com/
+||*.12365chia.com
 ||0xxd.com
 ||1133.cc
 ||114so.cn/
