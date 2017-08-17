@@ -105,12 +105,7 @@ qiqu.uc.cn##.closeAdvertise
 qiqu.uc.cn##div[class^="uuu"]
 qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
 ! 糗事百科
-qiushibaike.com##.itemOther
-qiushibaike.com###u_main_href_DR
-qiushibaike.com##.adTop
-qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
-qiushibaike.com###gif-list-top
-qiushibaike.com##p[class="list-tips"]
+||becode.qiushibaike.com
 ! 微博
 m.weibo.cn##.m-container-max.tips
 m.weibo.cn##.appTips
