@@ -92,6 +92,12 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 !  youtube
 m.youtube.com##._mgb>#koya_child_6
+!  熊猫直播
+m.panda.tv###tip-download
+m.panda.tv##.btn-download
+!  虎牙直播
+m.huya.com###down_div
+m.huya.com##.chat_btn
 ! 91直播
 m.91kds.com##.ui-first-child.ui-li.ui-li-has-arrow.ui-btn-icon-right.ui-btn-up-c.ui-btn
 ! 汤不热
