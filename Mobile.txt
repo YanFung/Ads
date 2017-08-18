@@ -81,9 +81,8 @@ m.mgtv.com##.mg-apps-download
 m.mgtv.com##.add-desktop
 ! 哔哩哔哩
 m.bilibili.com##.index__cccBtn__src-home-topArea-
-m.bilibili.com##.index__cccTips__src-videoPage-player-
-m.bilibili.com##.index__fullVideoHint__src-videoPage-player-
 m.bilibili.com##.index__upBtn__src-videoPage-topArea-
+m.bilibili.com##.index__cccTips__src-videoPage-player-
 m.bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
 ! 土豆
 tudou.com##.td-h5__appguide
