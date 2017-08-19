@@ -6,6 +6,4 @@
 ||m.aty.sohu.com^
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
-/variety.tc.qq.com/*.mp4?vkey=
-/vlive.qqvideo.tc.qq.com/*.mp4?vkey=
-/videos/other/
+/*.tc.qq.com/*.mp4?vkey=
