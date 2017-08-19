@@ -4,6 +4,6 @@
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Videos.txt
 !----------------------------------------
 ||m.aty.sohu.com^
-||x.da.mgtv.com^$script,domain=m.mgtv.com
+||*.mgtv.com^
 ||*.atm.youku.com^
 /*.tc.qq.com/*.mp4?vkey=
