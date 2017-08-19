@@ -7,4 +7,5 @@
 ||x.da.mgtv.com^$script,domain=m.mgtv.com
 ||*.atm.youku.com^
 /adplayer.
-
+/variety.tc.qq.com/*.mp4?vkey=
+/vlive.qqvideo.tc.qq.com/*.mp4?vkey=
