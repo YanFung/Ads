@@ -196,8 +196,6 @@ www.ajswww.com##[id^="ALayer"]
 ||*.jd.com/exsites?spread_type=
 ||*.zxhymh.com
 ||ad.
-||*.sinaimg.cn/*
-@@||h5.sinaimg.cn/*
 ||000dn.com/
 ||00oo00.com
 ||025suyu.com/
