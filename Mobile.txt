@@ -114,7 +114,6 @@ qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
 qiushibaike.com###gif-list-top
 qiushibaike.com##[style="margin-left: -10px; margin-bottom: 0;"]
 ! 微博
-m.weibo.cn##.m-container-max.tips
 ! 威峰
 ||yes1.feng.com^
 bbs.feng.com###nav
