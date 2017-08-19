@@ -8,5 +8,4 @@
 ||*.atm.youku.com^
 /variety.tc.qq.com/*.mp4?vkey=
 /vlive.qqvideo.tc.qq.com/*.mp4?vkey=
-/videos/other/*.ts?dis_k=
-/videos/other/*.ts?qdv=
+/videos/other/
