@@ -54,6 +54,7 @@ iqiyi.com##.header-app
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com###bottomNativePopup
 iqiyi.com##div[id^="100000"]
+iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
 ! 优酷
 ||*.youku.com/video/js/yksmartbanner.
 youku.com###J_banner
