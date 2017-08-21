@@ -7,3 +7,4 @@
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
 /*.tc.qq.com/*.mp4?vkey=
+|*./videos/other/*|
