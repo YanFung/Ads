@@ -1,8 +1,8 @@
-! Version:2017/8/15/  11:30
+! Version:2017/8/19/17:30
 ! Title:Mobile Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
-! ----------------------------------------
+!----------------------------------------
 ! 百度
 ||*.bdstatic.com^*/plugins/every_cookie_
 ||*.baidu.com/static/ecom/js/wise/home/nativeads_
