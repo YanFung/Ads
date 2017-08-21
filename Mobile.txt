@@ -35,7 +35,9 @@ baidu.com###index-tuijian
 baidu.com###app-special
 baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
 baidu.com##.iSlider-wrapper-container-hot-thread
-tieba.baidu.com###pblist > li[class]:not(.j_post_list_item)
+baidu.com###pblist > li[class]:not(.j_post_list_item)
+baidu.com##[id*=dia_mask]
+baidu.com##[id*=dia_wrapper]
 !  百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !  百度文库
