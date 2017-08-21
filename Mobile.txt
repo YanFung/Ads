@@ -186,6 +186,7 @@ www.ajswww.com##[id^="ALayer"]
 ||duiwai.baidu.com
 ||drmcmm.baidu.com
 ||mobads.baidu.com
+||nsclick.baidu.com^
 ||eiv.baidu.com
 ||pos.baidu.com
 ||cpu.baidu.com
