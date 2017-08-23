@@ -170,6 +170,7 @@ www.ajswww.com##.aqytop11
 www.ajswww.com##[id^="ALayer"]
 api.baiyug.cn##div:first-child > iframe:last-child
 blog.sina.cn##.j_fl_da.fl_style_da
+blog.sina.cn###pl-float-bar
 ! 通用规则
 |http:$third-party,script,domain=lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com|btlibrary.pw
 ##[src="/ad.js"]
