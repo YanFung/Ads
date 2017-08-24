@@ -157,6 +157,9 @@ wap.ithome.com###a_ad
 ||*.autohome.com.cn/news/js_resource/resource/commonfile?
 ||*.autoimg.cn/bi/mda/ahas_body.
 m.autohome.com.cn##[style="display: block;"]
+m.autohome.com.cn###s2205
+m.autohome.com.cn##.recommend-envelope
+m.autohome.com.cn##[class^=myAppendList]
 ! 铁血军情
 tiexue.net##a[href*=".junph."]
 tiexue.net##[href*="wechat"]
