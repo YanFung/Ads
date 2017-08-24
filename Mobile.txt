@@ -1,4 +1,4 @@
-! Version:2017/8/19/17:30
+! Version:2017/8/24/17:30
 ! Title:Mobile Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
