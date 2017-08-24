@@ -56,7 +56,9 @@ iqiyi.com###bottomNativePopup
 iqiyi.com##div[id^="100000"]
 iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
 ! 优酷
+||*.youku.com/video/js/yksmartbanner.
 ||gw.alicdn.com/tfs/*-300-300.png$image
+m.youku.com##style+div
 m.youku.com###J_banner
 m.youku.com###Recommend
 m.youku.com###Bigdrama
