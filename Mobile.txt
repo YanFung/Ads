@@ -29,6 +29,8 @@ zhidao.baidu.com###main-content > div[class]:first-child > a
 zhidao.baidu.com##.link
 zhidao.baidu.com##.cur
 ! 贴吧
+||tb1.bdstatic.com/tb/cms/hongbao_pop.png$image
+baidu.com##.hongbao_page_pop_common.hongbao_page_pop_back
 baidu.com##.appPromote
 baidu.com##a.fixed_bar
 baidu.com###index-tuijian
