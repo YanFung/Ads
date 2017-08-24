@@ -57,11 +57,11 @@ iqiyi.com##div[id^="100000"]
 iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
 ! 优酷
 ||*.youku.com/video/js/yksmartbanner.
-youku.com###J_banner
-youku.com###Recommend
-youku.com##.clearfix.cmt-more
-youku.com###Bigdrama
-youku.com##.iconPop
+youku.com##[style="display: block;"]
+m.youku.com###J_banner
+m.youku.com###Recommend
+m.youku.com###Bigdrama
+m.youku.com##.iconPop
 ! 腾讯视频
 m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
