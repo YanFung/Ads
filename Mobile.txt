@@ -159,7 +159,7 @@ wap.ithome.com###a_ad
 m.autohome.com.cn##[style="display: block;"]
 m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
-m.autohome.com.cn###s2881
+m.autohome.com.cn###s2205
 ! 铁血军情
 tiexue.net##a[href*=".junph."]
 tiexue.net##[href*="wechat"]
