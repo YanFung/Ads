@@ -158,8 +158,8 @@ wap.ithome.com###a_ad
 ||pcmx.autohome.com.cn/impress?
 ||*.autohome.com.cn/news/js_resource/resource/commonfile?
 ||*.autoimg.cn/bi/mda/ahas_body.
+|http://m.autohome.com.cn/news/img_resource/source/commonimgs
 m.autohome.com.cn##p[class]
-m.autohome.com.cn##[style="display: block;"]
 m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
 m.autohome.com.cn##a[href="javascript:;"]
