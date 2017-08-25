@@ -7,3 +7,5 @@
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
 /*.tc.qq.com/*.mp4?vkey=
+|m.youku.com/video/js/h5phoneplayer-*.min.js
+|m.youku.com/video/js/video-*.min.js
