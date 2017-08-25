@@ -60,10 +60,10 @@ iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
 ! 优酷
 ||*.youku.com/video/js/yksmartbanner.
 ||gw.alicdn.com/tfs/*-300-300.png$image
-m.youku.com##style+div[id]
-m.youku.com###J_banner
-m.youku.com###Recommend
-m.youku.com###Bigdrama
+youku.com##style+div[id]
+youku.com###J_banner
+youku.com###Recommend
+youku.com###Bigdrama
 ! 腾讯视频
 m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
