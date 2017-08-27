@@ -165,6 +165,7 @@ m.autohome.com.cn##[class^=myAppendList]
 m.autohome.com.cn##a[href="javascript:;"]
 ! 铁血军情
 tiexue.net##a[href*=".junph."]
+tiexue.net##a[href*="game.tiexue."]
 tiexue.net##[href*="wechat"]
 tiexue.net##a[href*="m.3diche.com/?id="]
 tiexue.net##a[href="http://m.tiexue.net/game/jstt/index_6.html"]
