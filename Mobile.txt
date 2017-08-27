@@ -49,6 +49,9 @@ wk.baidu.com##.topFc
 wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
 wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
 wk.baidu.com##.sf-edu-wenku-id-adwrap
+! 百度百科
+wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
+wapbaike.baidu.com###J-declare
 ! 爱奇艺
 ||msg.video.qiyi.com
 ||msg.71.am
