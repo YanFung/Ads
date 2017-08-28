@@ -200,6 +200,7 @@ www.ajswww.com##[id^="ALayer]
 ##a[href*=".com/?Extend="]
 .com/ad.$domain=~ad-tuning.de
 &ad_ids=
+.net/ads/
 /adstatic/
 */adsense/
 /__utm.gif
