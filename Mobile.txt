@@ -2,7 +2,6 @@
 ! Title:Mobile Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
-!--------------------------------
 ! 百度
 ||*.bdstatic.com^*/plugins/every_cookie_
 ||*.baidu.com/static/ecom/js/wise/home/nativeads_
@@ -52,7 +51,6 @@ wk.baidu.com##.sf-edu-wenku-id-adwrap
 ! 百度百科
 wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
 wapbaike.baidu.com###J-declare
-!--------------------------------
 ! 爱奇艺
 ||msg.video.qiyi.com
 ||msg.71.am
@@ -103,6 +101,12 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 !  youtube
 m.youtube.com##._mgb>#koya_child_6
+!  PPTV聚力
+||de.as.pptv.com^
+||s1.pplive.cn/sta.js
+pptv.com###installApp
+!  暴风影音
+baofeng.com###appview
 !  熊猫直播
 m.panda.tv###tip-download
 m.panda.tv##.btn-download
