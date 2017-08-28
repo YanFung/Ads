@@ -6,4 +6,5 @@
 ||m.aty.sohu.com^
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
-/*.tc.qq.com/*.mp4?vkey=
+/vlive.qqvideo.tc.qq.com/*.mp4?vkey=
+/variety.tc.qq.com/*.mp4?vkey=
