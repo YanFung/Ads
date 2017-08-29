@@ -110,6 +110,10 @@ baofeng.com###appview
 !  熊猫直播
 m.panda.tv###tip-download
 m.panda.tv##.btn-download
+!  斗鱼直播
+douyu.com###js-fix-download
+douyu.com##.layout-ball
+douyu.com##.banner0 > .btn-open-app.btn
 !  虎牙直播
 m.huya.com###down_div
 m.huya.com##.chat_btn
