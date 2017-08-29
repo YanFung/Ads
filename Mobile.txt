@@ -111,7 +111,6 @@ baofeng.com###appview
 m.panda.tv###tip-download
 m.panda.tv##.btn-download
 !  斗鱼直播
-douyu.com##[name="apple-itunes-app"]
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
