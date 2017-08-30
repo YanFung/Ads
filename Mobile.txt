@@ -236,6 +236,7 @@ www.ajswww.com##[id^="ALayer]
 ||crs.baidu.com^
 ||push.zhanzhang.baidu.com/push.js
 ||google-analytics.com/analytics.js
+||daz.jinshasi.cn/show^
 ||000dn.com
 ||00oo00.com
 ||025suyu.com
