@@ -261,4 +261,4 @@ www.ajswww.com##[id^="ALayer]
 ||*.kkcaicai.com^
 ||*.alicdn.com/g/mm/afp-cdn/js/
 ||*.niuxgame77.com^
-||zjkdaikuan.com^
+zjkdaikuan.com^
