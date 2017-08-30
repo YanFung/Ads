@@ -223,6 +223,7 @@ www.ajswww.com##[id^="ALayer]
 ||cpu.baidu.com^
 ||hm.baidu.com^
 ||cm.baidu.com^
+||crs.baidu.com^
 ||push.zhanzhang.baidu.com/push.js
 ||*.sogoucdn.com/wap/js/
 ||google-analytics.com/analytics.js
@@ -254,3 +255,4 @@ www.ajswww.com##[id^="ALayer]
 ||www.65yw.com/i.html
 ||a1.jandan.net/*.js
 ||*.kkcaicai.com^
+||tanx.com^
