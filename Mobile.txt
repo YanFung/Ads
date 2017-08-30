@@ -265,3 +265,4 @@ www.ajswww.com##[id^="ALayer]
 ||*.niuxgame77.com^
 ||*.zjkdaikuan.com^
 ||*.pdfbs.com^
+||*.mushizhubao.com^
