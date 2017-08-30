@@ -260,9 +260,9 @@ www.ajswww.com##[id^="ALayer]
 ||*.12365chia.com
 ||*.51gpt.com
 ||*.cnzz.com
-||*.kkcaicai.com^
+||*.kkcaicai.com
 ||*.alicdn.com/g/mm/afp-cdn/js/
-||*.niuxgame77.com^
-||*.zjkdaikuan.com^
-||*.pdfbs.com^
-||*.mushizhubao.com^
+||*.niuxgame77.com
+||*.zjkdaikuan.com
+||*.pdfbs.com
+||*.mushizhubao.com
