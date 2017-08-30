@@ -213,6 +213,7 @@ www.ajswww.com##[id^="ALayer]
 */adsense/
 /__utm.gif
 /cpro/ui/
+/ad.php|
 ||cpro.baidustatic.com^
 ||spcode.baidu.com^
 ||cb.baidu.com^
@@ -245,6 +246,7 @@ www.ajswww.com##[id^="ALayer]
 ||www.65yw.com/i.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
+||*.youle55.com^
 ||*.24haitao.net
 ||*.pubbirdf.com^
 ||*.pstatp.com/growth/mobile_list/image/bonus_
