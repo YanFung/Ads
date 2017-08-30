@@ -8,3 +8,6 @@
 ||*.atm.youku.com^
 /vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 /variety.tc.qq.com/*.mp4?vkey=
+||irs01.com/irt?_iwt_UA=UA-youku-*&ref=http://youku.com/&jsonp=*
+||af.alicdn.com/js/uac.js
+||af.alicdn.com/js/uac.js$script,domain=m.youku.com
