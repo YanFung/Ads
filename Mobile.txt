@@ -62,6 +62,7 @@ iqiyi.com##div[id^="100000"]
 iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
 ! 优酷
 ||*.youku.com/video/js/yksmartbanner.
+youku.com###FullPromotion
 youku.com##style+div[id]
 youku.com###J_banner
 youku.com###Recommend
