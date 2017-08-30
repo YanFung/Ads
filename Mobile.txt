@@ -237,6 +237,7 @@ www.ajswww.com##[id^="ALayer]
 ||push.zhanzhang.baidu.com/push.js
 ||google-analytics.com/analytics.js
 ||daz.jinshasi.cn/show^
+||iiiiii.hulemedia.com^
 ||000dn.com
 ||00oo00.com
 ||025suyu.com
