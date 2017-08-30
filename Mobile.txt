@@ -255,6 +255,7 @@ www.ajswww.com##[id^="ALayer]
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
+||*.ejiakm.net^
 ||*.youle55.com^
 ||*.24haitao.net
 ||*.pubbirdf.com^
