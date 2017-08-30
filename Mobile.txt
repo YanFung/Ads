@@ -130,6 +130,7 @@ qiqu.uc.cn##.advertise
 qiqu.uc.cn##.closeAdvertise
 qiqu.uc.cn##div[class^="uuu"]
 qiqu.uc.cn##.upd-banner-transition.s-b.upd-banner
+qiqu.uc.cn##.i-promotion.it
 ! 糗事百科
 ||becode.qiushibaike.com
 qiushibaike.com###gif-list-top
