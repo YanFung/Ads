@@ -249,7 +249,7 @@ www.ajswww.com##[id^="ALayer]
 ||olo.6niuwang.com
 ||img.namusai.com
 ||www.65yw.com/i.html
-||api.36cj.com/tv.php?url=
+||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
 ||*.youle55.com^
