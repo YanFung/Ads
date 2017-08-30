@@ -212,6 +212,7 @@ www.ajswww.com##[id^="ALayer]
 &adsize=
 &ad_ids=
 .net/ads/
+/adtag.
 /acmsd/
 /adstatic/
 */adsense/
