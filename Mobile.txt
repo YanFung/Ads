@@ -199,6 +199,7 @@ ifeng.com###swiper_bottom
 ||*.fcai.com/ifengindex.html
 ||*.ifeng.com*/wapifeng
 ||*.ifengimg.com^*/sta_collection
+||*.ifeng.com/client_share_bottom_
 !  其它站点
 www.ajswww.com##.aqytop11
 www.ajswww.com##[id^="ALayer]
