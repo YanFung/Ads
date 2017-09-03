@@ -201,6 +201,7 @@ www.ajswww.com##[id^="ALayer]
 |http:$third-party,xmlhttprequest,domain=alicili.org|btdigg.co|btkitty.pet|btlibrary.co|cilidaquan.me|diggbt.biz|savebt.com|storebt.pw|torrentkitty.red|zhongzicili.net|baishuku.com
 ###adsad
 ##.listad
+##[class*=gmine_ad]
 ##[src="/ad.js"]
 ##a[href*="/cpro/"]
 ##.bottom-adv
