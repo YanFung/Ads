@@ -214,6 +214,7 @@ zol.com.cn##.zolapp
 |http:$third-party,xmlhttprequest,domain=alicili.org|btdigg.co|btkitty.pet|btlibrary.co|cilidaquan.me|diggbt.biz|savebt.com|storebt.pw|torrentkitty.red|zhongzicili.net|baishuku.com
 ###adsad
 ##.listad
+##.article-ad
 ##[class*=gmine_ad]
 ##[src="/ad.js"]
 ##a[href*="/cpro/"]
@@ -235,6 +236,7 @@ zol.com.cn##.zolapp
 /__utm.gif
 /cpro/ui/
 /ad.php|
+|http://ad.
 ||cpro.baidustatic.com^
 ||spcode.baidu.com^
 ||cb.baidu.com^
@@ -249,6 +251,8 @@ zol.com.cn##.zolapp
 ||hm.baidu.com^
 ||cm.baidu.com^
 ||crs.baidu.com^
+||tajs.qq.com^
+||static-cn.plista.com^
 ||push.zhanzhang.baidu.com/push.js
 ||google-analytics.com/analytics.js
 ||daz.jinshasi.cn/show^
