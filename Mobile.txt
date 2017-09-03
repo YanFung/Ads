@@ -209,6 +209,7 @@ www.ajswww.com##[id^="ALayer]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
+##[href^="http://ad.doubleclick.net/"]
 .com/ad.$domain=~ad-tuning.de
 &adsize=
 &ad_ids=
