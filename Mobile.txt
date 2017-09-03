@@ -196,7 +196,7 @@ ifeng.com##a[href*=".sm.cn"]
 ifeng.com##.pullClient
 ifeng.com##.luckybag
 ifeng.com###swiper_bottom
-ifeng.com###slLis > li[style]
+ifeng.com##ul[class] > li[id]
 ||*.fcai.com/ifengindex.html
 ||*.ifeng.com*/wapifeng
 ||*.ifengimg.com^*/sta_collection
