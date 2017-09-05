@@ -297,3 +297,5 @@ jiemian.com##.header-inner
 ||*.zjkdaikuan.com^
 ||*.pdfbs.com^
 ||*.mushizhubao.com^
+||*.hyz86.com^
+||*.guangzizai.com^
