@@ -299,3 +299,4 @@ jiemian.com##.header-inner
 ||*.mushizhubao.com^
 ||*.hyz86.com^
 ||*.guangzizai.com^
+||*.ltcprtc.com^
