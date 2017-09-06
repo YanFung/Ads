@@ -3,6 +3,7 @@
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ! 百度
+||*.bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 ||*.bdstatic.com^*/plugins/every_cookie_
 ||*.baidu.com/static/ecom/js/wise/home/nativeads_
 baidu.com##div#page>style+div
