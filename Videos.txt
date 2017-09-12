@@ -9,4 +9,4 @@
 /vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 /variety.tc.qq.com/*.mp4?vkey=
 /videos/other/*.ts?dis_k=
-/videos/other/*.ts?qdv=
+||data.video.qiyi.com/videos/other/*.ts?qdv=
