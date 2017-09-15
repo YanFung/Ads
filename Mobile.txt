@@ -205,6 +205,7 @@ ifeng.com##ul[class] > li[id]
 ! 知乎
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/alter_banners/
+zhihu.com##.is-shown.OpenInAppButton
 !  其它站点
 www.ajswww.com##.aqytop11
 www.ajswww.com##[id^="ALayer]
