@@ -204,7 +204,7 @@ ifeng.com##ul[class] > li[id]
 ||*.ifeng.com/client_share_bottom_
 ! 知乎
 ||zhihu-web-analytics.zhihu.com^
-||*.zhihu.com/api/v4/banners/
+||*.zhihu.com/api/v4/
 !  其它站点
 www.ajswww.com##.aqytop11
 www.ajswww.com##[id^="ALayer]
