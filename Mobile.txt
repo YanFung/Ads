@@ -207,8 +207,8 @@ ifeng.com##ul[class] > li[id]
 ||www.zhihu.com/api/v4/banners/
 zhihu.com##.is-shown.OpenInAppButton
 !  其它站点
-www.ajswww.com##.aqytop11
-www.ajswww.com##[id^="ALayer]
+##.aqytop11
+##[id^="ALayer]
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||p.zol-img.com.cn^
