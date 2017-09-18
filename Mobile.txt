@@ -26,6 +26,8 @@ baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 image.baidu.com##.istextlink.ec_image_title_new
 !  百度文库
 baidu.com##.picad
+wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
+||fex.bdstatic.com/hunter/alog/alog.mobile.min.js^$script,domain=wk.baidu.com
 ! 百度百科
 wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
 wapbaike.baidu.com###J-declare
