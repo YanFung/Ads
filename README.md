@@ -1,4 +1,4 @@
-# 轻量级Safari广告规则，基于Adblock Plus，适用于广告猎手APP
+# 轻量级Safari广告规则，基于Adblock Plus
 
 网页元素广告，部分站点
 
