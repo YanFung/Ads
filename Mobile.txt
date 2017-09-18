@@ -206,6 +206,9 @@ ifeng.com##ul[class] > li[id]
 ||www.zhihu.com/api/v4/alter_banners/
 ||www.zhihu.com/api/v4/banners/
 zhihu.com##.is-shown.OpenInAppButton
+! 华数TV
+||delivery-pc.wasu.cn^
+wasu.cn##.ads
 !  其它站点
 ##.aqytop11
 ##[id^="ALayer]
