@@ -3,9 +3,11 @@
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Videos.txt
 !----------------------------------------
+!搜狐，芒果，优酷，腾讯，乐视，视频片头广告
 ||m.aty.sohu.com^
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
 /vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 /variety.tc.qq.com/*.mp4?vkey=
 ||ark.letv.com^$script,domain=m.le.com
+||*/videos/v0^$other,domain=m.iqiyi.com
