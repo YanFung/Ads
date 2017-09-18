@@ -8,4 +8,5 @@
 ||*.atm.youku.com^
 /vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 /variety.tc.qq.com/*.mp4?vkey=
-||^miaozhen.com^$third-party
+||*.miaozhen.com^$third-party
+||ark.letv.com/s?vid=
