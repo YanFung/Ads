@@ -10,4 +10,5 @@
 /vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 /variety.tc.qq.com/*.mp4?vkey=
 ||ark.letv.com^$script,domain=m.le.com
-||^videos/other^$domain=m.iqiyi.com
+||^videos/other^$other,domain=m.iqiyi.com
+||data.video.qiyi.com/videos/other^$other,domain=m.iqiyi.com
