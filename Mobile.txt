@@ -209,6 +209,7 @@ zhihu.com##.is-shown.OpenInAppButton
 ! 华数TV
 ||delivery-pc.wasu.cn^
 wasu.cn##.ads
+www.wasu.cn##.ws_more_app
 !  其它站点
 ##.aqytop11
 ##[id^="ALayer]
