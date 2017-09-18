@@ -7,7 +7,6 @@
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 ! 百度知道
-/hunter/alog/
 zhidao.baidu.com##.cur
 zhidao.baidu.com##.link
 ! 贴吧
@@ -26,11 +25,6 @@ baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 !  百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !  百度文库
-wk.baidu.com##.addToHomescreenBtn
-wk.baidu.com##.topFc
-wk.baidu.com##.rtcs-bottom-card.bottom-card.goto-app-card
-wk.baidu.com##.sf-edu-wenku-id-fc-suiwen
-wk.baidu.com##.sf-edu-wenku-id-adwrap
 ! 百度百科
 wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
 wapbaike.baidu.com###J-declare
@@ -229,6 +223,7 @@ jiemian.com##.header-inner
 /adstatic/
 */adsense/
 /__utm.gif
+/hunter/alog/
 /cpro/ui/
 /ad.php|
 |http://ad.
