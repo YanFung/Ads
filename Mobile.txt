@@ -8,6 +8,8 @@ baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 ! 百度知道
 /hunter/alog/
+zhidao.baidu.com##.cur
+zhidao.baidu.com##.link
 ! 贴吧
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 baidu.com##[class^="hongbao_page"]
