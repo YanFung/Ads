@@ -211,6 +211,7 @@ zhihu.com##.is-shown.OpenInAppButton
 wasu.cn##.ads
 www.wasu.cn##.ws_more_app
 !  其它站点
+56.com##[class*=app-]
 ##.aqytop11
 ##[id^="ALayer]
 ||pp*.hkslg.net^$image
