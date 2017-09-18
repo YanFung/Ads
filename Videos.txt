@@ -2,8 +2,6 @@
 ! Title:Videos Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Videos.txt
-!----------------------------------------
-!搜狐，芒果，优酷，腾讯，乐视，视频片头广告
 ||m.aty.sohu.com^
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
