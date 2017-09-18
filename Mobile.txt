@@ -2,7 +2,7 @@
 ! Title:Mobile Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
-! 百度
+! 百度首页+搜索页
 ||*.bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
