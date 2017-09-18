@@ -7,13 +7,7 @@
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 ! 百度知道
-zhidao.baidu.com##.home-app-promotion
-zhidao.baidu.com##.wm-wrapper.pannel
-zhidao.baidu.com##.w-search-zhidao.w-search-app-download
-zhidao.baidu.com##.new-search-relate
-zhidao.baidu.com###main-content > div[class]:first-child > a
-zhidao.baidu.com##.link
-zhidao.baidu.com##.cur
+/hunter/alog/
 ! 贴吧
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 baidu.com##[class^="hongbao_page"]
