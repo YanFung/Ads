@@ -286,6 +286,7 @@ jiemian.com##.header-inner
 ||*.pstatp.com^*/bannersdk/
 ||*.firefang.cn^
 ||*.qi-duo.com^
+||*.inte.sogou.com^
 ||*.jd.com/exsites?spread_type=
 ||*.zxhymh.com^
 ||*.sogoucdn.com/wap/js/
