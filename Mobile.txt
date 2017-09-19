@@ -4,6 +4,7 @@
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ! 百度首页+搜索页
 ||*.bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
+www.baidu.com##.c-back+div[id]
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 ! 百度知道
