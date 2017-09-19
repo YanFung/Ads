@@ -286,10 +286,8 @@ jiemian.com##.header-inner
 ||*.pstatp.com^*/bannersdk/
 ||*.firefang.cn^
 ||*.qi-duo.com^
-||*.inte.sogou.com^
 ||*.jd.com/exsites?spread_type=
 ||*.zxhymh.com^
-||*.sogoucdn.com/wap/js/
 ||*.12365chia.com^
 ||*.51gpt.com^
 ||*.cnzz.com^
@@ -302,3 +300,5 @@ jiemian.com##.header-inner
 ||*.hyz86.com^
 ||*.guangzizai.com^
 ||*.ltcprtc.com^
+||*.sogoucdn.com/wap/js/
+||*.inte.sogou.com^
