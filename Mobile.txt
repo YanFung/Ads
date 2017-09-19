@@ -242,6 +242,7 @@ jiemian.com##.header-inner
 ||spcode.baidu.com^
 ||cb.baidu.com^
 ||cbjs.baidu.com^
+||dup.baidustatic.com/js/
 ||duiwai.baidu.com^
 ||drmcmm.baidu.com^
 ||mobads.baidu.com^
@@ -276,6 +277,7 @@ jiemian.com##.header-inner
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
+||*.ge95.com^
 ||*.ejiakm.net^
 ||*.youle55.com^
 ||*.24haitao.net
