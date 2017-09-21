@@ -47,7 +47,7 @@ iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
 youku.com###FullPromotion
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
 m.youku.com##.iconPop
-m.youku.com##.Banner
+m.youku.com##[class="Banner"]
 m.youku.com###Bigdrama
 ! 腾讯视频
 m.v.qq.com##div[_hot="banner"]
