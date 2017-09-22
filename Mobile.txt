@@ -185,9 +185,6 @@ blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 !  凤凰网
 ||*.ifeng.com/burroughsnews?type=
-||*.ifengimg.com/a/o.js
-||*.ifengimg.com/p/ax_
-||*.ifeng.com*/wapifeng
 ||stadig.ifeng.com
 ifeng.com##.luckybag
 ifeng.com###slide_1
