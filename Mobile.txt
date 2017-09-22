@@ -279,6 +279,7 @@ jiemian.com##.header-inner
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
+||*.cnzz.com^
 ||*.ge95.com^
 ||*.ejiakm.net^
 ||*.youle55.com^
