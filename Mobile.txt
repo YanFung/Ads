@@ -119,10 +119,7 @@ qiushibaike.com##[style*="margin-left:"]
 budejie.com###topBanner
 budejie.com###downApp
 ! 威峰
-||yes1.feng.com^
-bbs.feng.com###nav
-bbs.feng.com##.posi-fixed-btn
-bbs.feng.com##.comments_downLoad
+||yes1.feng.com
 ! 多玩
 ||gt.duowan.com/api/g?loc=ydda
 !  搜狐新闻
