@@ -124,7 +124,6 @@ bbs.feng.com###nav
 bbs.feng.com##.posi-fixed-btn
 bbs.feng.com##.comments_downLoad
 ! 多玩
-||hm.baidu.com^
 ||gt.duowan.com/api/g?loc=ydda
 !  搜狐新闻
 ||s.go.sohu.com^*/?callback=
