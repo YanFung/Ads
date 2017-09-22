@@ -139,11 +139,9 @@ duowan.cn#play-video-list
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
 ! 今日头条
-toutiao.com##.article_link[data-tag="ad"]
-toutiao.com##.banner-top
-||*.toutiao.com^*/ad/
-toutiao.com##.icon-container
-toutiao.com##.recommendation-item
+||s3.pstatp.com/growth/fe_sdk/bannersdk/sdk_
+toutiao.com##[class="icon-container"]
+toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
 !  少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
