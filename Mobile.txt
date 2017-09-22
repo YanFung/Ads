@@ -40,7 +40,6 @@ m.iqiyi.com##.link-app
 m.iqiyi.com###bottomNativePopup
 m.iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 m.iqiyi.com##.m-wl-borderT.m-wl-entrance
-m.toutiao.iqiyi.com###navBar
 ! 优酷
 youku.com###FullPromotion
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
