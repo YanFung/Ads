@@ -185,6 +185,7 @@ blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 !  凤凰网
 ||*.ifeng.com/burroughsnews?type=
+||*.ifengimg.com/a/o.js
 ||*.ifengimg.com/p/ax_
 ||stadig.ifeng.com
 ifeng.com##.luckybag
@@ -291,7 +292,6 @@ jiemian.com##.header-inner
 ||*.zxhymh.com^
 ||*.12365chia.com^
 ||*.51gpt.com^
-||*.cnzz.com^
 ||*.kkcaicai.com^
 ||*.alicdn.com/g/mm/afp-cdn/js/
 ||*.niuxgame77.com^
