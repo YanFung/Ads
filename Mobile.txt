@@ -35,14 +35,11 @@ wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
 wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
 wapbaike.baidu.com###J-declare
 ! 爱奇艺
-||msg.video.qiyi.com
-||msg.71.am
-iqiyi.com##.po-fixed.m-guide
-iqiyi.com##.header-app
-iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
-iqiyi.com###bottomNativePopup
-iqiyi.com##div[id^="100000"]
-iqiyi.com##.m-ipRelation-btn.m-wl-borderT.m-ipRelation
+m.iqiyi.com##.po-fixed.m-guide
+m.iqiyi.com##.link-app
+m.iqiyi.com###bottomNativePopup
+m.iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
+m.iqiyi.com##.m-wl-borderT.m-wl-entrance
 ! 优酷
 youku.com###FullPromotion
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
