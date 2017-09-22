@@ -187,7 +187,6 @@ blog.sina.cn###pl-float-bar
 ||*.ifeng.com/burroughsnews?type=
 ||*.ifengimg.com/a/o.js
 ||*.ifengimg.com/p/ax_
-||*.ifeng.com*/wapifeng
 ||stadig.ifeng.com
 ifeng.com##.luckybag
 ifeng.com###slide_1
