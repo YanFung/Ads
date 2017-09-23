@@ -105,7 +105,6 @@ tumblr.com##.mobile-banner-inner
 ! ys168网盘
 ys168.com###nnn > table
 ys168.com###zdy_wz0
-! 奇趣百科
 ! 糗事百科
 ||becode.qiushibaike.com
 ||cdn.aiclicash.com/jssdk/aisdk.js?v=1?aid=
@@ -122,10 +121,8 @@ budejie.com###downApp
 ||images.sohu.com/bill/
 !  网易新闻
 ||*.163.com*/special/*_ad_
-3g.163.com##.doc-footer-wrapper
-||g.163.com/*&affiliate=
-3g.163.com##[class="m_pbpb_m0 m_pbpb pbpb-item clearfix"]
-3g.163.com##.home_packet.ne_rps
+||*.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
+163.com##.footer
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
@@ -217,6 +214,7 @@ jiemian.com##.header-inner
 .com/ad.$domain=~ad-tuning.de
 &adsize=
 &ad_ids=
+&advertiserid=
 .net/ads/
 /adtag.
 /acmsd/
