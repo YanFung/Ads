@@ -228,7 +228,6 @@ jiemian.com##.header-inner
 /adstatic/
 */adsense/
 /__utm.gif
-/pagead2.
 /hunter/alog/
 /cpro/ui/
 /ad.php|
@@ -253,6 +252,7 @@ jiemian.com##.header-inner
 ||static-cn.plista.com^
 ||push.zhanzhang.baidu.com/push.js
 ||google-analytics.com/analytics.js
+||*.googlesyndication.com/pagead/show_ads.js
 ||daz.jinshasi.cn/show^
 ||iiiiii.hulemedia.com^
 ||0xxd.com
