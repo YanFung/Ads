@@ -203,6 +203,7 @@ jiemian.com##.header-inner
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ||*.users.51.la^$third-party
+||*.cnzz.com^$third-party
 ##.top-adv
 ###advertise
 ###adsad
@@ -268,7 +269,6 @@ jiemian.com##.header-inner
 ||a1.jandan.net/*.js
 ||s.360.cn^
 ||*.hanqidq.com^
-||*.cnzz.com^
 ||*.ge95.com^
 ||*.ejiakm.net^
 ||*.youle55.com^
