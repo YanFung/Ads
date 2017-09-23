@@ -200,6 +200,7 @@ jiemian.com##.header-inner
 |http:$xmlhttprequest,domain=alicili.org|btdigg.co|btkitty.pet|btlibrary.co|cilidaquan.me|diggbt.biz|savebt.com|storebt.pw|torrentkitty.red|zhongzicili.net|baishuku.com|m.shuhuangge.org
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ##.top-adv
+###advertise
 ###adsad
 ##.listad
 ##.article-ad
