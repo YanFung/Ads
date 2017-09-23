@@ -271,7 +271,7 @@ jiemian.com##.header-inner
 ||*.users.51.la
 ||*.9ads.net
 ||*.cnzz.com
-||^hanqidq.com^
+||*.hanqidq.com^
 ||*.ge95.com^
 ||*.ejiakm.net^
 ||*.youle55.com^
