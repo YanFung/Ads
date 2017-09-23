@@ -203,7 +203,7 @@ jiemian.com##.header-inner
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ||*.users.51.la^$third-party
-||9ads.net^$third-party
+||^9ads.net^$third-party
 ||*.cnzz.com^$third-party
 ##.top-adv
 ###advertise
