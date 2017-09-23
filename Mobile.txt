@@ -266,6 +266,7 @@ jiemian.com##.header-inner
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
+||*.cdn.difnxm.cn
 ||*.fcsass.org.cn
 ||*.quw18.com^
 ||*.users.51.la
