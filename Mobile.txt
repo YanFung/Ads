@@ -228,6 +228,7 @@ jiemian.com##.header-inner
 /adstatic/
 */adsense/
 /__utm.gif
+/pagead2.
 /hunter/alog/
 /cpro/ui/
 /ad.php|
