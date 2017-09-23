@@ -123,8 +123,10 @@ budejie.com###downApp
 ||*.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 ||*.163.com*/special/*_ad_
 ||*.163.com/*&affiliate=
-||nex.163.com/q?c=homepage&t=wap_stream&l=*app=*&nt=unknown&os=iPhone&cb=jsonp_
+||nex.163.com/*iPhone&cb=jsonp_
 163.com##.footer
+163.com###docid-docAppClient
+163.com##.home_packet.ne_rps
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
