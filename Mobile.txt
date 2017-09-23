@@ -122,6 +122,7 @@ budejie.com###downApp
 !  网易新闻
 ||*.163.com*/special/*_ad_
 ||*.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
+||*.163.com/*&affiliate=
 163.com##.footer
 !  天涯
 ||dol.tianya.cn/s?z=tianya&
