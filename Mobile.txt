@@ -191,6 +191,13 @@ jiemian.com##.header-show.header
 jiemian.com##.header-inner
 ! 36氪
 36kr.com##a.fixed-linkedme:last-child
+! Videos Ads
+||m.aty.sohu.com^
+||*.da.mgtv.com^
+||*.atm.youku.com^
+/vlive.qqvideo.tc.qq.com/*.mp4?vkey=
+/variety.tc.qq.com/*.mp4?vkey=
+||ark.letv.com^$script,domain=m.le.com
 !  其它站点
 ##.aqytop11
 ##[id^="ALayer]
