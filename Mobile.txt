@@ -117,6 +117,8 @@ budejie.com###downApp
 ! 多玩
 ||gt.duowan.com/api/g?loc=ydda
 !  搜狐新闻
+||s.go.sohu.com^*/?callback=
+||images.sohu.com/bill/
 !  网易新闻
 ||*.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 ||*.163.com*/special/*_ad_
