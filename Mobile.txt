@@ -51,10 +51,6 @@ m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
 m.v.qq.com##div[_hot="minisbanner"]
 ! 搜狐视频
-m.tv.sohu.com##.dl-top-banner
-m.tv.sohu.com##.btn-xz-app
-m.tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
-m.tv.sohu.com##.x-dl-shake.x-download-panel
 ! 56网
 56.com##[class*=app-]
 ! 乐视
