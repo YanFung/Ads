@@ -55,6 +55,8 @@ m.tv.sohu.com##.dl-top-banner
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 m.tv.sohu.com##.x-dl-shake.x-download-panel
+!56视频
+m.56.com##[class^="app-"] > .banner-container
 !乐视
 m.le.com###j-leappMore
 m.le.com###j-zhoubian
