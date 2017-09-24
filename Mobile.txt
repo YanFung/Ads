@@ -2,3 +2,5 @@
 !Title:Mobile Ads
 !Author:YanFung
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+zhidao.baidu.com##.cur
+zhidao.baidu.com##.link
