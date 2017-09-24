@@ -75,10 +75,4 @@ bilibili.com##.index__cccBtn__src-home-topArea-
 bilibili.com##.index__upBtn__src-videoPage-topArea-
 bilibili.com##.index__cccTips__src-videoPage-player-
 bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
-!土豆
-tudou.com##.td-h5__appguide
-tudou.com##.td-h5__appguide-fix
-tudou.com##.td-h5__appguide-fix
-tudou.com##.td-h5__player__appguide
-!youtube
-m.youtube.com##._mgb>#koya_child_6
+
