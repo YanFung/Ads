@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version:2017/9/24/17:30
-! Title:Mobile Ads
+! Title:Videos Ads
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Videos.txt
 ||m.aty.sohu.com^
