@@ -102,9 +102,6 @@ m.huya.com###iosQuickLink
 m.huya.com##.u-btn-down.info_down_load_banner
 ! 汤不热
 tumblr.com##.mobile-banner-inner
-!ys168网盘
-ys168.com###nnn > table
-ys168.com###zdy_wz0
 !糗事百科
 ||becode.qiushibaike.com
 ||cdn.aiclicash.com/jssdk/aisdk.js?v=1?aid=
