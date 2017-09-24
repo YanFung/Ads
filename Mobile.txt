@@ -82,24 +82,3 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 !youtube
 m.youtube.com##._mgb>#koya_child_6
-!PPTV聚力
-pptv.com###installApp
-!暴风影音
-baofeng.com###appview
-!熊猫直播
-m.panda.tv###tip-download
-m.panda.tv##.btn-download
-!斗鱼直播
-douyu.com###js-fix-download
-douyu.com##.layout-ball
-douyu.com##.banner0 > .btn-open-app.btn
-!虎牙直播
-m.huya.com###down_div
-m.huya.com##.chat_btn
-m.huya.com###iosQuickLink
-m.huya.com##.u-btn-down.info_down_load_banner
-! 汤不热
-tumblr.com##.mobile-banner-inner
-!ys168网盘
-ys168.com###nnn > table
-ys168.com###zdy_wz0
