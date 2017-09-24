@@ -34,6 +34,9 @@ wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
 !百度百科
 wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
 wapbaike.baidu.com###J-declare
+!百度视频
+v.baidu.com##.goAppIndex.btn-addApp-openapp
+v.baidu.com###footerDownloadBanner
 !爱奇艺
 m.iqiyi.com##.po-fixed.m-guide
 m.iqiyi.com##.link-app
