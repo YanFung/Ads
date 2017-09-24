@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+! Version:2017/9/24/17:30
+! Title:Mobile Ads
+! Author:YanFung
+! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Videos.txt
+||m.aty.sohu.com^
+||*.da.mgtv.com^
+||*.atm.youku.com^
+/vlive.qqvideo.tc.qq.com/*.mp4?vkey=
+/variety.tc.qq.com/*.mp4?vkey=
+||ark.letv.com^$script,domain=m.le.com
