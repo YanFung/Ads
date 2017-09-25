@@ -193,7 +193,7 @@ jiemian.com##.header-inner
 36kr.com##a.fixed-linkedme:last-child
 !其它站点
 ##.aqytop11
-##[id^="ALayer]
+##[id^="ALayer"]
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||e.qxfly.com^$script,domain=m.91kds.com
