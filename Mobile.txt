@@ -297,5 +297,7 @@ m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 ||*.hyz86.com^
 ||*.guangzizai.com^
 ||*.ltcprtc.com^
+||*.sohu.com/api/labs/hotnews/c/load?
 ||*.inte.sogoucdn.com/wap/js/wp.js
 ||*.inte.sogou.com^
+||*.gwylm.com
