@@ -244,6 +244,7 @@ m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 ||nsclick.baidu.com
 ||eiv.baidu.com
 ||pos.baidu.com
+||msite.baidu.com
 ||cpu.baidu.com
 ||hm.baidu.com
 ||cm.baidu.com
