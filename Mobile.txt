@@ -7,6 +7,7 @@
 www.baidu.com##.c-back+div[id]
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
+baidu.com##[class*=wra] > b-scroll
 sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
 !百度知道
