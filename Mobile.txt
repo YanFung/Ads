@@ -132,6 +132,8 @@ budejie.com###downApp
 !天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
+!58同城
+m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 !今日头条
 ||s3.pstatp.com/growth/fe_sdk/bannersdk/sdk_
 toutiao.com##[class="icon-container"]
@@ -193,14 +195,16 @@ jiemian.com##.header-show.header
 jiemian.com##.header-inner
 ! 36氪
 36kr.com##a.fixed-linkedme:last-child
+!轻芒
+qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
+!数字尾巴
+dgtle.com##.footer-abox
 !其它站点
 ##.aqytop11
 ##[id^="ALayer"]
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||e.qxfly.com^$script,domain=m.91kds.com
-dgtle.com##.footer-abox
-m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 !通用规则
 |http:$third-party,script,domain=lwxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.com.tw|m.biquge.tw|m.biqugego.com|m.biqugezw.com|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com|btlibrary.pw|btkitty.pet|208xs.com
 |http:$xmlhttprequest,domain=alicili.org|btdigg.co|btkitty.pet|btlibrary.co|cilidaquan.me|diggbt.biz|savebt.com|storebt.pw|torrentkitty.red|zhongzicili.net|baishuku.com|m.shuhuangge.org
