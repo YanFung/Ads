@@ -10,6 +10,7 @@ baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
 sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
+baijiahao.baidu.com##.openBox-shareEntry
 !百度知道
 zhidao.baidu.com##.cur
 zhidao.baidu.com##.link
@@ -206,6 +207,7 @@ m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ##.adsbygoogle
+##.ad-banner
 ##.top-adv
 ###advertise
 ###adsad
