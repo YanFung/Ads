@@ -279,6 +279,7 @@ dgtle.com##.footer-abox
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||s.360.cn^
+||*.shuqw.com
 ||*.difnxm.cn
 ||*.fcsass.org.cn
 ||*.quw18.com^
