@@ -200,6 +200,7 @@ qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 !数字尾巴
 dgtle.com##.footer-abox
 !其它站点
+##.active.mod-download-tips-con
 ##.aqytop11
 ##[id^="ALayer"]
 ||pp*.hkslg.net^$image
