@@ -195,6 +195,8 @@ jiemian.com##.header-show.header
 jiemian.com##.header-inner
 ! 36氪
 36kr.com##a.fixed-linkedme:last-child
+!人人网
+||*.renren.com/static/*?ad_
 !轻芒
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 !数字尾巴
