@@ -203,6 +203,9 @@ dgtle.com##.footer-abox
 ##[class*=detail-ad]
 m.mop.com##.mop-index-gg
 ||*.shuqw.com
+!咸鱼
+||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
+2.taobao.com##[class="idle-start col"]
 !其它站点
 ##.active.mod-download-tips-con
 ##.aqytop11
