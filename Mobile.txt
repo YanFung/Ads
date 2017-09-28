@@ -284,8 +284,9 @@ m.mop.com##.mop-index-gg
 ||zx.kqzwg.com
 ||www.65yw.com/i.html
 ||api.36cj.com/fei.html
-||bdjs.ixiumei.com
 ||a1.jandan.net/*.js
+||bdjs.ixiumei.com
+||*.5125129.com
 ||s.360.cn^
 ||*.difnxm.cn
 ||*.fcsass.org.cn
