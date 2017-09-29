@@ -274,6 +274,7 @@ m.mop.com##.mop-index-gg
 ||tajs.qq.com^
 ||static-cn.plista.com^
 ||push.zhanzhang.baidu.com/push.js
+||news.china.com/xml/important_news_day.json?
 ||google-analytics.com/analytics.js
 ||googleads.
 ||pagead2.google*
