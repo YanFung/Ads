@@ -214,11 +214,12 @@ m.mop.com##.mop-index-gg
 ##.down
 ##.aqytop11
 ##[id^="ALayer"]
+chinaso.com##.bnwrap
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||e.qxfly.com^$script,domain=m.91kds.com
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
-!Videos Ads
+!视频站点
 ||m.aty.sohu.com^
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
@@ -252,6 +253,7 @@ m.mop.com##.mop-index-gg
 &ad_ids=
 &advertiserid=
 .net/ads/
+/adshow?
 /adtag.
 /acmsd/
 /adstatic/
