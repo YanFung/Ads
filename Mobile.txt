@@ -231,6 +231,7 @@ chinaso.com##.bnwrap
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ##.adsbygoogle
+##.ad-item
 ##.ad-banner
 ##.top-adv
 ###advertise
@@ -302,8 +303,9 @@ chinaso.com##.bnwrap
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
 ||bdjs.ixiumei.com
-||*.5125129.com
+||ent1.12584.cn
 ||s.360.cn^
+||*.5125129.com
 ||*.difnxm.cn
 ||*.fcsass.org.cn
 ||*.quw18.com^
@@ -333,7 +335,9 @@ chinaso.com##.bnwrap
 ||*.hyz86.com^
 ||*.guangzizai.com^
 ||*.ltcprtc.com^
+||*.zdface.com/js/m/zw_banner.js
 ||*.sohu.com/api/labs/hotnews/c/load?
 ||*.inte.sogoucdn.com/wap/js/wp.js
 ||*.inte.sogou.com^
+||*.lu.sogou.com^
 ||*.gwylm.com
