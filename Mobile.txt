@@ -5,6 +5,7 @@
 !百度
 ||*.bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 ||m.baidu.com/se/static/js/modules/invoke/app/banner*.js
+||*.baidu.com/se/transcode/static/img/tc-banner_$image
 www.baidu.com##.c-back+div[id]
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
@@ -278,6 +279,8 @@ chinaso.com##.bnwrap
 ||cm.baidu.com
 ||crs.baidu.com
 ||sp*.baidu.com^*.gif?
+||su.bdimg.com/static/dspui/js/
+||mipengine.baidu.com/common?query=
 ||tajs.qq.com^
 ||static-cn.plista.com^
 ||push.zhanzhang.baidu.com/push.js
