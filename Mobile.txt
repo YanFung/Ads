@@ -116,6 +116,7 @@ budejie.com###topBanner
 budejie.com###downApp
 !威峰
 ||yes1.feng.com
+bbs.feng.com###wrap > div.discuz_index_ad
 ! 多玩
 ||gt.duowan.com/api/g?loc=ydda
 !搜狐新闻
