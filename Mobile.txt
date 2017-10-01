@@ -13,8 +13,6 @@ baidu.com##[class*=wra] > b-scroll
 sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
 baijiahao.baidu.com##.openBox-shareEntry
-!百度知道
-zhidao.baidu.com###main-content>div>a
 !贴吧
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 baidu.com##[class^="hongbao_page"]
@@ -28,6 +26,8 @@ baidu.com###pblist > li[class]:not(.j_post_list_item)
 baidu.com##[id*=dia_mask]
 baidu.com##[id*=dia_wrapper]
 baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
+!百度知道
+zhidao.baidu.com###main-content>div>a
 !百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !百度文库
