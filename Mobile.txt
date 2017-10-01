@@ -35,8 +35,7 @@ baidu.com##.picad
 wk.baidu.com##.topFc
 wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
 !百度百科
-wapbaike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,0)"]
-wapbaike.baidu.com###J-declare
+wapbaike.baidu.com##.BK-body-wrapper>div[class][style]>ul
 !百度视频
 v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
@@ -255,9 +254,12 @@ chinaso.com##.bnwrap
 .net/ads/
 /adshow?
 /adtag.
+/adpic/
 /acmsd/
 /adstatic/
 */adsense/
+/topad/
+/bottomad/
 /__utm.gif
 /hunter/alog/
 /cpro/ui/
