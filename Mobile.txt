@@ -313,6 +313,7 @@ chinaso.com##.bnwrap
 ||a1.jandan.net/*.js
 ||bdjs.ixiumei.com
 ||ent1.12584.cn
+||w5sac788c1.360doc.cn
 ||s.360.cn^
 ||*.5125129.com
 ||*.difnxm.cn
