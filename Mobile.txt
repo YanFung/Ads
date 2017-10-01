@@ -242,6 +242,7 @@ chinaso.com##.bnwrap
 ##a[href*="/cpro/"]
 ##.bottom-adv
 ##.ads-item
+##.appdown
 ##a[href*="/?intr="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
@@ -321,6 +322,7 @@ chinaso.com##.bnwrap
 ||*.24haitao.net
 ||*.pubbirdf.com^
 ||*.pstatp.com/growth/mobile_list/image/bonus_
+||*.badmintoncn.com/cbo_include/js/cboaaa.js
 ||*.pstatp.com^*/bannersdk/
 ||*.firefang.cn^
 ||*.qi-duo.com^
