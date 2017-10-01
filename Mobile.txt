@@ -4,7 +4,7 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !百度
 ||*.bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
-||m.baidu.com/se/static/js/modules/invoke/app/banner*.js
+||*.baidu.com/se/static/js/modules/invoke/app/banner*.js
 ||*.baidu.com/se/transcode/static/img/tc-banner_$image
 www.baidu.com##.c-back+div[id]
 baidu.com##.ec_wise_ad
@@ -313,8 +313,8 @@ chinaso.com##.bnwrap
 ||a1.jandan.net/*.js
 ||bdjs.ixiumei.com
 ||ent1.12584.cn
-||*.qq.com/livemsg?
 ||s.360.cn^
+||*.qq.com/livemsg?
 ||*.5125129.com
 ||*.difnxm.cn
 ||*.fcsass.org.cn
