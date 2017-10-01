@@ -206,6 +206,7 @@ m.mop.com##.mop-index-gg
 ||*.shuqw.com
 !作业帮
 www.zybang.com##div[class][id]
+www.zybang.com##div[class][style]
 ||*.zuoyebang.cc/static/question/m-question/resource*.jpg$image
 !咸鱼
 ||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
