@@ -224,7 +224,7 @@ chinaso.com##.bnwrap
 ||img*.xydfn.com/^$image
 ||e.qxfly.com^$script,domain=m.91kds.com
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
-!视频站点
+!视频部分站点片头广告
 ||m.aty.sohu.com^
 ||*.da.mgtv.com^
 ||*.atm.youku.com^
