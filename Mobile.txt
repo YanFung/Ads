@@ -253,6 +253,7 @@ chinaso.com##.bnwrap
 ##.appdown
 ##a[href*="/?intr="]
 ##a[href*=".com/Register/?a="]
+##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##[href^="http://ad.doubleclick.net/"]
