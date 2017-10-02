@@ -204,6 +204,9 @@ dgtle.com##.footer-abox
 ##[class*=detail-ad]
 m.mop.com##.mop-index-gg
 ||*.shuqw.com
+!虎扑
+hupu.com##.m-app
+hupu.com###J_live_container
 !作业帮
 www.zybang.com##div[class][id]
 www.zybang.com##div[class][style]
