@@ -137,6 +137,7 @@ m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 !今日头条
 toutiao.com##[class="icon-container"]
 toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
+toutiao.com##.article_link[data-tag="ad"]
 !少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
@@ -300,7 +301,6 @@ chinaso.com##.bnwrap
 ||static-cn.plista.com^
 ||push.zhanzhang.baidu.com/push.js
 ||news.china.com/xml/important_news_day.json?
-||google-analytics.com/analytics.js
 ||googleads.
 ||pagead2.google*
 ||daz.jinshasi.cn/show^
@@ -336,6 +336,7 @@ chinaso.com##.bnwrap
 ||*.pstatp.com/growth/mobile_list/image/bonus_
 ||*.badmintoncn.com/cbo_include/js/cboaaa.js
 ||*.pstatp.com^*/bannersdk/
+||*.google-analytics.com/analytics.js
 ||*.firefang.cn^
 ||*.qi-duo.com^
 ||*.jd.com/exsites?spread_type=
