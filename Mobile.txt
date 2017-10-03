@@ -226,7 +226,6 @@ chinaso.com##.bnwrap
 ||img*.xydfn.com/^$image
 ||e.qxfly.com^$script,domain=m.91kds.com
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
-||bbs.hiapk.com/images/client_download.png$image
 !视频部分站点片头广告
 ||m.aty.sohu.com^
 ||*.da.mgtv.com^
@@ -260,6 +259,7 @@ chinaso.com##.bnwrap
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##[href^="http://ad.doubleclick.net/"]
+##img[src$="download.png"]
 .com/ad.$domain=~ad-tuning.de
 .com/js/ads/
 *&adsize=
