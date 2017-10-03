@@ -327,6 +327,7 @@ chinaso.com##.bnwrap
 ||s1.hiapk.com
 ||*.qq.com/livemsg?
 ||*.5125129.com
+||*.jkjjkj.top
 ||*.difnxm.cn
 ||*.fcsass.org.cn
 ||*.quw18.com^
