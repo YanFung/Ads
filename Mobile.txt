@@ -320,6 +320,7 @@ chinaso.com##.bnwrap
 ||bdjs.ixiumei.com
 ||ent1.12584.cn
 ||s.360.cn^
+||s1.hiapk.com
 ||*.qq.com/livemsg?
 ||*.5125129.com
 ||*.difnxm.cn
