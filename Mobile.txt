@@ -39,6 +39,8 @@ wapbaike.baidu.com##.BK-body-wrapper>div[class][style]>ul
 !百度视频
 v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
+!百度新闻
+news.baidu.com##.afd-item.index-list-item-container
 !爱奇艺
 m.iqiyi.com##.po-fixed.m-guide
 m.iqiyi.com##.link-app
