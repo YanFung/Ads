@@ -246,9 +246,10 @@ chinaso.com##.bnwrap
 ##.adsbygoogle
 ##.ad-item
 ##.ad-banner
+##.adTop
+##.article-ad
 ##.top-adv
 ##.listad
-##.article-ad
 ##[class*=gmine_ad]
 ##[src="/ad.js"]
 ##a[href*="/cpro/"]
