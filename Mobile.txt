@@ -109,7 +109,6 @@ m.huya.com##.u-btn-down.info_down_load_banner
 tumblr.com##.mobile-banner-inner
 !糗事百科
 ||becode.qiushibaike.com
-||cdn.aiclicash.com/jssdk/aisdk.js?v=1?aid=
 qiushibaike.com##[style*="margin-left:"]
 !百思不得姐
 budejie.com###topBanner
@@ -339,6 +338,7 @@ chinaso.com##.bnwrap
 ||*.youle55.com^
 ||*.24haitao.net
 ||*.pubbirdf.com^
+||*.aiclicash.com
 ||*.pstatp.com/growth/mobile_list/image/bonus_
 ||*.badmintoncn.com/cbo_include/js/cboaaa.js
 ||*.pstatp.com^*/bannersdk/
