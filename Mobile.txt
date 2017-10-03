@@ -274,6 +274,7 @@ chinaso.com##.bnwrap
 */adpic/
 */acmsd/
 */adstatic/
+*/ads_image/
 */adsense/
 */topad/
 */bottomad/
