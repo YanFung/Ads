@@ -171,10 +171,10 @@ tiexue.net##a[href="http://m.tiexue.net/game/jstt/index_6.html"]
 tiexue.net###mainListContainer
 !西陆军事
 xilu.com###imgsc-fixed
-!新浪博客
+!新浪
 ||beacon.sina.com.cn^
-||sina.cn/cm/sinaads_
 ||sax*.sina.
+||*.sina.cn/cm/sinaads_
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 !凤凰网
