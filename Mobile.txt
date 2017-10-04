@@ -85,8 +85,6 @@ m.bilibili.com##.index__cccTips__M-videoPage-player-
 tudou.com##.td-h5__appguide
 tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
-!youtube
-m.youtube.com##._mgb>#koya_child_6
 !PPTV聚力
 ||de.as.pptv.com^
 ||s1.pplive.cn/sta.js
@@ -282,6 +280,7 @@ chinaso.com##.bnwrap
 */hunter/alog/
 */cpro/ui/
 */ad.php|
+*/pagead/lvz?
 |http://ad.
 ||cpro.baidustatic.com
 ||spcode.baidu.com
@@ -302,11 +301,12 @@ chinaso.com##.bnwrap
 ||sp*.baidu.com^*.gif?
 ||su.bdimg.com/static/dspui/js/
 ||mipengine.baidu.com/common?query=
+||pubads.
+||googleads.
 ||tajs.qq.com^
 ||static-cn.plista.com^
 ||push.zhanzhang.baidu.com/push.js
 ||news.china.com/xml/important_news_day.json?
-||googleads.
 ||pagead2.google*
 ||daz.jinshasi.cn/show^
 ||iiiiii.hulemedia.com^
