@@ -31,6 +31,8 @@ zhidao.baidu.com###main-content>div>a
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
 !百度图片
+||image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
+image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
 !百度文库
 baidu.com##.picad
