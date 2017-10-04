@@ -28,6 +28,8 @@ baidu.com##[id*=dia_wrapper]
 baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 !百度知道
 zhidao.baidu.com###main-content>div>a
+zhidao.baidu.com##div[class$="-ecom-ads"]
+zhidao.baidu.com##.link
 !百度图片
 image.baidu.com##.istextlink.ec_image_title_new
 !百度文库
