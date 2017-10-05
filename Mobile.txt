@@ -376,3 +376,4 @@ chinaso.com##.bnwrap
 ||*.inte.sogou.com^
 ||*.lu.sogou.com^
 ||*.gwylm.com
+||hbttcc.com^
