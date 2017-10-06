@@ -250,6 +250,7 @@ chinaso.com##.bnwrap
 ##.ad-banner
 ##.adTop
 ##.article-ad
+##.bottomAd
 ##.video-ads
 ##.ytp-ad-progress-list
 ##.top-adv
