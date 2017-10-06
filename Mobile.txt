@@ -309,6 +309,7 @@ chinaso.com##.bnwrap
 ||sp*.baidu.com^*.gif?
 ||su.bdimg.com/static/dspui/js/
 ||mipengine.baidu.com/common?query=
+||static.265g.com/css/265gm/swiper.css
 ||ja.gamersky.com
 ||pubads.
 ||googleads.
