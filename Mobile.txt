@@ -274,6 +274,7 @@ chinaso.com##.bnwrap
 &advertiserid=
 -pagead-id.
 .net/ads/
+/adpuba/
 /adfolder/*
 /adshow?
 /adtag.
@@ -310,6 +311,7 @@ chinaso.com##.bnwrap
 ||sp*.baidu.com^*.gif?
 ||su.bdimg.com/static/dspui/js/
 ||mipengine.baidu.com/common?query=
+||ivy.pconline.com.cn^
 ||ja.gamersky.com
 ||pubads.
 ||googleads.
