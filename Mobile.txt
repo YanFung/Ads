@@ -341,6 +341,7 @@ chinaso.com##.bnwrap
 ||*.difnxm.cn
 ||*.fcsass.org.cn
 ||*.quw18.com^
+||*.47ks.com^*_ad.js
 ||*.users.51.la
 ||*.9ads.net
 ||*.cnzz.com
