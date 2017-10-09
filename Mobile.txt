@@ -225,6 +225,7 @@ www.zybang.com##div[class][style]
 ##.aqytop11
 ##[id^="ALayer"]
 chinaso.com##.bnwrap
+app.myzaker.com##.zk_top_barwrap
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
