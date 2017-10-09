@@ -346,7 +346,6 @@ app.myzaker.com##.zk_top_barwrap
 ||*.sufficient.cn
 ||*.bmgan.com^
 ||*.qzzljx.com
-||*.qq.com/livemsg?
 ||*.5125129.com
 ||*.jkjjkj.top
 ||*.difnxm.cn
