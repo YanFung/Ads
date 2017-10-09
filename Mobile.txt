@@ -244,7 +244,6 @@ app.myzaker.com##.zk_top_barwrap
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ||f*.baidu.com/it/u=*,*&fm=$third-party
-.com/vs.php?id=$third-party,script
 ###advertise
 ###adsad
 ##.adsbygoogle
@@ -293,6 +292,7 @@ app.myzaker.com##.zk_top_barwrap
 /cpro/ui/
 /ad.php|
 /pagead/lvz?
+.com/vs.php?id=
 |http://ad.
 ||cpro.baidustatic.com
 ||spcode.baidu.com
