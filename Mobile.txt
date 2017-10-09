@@ -341,6 +341,7 @@ app.myzaker.com##.zk_top_barwrap
 ||ent1.12584.cn
 ||s.360.cn^
 ||s1.hiapk.com
+||*.bmgan.com^
 ||*.qzzljx.com
 ||*.qq.com/livemsg?
 ||*.5125129.com
