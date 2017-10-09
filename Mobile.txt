@@ -270,6 +270,7 @@ app.myzaker.com##.zk_top_barwrap
 ##img[src$="download.png"]
 .com/ad.$domain=~ad-tuning.de
 .com/js/ads/
+.com/vs.php?id=
 &adsize=
 &ad_ids=
 &advertiserid=
@@ -292,7 +293,6 @@ app.myzaker.com##.zk_top_barwrap
 /cpro/ui/
 /ad.php|
 /pagead/lvz?
-.com/vs.php?id=
 |http://ad.
 ||cpro.baidustatic.com
 ||spcode.baidu.com
