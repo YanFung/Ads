@@ -251,6 +251,7 @@ app.myzaker.com##.zk_top_barwrap
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ###advertise
 ###adsad
+##.ad-right
 ##.adsbygoogle
 ##.ad-item
 ##.ad-banner
@@ -291,12 +292,13 @@ app.myzaker.com##.zk_top_barwrap
 /adstatic/
 /ads_image/
 /adsense/
+/ad.php|
 /topad/
 /bottomad/
+/common/ad/
 /__utm.gif
 /hunter/alog/
 /cpro/ui/
-/ad.php|
 /pagead/lvz?
 |http://ad.
 ||cpro.baidustatic.com
