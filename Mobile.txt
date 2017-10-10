@@ -132,6 +132,11 @@ gfan.com##.downs
 163.com##.footer
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
+163.com##.a_topad
+!爱玩网
+play.163.com##.m-fixedTop
+play.163.com###FixedBot
+play.163.com###J-download-client-box
 !天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
