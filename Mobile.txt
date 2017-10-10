@@ -52,11 +52,12 @@ m.iqiyi.com###bottomNativePopup
 m.iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 m.iqiyi.com##.m-wl-borderT.m-wl-entrance
 !优酷
-youku.com###FullPromotion
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
-m.youku.com##.iconPop
-m.youku.com###banner
-m.youku.com###Bigdrama
+youku.com##.iconPop
+youku.com###banner
+youku.com###Bigdrama
+youku.com###FullPromotion
+youku.com##.vo-link
 !腾讯视频
 m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
