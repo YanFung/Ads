@@ -170,6 +170,8 @@ m.autohome.com.cn##[class^=myAppendList]
 m.autohome.com.cn##a[href="javascript:;"]
 !铁血
 ||*.tiexue.net/wapcommon/mdata/jsongood_*.txt
+tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
+tiexue.net##a[href*="/wechat2/"]
 tiexue.net##[class*=moneyBox]
 !西陆军事
 xilu.com###imgsc-fixed
