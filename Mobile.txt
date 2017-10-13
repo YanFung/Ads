@@ -168,14 +168,8 @@ m.autohome.com.cn##p[class]
 m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
 m.autohome.com.cn##a[href="javascript:;"]
-!铁血军情
+!铁血
 ||*.tiexue.net/wapcommon/mdata/jsongood_*.txt$xmlhttprequest,domain=tiexue.net
-tiexue.net##a[href*=".junph."]
-tiexue.net##a[href*="game.tiexue."]
-tiexue.net##[href*="wechat"]
-tiexue.net##a[href*="m.3diche.com/?id="]
-tiexue.net##a[href="http://m.tiexue.net/game/jstt/index_6.html"]
-tiexue.net###mainListContainer
 !西陆军事
 xilu.com###imgsc-fixed
 !新浪
@@ -277,6 +271,7 @@ app.myzaker.com##.zk_top_barwrap
 ##[href^="http://ad.doubleclick.net/"]
 ##img[src$="download.png"]
 .com/ad.$domain=~ad-tuning.de
+/adx.$domain=~adx.uk.com|~adx.wowfi.com
 .com/js/ads/
 .com/vs.php?id=
 &adsize=
