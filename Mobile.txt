@@ -273,8 +273,8 @@ app.myzaker.com##.zk_top_barwrap
 ##a[href*=".com/?Extend="]
 ##[href^="http://ad.doubleclick.net/"]
 ##img[src$="download.png"]
-.com/ad.$domain=~ad-tuning.de
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
+.com/ad.$domain=~ad-tuning.de
 .com/js/ads/
 .com/vs.php?id=
 &adsize=
