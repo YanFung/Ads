@@ -318,6 +318,7 @@ app.myzaker.com##.zk_top_barwrap
 ||hm.baidu.com
 ||cm.baidu.com
 ||crs.baidu.com
+||imgstat.baidu.com
 ||sp*.baidu.com^*.gif?
 ||su.bdimg.com/static/dspui/js/
 ||mipengine.baidu.com/common?query=
@@ -340,7 +341,7 @@ app.myzaker.com##.zk_top_barwrap
 ||1.xilu.com
 ||0xxd.com
 ||1234xm.com
-||imgstat.baidu.com^
+||hps.hcuk-jewellery.com
 ||s.xz15801.com/y.js
 ||olo.6niuwang.com
 ||img.namusai.com
