@@ -396,3 +396,6 @@ app.myzaker.com##.zk_top_barwrap
 ||*.lu.sogou.com^
 ||*.gwylm.com
 ||*.hbttcc.com^
+||*.hbttcc.com^
+||*.admddc.com^
+||*.dydyhg.com^
