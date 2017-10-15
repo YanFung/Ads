@@ -332,11 +332,12 @@ app.myzaker.com##.zk_top_barwrap
 ||pagead2.google*
 ||daz.jinshasi.cn/show^
 ||dqq.lnfund.org.cn
-||0xxd.com
-||1234xm.com
 ||www.ctrhfd.top
 ||www.srhuafeng.com
+||www.kuaiyan.com
 ||1.xilu.com
+||0xxd.com
+||1234xm.com
 ||imgstat.baidu.com^
 ||s.xz15801.com/y.js
 ||olo.6niuwang.com
