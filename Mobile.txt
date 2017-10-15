@@ -331,6 +331,7 @@ app.myzaker.com##.zk_top_barwrap
 ||xueqiu.com/v4/stock/quote.json?code=
 ||pagead2.google*
 ||daz.jinshasi.cn/show^
+||dqq.lnfund.org.cn
 ||0xxd.com
 ||1234xm.com
 ||www.ctrhfd.top
