@@ -249,6 +249,7 @@ app.myzaker.com##.zk_top_barwrap
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ###advertise
 ###adsad
+###sponsorAdDiv
 ##.ad-right
 ##.adsbygoogle
 ##.ad-item
@@ -350,6 +351,7 @@ app.myzaker.com##.zk_top_barwrap
 ||ent1.12584.cn
 ||s.360.cn^
 ||s1.hiapk.com
+||*.cnzz.com
 ||*.shanghuitianxia.cn
 ||*.sufficient.cn
 ||*.bmgan.com^
@@ -362,7 +364,7 @@ app.myzaker.com##.zk_top_barwrap
 ||*.47ks.com^*_ad.js
 ||*.users.51.la
 ||*.9ads.net
-||*.cnzz.com
+||*.zcsfs.cn
 ||*.hanqidq.com^
 ||*.ge95.com^
 ||*.ejiakm.net^
