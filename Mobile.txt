@@ -233,7 +233,6 @@ app.myzaker.com##.zk_top_barwrap
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
-||e.qxfly.com^$script,domain=m.91kds.com
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
 !视频部分站点片头广告
 ||m.aty.sohu.com^
@@ -332,7 +331,6 @@ app.myzaker.com##.zk_top_barwrap
 ||xueqiu.com/v4/stock/quote.json?code=
 ||pagead2.google*
 ||daz.jinshasi.cn/show^
-||iiiiii.hulemedia.com^
 ||0xxd.com
 ||1234xm.com
 ||www.ctrhfd.top
@@ -395,7 +393,6 @@ app.myzaker.com##.zk_top_barwrap
 ||*.inte.sogou.com^
 ||*.lu.sogou.com^
 ||*.gwylm.com
-||*.hbttcc.com^
 ||*.hbttcc.com^
 ||*.admddc.com^
 ||*.dydyhg.com^
