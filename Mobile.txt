@@ -399,3 +399,5 @@ app.myzaker.com##.zk_top_barwrap
 ||*.hbttcc.com^
 ||*.admddc.com^
 ||*.dydyhg.com^
+||*.qxfly.com^
+||*.hulemedia.com^
