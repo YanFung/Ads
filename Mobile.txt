@@ -46,11 +46,12 @@ v.baidu.com###footerDownloadBanner
 !百度新闻
 news.baidu.com##.afd-item.index-list-item-container
 !爱奇艺
-m.iqiyi.com##.po-fixed.m-guide
-m.iqiyi.com##.link-app
-m.iqiyi.com###bottomNativePopup
-m.iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
-m.iqiyi.com##.m-wl-borderT.m-wl-entrance
+iqiyi.com##.po-fixed.m-guide
+iqiyi.com##.link-app
+iqiyi.com###bottomNativePopup
+iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
+iqiyi.com##.m-wl-borderT.m-wl-entrance
+iqiyi.com##div.iqy-items
 !优酷
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
 youku.com##.iconPop
