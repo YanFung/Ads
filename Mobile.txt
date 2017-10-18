@@ -404,4 +404,4 @@ app.myzaker.com##.zk_top_barwrap
 ||*.dydyhg.com^
 ||*.qxfly.com^
 ||*.hulemedia.com^
-baosmx.com
+||*.baosmx.com
