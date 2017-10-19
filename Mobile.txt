@@ -3,9 +3,9 @@
 !Author:YanFung
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !百度
-||*.bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
-||*.baidu.com/se/static/js/modules/invoke/app/banner*.js
-||*.baidu.com/se/transcode/static/img/tc-banner_$image
+bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
+baidu.com/se/static/js/modules/invoke/app/banner*.js
+baidu.com/se/transcode/static/img/tc-banner_$image
 www.baidu.com##.c-back+div[id]
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
@@ -127,9 +127,9 @@ gfan.com##.downs
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
 !网易新闻
-||*.163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
-||*.163.com*/special/*_ad_
-||*.163.com/*&affiliate=
+163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
+163.com*/special/*_ad_
+163.com/*&affiliate=
 ||nex.163.com/*iPhone&cb=jsonp_
 163.com##.footer
 163.com###docid-docAppClient
@@ -160,11 +160,11 @@ wap.ithome.com###a_ad
 zol.com.cn##.zolapp
 /z.zolapp.
 ! 汽车之家
-||*.autohome.com.cn/risk_fp_log?
+autohome.com.cn/risk_fp_log?
 ||pcmx.autohome.com.cn/impress?
-||*.autohome.com.cn/news/js_resource/resource/commonfile?
-||*.autoimg.cn/bi/mda/ahas_body.
-||*.autohome.com.cn/news/img_resource/source/commonimgs
+autohome.com.cn/news/js_resource/resource/commonfile?
+autoimg.cn/bi/mda/ahas_body.
+autohome.com.cn/news/img_resource/source/commonimgs
 m.autohome.com.cn##p[class]
 m.autohome.com.cn##.recommend-envelope
 m.autohome.com.cn##[class^=myAppendList]
