@@ -176,6 +176,8 @@ tiexue.net##a[href*="/wechat2/"]
 tiexue.net##[class*=moneyBox]
 !西陆军事
 xilu.com###imgsc-fixed
+!米尔军事
+miercn.com##.color-box
 !新浪
 ||beacon.sina.com.cn^
 ||sax*.sina.
