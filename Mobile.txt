@@ -180,6 +180,7 @@ xilu.com###imgsc-fixed
 ||beacon.sina.com.cn^
 ||sax*.sina.
 ||*.sina.cn/cm/sinaads_
+sina.cn##[href^="http://saxs."] > .f_card
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
