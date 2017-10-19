@@ -416,3 +416,5 @@ app.myzaker.com##.zk_top_barwrap
 ||*.hulemedia.com^
 ||*.baosmx.com
 ||*.gjshcn.com
+qiqivv.com
+xitao3.com
