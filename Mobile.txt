@@ -253,7 +253,10 @@ app.myzaker.com##.zk_top_barwrap
 ###advertise
 ###adsad
 ###sponsorAdDiv
+###hongbao
 ##.appDownload
+##.ad_1
+##.ad_2
 ##.ad-right
 ##.adsbygoogle
 ##.ad-item
@@ -271,6 +274,7 @@ app.myzaker.com##.zk_top_barwrap
 ##.bottom-adv
 ##.ads-item
 ##.appdown
+##.hongbao
 ##a[href*="/?intr="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
