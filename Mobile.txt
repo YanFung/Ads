@@ -408,4 +408,4 @@ app.myzaker.com##.zk_top_barwrap
 ||*.qxfly.com^
 ||*.hulemedia.com^
 ||*.baosmx.com
-
+||*.gjshcn.com
