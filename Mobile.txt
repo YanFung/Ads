@@ -156,7 +156,7 @@ sspai.com##.is-shown.open-in-app-button
 !爱范儿
 ifanr.com##.popup-app-download
 !it之家
-wap.ithome.com###a_ad
+ithome.com###ruanmei-apps
 !中关村
 ||p.zol-img.com.cn^
 zol.com.cn##.zolapp
@@ -257,6 +257,7 @@ atm.youku.com^
 ###adsad
 ###sponsorAdDiv
 ###hongbao
+###a_ad
 ##.appDownload
 ##.ad_1
 ##.ad_2
