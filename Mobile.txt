@@ -111,6 +111,8 @@ m.huya.com###iosQuickLink
 m.huya.com##.u-btn-down.info_down_load_banner
 ! 汤不热
 tumblr.com##.mobile-banner-inner
+!新浪微博
+weibo.cn##.appTips > a[href="javascript:;"]
 !糗事百科
 ||becode.qiushibaike.com
 qiushibaike.com##[style*="margin-left:"]
