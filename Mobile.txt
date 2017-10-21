@@ -334,7 +334,6 @@ atm.youku.com^
 ||su.bdimg.com/static/dspui/js/
 ||mipengine.baidu.com/common?query=
 ||ivy.pconline.com.cn^
-||e.cdwla.com
 ||ja.gamersky.com
 ||pubads.
 ||googleads.
