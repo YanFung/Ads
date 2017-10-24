@@ -286,6 +286,7 @@ atm.youku.com^
 ##a[href*=".com/?Extend="]
 ##[href^="http://ad.doubleclick.net/"]
 ##img[src$="download.png"]
+/o.php?u=*|$third-party,script
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
 .com/ad.$domain=~ad-tuning.de
 .com/js/ads/
