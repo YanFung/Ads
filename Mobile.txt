@@ -258,7 +258,6 @@ atm.youku.com^
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ||f*.baidu.com/it/u=*,*&fm=$third-party
-|http://ad.
 ###appDownload
 ###advertise
 ###adsad
