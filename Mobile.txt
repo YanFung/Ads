@@ -222,6 +222,10 @@ m.mop.com##.mop-index-gg
 !虎扑
 hupu.com##.m-app
 hupu.com###J_live_container
+!虎嗅
+huxiu.com##.js-open-app.bgw.guide-box
+!澎拜
+thepaper.cn###head_ask_app_down
 !作业帮
 www.zybang.com##div[class][id]
 www.zybang.com##div[class][style]
@@ -253,6 +257,7 @@ atm.youku.com^
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
 ||f*.baidu.com/it/u=*,*&fm=$third-party
+|http://ad.
 ###appDownload
 ###advertise
 ###adsad
@@ -303,6 +308,7 @@ atm.youku.com^
 /adpic/
 /acmsd/
 /adstatic/
+/ad_banner.
 /ads_image/
 /adsense/
 /ad.php|
