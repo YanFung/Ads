@@ -281,7 +281,6 @@ atm.youku.com^
 ##a[href*="/cpro/"]
 ##.bottom-adv
 ##.ads-item
-##.appdown
 ##.hongbao
 ##a[href*="/?intr="]
 ##a[href*=".com/Register/?a="]
