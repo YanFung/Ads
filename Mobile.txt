@@ -350,6 +350,7 @@ atm.youku.com^
 .com/ad.$domain=~ad-tuning.de
 .com/js/ads/
 .com/vs.php?id=
+.ad-plus.cn/
 &adsize=
 &ad_ids=
 &advertiserid=
@@ -442,3 +443,4 @@ pimst.cn
 fastapi.net
 tuia.cn
 alimama.com
+optaim.com
