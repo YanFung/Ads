@@ -265,7 +265,7 @@ atm.youku.com^
 ###sponsorAdDiv
 ###hongbao
 ###a_ad
-##.appDownload
+##[class*=appdown]
 ##.ad_1
 ##.ad_2
 ##.ad-right
@@ -438,3 +438,4 @@ aobde.com
 pimst.cn
 fastapi.net
 tuia.cn
+alimama.com
