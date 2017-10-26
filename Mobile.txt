@@ -34,6 +34,7 @@ zhidao.baidu.com##.link
 ||image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
+image.baidu.com##.sample0
 !百度文库
 baidu.com##.picad
 wk.baidu.com##.topFc
