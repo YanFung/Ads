@@ -37,6 +37,7 @@ image.baidu.com##.istextlink.ec_image_title_new
 image.baidu.com##.sample0
 m.baidu.com##div.sfc-image-content-adtext
 m.baidu.com##a.sfc-image-content-detailpage-exchange
+m.baidu.com##div.sfc-image-content-detailpage-looprs
 !百度文库
 baidu.com##.picad
 wk.baidu.com##.topFc
