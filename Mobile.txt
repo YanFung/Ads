@@ -130,10 +130,10 @@ budejie.com###downApp
 gfan.com##.downs
 ! 多玩
 ||gt.duowan.com/api/g?loc=ydda
-!搜狐新闻
+!搜狐
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
-!网易新闻
+!网易
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
 163.com/*&affiliate=
