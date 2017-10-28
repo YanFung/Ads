@@ -142,6 +142,8 @@ gfan.com##.downs
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
 163.com##.a_topad
+163.com##.papa-item
+163.com##.doc-footer-wrapper
 !爱玩网
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
