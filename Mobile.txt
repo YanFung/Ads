@@ -233,6 +233,8 @@ hupu.com###J_live_container
 huxiu.com##.js-open-app.bgw.guide-box
 !澎拜
 thepaper.cn###head_ask_app_down
+!西祠胡同
+xici.net###unlogin_wrapper
 !马蜂窝
 ||tongji.mafengwo.cn
 mafengwo.cn##a.omcToBan
@@ -273,6 +275,7 @@ atm.youku.com^
 ###adsad
 ###sponsorAdDiv
 ###hongbao
+###advert1
 ###a_ad
 ##[class*=appdown]
 ##.ad_1
@@ -302,7 +305,6 @@ atm.youku.com^
 ##img[src*="tui.30pan.com"]
 ##img[src$="download.png"]
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
-||*.vamaker.com^$third-party
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||cpro.baidustatic.com
 ||spcode.baidu.com
@@ -463,3 +465,6 @@ zhuba8.com
 tiimg.com
 ciimg.com
 bpimg.com
+85un.com
+fastapi.net
+vamaker.com
