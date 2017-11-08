@@ -233,6 +233,8 @@ hupu.com###J_live_container
 huxiu.com##.js-open-app.bgw.guide-box
 !澎拜
 thepaper.cn###head_ask_app_down
+!马蜂窝
+||tongji.mafengwo.cn
 !作业帮
 www.zybang.com##div[class][id]
 www.zybang.com##div[class][style]
@@ -363,6 +365,7 @@ atm.youku.com^
 &advertiserid=
 -pagead-id.
 .net/ads/
+/adcontrol.
 /adpuba/
 /adfolder/*
 /adshow?
