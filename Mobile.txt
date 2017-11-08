@@ -245,6 +245,8 @@ zuoyebang.cc/static/question/m-question/resource*.jpg$image
 !咸鱼
 ||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
 2.taobao.com##[class="idle-start col"]
+!小米社区
+bbs.xiaomi.cn##[class*=download]
 !必应
 bing.com###BottomAppPro
 !其它站点
