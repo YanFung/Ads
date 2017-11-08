@@ -235,6 +235,7 @@ huxiu.com##.js-open-app.bgw.guide-box
 thepaper.cn###head_ask_app_down
 !马蜂窝
 ||tongji.mafengwo.cn
+mafengwo.cn##a.omcToBan
 !作业帮
 www.zybang.com##div[class][id]
 www.zybang.com##div[class][style]
