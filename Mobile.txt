@@ -353,7 +353,8 @@ atm.youku.com^
 ||s1.hiapk.com
 |http://ad.
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
-.com/ad^$domain=~ad-tuning.de~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
+.com/ad.$domain=~ad-tuning.de
+.com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/js/ads/
 .com/vs.php?id=
 .ad-plus.cn/
