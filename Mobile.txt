@@ -296,6 +296,7 @@ atm.youku.com^
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##[href^="http://ad.doubleclick.net/"]
+##img[src*="tui.30pan.com"]
 ##img[src$="download.png"]
 ||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||*.vamaker.com^$third-party
