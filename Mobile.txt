@@ -171,6 +171,8 @@ zol.com.cn##.zolapp
 /z.zolapp.
 ! 汽车之家
 autohome.com.cn/news/
+autohome.com.cn/risk_fp_log?
+pcmx.autohome.com.cn/impress?
 !铁血
 tiexue.net/wapcommon/mdata/json*.txt
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
