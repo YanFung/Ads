@@ -279,6 +279,7 @@ atm.youku.com^
 ###advert1
 ###a_ad
 ##[class*=appdown]
+##.adv-text
 ##.ad_1
 ##.ad_2
 ##.ad-right
