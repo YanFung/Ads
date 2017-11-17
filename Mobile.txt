@@ -216,6 +216,8 @@ jiemian.com##.header-inner
 renren.com/static/*?ad_
 !轻芒
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
+!掘金
+juejin.im##.mobile-bottom-bar
 !数字尾巴
 dgtle.com##.footer-abox
 !猫扑
