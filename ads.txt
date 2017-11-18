@@ -2,10 +2,3 @@
 ! Title:测试
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
-||push.zhanzhang.baidu.com/push.js
-njjahb.com
-.com/js/ads/
-cnzz.com
-quanliyouxi.com
-hmj800.com
-bjeai.com
