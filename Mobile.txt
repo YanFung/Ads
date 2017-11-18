@@ -368,8 +368,6 @@ atm.youku.com^
 .com/js/ads/
 .com/vs.php?id=
 .ad-plus.cn/
-.com/js/ads/
-njjahb.com
 &adsize=
 &ad_ids=
 &advertiserid=
@@ -478,3 +476,4 @@ anyysz.com
 hiido.com
 prazpf.cn
 nthtcs.com
+njjahb.com
