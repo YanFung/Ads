@@ -1,0 +1,11 @@
+! Version:2017/9/24/17:30
+! Title:测试
+! Author:YanFung
+! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
+||push.zhanzhang.baidu.com/push.js
+njjahb.com
+.com/js/ads/
+cnzz.com
+imgage.soloth.com/txt/
+bjeai.com
+mvimg2.meitudata.com
