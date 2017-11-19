@@ -3,5 +3,5 @@
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
 */videos/other/*$domai
-*/videos/otvher/*$domain
+*/videos/v0/*$domain
 ws://*/ws*$domain
