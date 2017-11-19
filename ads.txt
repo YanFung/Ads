@@ -2,6 +2,6 @@
 ! Title:测试
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
-*/videos/other/*$domai
+*/videos/other/*$domain
 */videos/v0/*$domain
 ws://*/ws*$domain
