@@ -2,5 +2,5 @@
 ! Title:测试
 ! Author:YanFung
 ! Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
-*/videos/other/*.ts^$domain=m.iqiyi.com
-ws://*/ws*$domain=m.iqiyi.com
+*/videos/other/*$domain
+ws://*/ws*$domain
