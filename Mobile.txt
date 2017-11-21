@@ -234,6 +234,8 @@ hupu.com###J_live_container
 huxiu.com##.js-open-app.bgw.guide-box
 !澎拜
 thepaper.cn###head_ask_app_down
+!360doc个人图书馆
+||mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js?t=
 !西祠胡同
 xici.net###unlogin_wrapper
 !马蜂窝
