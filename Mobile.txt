@@ -364,7 +364,6 @@ atm.youku.com^
 ||s.360.cn^
 ||s1.hiapk.com
 |http://ad.
-/adx.$domain=~adx.uk.com|~adx.wowfi.com
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/js/ads/
@@ -375,6 +374,7 @@ atm.youku.com^
 &advertiserid=
 -pagead-id.
 .net/ads/
+/adx.$domain=~adx.uk.com|~adx.wowfi.com
 /adcontrol.
 /adpuba/
 /adfolder/*
@@ -405,6 +405,13 @@ alicdn.com/g/mm/afp-cdn/js/
 zdface.com/js/m/zw_banner.js
 sohu.com/api/labs/hotnews/c/load?
 inte.sogoucdn.com/wap/js/wp.js
+aiclicash.com
+admddc.com
+anyysz.com
+alimama.com
+aobde.com
+
+
 cnzz.com
 shanghuitianxia.cn
 sufficient.cn
@@ -419,7 +426,7 @@ zzhszj.com
 hanqidq.com
 ejiakm.net
 pubbirdf.com
-aiclicash.com
+
 firefang.cn
 qi-duo.com
 zxhymh.com
@@ -435,7 +442,7 @@ inte.sogou.com
 lu.sogou.com
 gwylm.com
 hbttcc.com
-admddc.com
+
 dydyhg.com
 qxfly.com
 hulemedia.com
@@ -448,11 +455,11 @@ wcnmd.top
 epernn.cn
 cdwla.com
 fm-gj.com
-aobde.com
+
 pimst.cn
 fastapi.net
 tuia.cn
-alimama.com
+
 optaim.com
 farwx.com
 wikigifth.com
@@ -463,7 +470,7 @@ tiimg.com
 ciimg.com
 bpimg.com
 vamaker.com
-anyysz.com
+
 hiido.com
 prazpf.cn
 nthtcs.com
