@@ -388,12 +388,13 @@ atm.youku.com^
 /ads_image/
 /adsense/
 /ad.php|
-/topad/
 /bottomad/
 /common/ad/
+/cpro/ui/
+/topad/
+/track.gif?
 /__utm.gif
 /hunter/alog/
-/cpro/ui/
 /pagead/lvz?
 pstatp.com/growth/mobile_list/image/bonus_
 badmintoncn.com/cbo_include/js/cboaaa.js
