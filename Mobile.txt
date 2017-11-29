@@ -19,6 +19,7 @@ baijiahao.baidu.com##.openBox-shareEntry
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 baidu.com##[class^="hongbao_page"]
 baidu.com##.appPromote
+baidu.com##.footer_logo
 baidu.com##a.fixed_bar
 baidu.com###index-tuijian
 baidu.com###app-special
