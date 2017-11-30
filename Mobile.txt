@@ -188,6 +188,8 @@ miercn.com##.color-box
 !新浪
 ||beacon.sina.com.cn^
 ||sax*.sina.
+||xc.mydrivers.com/other/sina/sm_sinawap*.js
+sina.cn^*/impress?
 sina.cn/cm/sinaads_
 sina.cn##[href^="http://saxs."] > .f_card
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
@@ -418,6 +420,7 @@ cdwla.com
 ctrhfd.top
 dydyhg.com
 difnxm.cn
+d6.mobaders.com
 ejiakm.net
 epernn.cn
 fcsass.org.cn
@@ -448,6 +451,7 @@ kuaiyan.com
 lu.sogou.com
 ltcprtc.com
 mushizhubao.com
+mipujia.com
 nthtcs.com
 njjahb.com
 niuxgame77.com
@@ -456,6 +460,7 @@ pdfbs.com
 pubbirdf.com
 pimst.cn
 prazpf.cn
+pagechoice.net
 pstatp.com^*/bannersdk/
 pstatp.com/growth/mobile_list/image/bonus_
 qzzljx.com
@@ -488,6 +493,7 @@ zjkdaikuan.com
 zdface.com/js/m/zw_banner.js
 0xxd.com
 0571yy.com
+100669.com
 1.xilu.com
 12365chia.com
 1234xm.com
