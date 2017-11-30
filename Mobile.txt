@@ -358,6 +358,7 @@ atm.youku.com^
 ||www.65yw.com/i.html
 ||xueqiu.com/v4/stock/quote.json?code=
 ||zx.kqzwg.com
+|http://*.cn/ad/
 |http://ad.
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
@@ -372,6 +373,7 @@ atm.youku.com^
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
 /adcontrol.
 /adpuba/
+/advert/
 /adfolder/*
 /adshow?
 /adtag.
@@ -383,14 +385,17 @@ atm.youku.com^
 /ads_image/
 /adsense/
 /ad.php|
+/adshow.
 /bottomad/
 /common/ad/
 /cpro/ui/
 /topad/
 /track.gif?
-/__utm.gif
 /hunter/alog/
 /pagead/lvz?
+/site/ads?
+/__utm.gif
+appsflyer.com
 aiclicash.com
 admddc.com
 anyysz.com
@@ -420,6 +425,7 @@ ge95.com
 gwylm.com
 gjshcn.com
 guangzizai.com
+ggxt.net
 google-analytics.com/analytics.js
 hanqidq.com
 hiido.com
@@ -485,3 +491,4 @@ zdface.com/js/m/zw_banner.js
 51gpt.com
 85un.com
 9ads.net
+91friend.com
