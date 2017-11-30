@@ -318,7 +318,6 @@ atm.youku.com^
 ##a[href*=".com/?Extend="]
 ##img[src*="tui.30pan.com"]
 ##img[src$="download.png"]
-||*.tanx.com^$third-party,domain=~1688.com|~alimama.com|~taobao.com|~tmall.com
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||api.36cj.com/fei.html
 ||a1.jandan.net/*.js
