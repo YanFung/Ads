@@ -237,6 +237,7 @@ huxiu.com##.js-open-app.bgw.guide-box
 thepaper.cn###head_ask_app_down
 !360doc个人图书馆
 ||mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js?t=
+w5sac788c1.360doc.cn
 !西祠胡同
 xici.net###unlogin_wrapper
 !马蜂窝
@@ -261,6 +262,8 @@ bing.com###BottomAppPro
 chinaso.com##.bnwrap
 app.myzaker.com##.zk_top_barwrap
 sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
+kdslife.com##a[href="//club.kdslife.com/app.php"]
+jiangduw.com##.comiis_wx_gzgzh
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
@@ -470,7 +473,6 @@ users.51.la
 vamaker.com
 wikigifth.com
 wcnmd.top
-w5sac788c1.360doc.cn
 xcdzsw.com
 xitao3.com
 youle55.com
