@@ -363,6 +363,7 @@ atm.youku.com^
 ||zx.kqzwg.com
 |http://*.cn/ad/
 |http://ad.
+|http://*.com/s.php?id=$third-party,script
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/js/ads/
@@ -441,6 +442,7 @@ inte.sogoucdn.com/wap/js/wp.js
 img.namusai.com
 jkjjkj.top
 jd.com/exsites?spread_type=
+js.passport.qihucdn.com/11.0.1.js
 kkcaicai.com
 kuaiyan.com
 lu.sogou.com
@@ -469,6 +471,7 @@ srhuafeng.com
 sohu.com/api/labs/hotnews/c/load?
 tuia.cn
 tiimg.com
+tanx.com
 users.51.la
 vamaker.com
 wikigifth.com
@@ -484,6 +487,7 @@ zxhymh.com
 zjkdaikuan.com
 zdface.com/js/m/zw_banner.js
 0xxd.com
+0571yy.com
 1.xilu.com
 12365chia.com
 1234xm.com
