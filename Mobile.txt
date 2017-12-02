@@ -261,8 +261,11 @@ bing.com###BottomAppPro
 ##.down
 ##.aqytop11
 ##[id^="ALayer"]
-chinaso.com##.bnwrap
 app.myzaker.com##.zk_top_barwrap
+btbtdy.com##[class^=ADTOPLB_]
+chinaso.com##.bnwrap
+nbd.com.cn##[class=header]
+kdnet.net##.download-bar
 sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 jiangduw.com##.comiis_wx_gzgzh
@@ -270,8 +273,6 @@ jiangduw.com##.comiis_wx_gzgzh
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
-nbd.com.cn##[class=header]
-kdnet.net##.download-bar
 !视频部分站点片头广告
 ||m.aty.sohu.com^
 da.mgtv.com^
