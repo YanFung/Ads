@@ -314,6 +314,7 @@ atm.youku.com^
 ||mobads.baidu.com
 ||msite.baidu.com
 ||mipengine.baidu.com/common?query=
+||m.zanghaihuatxt.com/xxgg/book.js
 ||news.china.com/xml/important_news_day.json?
 ||nsclick.baidu.com
 ||olo.6niuwang.com
