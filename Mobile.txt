@@ -219,6 +219,7 @@ jiemian.com##.header-inner
 36kr.com##a.fixed-linkedme:last-child
 !人人网
 renren.com/static/*?ad_
+||funbox.upush.cn/images/funbox/icons/*.gif
 !轻芒
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 !掘金
