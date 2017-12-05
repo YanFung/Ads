@@ -439,7 +439,6 @@ jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
 kkcaicai.com
 kuaiyan.com
-kkcaicai.com
 lu.sogou.com
 ltcprtc.com
 mushizhubao.com
