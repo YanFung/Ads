@@ -301,6 +301,7 @@ atm.youku.com^
 ###sponsorAdDiv
 ###hongbao
 ###db_ad
+###_embed_v3_dc
 ##.ad_1
 ##.ad_2
 ##.ad-right
