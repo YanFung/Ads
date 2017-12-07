@@ -209,6 +209,7 @@ ifeng.com###slide_1
 ||www.zhihu.com/api/v4/alter_banners/
 ||www.zhihu.com/api/v4/banners/
 zhihu.com##.is-shown.OpenInAppButton
+zhihu.com##div[data-za-detail-view-path-is_ad]
 !华数TV
 ||delivery-pc.wasu.cn^
 wasu.cn##.ads
