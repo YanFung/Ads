@@ -502,6 +502,7 @@ wcnmd.top
 www.65yw.com/i.html
 xcdzsw.com
 xitao3.com
+xkanf.com
 xueqiu.com/v4/stock/quote.json?code=
 youle55.com
 yijikm.com
