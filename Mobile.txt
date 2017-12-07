@@ -246,6 +246,7 @@ w5sac788c1.360doc.cn
 !西祠胡同
 xici.net###unlogin_wrapper
 ! 起点中文网
+qidian.com###footerApp
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 !马蜂窝
 ||tongji.mafengwo.cn
