@@ -172,7 +172,7 @@ ithome.com###ruanmei-apps
 zol.com.cn##.zolapp
 /z.zolapp.
 ! 汽车之家
-autohome.com.cn/news/
+autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
 pcmx.autohome.com.cn/impress?
 autohome.com.cn##.sign-wp
