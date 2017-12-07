@@ -245,6 +245,8 @@ thepaper.cn###head_ask_app_down
 w5sac788c1.360doc.cn
 !西祠胡同
 xici.net###unlogin_wrapper
+! 起点中文网
+||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 !马蜂窝
 ||tongji.mafengwo.cn
 mafengwo.cn##a.omcToBan
@@ -319,6 +321,7 @@ atm.youku.com^
 ##.bottomAd
 ##.bottom-adv
 ##.hongbao
+##.module-ad
 ##.top-adv
 ##.video-ads
 ##.ytp-ad-progress-list
@@ -477,6 +480,7 @@ qi-duo.com
 qiqivv.com
 quanliyouxi.com
 quw18.com
+qdp.qidian.com
 rfese.com
 shuqw.com
 shanghuitianxia.cn
