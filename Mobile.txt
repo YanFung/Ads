@@ -280,6 +280,7 @@ jiangduw.com##.comiis_wx_gzgzh
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
+thumb.1010pic.com/05wang/images/*.png$image
 !视频部分站点片头广告
 ||m.aty.sohu.com^
 da.mgtv.com^
@@ -415,6 +416,7 @@ drmcmm.baidu.com
 dqq.lnfund.org.cn
 dup.baidustatic.com/js
 daz.jinshasi.cn/show
+discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 ejiakm.net
 epernn.cn
 eiv.baidu.com
@@ -532,6 +534,7 @@ zdface.com/js/m/zw_banner.js
 0xxd.com
 0571yy.com
 100669.com
+1.1010pic.com
 1.xilu.com
 12365chia.com
 1234xm.com
