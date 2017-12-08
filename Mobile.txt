@@ -321,12 +321,14 @@ atm.youku.com^
 ##.adsbygoogle
 ##.article-ad
 ##.adTop
+##.a_pr
 ##.bottomAd
 ##.bottom-adv
 ##.hongbao
 ##.module-ad
 ##.top-adv
 ##.video-ads
+##.wp.a_t
 ##.ytp-ad-progress-list
 ##.listad
 ##[src="/ad.js"]
