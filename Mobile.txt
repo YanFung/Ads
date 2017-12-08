@@ -459,6 +459,7 @@ kkcaicai.com
 kuaiyan.com
 lu.sogou.com
 ltcprtc.com
+lvyishengtai.com
 mushizhubao.com
 mipujia.com
 miaozhen.com
@@ -479,6 +480,7 @@ pubads.
 pagead2.google*
 pdfbs.com
 pubbirdf.com
+pptte.com
 pimst.cn
 prazpf.cn
 pagechoice.net
