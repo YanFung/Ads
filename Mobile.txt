@@ -275,12 +275,12 @@ nbd.com.cn##[class=header]
 kdnet.net##.download-bar
 sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 kdslife.com##a[href="//club.kdslife.com/app.php"]
+www.05wang.com##img[src*="thumb.1010pic.com/05wang/images/"]
 jiangduw.com##.comiis_wx_gzgzh
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
-thumb.1010pic.com/05wang/images/*.png$image
 !视频部分站点片头广告
 ||m.aty.sohu.com^
 da.mgtv.com^
