@@ -509,6 +509,7 @@ slvtx.com
 spcode.baidu.com
 static-cn.plista.com
 s.360.cn
+sogoucdn.com
 s1.hiapk.com
 sp*.baidu.com^*.gif?
 s.xz15801.com/y.js
