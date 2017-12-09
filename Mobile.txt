@@ -453,7 +453,6 @@ imgstat.baidu.com
 ivy.pconline.com.cn
 inte.sogou.com
 img.namusai.com
-inte.sogoucdn.com/wap/js/wp.js
 juuhe.com
 jkjjkj.top
 ja.gamersky.com
