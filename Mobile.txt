@@ -178,7 +178,7 @@ pcmx.autohome.com.cn/impress?
 autoimg.cn/bi/mda/ahas_body.
 autohome.com.cn##.sign-wp
 !铁血
-tiexue.net/wapcommon/mdata/json*.txt
+tiexue.net/wapcommon/mdata/*.txt
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="/wechat2/"]
 tiexue.net##[class*=moneyBox]
