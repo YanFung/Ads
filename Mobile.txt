@@ -182,6 +182,7 @@ tiexue.net/wapcommon/mdata/json*.txt
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="/wechat2/"]
 tiexue.net##[class*=moneyBox]
+tiexue.net##.hg_test
 !西陆军事
 xilu.com###imgsc-fixed
 !米尔军事
@@ -481,6 +482,7 @@ pagead2.google*
 pdfbs.com
 pubbirdf.com
 pptte.com
+pyzxsl.com
 pimst.cn
 prazpf.cn
 pagechoice.net
