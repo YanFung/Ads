@@ -268,7 +268,8 @@ bbs.xiaomi.cn##[class*=download]
 bing.com###BottomAppPro
 ! 字幕站点
 zimuzu.tv##div[class*="-tip show"]
-zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
+zimuzu.tv###nGame
+zimuzu.tv##[class="gameList"]
 !其它站点
 ##.active.mod-download-tips-con
 ##.down
