@@ -509,11 +509,12 @@ sufficient.cn
 srhuafeng.com
 sysadult.cn
 slvtx.com
-spcode.baidu.com
-static-cn.plista.com
 s.360.cn
 sogoucdn.com
 s1.hiapk.com
+symaw.cn
+spcode.baidu.com
+static-cn.plista.com
 sp*.baidu.com^*.gif?
 s.xz15801.com/y.js
 su.bdimg.com/static/dspui/js/
