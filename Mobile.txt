@@ -302,7 +302,7 @@ atm.youku.com^
 |http://ad.
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||googleads.
-!---------CSS---------
+!----------------CSS---------------
 ##[id*=appDown]
 ##[class="ads"]
 ###advertise
@@ -349,7 +349,8 @@ atm.youku.com^
 ##img[src*="tui.30pan.com"]
 ##img[src*="sohucs.com"]
 ##img[src$="download.png"]
-!---------JS1---------
+##img[src*="img.bncoo.com/forum"]
+!---------------------JS1--------------------
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/js/ads/
@@ -388,7 +389,7 @@ atm.youku.com^
 /pagead/lvz?
 /site/ads?
 /__utm.gif
-!---------JS2---------
+!--------------------JS2-------------------
 appsflyer.com
 aiclicash.com
 admddc.com
@@ -445,6 +446,7 @@ gjshcn.com
 gzdhzb.com
 guidashu.com
 guangzizai.com
+googlesyndication.com
 google-analytics.com/analytics.js
 hanqidq.com
 hiido.com
