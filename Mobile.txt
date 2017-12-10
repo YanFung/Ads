@@ -375,6 +375,7 @@ atm.youku.com^
 &advertiserid=
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
 /ad1_
+/ads2.
 /adcontrol.
 /adpuba/
 /advert/
