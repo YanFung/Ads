@@ -326,6 +326,7 @@ atm.youku.com^
 ##.article-ad
 ##.adTop
 ##.a_pr
+##.app_download
 ##.bottomAd
 ##.bottom-adv
 ##.hongbao
