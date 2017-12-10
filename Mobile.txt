@@ -356,6 +356,7 @@ atm.youku.com^
 .com/vs.php?id=
 .ad-plus.cn/
 .net/ads/
+.8ox.cn
 -pagead-id.
 &adsize=
 &ad_ids=
@@ -466,6 +467,7 @@ js.passport.qihucdn.com/11.0.1.js
 kkcaicai.com
 kuaiyan.com
 kuuad.com
+kingpolo.com.cn
 lu.sogou.com
 ltcprtc.com
 lvyishengtai.com
@@ -531,6 +533,7 @@ tanx.com
 tajs.qq.com
 tjgxzs.com
 users.51.la
+vnnv777.cn
 vamaker.com
 wikigifth.com
 wcnmd.top
