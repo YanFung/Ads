@@ -266,6 +266,8 @@ zuoyebang.cc/static/question/m-question/resource*.jpg$image
 bbs.xiaomi.cn##[class*=download]
 !必应
 bing.com###BottomAppPro
+! 字幕站点
+zimuzu.tv##div[class*="-tip show"]
 !其它站点
 ##.active.mod-download-tips-con
 ##.down
