@@ -325,8 +325,12 @@ atm.youku.com^
 ##.adsbygoogle
 ##.article-ad
 ##.adTop
+##.a_cn
 ##.a_pr
+##.a_mu
 ##.app_download
+##.container_ad
+##.bm.a_c
 ##.bottomAd
 ##.bottom-adv
 ##.hongbao
@@ -382,6 +386,8 @@ atm.youku.com^
 /adshow.
 /bottomad/
 /common/ad/
+/common/ad_
+/common/cf/$image
 /cpro/ui/
 /topad/
 /track.gif?
@@ -476,6 +482,7 @@ ltcprtc.com
 lvyishengtai.com
 mushizhubao.com
 mipujia.com
+mmstat.com
 miaozhen.com
 mobads.baidu.com
 msite.baidu.com
