@@ -415,6 +415,7 @@ cnzz.com
 ccbccb.cn
 cdwla.com
 ctrhfd.top
+dcxmy.com
 dydyhg.com
 difnxm.cn
 d6.mobaders.com
@@ -462,6 +463,7 @@ jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
 kkcaicai.com
 kuaiyan.com
+kuuad.com
 lu.sogou.com
 ltcprtc.com
 lvyishengtai.com
@@ -559,6 +561,7 @@ zdface.com/js/m/zw_banner.js
 47ks.com^*_ad.js
 5125129.com
 51gpt.com
+51findu.com/command/qn.js
 77kp.com/gg123/
 85un.com
 88rpg.net
