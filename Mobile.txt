@@ -356,6 +356,7 @@ atm.youku.com^
 .com/vs.php?id=
 .ad-plus.cn/
 .net/ads/
+.tv/ads/
 .8ox.cn
 -pagead-id.
 &adsize=
