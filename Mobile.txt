@@ -281,6 +281,7 @@ kdslife.com##a[href="//club.kdslife.com/app.php"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
 jiangduw.com##.comiis_wx_gzgzh
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
+||bttiantang.org/d/file/p/2017-10-03/*.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
