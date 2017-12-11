@@ -206,10 +206,12 @@ news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 !凤凰网
+stadig.ifeng.com
+fcai.com/ifengIndex.html
 ifeng.com/burroughsnews?type=
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
-||stadig.ifeng.com
+ifengimg.com^*/sta_collection
 ifeng.com##.luckybag
 ifeng.com###slide_1
 !知乎
@@ -379,6 +381,7 @@ atm.youku.com^
 .net/ads/
 .tv/ads/
 .8ox.cn
+.html?ad_
 -pagead-id.
 &adsize=
 &adnum=
@@ -408,6 +411,7 @@ atm.youku.com^
 /common/ad_
 /common/cf/$image
 /cpro/ui/
+/ifengad/
 /topad/
 /track.gif?
 /hunter/alog/
