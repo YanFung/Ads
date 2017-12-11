@@ -455,7 +455,7 @@ dqq.lnfund.org.cn
 d6.mobaders.com
 duiwai.baidu.com
 drmcmm.baidu.com
-dup.baidustatic.com/js
+dup.baidustatic.com
 daz.jinshasi.cn/show
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 ejiakm.net
