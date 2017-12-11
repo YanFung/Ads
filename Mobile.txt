@@ -541,9 +541,10 @@ sufficient.cn
 shanghuitianxia.cn
 shuqw.com
 slvtx.com
-sogoucdn.com
 s1.hiapk.com
+sanwen8.com
 srhuafeng.com
+sogoucdn.com
 spcode.baidu.com
 static-cn.plista.com
 sp*.baidu.com^*.gif?
