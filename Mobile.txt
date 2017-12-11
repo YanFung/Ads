@@ -179,6 +179,8 @@ autoimg.cn/bi/mda/ahas_body.
 autohome.com.cn##.sign-wp
 ! 太平洋汽车
 ||www.pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
+! 易车网
+yiche.com##.float-r-box
 !铁血
 tiexue.net/wapcommon/mdata/*.txt
 log.game.tiexue.net
@@ -312,6 +314,8 @@ atm.youku.com^
 !----------------CSS---------------
 ##[id*=appDown]
 ##[class="ads"]
+###ads3
+###ads4
 ###advertise
 ###adsad
 ###advert1
@@ -324,6 +328,7 @@ atm.youku.com^
 ##.ad_2
 ##.ad-right
 ##.ad-item
+##.ad-line
 ##.ad-banner
 ##.adv-text
 ##.ads-item
@@ -421,6 +426,7 @@ bjeai.com
 bjzcbx.com
 bdjs.ixiumei.com
 bdstatic.com^*/mip-*ad
+bitauto.com/bglog.gif?
 badmintoncn.com/cbo_include/js/cboaaa.js
 ctrhfd.top
 ccbccb.cn
@@ -574,9 +580,10 @@ xitao3.com
 xkanf.com
 xueqiu.com/v4/stock/quote.json?code=
 youle55.com
+ygqczh.com
+yccdn.com
 yijikm.com
 yijieweizf.com
-ygqczh.com
 zcsfs.cn
 zjycy.com
 zzhszj.com
