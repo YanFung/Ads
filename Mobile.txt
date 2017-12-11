@@ -213,7 +213,7 @@ ifengimg.com/a/o.js
 ifengimg.com/p/ax_
 ifengimg.com^*/sta_collection
 bdfpbimg.ifengimg.com
-ifeng.com###mobile_gg_jd
+ifeng.com##[id*=mobile_gg]
 ifeng.com##.newbagicon
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
@@ -221,7 +221,6 @@ ifeng.com###slide_1
 ifeng.com##a[href*=".sm.cn"]
 ifeng.com##li[id][style*="height:"]
 ifeng.com##li[id][style*="height:"] + li
-ifeng.com##[id*=mobile_gg]
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
 !知乎
