@@ -215,6 +215,10 @@ ifengimg.com^*/sta_collection
 bdfpbimg.ifengimg.com
 ifeng.com###mobile_gg_jd
 ifeng.com##.newbagicon
+ifeng.com###golddigger_bottom
+ifeng.com###linkrat_bottom
+ifeng.com###slide_1
+ifeng.com##a[href*=".sm.cn"]
 !知乎
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/alter_banners/
