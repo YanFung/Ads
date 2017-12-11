@@ -385,6 +385,7 @@ atm.youku.com^
 &ad_ids=
 &advertiserid=
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
+/ad1.
 /ad1_
 /ads2.
 /adcontrol.
