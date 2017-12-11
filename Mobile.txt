@@ -348,6 +348,7 @@ atm.youku.com^
 ##.hongbao
 ##.module-ad
 ##.top-adv
+##.topads
 ##.video-ads
 ##.wp.a_t
 ##.ytp-ad-progress-list
@@ -372,6 +373,7 @@ atm.youku.com^
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/js/ads/
 .com/vs.php?id=
+.cn/vs.php?id=
 .ad-plus.cn/
 .net/ads/
 .tv/ads/
@@ -565,6 +567,7 @@ sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
 tuia.cn
+tiantianedu.net
 tiimg.com
 tanx.com
 tajs.qq.com
