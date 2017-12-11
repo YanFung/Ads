@@ -381,6 +381,7 @@ atm.youku.com^
 .8ox.cn
 -pagead-id.
 &adsize=
+&adnum=
 &ad_ids=
 &advertiserid=
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
@@ -412,6 +413,7 @@ atm.youku.com^
 /pagead/lvz?
 /site/ads?
 /__utm.gif
+/partner/gg_sogou.html
 !--------------------URL-------------------
 assigned.cn
 appsflyer.com
@@ -577,6 +579,7 @@ tiimg.com
 tanx.com
 tajs.qq.com
 tjgxzs.com
+tt123.eastday.com
 users.51.la
 vnnv777.cn
 vamaker.com
