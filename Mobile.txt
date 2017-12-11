@@ -407,6 +407,7 @@ atm.youku.com^
 /adsense/
 /ad.php|
 /adshow.
+/ad/js/
 /bottomad/
 /common/ad/
 /common/ad_
