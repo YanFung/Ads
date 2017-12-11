@@ -412,6 +412,7 @@ atm.youku.com^
 /site/ads?
 /__utm.gif
 !--------------------URL-------------------
+assigned.cn
 appsflyer.com
 aiclicash.com
 admddc.com
@@ -548,6 +549,7 @@ raeqqe.cn
 rideraid.net
 rfese.com
 s.360.cn
+symaa.cn
 symaw.cn
 sysadult.cn
 siyinlong.cn
