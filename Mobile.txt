@@ -549,6 +549,8 @@ sp*.baidu.com^*.gif?
 s.xz15801.com/y.js
 su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
+sogou.com/wap_ask_service?
+sogou.com/ask?id=
 tuia.cn
 tiimg.com
 tanx.com
