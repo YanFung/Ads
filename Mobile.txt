@@ -219,6 +219,7 @@ ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 ifeng.com###slide_1
 ifeng.com##a[href*=".sm.cn"]
+ifeng.com##li[id][style*="height:"]
 !知乎
 ||zhihu-web-analytics.zhihu.com^
 ||www.zhihu.com/api/v4/alter_banners/
