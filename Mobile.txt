@@ -294,8 +294,6 @@ suning.com##.v5-headDown
 !其它站点
 ##.active.mod-download-tips-con
 ##.down
-##.aqytop11
-##[id^="ALayer"]
 app.myzaker.com##.zk_top_barwrap
 btbtdy.com##[class^=ADTOPLB_]
 chinaso.com##.bnwrap
@@ -624,12 +622,13 @@ yijikm.com
 yijieweizf.com
 zcsfs.cn
 zjycy.com
+zx-jsp.com
 zzhszj.com
 zxhymh.com
 zhuba8.com
-zjkdaikuan.com
 zantainet.com
 zx.kqzwg.com
+zjkdaikuan.com
 zdface.com/js/m/zw_banner.js
 0xxd.com
 0571yy.com
