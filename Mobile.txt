@@ -306,6 +306,7 @@ jiangduw.com##.comiis_wx_gzgzh
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
+||static.cnqiang.com/images/appdlx.jpg$image
 !视频部分站点片头广告
 ||m.aty.sohu.com^
 da.mgtv.com^
