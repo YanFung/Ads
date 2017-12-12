@@ -349,6 +349,7 @@ atm.youku.com^
 ##.adv-text
 ##.ads-item
 ##.ads-footer
+##.ads-content
 ##.add_txt
 ##.adsbygoogle
 ##.article-ad
