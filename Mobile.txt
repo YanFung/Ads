@@ -289,6 +289,9 @@ zimuzu.tv###nGame
 zimuzu.tv##[class="gameList"]
 ! 购物站
 ||h5.m.taobao.com/applink/smbConfig.html
+jd.com###download_banner
+gome.com.cn##.m-downapp
+suning.com##.v5-headDown
 !其它站点
 ##.active.mod-download-tips-con
 ##.down
