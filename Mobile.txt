@@ -48,9 +48,6 @@ wk.baidu.com##.topFc
 wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
 !百度百科
 wapbaike.baidu.com##.BK-body-wrapper>div[class][style]>ul
-!百度视频
-v.baidu.com##.goAppIndex.btn-addApp-openapp
-v.baidu.com###footerDownloadBanner
 !百度新闻
 news.baidu.com##.afd-item.index-list-item-container
 !爱奇艺
@@ -60,6 +57,9 @@ iqiyi.com###bottomNativePopup
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com##.m-wl-borderT.m-wl-entrance
 iqiyi.com##div.iqy-items
+!百度视频
+v.baidu.com##.goAppIndex.btn-addApp-openapp
+v.baidu.com###footerDownloadBanner
 !优酷
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
 youku.com##.iconPop
@@ -112,11 +112,12 @@ m.panda.tv##.btn-download
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
-!虎牙直播
-m.huya.com###down_div
-m.huya.com##.chat_btn
-m.huya.com###iosQuickLink
-m.huya.com##.u-btn-down.info_down_load_banner
+! 虎牙直播
+huya.com##[class$=banner-wrap]
+huya.com##.chat_btn
+! 91电视直播
+||m.91kds.com/css/head3.jpg$image
+91kds.com###bottomAD
 ! 汤不热
 tumblr.com##.mobile-banner-inner
 !新浪微博
@@ -250,9 +251,6 @@ dgtle.com##.footer-abox
 !猫扑
 ##[class*=detail-ad]
 m.mop.com##.mop-index-gg
-!虎牙直播
-huya.com##.banner-wrap
-huya.com###swiper-banner
 !虎扑
 hupu.com##.m-app
 hupu.com###J_live_container
