@@ -67,11 +67,13 @@ youku.com###banner
 youku.com###Bigdrama
 youku.com###FullPromotion
 youku.com##.vo-link
-!腾讯视频
+!腾讯
 m.v.qq.com##div[_hot="banner"]
 m.v.qq.com##div[_hot="commentsbanner"]
 m.v.qq.com##div[_hot="minisbanner"]
-!搜狐视频
+!搜狐
+||s.go.sohu.com^*/?callback=
+||images.sohu.com/bill/
 m.tv.sohu.com##.dl-top-banner
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
@@ -136,10 +138,6 @@ budejie.com###downApp
 gfan.com##.downs
 ! 多玩
 ||gt.duowan.com/api/g?loc=ydda
-!搜狐
-||s.go.sohu.com^*/?callback=
-||images.sohu.com/bill/
-sohu.com#@#img[src*="sohucs.com"]
 !网易
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
@@ -381,7 +379,6 @@ atm.youku.com^
 ##a[href*=".com/Register?a="]
 ##a[href*="www.hfcp20.com"]
 ##img[src*="tui.30pan.com"]
-##img[src*="sohucs.com"]
 ##img[src$="download.png"]
 ##img[src*="img.bncoo.com/forum"]
 !---------------------URL--------------------
