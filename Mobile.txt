@@ -510,6 +510,7 @@ hypzv.com
 hulemedia.com
 hm.baidu.com
 hps.hcuk-jewellery.com
+iae365.com
 imgstat.baidu.com
 ivy.pconline.com.cn
 inte.sogou.com
@@ -636,6 +637,7 @@ zdface.com/js/m/zw_banner.js
 47ks.com^*_ad.js
 5125129.com
 51gpt.com
+59hi.com
 51findu.com/command/qn.js
 77kp.com/gg123/
 85un.com
