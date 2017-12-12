@@ -139,6 +139,7 @@ gfan.com##.downs
 !搜狐
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
+sohu.com#@#img[src*="sohucs.com"]
 !网易
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
