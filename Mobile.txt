@@ -388,6 +388,8 @@ atm.youku.com^
 !---------------------URL--------------------
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
+.com/cpc/*.ashx?$third-party,script
+.com/cpv/*.ashx?$third-party,script
 .com/js/ads/
 .com/vs.php?id=
 .cn/vs.php?id=
@@ -539,12 +541,14 @@ mobads.baidu.com
 mushizhubao.com
 mipengine.baidu.com/common?query=
 m.zanghaihuatxt.com/xxgg/book.js
-nsclick.baidu.com
 nthtcs.com
 njjahb.com
+nbhxgjz.com
+nsclick.baidu.com
 niuxgame77.com
 news.china.com/xml/important_news_day.json?
 okmgy.cn
+onsnv.com
 optaim.com
 olo.6niuwang.com
 pos.baidu.com
