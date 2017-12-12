@@ -275,9 +275,6 @@ mafengwo.cn##a.omcToBan
 www.zybang.com##div[class][id]
 www.zybang.com##div[class][style]
 zuoyebang.cc/static/question/m-question/resource*.jpg$image
-!咸鱼
-||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
-2.taobao.com##[class="idle-start col"]
 !小米社区
 bbs.xiaomi.cn##[class*=download]
 !必应
@@ -289,6 +286,8 @@ zimuzu.tv###nGame
 zimuzu.tv##[class="gameList"]
 ! 购物站
 ||h5.m.taobao.com/applink/smbConfig.html
+||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
+2.taobao.com##[class="idle-start col"]
 jd.com###download_banner
 gome.com.cn##.m-downapp
 suning.com##.v5-headDown
