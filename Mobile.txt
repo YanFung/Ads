@@ -139,6 +139,8 @@ huajiao.com##.tool-bar-open
 tumblr.com##.mobile-banner-inner
 ! 虾米音乐
 alicdn.com^$domain=~h.xiami.com
+xiami.com##.navbar
+xiami.com###J_Slide
 !新浪微博
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
