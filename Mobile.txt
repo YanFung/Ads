@@ -163,6 +163,8 @@ gfan.com##.downs
 163.com##.a_topad
 163.com##.papa-item
 163.com##.doc-footer-wrapper
+!易云读
+yuedu.163.com##img[src*="/yunyuedu.png"]
 !爱玩网
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
