@@ -138,7 +138,7 @@ huajiao.com##.tool-bar-open
 ! 汤不热
 tumblr.com##.mobile-banner-inner
 ! 虾米音乐
-@@alicdn.com^$domain=h.xiami.com
+alicdn.com^$domain=~h.xiami.com
 !新浪微博
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
@@ -459,7 +459,6 @@ _ad_banner.
 /partner/gg_sogou.html
 !--------------------URL-------------------
 assigned.cn
-alicdn.com
 anyysz.com
 aobde.com
 admddc.com
