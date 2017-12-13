@@ -168,6 +168,12 @@ sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
 !爱范儿
 ifanr.com##.popup-app-download
+! wap.yy.com
+yy.com###baseText-main
+yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
+yy.com##.v-player-widget-hudong
+yy.com##.v-head-show.v-head
+@@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
 !it之家
 ithome.com###ruanmei-apps
 !中关村
@@ -649,5 +655,3 @@ zdface.com/js/m/zw_banner.js
 88shu.cn
 9ads.net
 91friend.com
-! ---------------------Whitelist----------------------
-@@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
