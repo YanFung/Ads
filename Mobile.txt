@@ -649,3 +649,5 @@ zdface.com/js/m/zw_banner.js
 88shu.cn
 9ads.net
 91friend.com
+! ---------------------Whitelist----------------------
+@@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
