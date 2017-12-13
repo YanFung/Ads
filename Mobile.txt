@@ -169,6 +169,8 @@ yuedu.163.com##img[src*="/yunyuedu.png"]
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
 play.163.com###J-download-client-box
+! QQ阅读
+||ubook.qq.com/8/img/load.png
 !天涯
 ||dol.tianya.cn/s?z=tianya&
 bbs.tianya.cn##.rec-app
