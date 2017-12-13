@@ -34,6 +34,7 @@ baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 zhidao.baidu.com###main-content>div>a
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
+zhidao.baidu.com##.cur
 !百度图片
 ||image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
 image.baidu.com##.mediacy-rs-contain.js-Component-root
