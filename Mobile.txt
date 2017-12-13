@@ -8,7 +8,7 @@
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com/se/static/js/modules/invoke/app/banner*.js
 baidu.com/static/ecom/js/wise/home/nativeads_
-afd.baidu.com
+afd.baidu.com^$domain=~news.baidu.com
 baidu.com/po/api/configure/show.jsonp
 baidu.com/se/transcode/static/img/tc-banner_$image
 www.baidu.com##.c-back+div[id]
