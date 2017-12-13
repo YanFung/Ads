@@ -119,6 +119,17 @@ douyu.com##.banner0 > .btn-open-app.btn
 huya.com##.banner-wrap
 huya.com###swiper-banner
 huya.com##.chat_btn
+! yy-QJY直播
+yy.com###baseText-main
+yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
+yy.com##.v-player-widget-hudong
+yy.com##.v-head-show.v-head
+@@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
+! 花椒直播
+huajiao.com##.banner
+h.huajiao.com##.follow
+huajiao.com##.open_huajiao
+huajiao.com##.tool-bar-open
 ! 91电视直播
 ||m.91kds.com/css/head3.jpg$image
 91kds.com###bottomAD
@@ -168,12 +179,6 @@ sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
 !爱范儿
 ifanr.com##.popup-app-download
-! wap.yy.com
-yy.com###baseText-main
-yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
-yy.com##.v-player-widget-hudong
-yy.com##.v-head-show.v-head
-@@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
 !it之家
 ithome.com###ruanmei-apps
 !中关村
