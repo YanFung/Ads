@@ -347,7 +347,6 @@ atm.youku.com^
 |http://ad.
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||googleads.
-||s.360.cn
 !----------------CSS---------------
 ##[id="ads"]
 ##[id*=appDown]
@@ -603,6 +602,7 @@ quanliyouxi.com
 raeqqe.cn
 rideraid.net
 rfese.com
+s.360.cn
 symaa.cn
 symaw.cn
 sysadult.cn
