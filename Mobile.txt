@@ -411,6 +411,7 @@ atm.youku.com^
 .8ox.cn
 .html?ad_
 -pagead-id.
+_ad_banner.
 &adsize=
 &adnum=
 &ad_ids=
