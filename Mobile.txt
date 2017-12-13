@@ -454,6 +454,7 @@ alicdn.com
 anyysz.com
 aobde.com
 admddc.com
+adsame.com
 aiclicash.com
 appsflyer.com
 alimama.com
@@ -511,6 +512,7 @@ guangzizai.com
 game.nduoa.com
 googlesyndication.com
 google-analytics.com/ga.js
+googletagmanager.com/gtm.js
 google-analytics.com/analytics.js
 hao61.net
 h0o33.cn
