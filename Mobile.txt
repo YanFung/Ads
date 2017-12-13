@@ -450,15 +450,14 @@ atm.youku.com^
 /partner/gg_sogou.html
 !--------------------URL-------------------
 assigned.cn
+alicdn.com
 anyysz.com
 aobde.com
 admddc.com
 aiclicash.com
 appsflyer.com
 alimama.com
-api.36cj.com/fei.html
 a1.jandan.net/*.js
-alicdn.com/g/mm/afp-cdn/js/
 bmgan.com
 baosmx.com
 bpimg.com
@@ -652,6 +651,7 @@ zdface.com/js/m/zw_banner.js
 12365chia.com
 1234xm.com
 24haitao.net
+36cj.com
 3xx.vip
 47ks.com^*_ad.js
 5125129.com
