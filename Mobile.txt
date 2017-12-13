@@ -137,6 +137,8 @@ huajiao.com##.tool-bar-open
 91kds.com###bottomAD
 ! 汤不热
 tumblr.com##.mobile-banner-inner
+! 虾米音乐
+alicdn.com
 !新浪微博
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
