@@ -349,10 +349,10 @@ atm.youku.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||googleads.
 !----------------CSS---------------
-##[id="ads"]
+##[id*="ads"]
 ##[id*=appDown]
 ##[class*=appDown]
-##[class="ads"]
+##[class*="ads"]
 ###ads3
 ###ads4
 ###advertise
