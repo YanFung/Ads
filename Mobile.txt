@@ -347,6 +347,7 @@ atm.youku.com^
 |http://ad.
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||googleads.
+||s.360.cn
 !----------------CSS---------------
 ##[id="ads"]
 ##[id*=appDown]
