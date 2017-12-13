@@ -495,6 +495,7 @@ cpro.baidustatic.com
 count.pcauto.com.cn
 difnxm.cn
 dcxmy.com
+dzribao.com
 dydyhg.com
 domyjourney.cn
 dqq.lnfund.org.cn
@@ -530,6 +531,7 @@ google-analytics.com/analytics.js
 hao61.net
 h0o33.cn
 hyz86.com
+hrbpay.com
 hzht666.com
 hanqidq.com
 hmj800.com
@@ -658,6 +660,7 @@ zx.kqzwg.com
 zjkdaikuan.com
 zdface.com/js/m/zw_banner.js
 0xxd.com
+0571hy.com
 0571yy.com
 100669.com
 1.1010pic.com
