@@ -361,6 +361,7 @@ atm.youku.com^
 ##.ad-banner
 ##.adv-text
 ##.ads-item
+##.ads-post
 ##.ads-footer
 ##.ads-content
 ##.add_txt
@@ -431,11 +432,12 @@ _ad_banner.
 /acmsd/
 /adstatic/
 /ad_banner.
+/ad/js/
 /ads_image/
 /adsense/
 /ad.php|
 /adshow.
-/ad/js/
+/img/ad-
 /bottomad/
 /common/ad/
 /common/ad_
