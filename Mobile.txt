@@ -449,12 +449,13 @@ atm.youku.com^
 /partner/gg_sogou.html
 !--------------------URL-------------------
 assigned.cn
-appsflyer.com
-aiclicash.com
-admddc.com
 anyysz.com
-alimama.com
 aobde.com
+admddc.com
+aiclicash.com
+appsflyer.com
+alimama.com
+afd.baidu.com
 api.36cj.com/fei.html
 a1.jandan.net/*.js
 alicdn.com/g/mm/afp-cdn/js/
