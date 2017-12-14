@@ -300,6 +300,8 @@ bbs.xiaomi.cn##[class*=download]
 bing.com###BottomAppPro
 ! 手机环球网
 huanqiu.com##.fubiao-dialog
+! 财新网
+caixin.com##.incubator
 ! 字幕站点
 zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 zimuzu.tv##div[class*="-tip show"]
