@@ -313,8 +313,6 @@ jd.com###download_banner
 gome.com.cn##.m-downapp
 suning.com##.v5-headDown
 !其它站点
-##.active.mod-download-tips-con
-##.down
 app.myzaker.com##.zk_top_barwrap
 btbtdy.com##[class^=ADTOPLB_]
 chinaso.com##.bnwrap
@@ -325,6 +323,7 @@ kdslife.com##a[href="//club.kdslife.com/app.php"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
 jiangduw.com##.comiis_wx_gzgzh
 tmtpost.com/public/images/app_download.png
+||m.neihanshe.cn/imgs/metoo.png$image
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
@@ -372,11 +371,13 @@ atm.youku.com^
 ##.article-ad
 ##.appLink
 ##.app_download
+##.active.mod-download-tips-con
 ##.bm.a_c
 ##.bottomAd
 ##.bottom-adv
 ##.baidu_ads_cell
 ##.container_ad
+##.down
 ##.hongbao
 ##.listad
 ##.module-ad
@@ -395,6 +396,7 @@ atm.youku.com^
 ###adsad
 ###advert1
 ###a_ad
+###footer_ad
 ###sponsorAdDiv
 ###hongbao
 ###db_ad
