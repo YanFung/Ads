@@ -324,6 +324,7 @@ sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
 jiangduw.com##.comiis_wx_gzgzh
+tmtpost.com/public/images/app_download.png
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||pp*.hkslg.net^$image
 ||img*.xydfn.com/^$image
@@ -358,6 +359,7 @@ atm.youku.com^
 ##.ad-item
 ##.ad-line
 ##.ad-banner
+##.ad_pic
 ##.ads-item
 ##.ads-post
 ##.ads-footer
@@ -379,6 +381,7 @@ atm.youku.com^
 ##.listad
 ##.module-ad
 ##.news-ad
+##.open-app
 ##.text-ad
 ##.top-adv
 ##.topads
