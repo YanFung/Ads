@@ -140,9 +140,6 @@ tumblr.com##.mobile-banner-inner
 ! 虾米音乐
 xiami.com##.navbar
 xiami.com###J_Slide
-!新浪微博
-weibo.cn##.appTips
-weibo.cn##.m-container-max.tips
 !糗事百科
 ||becode.qiushibaike.com
 qiushibaike.com##[style*="margin-left:"]
@@ -227,6 +224,9 @@ sina.cn##[href^="http://saxs."] > .f_card
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
+!新浪微博
+weibo.cn##.appTips
+weibo.cn##.m-container-max.tips
 !凤凰网
 stadig.ifeng.com
 fcai.com/ifengIndex.html
@@ -448,6 +448,7 @@ _ad_banner.
 /adsense/
 /ad.php|
 /adshow.
+/api/ad/
 /img/ad-
 /bottomad/
 /common/ad/
