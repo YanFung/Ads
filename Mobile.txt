@@ -274,6 +274,8 @@ juejin.im##.mobile-bottom-bar
 dgtle.com##.footer-abox
 ! 钛媒体
 tmtpost.com/public/images/app_download.png
+! 好奇心日报
+qdaily.com##.clearfix.com-header-brief
 !猫扑
 ##[class*=detail-ad]
 m.mop.com##.mop-index-gg
@@ -564,6 +566,7 @@ imgstat.baidu.com
 ivy.pconline.com.cn
 inte.sogou.com
 img.namusai.com
+isdspeed.qq.com
 jkjjkj.top
 juuhe.com
 jegxny.com
