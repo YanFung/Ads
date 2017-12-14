@@ -300,8 +300,6 @@ bbs.xiaomi.cn##[class*=download]
 bing.com###BottomAppPro
 ! 手机环球网
 huanqiu.com##.fubiao-dialog
-! 财新网
-caixin.com##.incubator
 ! 字幕站点
 zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 zimuzu.tv##div[class*="-tip show"]
@@ -351,14 +349,11 @@ atm.youku.com^
 ||googleads.
 ||s.360.cn
 !----------------CSS---------------
-##[id="ads"]
+##[id*="ads"]
 ##[id*=appDown]
+##[class*="ads"]
 ##[class*=appDown]
-##[class="ads"]
-###ads3
-###ads4
 ###advertise
-###adsad
 ###advert1
 ###a_ad
 ###sponsorAdDiv
@@ -372,23 +367,17 @@ atm.youku.com^
 ##.ad-line
 ##.ad-banner
 ##.adv-text
-##.ads-item
-##.ads-post
-##.ads-footer
-##.ads-content
 ##.add_txt
-##.adsbygoogle
-##.adsame-banner-box
 ##.article-ad
 ##.adTop
 ##.a_cn
 ##.a_pr
 ##.a_mu
+##.appLink
 ##.app_download
 ##.bm.a_c
 ##.bottomAd
 ##.bottom-adv
-##.baidu_ads_cell
 ##.container_ad
 ##.hongbao
 ##.listad
@@ -396,8 +385,6 @@ atm.youku.com^
 ##.news-ad
 ##.text-ad
 ##.top-adv
-##.topads
-##.video-ads
 ##.wp.a_t
 ##.ytp-ad-progress-list
 ##[src="/ad.js"]
