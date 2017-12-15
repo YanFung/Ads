@@ -377,6 +377,7 @@ atm.youku.com^
 ##.adv-text
 ##.add_txt
 ##.adTop
+##.adbanner
 ##.adsbygoogle
 ##.adsame-banner-box
 ##.article-ad
@@ -384,6 +385,7 @@ atm.youku.com^
 ##.app_download
 ##.active.mod-download-tips-con
 ##.bm.a_c
+##.bannerad
 ##.bottomAd
 ##.bottom-adv
 ##.baidu_ads_cell
@@ -401,6 +403,7 @@ atm.youku.com^
 ##.wp.a_t
 ##.ytp-ad-progress-list
 !----------------div[id]---------------
+###a_ad
 ###ads3
 ###ads4
 ###advertise
@@ -408,7 +411,7 @@ atm.youku.com^
 ###advert1
 ###adLeftFloat
 ###adRightFloat
-###a_ad
+###ad_top_banner
 ###db_ad
 ###footer_ad
 ###hongbao
@@ -577,6 +580,7 @@ hbttcc.com
 hypzv.com
 hulemedia.com
 hm.baidu.com
+hxsame.hexun.com
 hps.hcuk-jewellery.com
 ibafnw.cn
 iae365.com
