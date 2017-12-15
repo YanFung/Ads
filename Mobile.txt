@@ -185,6 +185,8 @@ toutiao.com##[class="news-banner-container-new-article banner-top new-style-test
 toutiao.com##.article_link[data-tag="ad"]
 ! 360搜索
 so.com###msocomBottomBanner
+! 搜狗搜索
+sogou.com###indexAppOne
 !少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
@@ -377,6 +379,7 @@ atm.youku.com^
 ##.ad-line
 ##.ad-banner
 ##.ad_pic
+##.ad_result
 ##.ads-item
 ##.ads-post
 ##.ads-footer
@@ -422,6 +425,7 @@ atm.youku.com^
 ###adRightFloat
 ###ad_top_banner
 ###app-layer
+###bottomAd
 ###db_ad
 ###footer_ad
 ###hongbao
