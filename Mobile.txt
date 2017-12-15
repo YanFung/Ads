@@ -17,7 +17,6 @@ baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
 sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
-baijiahao.baidu.com##.openBox-shareEntry
 !贴吧
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 baidu.com##[class^="hongbao_page"]
@@ -305,6 +304,8 @@ zuoyebang.cc/static/question/m-question/resource*.jpg$image
 bbs.xiaomi.cn##[class*=download]
 !必应
 bing.com###BottomAppPro
+! 百家号
+baijiahao.baidu.com##.openBox-shareEntry
 ! 手机环球网
 huanqiu.com##.fubiao-dialog
 ! 懂球帝
