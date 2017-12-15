@@ -430,6 +430,7 @@ atm.youku.com^
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
 ##a[href*="www.hfcp20.com"]
+##a[href*="www.crc6789.com"]
 ##img[src*="tui.30pan.com"]
 ##img[src$="download.png"]
 ##img[src*="img.bncoo.com/forum"]
