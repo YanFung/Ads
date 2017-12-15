@@ -654,11 +654,12 @@ sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
 tuia.cn
+track.uc.cn
 tiantianedu.net
-tiimg.com
 tanx.com
-tajs.qq.com
 tjgxzs.com
+tiimg.com
+tajs.qq.com
 tt123.eastday.com
 users.51.la
 vnnv777.cn
