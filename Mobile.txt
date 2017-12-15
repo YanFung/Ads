@@ -307,6 +307,10 @@ bbs.xiaomi.cn##[class*=download]
 bing.com###BottomAppPro
 ! 手机环球网
 huanqiu.com##.fubiao-dialog
+! 懂球帝
+dongqiudi.com##.red
+dongqiudi.com##.m-hao-foot
+dongqiudi.com##.swiperWrap.slide-hao
 ! 字幕站点
 zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 zimuzu.tv##div[class*="-tip show"]
