@@ -330,7 +330,7 @@ app.myzaker.com##.zk_top_barwrap
 btbtdy.com##[class^=ADTOPLB_]
 chinaso.com##.bnwrap
 nbd.com.cn##[class=header]
-kdnet.net##.download-bar
+mydrivers.com###dangbei_down
 sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
@@ -391,6 +391,7 @@ atm.youku.com^
 ##.baidu_ads_cell
 ##.container_ad
 ##.down
+##.download-bar
 ##.hongbao
 ##.listad
 ##.module-ad
