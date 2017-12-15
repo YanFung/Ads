@@ -73,7 +73,7 @@ youku.com##.vo-link
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
-ac.qq.com##.app-guiding-download
+ac.qq.com##.app-guiding
 !搜狐
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
