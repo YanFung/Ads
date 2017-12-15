@@ -70,9 +70,10 @@ youku.com###Bigdrama
 youku.com###FullPromotion
 youku.com##.vo-link
 !腾讯
-m.v.qq.com##div[_hot="banner"]
-m.v.qq.com##div[_hot="commentsbanner"]
-m.v.qq.com##div[_hot="minisbanner"]
+v.qq.com##div[_hot="banner"]
+v.qq.com##div[_hot="commentsbanner"]
+v.qq.com##div[_hot="minisbanner"]
+ac.qq.com##.app-guiding-download
 !搜狐
 ||s.go.sohu.com^*/?callback=
 ||images.sohu.com/bill/
