@@ -360,6 +360,7 @@ atm.youku.com^
 ||s.360.cn
 ||cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 !---------------div[class]---------------
+ucnews://qiqu.uc.cn
 ##.a_cn
 ##.a_pr
 ##.a_mu
