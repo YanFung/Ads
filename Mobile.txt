@@ -296,6 +296,9 @@ xici.net###unlogin_wrapper
 ! 起点中文网
 qidian.com###footerApp
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
+! 就爱阅读
+m.92to.com/tj/*.json
+dm.92to.com
 !马蜂窝
 ||tongji.mafengwo.cn
 mafengwo.cn##a.omcToBan
@@ -543,11 +546,11 @@ cbjs.baidu.com
 cpro.baidustatic.com
 count.pcauto.com.cn
 difnxm.cn
+domyjourney.cn
+dqq.lnfund.org.cn
 dcxmy.com
 dzribao.com
 dydyhg.com
-domyjourney.cn
-dqq.lnfund.org.cn
 d6.mobaders.com
 duiwai.baidu.com
 drmcmm.baidu.com
