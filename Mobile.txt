@@ -5,6 +5,7 @@
 !Description:广告猎手反馈QQ群:514536444.
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !百度
+ucbrowser://
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com/se/static/js/modules/invoke/app/banner*.js
 baidu.com/static/ecom/js/wise/home/nativeads_
