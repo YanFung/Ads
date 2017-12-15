@@ -358,6 +358,7 @@ atm.youku.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||googleads.
 ||s.360.cn
+||cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 !---------------div[class]---------------
 ##.a_cn
 ##.a_pr
