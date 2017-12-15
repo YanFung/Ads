@@ -183,6 +183,8 @@ m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 toutiao.com##[class="icon-container"]
 toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
 toutiao.com##.article_link[data-tag="ad"]
+! 360搜索
+so.com###msocomBottomBanner
 !少数派
 sspai.com##.is-shown.open-in-app-button
 ||sspai.com/api/v1/advertisements?*=article_
@@ -605,6 +607,7 @@ lu.sogou.com
 ltcprtc.com
 mgid.com
 mozist.com
+mediav.com
 meooe.com
 mipujia.com
 mmstat.com
