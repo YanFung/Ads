@@ -427,6 +427,7 @@ atm.youku.com^
 ##a[href*="/?Intr="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
+##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
 ##a[href*="www.hfcp20.com"]
@@ -471,6 +472,7 @@ _ad_banner.
 /ad/side_
 /ad/js/
 /ads_image/
+/adv_out.
 /adsense/
 /ad.php|
 /adshow.
