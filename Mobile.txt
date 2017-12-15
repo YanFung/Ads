@@ -452,6 +452,7 @@ atm.youku.com^
 ##a[href*=".com/Register?a="]
 ##a[href*="www.hfcp20.com"]
 ##a[href*="www.crc6789.com"]
+##li[data-type="ad"]
 ##img[src*="tui.30pan.com"]
 ##img[src$="download.png"]
 ##img[src*="img.bncoo.com/forum"]
@@ -677,7 +678,6 @@ slvtx.com
 s1.hiapk.com
 sanwen8.com
 srhuafeng.com
-sogoucdn.com
 spcode.baidu.com
 static-cn.plista.com
 sp*.baidu.com^*.gif?
@@ -686,6 +686,8 @@ su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
+sogou.com/cl.gif?
+sogoucdn.com$third-party,script
 tuia.cn
 track.uc.cn
 tiantianedu.net
