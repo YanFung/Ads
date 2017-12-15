@@ -471,7 +471,6 @@ _ad_banner.
 /adshow?
 /adtag.
 /adpic/
-/acmsd/
 /adstatic/
 /ad_status.
 /ad_banner.
@@ -482,6 +481,8 @@ _ad_banner.
 /adsense/
 /ad.php|
 /adshow.
+/adsbygoogle.
+/acmsd/
 /api/ad/
 /bottomad/
 /common/ad/
@@ -610,6 +611,7 @@ miaozhen.com
 msite.baidu.com
 mobads.baidu.com
 mushizhubao.com
+mydrivers.com/m/apptuijian.
 mipengine.baidu.com/common?query=
 m.zanghaihuatxt.com/xxgg/book.js
 nthtcs.com
