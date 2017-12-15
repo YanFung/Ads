@@ -565,7 +565,6 @@ gzdhzb.com
 guidashu.com
 guangzizai.com
 game.nduoa.com
-googlesyndication.com
 google-analytics.com/ga.js
 googletagmanager.com/gtm.js
 google-analytics.com/analytics.js
@@ -585,7 +584,6 @@ hxsame.hexun.com
 hps.hcuk-jewellery.com
 ibafnw.cn
 iae365.com
-idgdmg.com.cn
 ivy.pconline.com.cn
 inte.sogou.com
 img.namusai.com
@@ -612,7 +610,6 @@ miaozhen.com
 msite.baidu.com
 mobads.baidu.com
 mushizhubao.com
-mydrivers.com/m/apptuijian.
 mipengine.baidu.com/common?query=
 m.zanghaihuatxt.com/xxgg/book.js
 nthtcs.com
