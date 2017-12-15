@@ -394,6 +394,7 @@ atm.youku.com^
 ##.container_ad
 ##.down
 ##.download-bar
+##.ec_ad
 ##.hongbao
 ##.listad
 ##.module-ad
@@ -497,6 +498,7 @@ _ad_banner.
 /hunter/alog/
 /ifengad/
 /img/ad-
+/log.gif?
 /pubads.
 /pagead2.
 /pagead/lvz?
