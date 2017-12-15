@@ -358,7 +358,7 @@ atm.youku.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||googleads.
 ||s.360.cn
-!----------------[class]---------------
+!---------------div[class]---------------
 ##.a_cn
 ##.a_pr
 ##.a_mu
@@ -399,7 +399,7 @@ atm.youku.com^
 ##.video-ads
 ##.wp.a_t
 ##.ytp-ad-progress-list
-!----------------[id]---------------
+!----------------div[id]---------------
 ###ads3
 ###ads4
 ###advertise
@@ -411,14 +411,14 @@ atm.youku.com^
 ###hongbao
 ###db_ad
 ###_embed_v3_dc
-!----------------[div]--------------
+!------------------[div]----------------
+##[src="/ad.js"]
 ##[id="ads"]
 ##[id*=appDown]
 ##[class="ads"]
 ##[class*=appDown]
 ##[class*=gmine_ad]
 ##[class*=appdown]
-##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
 ##a[href*="/?intr="]
