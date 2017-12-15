@@ -424,7 +424,7 @@ atm.youku.com^
 ##[class*=appdown]
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
-##a[href*="/?intr="]
+##a[href*="/?Intr="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
