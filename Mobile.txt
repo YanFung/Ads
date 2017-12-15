@@ -413,6 +413,7 @@ atm.youku.com^
 ###adLeftFloat
 ###adRightFloat
 ###ad_top_banner
+###app-layer
 ###db_ad
 ###footer_ad
 ###hongbao
