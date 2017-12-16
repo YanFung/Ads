@@ -16,6 +16,7 @@
 2.taobao.com##[class="idle-start col"]
 36kr.com##a.fixed-linkedme:last-child
 4399.com##.fixed-down
+ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
 acfun.cn###prompt-box
 acfun.cn###btn-app
@@ -217,6 +218,8 @@ zongheng.com##[id^=dashenjiadao]
 163.com/*&affiliate=
 apple.www.letv.com
 a1.jandan.net/*.js
+ali213.net/js/data/3gcommon.js
+ali213.net/js/common/zpro/zprotxtpicurl.js
 atm.youku.com
 autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
