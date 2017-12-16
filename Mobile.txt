@@ -229,6 +229,7 @@ badmintoncn.com/cbo_include/js/cboaaa.js
 da.mgtv.com
 dm.92to.com
 daz.jinshasi.cn/show
+dm530.net/js/newjs/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 fcai.com/ifengIndex.html
 google-analytics.com/ga.js
@@ -406,6 +407,7 @@ kuuad.com
 kingpolo.com.cn
 lu.sogou.com
 ltcprtc.com
+mall043.com
 mgid.com
 mozist.com
 mediav.com
@@ -419,8 +421,9 @@ mushizhubao.com
 nthtcs.com
 njjahb.com
 nbhxgjz.com
-nsclick.baidu.com
 niuxgame77.com
+nixiclothing.com
+nsclick.baidu.com
 okmgy.cn
 onsnv.com
 optaim.com
