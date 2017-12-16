@@ -12,6 +12,7 @@
 163.com##.a_topad
 163.com##.papa-item
 163.com##.doc-footer-wrapper
+17173.com##.gb-app-gamerss-pop.gb-app-gamerss
 2.taobao.com##[class="idle-start col"]
 36kr.com##a.fixed-linkedme:last-child
 ac.qq.com##.app-guiding
@@ -203,7 +204,8 @@ zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
 zhidao.baidu.com##.cur
 zongheng.com##[id^=dashenjiadao]
-!---------------特定网站URL通配----------------
+!-----------------特定网站URL------------------
+17173cdn.com/a/lib/vda/seed.js
 47ks.com^*_ad.js
 51findu.com/command/qn.js
 77kp.com/gg123/
