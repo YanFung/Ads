@@ -315,6 +315,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
 ||www.ftchinese.com/m/marketing/a.html?v=
 ||www.pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
+||www.v718.com/*ad.gif$image
 ||www.zhihu.com/api/v4/alter_banners/
 ||www.zhihu.com/api/v4/banners/
 ||xc.mydrivers.com/other/sina/sm_sinawap*.js
