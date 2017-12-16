@@ -635,6 +635,7 @@ _ad_banner.
 ###ad_top_banner
 ###app-layer
 ###bottomAd
+###bottomAD
 ###db_ad
 ###footer_ad
 ###hongbao
