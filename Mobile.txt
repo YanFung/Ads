@@ -15,6 +15,7 @@
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
 2.taobao.com##[class="idle-start col"]
 36kr.com##a.fixed-linkedme:last-child
+4399.com##.fixed-down
 ac.qq.com##.app-guiding
 acfun.cn###prompt-box
 acfun.cn###btn-app
@@ -50,6 +51,8 @@ budejie.com###topBanner
 bing.com###BottomAppPro
 bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.guilinlife.com###los
+coolapk.com##.under
+coolapk.com###head
 chinaso.com##.bnwrap
 douyu.com###js-fix-download
 douyu.com##.layout-ball
