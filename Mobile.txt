@@ -243,6 +243,7 @@ ifengimg.com^*/sta_collection
 ja.gamersky.com
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
+kejet.$third-party
 log.game.tiexue.net
 m.92to.com/tj/*.json
 m.zanghaihuatxt.com/xxgg/book.js
@@ -481,6 +482,7 @@ xinci8.com
 xcdzsw.com
 youle55.com
 ygqczh.com
+ynjczy.net
 yccdn.com
 yijikm.com
 yijieweizf.com
@@ -549,6 +551,7 @@ zhgg.dre8.com
 /ifengad/
 /img/ad-
 /log.gif?
+/o.php?u=*|$third-party,script
 /pubads.
 /pagead2.
 /pagead/lvz?
