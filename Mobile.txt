@@ -14,7 +14,6 @@
 163.com##.doc-footer-wrapper
 2.taobao.com##[class="idle-start col"]
 36kr.com##a.fixed-linkedme:last-child
-91kds.com###bottomAD
 ac.qq.com##.app-guiding
 autohome.com.cn##.sign-wp
 app.myzaker.com##.zk_top_barwrap
@@ -300,7 +299,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||s.go.sohu.com^*/?callback=
 ||s1.pplive.cn/sta.js
 ||sax*.sina.
-||sspai.com/api/v1/advertisements?*=article_
 ||static.cnqiang.com/images/appdlx.jpg$image
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 ||tongji.mafengwo.cn
@@ -515,6 +513,7 @@ zhgg.dre8.com
 /adcontrol.
 /adpuba/
 /advert/
+/advertisements?
 /adfolder/*
 /adshow?
 /adtag.
@@ -534,8 +533,7 @@ zhgg.dre8.com
 /acmsd/
 /api/ad/
 /bottomad/
-/common/ad/
-/common/ad_
+/common/ad
 /common/cf/$image
 /cpro/ui/
 /googleads.
@@ -635,7 +633,6 @@ _ad_banner.
 ###ad_top_banner
 ###app-layer
 ###bottomAd
-###bottomAD
 ###db_ad
 ###footer_ad
 ###hongbao
