@@ -656,7 +656,6 @@ _ad_banner.
 ##a[href*="/?Intr="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
-##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
 ##a[href*="www.hfcp20.com"]
