@@ -15,6 +15,9 @@
 2.taobao.com##[class="idle-start col"]
 36kr.com##a.fixed-linkedme:last-child
 ac.qq.com##.app-guiding
+acfun.cn###prompt-box
+acfun.cn###btn-app
+acfun.cn###bottom-download
 autohome.com.cn##.sign-wp
 app.myzaker.com##.zk_top_barwrap
 baidu.com##.ec_wise_ad
@@ -44,6 +47,8 @@ btbtdy.com##[class^=ADTOPLB_]
 baofeng.com###appview
 budejie.com###topBanner
 bing.com###BottomAppPro
+bbs.gpsuu.com##.wrap > .mb5.tac
+bbs.guilinlife.com###los
 chinaso.com##.bnwrap
 douyu.com###js-fix-download
 douyu.com##.layout-ball
@@ -60,6 +65,7 @@ huya.com##.banner-wrap
 huya.com###swiper-banner
 huya.com##.chat_btn
 huxiu.com##.js-open-app.bgw.guide-box
+hexun.com##.serchalert
 huajiao.com##.banner
 huajiao.com##.follow
 huajiao.com##.open_huajiao
@@ -306,6 +312,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||ubook.qq.com/8/img/load.png
 ||www.65yw.com/i.html
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
+||www.ftchinese.com/m/marketing/a.html?v=
 ||www.pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 ||www.zhihu.com/api/v4/alter_banners/
 ||www.zhihu.com/api/v4/banners/
