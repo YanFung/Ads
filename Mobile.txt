@@ -603,6 +603,7 @@ _ad_banner.
 ##.bm.a_c
 ##.bannerad
 ##.bottomAd
+##.bottomAD
 ##.bottom-adv
 ##.baidu_ads_cell
 ##.container_ad
