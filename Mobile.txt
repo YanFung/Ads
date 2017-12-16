@@ -587,6 +587,7 @@ _ad_banner.
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 |http://*/gg/$domain=~11185.cn|~fanfou.com|~gg1z.com|~ha47.cn
+|http://gg.$third-party,domain=~guagua.cn
 |http://*.com/s.php?id=$third-party,script
 |http://*:*/s.php?id=$third-party,script
 |http://*.cn/ad/
