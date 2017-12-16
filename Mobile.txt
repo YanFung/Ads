@@ -17,6 +17,7 @@
 36kr.com##a.fixed-linkedme:last-child
 4399.com##.fixed-down
 9game.cn###bottomFix
+9game.cn###btInfo
 9game.cn##.app-promote-bar
 ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
