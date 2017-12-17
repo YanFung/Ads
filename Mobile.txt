@@ -14,6 +14,7 @@
 163.com##.doc-footer-wrapper
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
 2.taobao.com##[class="idle-start col"]
+3g.cn##.downloan_3G
 36kr.com##a.fixed-linkedme:last-child
 4399.com##.fixed-down
 9game.cn###bottomFix
