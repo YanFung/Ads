@@ -336,6 +336,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||zhihu-web-analytics.zhihu.com
 !-----------------通用URL域名------------------
 assigned.cn
+anhouhou.cn
 anyysz.com
 aobde.com
 admddc.com
@@ -411,12 +412,13 @@ img.namusai.com
 isdspeed.qq.com
 imgstat.baidu.com
 jkjjkj.top
+jinshasi.cn
 juuhe.com
 jegxny.com
+kingpolo.com.cn
+kuuad.com
 kkcaicai.com
 kuaiyan.com
-kuuad.com
-kingpolo.com.cn
 lu.sogou.com
 ltcprtc.com
 mall043.com
@@ -469,11 +471,12 @@ sysadult.cn
 siyinlong.cn
 sufficient.cn
 shanghuitianxia.cn
-shuqw.com
 slvtx.com
+shuqw.com
 s1.hiapk.com
 sanwen8.com
 srhuafeng.com
+shuoshuocm.com
 spcode.baidu.com
 tuia.cn
 track.uc.cn
@@ -525,6 +528,7 @@ zhgg.dre8.com
 24haitao.net
 36cj.com
 3xx.vip
+52shouyou.com.cn
 5125129.com
 51gpt.com
 59hi.com
