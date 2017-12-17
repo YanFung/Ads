@@ -46,7 +46,6 @@ baidu.com##.picad
 baijiahao.baidu.com##.openBox-shareEntry
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
-budejie.com###downApp
 bilibili.com##.index__cccBtn__M-home-topArea-
 bilibili.com##.index__upBtn__M-videoPage-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
@@ -67,7 +66,6 @@ dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
 dgtle.com##.footer-abox
 gfan.com##.downs
-gome.com.cn##.m-downapp
 hupu.com##.m-app
 hupu.com###J_live_container
 huya.com##.banner-wrap
@@ -677,6 +675,7 @@ _ad_banner.
 ##[id*="appDown"]
 ##[id*="AppDown"]
 ##[id*="downapp"]
+##[id*="downApp"]
 ##[class="ads"]
 ##[class*="appdown"]
 ##[class*="appDown"]
