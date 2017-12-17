@@ -1,20 +1,7 @@
 ! Version:2017/9/24/17:30
 ! Title:测试
 ! Author:YanFung
-!----------------特定网站元素------------------
-
-36kr.com##a.fixed-linkedme:last-child
-4399.com##.fixed-down
-9game.cn###bottomFix
-9game.cn###btInfo
-9game.cn##.app-promote-bar
-ali213.net##.zadmainholder
-ac.qq.com##.app-guiding
-acfun.cn###prompt-box
-acfun.cn###btn-app
-acfun.cn###bottom-download
-autohome.com.cn##.sign-wp
-app.myzaker.com##.zk_top_barwrap
+!----------------特定网站元素-----------------
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
