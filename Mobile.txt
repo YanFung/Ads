@@ -132,6 +132,7 @@ nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.baidu.com##.afd-item.index-list-item-container
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
+open.163.com##.fix-bot
 panda.tv###tip-download
 panda.tv##.btn-download
 play.163.com##.m-fixedTop
