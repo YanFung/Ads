@@ -603,7 +603,6 @@ _ad_banner.
 |http://*.com/s.php?id=$third-party,script
 |http://*:*/s.php?id=$third-party,script
 |http://*.cn/ad/
-|http://ad.$domain=~ad.3gsc.com.cn
 !-------------------通用元素-------------------
 ##.a_cn
 ##.a_pr
