@@ -697,4 +697,4 @@ _ad_banner.
 *$script,third-party,xmlhttprequest,domain=m.23txt.com|m.booktxt.net|m.wenxuemm.com|www.hdbee.net
 !--------------------白名单-------------------
 @@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
-@@||http://ad.3gsc.com.cn/Index/$script,domain=ad.3gsc.com.cn
+@@||http://ad.3gsc.com.cn/Index/$script,domain=ad.3gsc.com.cn|3g.cn
