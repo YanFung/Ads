@@ -106,6 +106,7 @@ jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
+ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 le.com###j-leappMore
 le.com###j-zhoubian
