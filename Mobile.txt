@@ -298,10 +298,9 @@ autohome.com.cn/risk_fp_log?
 autoimg.cn/bi/mda/ahas_body.
 afd.baidu.com/afd/entry?is_https=
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
-baidu.com/se/static/js/modules/invoke/app/banner*.js
+baidu.com^*/app/banner_
 baidu.com/static/ecom/js/wise/home/nativeads_
 baidu.com/po/api/configure/show.jsonp
-baidu.com^*/app/banner_
 baidu.com/se/transcode/static/img/tc-banner_$image
 bdfpbimg.ifengimg.com
 bdstatic.com^*/mip-*ad
