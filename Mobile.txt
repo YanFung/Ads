@@ -86,6 +86,7 @@ adsame.com
 aiclicash.com
 appsflyer.com
 alimama.com
+acs.youku.com
 bmgan.com
 baosmx.com
 bpimg.com
@@ -659,11 +660,6 @@ tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 tv.sohu.com##.x-dl-shake.x-download-panel
 thepaper.cn###head_ask_app_down
-youku.com##.iconPop
-youku.com###banner
-youku.com###Bigdrama
-youku.com###FullPromotion
-youku.com##.vo-link
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
@@ -683,6 +679,10 @@ xiami.com###J_Slide
 xiaomi.cn##[class*=download]
 xici.net###unlogin_wrapper
 xilu.com###imgsc-fixed
+youku.com##.iconPop
+youku.com###banner
+youku.com###Bigdrama
+youku.com##div[style^="width: 100px; height: 100px; "]
 yy.com###baseText-main
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
 yy.com##.v-player-widget-hudong
