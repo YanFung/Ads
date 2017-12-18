@@ -679,8 +679,6 @@ xiami.com###J_Slide
 xiaomi.cn##[class*=download]
 xici.net###unlogin_wrapper
 xilu.com###imgsc-fixed
-youku.com##.iconPop
-youku.com###banner
 youku.com###Bigdrama
 youku.com##div[style^="width: 100px; height: 100px; "]
 yy.com###baseText-main
