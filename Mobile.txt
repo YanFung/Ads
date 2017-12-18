@@ -679,6 +679,7 @@ _ad_banner.
 ##[id*="appDown"]
 ##[id*="AppDown"]
 ##[id*="downapp"]
+##[id*="downApp"]
 ##[class="ads"]
 ##[class*="appdown"]
 ##[class*="appDown"]
