@@ -668,7 +668,6 @@ v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
 wk.baidu.com##.topFc
 wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
-wapbaike.baidu.com##.BK-body-wrapper>div[class][style]>ul
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 wasu.cn##.ads
