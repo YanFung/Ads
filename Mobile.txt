@@ -122,6 +122,7 @@ epernn.cn
 ent1.12584.cn
 eiv.baidu.com
 eduad.baidu.com
+edu-wenku.bdimg.com
 fastapi.net
 firefang.cn
 fcsass.org.cn
