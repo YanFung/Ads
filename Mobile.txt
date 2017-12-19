@@ -564,7 +564,7 @@ douyu.com##.banner0 > .btn-open-app.btn
 dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
-douban.com##.bottom_ad_download
+douban.com##.promo_top_banner
 dgtle.com##.footer-abox
 gfan.com##.downs
 hupu.com##.m-app
