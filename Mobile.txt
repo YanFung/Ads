@@ -595,8 +595,6 @@ ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
 image.baidu.com##.sample0
-ip.cn###dash-tip-id
-ip.cn##img[src^="http://s.ip-cdn.com/img/alipay"]
 jd.com###download_banner
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
