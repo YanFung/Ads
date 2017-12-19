@@ -9,6 +9,7 @@
 /ad1.
 /ad1_
 /ads2.
+/adbanner/
 /adcontrol.
 /adpuba/
 /advert/
@@ -118,8 +119,9 @@ drmcmm.baidu.com
 dup.baidustatic.com
 ejiakm.net
 epernn.cn
-eiv.baidu.com
 ent1.12584.cn
+eiv.baidu.com
+eduad.baidu.com
 fastapi.net
 firefang.cn
 fcsass.org.cn
@@ -423,6 +425,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adv-text
 ##.add_txt
 ##.adTop
+##.adlist
 ##.adbanner
 ##.adsbygoogle
 ##.adsame-banner-box
@@ -666,8 +669,6 @@ v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
 v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
-wk.baidu.com##.topFc
-wk.baidu.com##.sf-edu-wenku-id-right-fixed-ad-wrap
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 wasu.cn##.ads
