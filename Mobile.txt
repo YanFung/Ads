@@ -389,6 +389,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||s1.pplive.cn/sta.js
 ||sax*.sina.
 ||static.cnqiang.com/images/appdlx.jpg$image
+||sspai.com/api/v1/recommends?*=article_
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 ||tongji.mafengwo.cn
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
