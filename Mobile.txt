@@ -413,12 +413,14 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.a_mu
 ##.ad_1
 ##.ad_2
-##.ad-right
+##.ad-block
+##.ad-banner
 ##.ad-item
 ##.ad-line
-##.ad-banner
 ##.ad_pic
+##.ad-right
 ##.ad_result
+##.ad-widget
 ##.ads-item
 ##.ads-post
 ##.ads-footer
