@@ -11,6 +11,8 @@
 /ads2.
 /adbanner/
 /adcontrol.
+/adjs/
+/ad/js/
 /adpuba/
 /advert/
 /advertisements?
@@ -22,7 +24,6 @@
 /ad_status.
 /ad_banner.
 /ad/side_
-/ad/js/
 /ads_image/
 /adv_out.
 /adsense/
@@ -563,6 +564,7 @@ douyu.com##.banner0 > .btn-open-app.btn
 dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
+douban.com##.bottom_ad_download
 dgtle.com##.footer-abox
 gfan.com##.downs
 hupu.com##.m-app
