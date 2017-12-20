@@ -302,6 +302,7 @@ autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
 autoimg.cn/bi/mda/ahas_body.
 afd.baidu.com/afd/entry?is_https=
+aolusb.com/forever/
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/static/ecom/js/wise/home/nativeads_
@@ -323,6 +324,7 @@ googletagmanager.com/gtm.js
 google-analytics.com/analytics.js
 hxsame.hexun.com
 hps.hcuk-jewellery.com
+idyjy.com/js/content/
 ifeng.com/burroughsnews?type=
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
