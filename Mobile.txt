@@ -708,6 +708,7 @@ yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
 yiche.com##.float-r-box
 y.qq.com##.btn_download
+y.qq.com##.top_bar
 yuedu.163.com##img[src*="/yunyuedu.png"]
 zol.com.cn##.zolapp
 zhihu.com##.is-shown.OpenInAppButton
