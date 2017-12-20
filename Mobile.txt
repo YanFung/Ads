@@ -445,6 +445,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.article-ad
 ##.appLink
 ##.app_download
+##.app-down
 ##.active.mod-download-tips-con
 ##.bm.a_c
 ##.bannerad
