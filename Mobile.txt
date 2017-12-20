@@ -150,8 +150,9 @@ hblinwei.com
 hiido.com
 hbttcc.com
 hypzv.com
-hulemedia.com
 hm.baidu.com
+hnssyhbkj.com
+hulemedia.com
 ibafnw.cn
 iae365.com
 ivy.pconline.com.cn
@@ -294,8 +295,10 @@ zhgg.dre8.com
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
 163.com/*&affiliate=
+999d.com^$third-party
 apple.www.letv.com
 a1.jandan.net/*.js
+alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
 atm.youku.com
@@ -382,6 +385,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
 ||gt.duowan.com/api/g?loc=ydda
 ||h5.m.taobao.com/applink/smbConfig.html
+||h5.1ting.com/zfbhb/s/b.jpg$image
 ||img*.xydfn.com/^$image
 ||images.sohu.com/bill/
 ||image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
@@ -612,6 +616,9 @@ jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
+kuwo.cn##.downapp_btn
+kuwo.cn##.clearfix.up_btns2.up_btns
+kugou.com###tcdownload
 le.com###j-leappMore
 le.com###j-zhoubian
 le.com###j-recommend > .animate1.column_box
