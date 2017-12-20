@@ -129,13 +129,13 @@ firefang.cn
 fcsass.org.cn
 farwx.com
 fm-gj.com
-fpb1.chinacar.asia
 ggxt.net
 gszbba.cn
 ge95.com
 gwylm.com
 gjshcn.com
 gzdhzb.com
+gdt.qq.com
 guidashu.com
 guangzizai.com
 game.nduoa.com
@@ -316,6 +316,7 @@ dm.92to.com
 daz.jinshasi.cn/show
 dm530.net/js/newjs/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
+fpb1.chinacar.asia
 fcai.com/ifengIndex.html
 google-analytics.com/ga.js
 googletagmanager.com/gtm.js
@@ -709,6 +710,7 @@ zhidao.baidu.com###main-content>div>a
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
 zhidao.baidu.com##.cur
+zhuanzhuan.com##.footer
 zongheng.com##[id^=dashenjiadao]
 !--------------------第三方---------------------
 *$third-party,script,domain=wxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.tw|m.biqugego.com|m.biqugezw.com|208xs.com|mebook.cc|m.biquwu.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumilou.co|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com|btlibrary.pw|btkitty.pet|8090hhh.com|www.bywl88.com|subhd.com|diggbt.fyi|m.23us.cc|m.shengyan.org|b3yy.cc|btwhat.org|cilidb.net|m.biqugecom.com|m.shumilou.net|chuanyuezhe.yetianzi.com|www.qyl99.com|m.77kp.com|m.23txt.com|m.biqugexsw.com
