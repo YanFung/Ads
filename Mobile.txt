@@ -302,6 +302,7 @@ a1.jandan.net/*.js
 alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
+adservice.google.com/adsid/integrator.js
 atm.youku.com
 autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
