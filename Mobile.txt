@@ -522,8 +522,9 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="www.crc6789.com"]
 ##li[data-type="ad"]
 ##img[src*="tui.30pan.com"]
-##img[src$="download.png"]
 ##img[src*="img.bncoo.com/forum"]
+##img[src$="/90.jpg"]
+##img[src$="download.png"]
 !----------------特定网站元素------------------
 163.com##.footer
 163.com###docid-docAppClient
