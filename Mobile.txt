@@ -28,6 +28,7 @@
 /adv_out.
 /adsense/
 /ad.php|
+/adsid/
 /adshow.
 /adsbygoogle.
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
@@ -302,7 +303,6 @@ a1.jandan.net/*.js
 alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
-adservice.google.com/adsid/integrator.js
 atm.youku.com
 autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
@@ -326,6 +326,7 @@ dm530.net/js/newjs/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 fpb1.chinacar.asia
 fcai.com/ifengIndex.html
+googlesyndication.com
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
 google-analytics.com/urchin.js
@@ -573,8 +574,6 @@ bbs.guilinlife.com###los
 coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
-cnbeta.com##.cbimage-fixed
-cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
