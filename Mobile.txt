@@ -6,6 +6,10 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !
 !-----------------通用URL通配------------------
+adsbygoogle.
+googleads.
+pubads.
+pagead2.
 /ad1.
 /ad1_
 /ads2.
@@ -30,7 +34,6 @@
 /ad.php|
 /adsid/
 /adshow.
-/adsbygoogle.
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
 /acmsd/
 /api/ad/
@@ -38,14 +41,11 @@
 /common/ad
 /common/cf/$image
 /cpro/ui/
-/googleads.
 /hunter/alog/
 /ifengad/
 /img/ad-
 /log.gif?
 /o.php?u=*|$third-party,script
-/pubads.
-/pagead2.
 /pagead/lvz?
 /partner/gg_sogou.html
 /site/ads?
@@ -326,7 +326,6 @@ dm530.net/js/newjs/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 fpb1.chinacar.asia
 fcai.com/ifengIndex.html
-googlesyndication.com
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
 google-analytics.com/urchin.js
