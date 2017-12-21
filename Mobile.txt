@@ -80,6 +80,7 @@ _ad_banner.
 |http://ad.$domain=~ad.3gsc.com.cn
 !-----------------通用URL域名------------------
 assigned.cn
+alimama.cn
 anhouhou.cn
 anyysz.com
 aobde.com
