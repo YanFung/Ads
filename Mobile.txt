@@ -573,7 +573,6 @@ bbs.guilinlife.com###los
 coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
-cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
