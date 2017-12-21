@@ -326,7 +326,6 @@ badmintoncn.com/cbo_include/js/cboaaa.js
 cnbetacdn.com/frontend/vipics/yijian
 da.mgtv.com
 dm.92to.com
-daz.jinshasi.cn/show
 dm530.net/js/newjs/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 fpb1.chinacar.asia
@@ -633,7 +632,6 @@ jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
-kuwo.cn##.downapp_btn
 kuwo.cn##.clearfix.up_btns2.up_btns
 kugou.com###tcdownload
 le.com###j-leappMore
