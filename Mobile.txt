@@ -217,6 +217,7 @@ raeqqe.cn
 rideraid.net
 rfese.com
 sifuhe.cn
+symaj.cn
 symaa.cn
 symaw.cn
 sysadult.cn
@@ -441,6 +442,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ads-content
 ##.adv-text
 ##.add_txt
+##.adArea
 ##.adTop
 ##.adlist
 ##.adbanner
@@ -448,6 +450,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adsame-banner-box
 ##.article-ad
 ##.appLink
+##.appAd-line
 ##.app_download
 ##.app-down
 ##.active.mod-download-tips-con
@@ -525,6 +528,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 163.com##.papa-item
 163.com##.doc-footer-wrapper
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
+1905.com##.moviewiki
+1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
 2.taobao.com##[class="idle-start col"]
 3g.cn##.downloan_3G
 36kr.com##a.fixed-linkedme:last-child
