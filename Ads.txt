@@ -2,5 +2,5 @@
 ! Title:测试
 ! Author:YanFung
 !----------------特定网站元素-----------------
-*/ad_$domain=~tieba.baidu.com|wap.baidu.com
-*/ad-
+##[id*="download"]
+##[class*="download"]
