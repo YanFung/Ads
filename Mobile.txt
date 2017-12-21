@@ -6,6 +6,7 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !
 !-----------------通用URL通配------------------
+googlesyndication.com
 /ad1.
 /ad1_
 /ads2.
