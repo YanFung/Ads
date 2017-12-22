@@ -132,6 +132,7 @@ cpro.baidustatic.com
 count.pcauto.com.cn
 difnxm.cn
 danangmo.cn
+d1.sina.com.cn
 domyjourney.cn
 dqq.lnfund.org.cn
 dcxmy.com
@@ -278,6 +279,7 @@ xhcyc.com
 xitao3.com
 xinci8.com
 xcdzsw.com
+xc.mydrivers.com
 youle55.com
 ygqczh.com
 ynjczy.net
@@ -286,6 +288,7 @@ yijikm.com
 yqjxzw.com
 yijieweizf.com
 zcsfs.cn
+zf313.com
 zjycy.com
 zx-jsp.com
 zzhszj.com
