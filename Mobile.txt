@@ -592,6 +592,7 @@ douban.com##.promo_top_banner
 douban.com##.open-in-app-float
 dgtle.com##.footer-abox
 gfan.com##.downs
+geekpark.net##.OpenInAppButton
 hupu.com##.m-app
 hupu.com###J_live_container
 huya.com##.banner-wrap
