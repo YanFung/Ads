@@ -363,6 +363,7 @@ s.xz15801.com/y.js
 stadig.ifeng.com
 sina.cn^*/impress?
 sina.cn/cm/sinaads_
+sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 static-cn.plista.com
 sp*.baidu.com^*.gif?
 su.bdimg.com/static/dspui/js/
@@ -683,7 +684,8 @@ so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href^="http://saxs."] > .f_card
-sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
+sina.cn###j_fixAppBtn
+sina.cn##.j_call_native.videoDes_newsApp
 sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
 sspai.com##.is-shown.open-in-app-button
