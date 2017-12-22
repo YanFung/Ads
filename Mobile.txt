@@ -531,6 +531,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 163.com##.a_topad
 163.com##.papa-item
 163.com##.doc-footer-wrapper
+1688.com##.roc-downbanner
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
 1905.com##.moviewiki
 1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
@@ -565,6 +566,8 @@ baidu.com##[id*=dia_mask]
 baidu.com##[id*=dia_wrapper]
 baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 baidu.com##.picad
+baidu.com##.openAppCarsouselTpl
+baidu.com##.redenvelope-small
 baijiahao.baidu.com##.openBox-shareEntry
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
@@ -683,12 +686,16 @@ sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
 sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
+suning.com##.wtable
+suning.com##.float-b
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
 tiexue.net##[class*=moneyBox]
 tiexue.net##.hg_test
 tianya.cn##.rec-app
+to8to.com##.float-zb
+to8to.com##.ad
 toutiao.com##[class="icon-container"]
 toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
 toutiao.com##.article_link[data-tag="ad"]
