@@ -322,6 +322,7 @@ afd.baidu.com/afd/entry?is_https=
 aolusb.com/forever/
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
+baidu.com/newspage/api/getmobads?page=
 baidu.com/static/ecom/js/wise/home/nativeAds_
 baidu.com/po/api/configure/show.jsonp
 baidu.com/se/transcode/static/img/tc-banner_$image
