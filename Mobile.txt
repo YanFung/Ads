@@ -55,6 +55,7 @@ pagead2.
 /z.zolapp.
 /__utm.gif
 -pagead-id.
+_ads?
 _ad_banner.
 &adsize=
 &adnum=
@@ -447,6 +448,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-line
 ##.ad_pic
 ##.ad-right
+##.ad-wrapper
 ##.ad_result
 ##.ad-widget
 ##.ads-item
@@ -746,6 +748,7 @@ yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
 yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
 yiche.com##.float-r-box
+yidianzixun.com##.banner
 y.qq.com##.btn_download
 y.qq.com##.top_bar
 yuedu.163.com##img[src*="/yunyuedu.png"]
