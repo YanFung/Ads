@@ -258,6 +258,7 @@ shuqw.com
 s1.hiapk.com
 sanwen8.com
 srhuafeng.com
+stat.baike.com
 shuoshuocm.com
 spcode.baidu.com
 tuia.cn
@@ -585,6 +586,8 @@ baidu.com##.picad
 baidu.com##.openAppCarsouselTpl
 baidu.com##.redenvelope-small
 baijiahao.baidu.com##.openBox-shareEntry
+baike.com##.clearfix.hd_ad_app
+baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 bilibili.com###floatBtn
