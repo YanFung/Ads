@@ -304,6 +304,7 @@ zx.kqzwg.com
 zjkdaikuan.com
 zhgg.dre8.com
 !-----------------特定网站URL------------------
+:8888/mb1/wap_
 17173cdn.com/a/lib/vda/seed.js
 47ks.com^*_ad.js
 51findu.com/command/qn.js
