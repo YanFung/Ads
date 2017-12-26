@@ -269,6 +269,7 @@ tanx.com
 tjgxzs.com
 tiimg.com
 tajs.qq.com
+tingyun.com
 tt123.eastday.com
 users.51.la
 unmini.com
@@ -606,6 +607,7 @@ bbs.guilinlife.com###los
 coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
+china.com.cn###force_download
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
