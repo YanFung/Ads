@@ -41,6 +41,7 @@ pagead2.
 /common/ad
 /common/cf/$image
 /cpro/ui/
+/ggjs/
 /hunter/alog/
 /ifengad/
 /img/ad-
