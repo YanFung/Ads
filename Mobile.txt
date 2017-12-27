@@ -71,7 +71,6 @@ _ad_banner.
 .8ox.cn
 .html?ad_
 .cn/vs.php?id=
-.com/js/ads/
 .com/vs.php?id=
 .com/ad?
 .com/ad.$domain=~ad-tuning.de
@@ -446,7 +445,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||www.v718.com/*ad.gif$image
 ||www.zhihu.com/api/v4/alter_banners/
 ||www.zhihu.com/api/v4/banners/
-||xc.mydrivers.com/other/sina/sm_sinawap*.js
 ||yes1.feng.com
 ||zhihu-web-analytics.zhihu.com
 !-------------------通用元素-------------------
@@ -544,7 +542,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="/url.cn/"]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
-##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
 ##a[href*="www.hfcp20.com"]
@@ -721,7 +718,6 @@ sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href^="http://saxs."] > .f_card
 sina.cn###j_fixAppBtn
 sina.cn##.j_call_native.videoDes_newsApp
-sv.baidu.com##.redenvelope-small
 sv.baidu.com##[class="rmb-carsousel-position-bottom"]
 sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
