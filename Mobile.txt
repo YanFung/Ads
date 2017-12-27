@@ -47,6 +47,7 @@ pagead2.
 /hunter/alog/
 /ifengad/
 /img/ad-
+/js/ads/
 /log.gif?
 /o.php?u=*|$third-party,script
 /pagead/lvz?
@@ -670,6 +671,7 @@ jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
+kankan.com##.K-app-down.btn_app
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 kuwo.cn##.clearfix.up_btns2.up_btns
