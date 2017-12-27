@@ -732,7 +732,7 @@ tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 tv.sohu.com##.x-dl-shake.x-download-panel
 thepaper.cn###head_ask_app_down
-v2ex.com##.sidebar_units
+v2ex.com##[class^=sidebar_]
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
