@@ -327,6 +327,7 @@ autohome.com.cn/risk_fp_log?
 autoimg.cn/bi/mda/ahas_body.
 afd.baidu.com/afd/entry?is_https=
 aolusb.com/forever/
+assets/sidebar/$domain=v2ex.com
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?page=
