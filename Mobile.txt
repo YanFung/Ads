@@ -653,6 +653,7 @@ image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
 image.baidu.com##.sample0
 jd.com###download_banner
+jianshu.com##.top
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
