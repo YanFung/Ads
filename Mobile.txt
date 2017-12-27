@@ -341,6 +341,7 @@ bdfpbimg.ifengimg.com
 bdstatic.com^*/mip-*ad
 bitauto.com/bglog.gif?
 badmintoncn.com/cbo_include/js/cboaaa.js
+ckck.tv/inc/
 cnbetacdn.com/frontend/vipics/yijian
 da.mgtv.com
 dm.92to.com
