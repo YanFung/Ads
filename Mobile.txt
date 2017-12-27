@@ -10,6 +10,7 @@ adsbygoogle.
 googleads.
 pubads.
 pagead2.
+/a_d/
 /ad1.
 /ad1_
 /ads2.
