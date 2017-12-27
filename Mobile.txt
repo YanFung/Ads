@@ -327,7 +327,6 @@ autohome.com.cn/risk_fp_log?
 autoimg.cn/bi/mda/ahas_body.
 afd.baidu.com/afd/entry?is_https=
 aolusb.com/forever/
-assets/sidebar/$domain=www.v2ex.com
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?page=
@@ -733,6 +732,7 @@ tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 tv.sohu.com##.x-dl-shake.x-download-panel
 thepaper.cn###head_ask_app_down
+v2ex.com##div[class="box"]
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
