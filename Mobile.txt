@@ -378,7 +378,6 @@ pstatp.com^*/bannersdk/
 pconline.com.cn/_hux_/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
-qiqibu88.com/template/phone/imagess/jquery-1.8.3.min.js
 renren.com/static/*?ad_
 s.xz15801.com/y.js
 stadig.ifeng.com
@@ -541,6 +540,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
 ##a[href*="/?Intr="]
+##a[href*="/url.cn/"]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?p="][target="_blank"] > img[src$=".gif"]
