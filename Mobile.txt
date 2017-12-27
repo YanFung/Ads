@@ -27,6 +27,7 @@ pagead2.
 /adstatic/
 /ad_status.
 /ad_banner.
+/adproxy.
 /ad/side_
 /ads_image/
 /adv_out.
@@ -449,6 +450,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.a_mu
 ##.ad_1
 ##.ad_2
+##.ad-300
 ##.ad-block
 ##.ad-banner
 ##.ad-item
