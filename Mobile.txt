@@ -377,6 +377,7 @@ pstatp.com^*/bannersdk/
 pconline.com.cn/_hux_/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
+qiqibu88.com/template/phone/imagess/jquery-1.8.3.min.js
 renren.com/static/*?ad_
 s.xz15801.com/y.js
 stadig.ifeng.com
