@@ -761,6 +761,7 @@ xiami.com###J_Slide
 xiaomi.cn##[class*=download]
 xici.net###unlogin_wrapper
 xilu.com###imgsc-fixed
+xilu.com##.wap_vip
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###Bigdrama
