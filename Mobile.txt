@@ -549,7 +549,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##li[data-type="ad"]
 ##img[src*="tui.30pan.com"]
 ##img[src*="img.bncoo.com/forum"]
-##img[src*="/uploads/"]
 ##img[src$="/90.jpg"]
 ##img[src$="download.png"]
 !----------------特定网站元素------------------
