@@ -682,6 +682,7 @@ le.com###j-recommend > .animate1.column_box
 le.com##.footer
 le.com##.leapp_btn
 le.com##.addDesktop
+lofter.com##div[class="m-moreselect"][id^="auto-id-"]
 m.56.com##[class^="app-"] > .banner-container
 m.58.com##div._1yk_xA3PhiA7sjHwST5Pyy:nth-child(3)
 mgtv.com##.on.mg-app-open
