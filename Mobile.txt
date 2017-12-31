@@ -374,6 +374,7 @@ mipp.iask.cn/t/mipdf?t=
 mydrivers.com/m/apptuijian.
 mipengine.baidu.com/common?query=
 news.china.com/xml/important_news_day.json?
+ofter.com/blogphotoad?
 pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
 pconline.com.cn/_hux_/
