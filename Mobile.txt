@@ -61,6 +61,7 @@ pagead2.
 -pagead-id.
 _ads?
 _ad_banner.
+_yad_jsonp_
 &adsize=
 &adnum=
 &ad_ids=
