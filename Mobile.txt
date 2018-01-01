@@ -601,6 +601,7 @@ baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 baidu.com##.picad
 baidu.com##.openAppCarsouselTpl
 baidu.com##.redenvelope-small
+baidu.com##.se-ft-promlink
 baijiahao.baidu.com##.openBox-shareEntry
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
