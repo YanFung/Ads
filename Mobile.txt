@@ -530,6 +530,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="AppDown"]
 ##[id*="downapp"]
 ##[id*="downApp"]
+##[id*="app-down"]
+##[id*="app_down"]
 ##[class="ads"]
 ##[class*="appdown"]
 ##[class*="appDown"]
