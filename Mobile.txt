@@ -537,6 +537,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="appDown"]
 ##[class*="AppDown"]
 ##[class*="downapp"]
+##[class*="app-down"]
 ##[class*=gmine_ad]
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
