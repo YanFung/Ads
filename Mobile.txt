@@ -482,8 +482,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.article-ad
 ##.appLink
 ##.appAd-line
-##.app_download
-##.app-down
 ##.active.mod-download-tips-con
 ##.bm.a_c
 ##.bannerad
@@ -538,6 +536,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="AppDown"]
 ##[class*="downapp"]
 ##[class*="app-down"]
+##[class*="app_down"]
 ##[class*=gmine_ad]
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
@@ -663,7 +662,6 @@ ifeng.com##li[id][style*="height:"]
 ifeng.com##li[id][style*="height:"] + li
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
-ifanr.com##.popup-app-download
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
@@ -674,7 +672,6 @@ jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
-kankan.com##.K-app-down.btn_app
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 kuwo.cn##.clearfix.up_btns2.up_btns
