@@ -3,3 +3,5 @@
 ! Author:YanFung
 !----------------特定网站元素-----------------
 static.g.iqiyi.com
+static.iqiyi.com
+t7z.cupid.iqiyi.com
