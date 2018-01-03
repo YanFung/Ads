@@ -768,6 +768,7 @@ xilu.com###imgsc-fixed
 xilu.com##.wap_vip
 youku.com###FullPromotion
 youku.com###J_banner
+youku.com###banner
 youku.com###Bigdrama
 youku.com##div[style^="width: 100px; height: 100px; "]
 yy.com###baseText-main
