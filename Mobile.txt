@@ -62,6 +62,7 @@ pagead2.
 _ads?
 _ad_banner.
 _yad_jsonp_
+&adurl=
 &adsize=
 &adnum=
 &ad_ids=
@@ -118,6 +119,7 @@ admin60.com
 aiclicash.com
 appsflyer.com
 alimama.com
+bdjiaoben.wmxa.cn
 bjeai.com
 baqud.com
 bpimg.com
@@ -125,10 +127,11 @@ bjzcbx.com
 bmgan.com
 baosmx.com
 bdjs.ixiumei.com
-bdjiaoben.wmxa.cn
+cname.code.dsmi.cc
 ctrhfd.top
 caduka.cn
 ccbccb.cn
+count.pcauto.com.cn
 ciimg.com
 cnzz.com
 cdwla.com
@@ -138,7 +141,6 @@ crs.baidu.com
 cb.baidu.com
 cbjs.baidu.com
 cpro.baidustatic.com
-count.pcauto.com.cn
 difnxm.cn
 danangmo.cn
 d1.sina.com.cn
@@ -250,6 +252,7 @@ qiqivv.com
 qhhyls.com
 quw18.com
 qsbz2011.com
+qmname.com
 qdp.qidian.com
 quanliyouxi.com
 raeqqe.cn
