@@ -3,3 +3,4 @@
 ! Author:YanFung
 !----------------特定网站元素-----------------
 t7z.cupid.iqiyi.com/track2?b=
+t7z.cupid.iqiyi.com/show2?
