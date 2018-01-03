@@ -657,6 +657,7 @@ iqiyi.com###bottomNativePopup
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com##.m-wl-borderT.m-wl-entrance
 iqiyi.com##div.iqy-items
+iqiyi.com##div.m-ipRelation.m-ipRelation-full
 ifeng.com##[id*=mobile_gg]
 ifeng.com##.newbagicon
 ifeng.com###golddigger_bottom
