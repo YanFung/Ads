@@ -652,6 +652,7 @@ huajiao.com##.tool-bar-open
 huanqiu.com##.fubiao-dialog
 iqiyi.com##.po-fixed.m-guide
 iqiyi.com##.link-app
+iqiyi.com##a.c-btn.c-btn-block
 iqiyi.com###bottomNativePopup
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com##.m-wl-borderT.m-wl-entrance
