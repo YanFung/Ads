@@ -2,4 +2,4 @@
 ! Title:test
 ! Author:YanFung
 !----------------特定网站元素-----------------
-static.g.iqiyi.com/images/mobile/icon/*.jpg
+static.g.iqiyi.com
