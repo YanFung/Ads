@@ -3,3 +3,4 @@
 ! Author:YanFung
 !----------------特定网站元素-----------------
 cache.m.iqiyi.com
+security.iqiyi.com/static/cook/v1/cooksdk.js
