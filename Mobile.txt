@@ -569,6 +569,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src*="img.bncoo.com/forum"]
 ##img[src$="/90.jpg"]
 ##img[src$="download.png"]
+##img[src="http://go.gotourl.xyz/bill.gif"]
 !----------------特定网站元素------------------
 163.com##.footer
 163.com###docid-docAppClient
