@@ -437,7 +437,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||m.neihanshe.cn/imgs/metoo.png$image
 ||m.aty.sohu.com
 ||mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js?t=
-||nex.163.com/*iPhone&cb=jsonp_
 ||p.zol-img.com.cn
 ||pp*.hkslg.net^$image
 ||s.360.cn
