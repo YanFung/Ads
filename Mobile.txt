@@ -818,6 +818,6 @@ zongheng.com##[id^=dashenjiadao]
 !--------------------第三方---------------------
 *$third-party,script,domain=wxiaoshuo.com|m.00ksw.net|m.33yq.com|m.50zw.la|m.55xs.com|m.67shu.com|m.88dushu.com|m.biqudu.com|m.biquge.com|m.biquge.tw|m.biqugego.com|m.biqugezw.com|208xs.com|mebook.cc|m.bqg5200.com|m.dhzw.org|m.kewaishu.net|m.lewenxiaoshuo.com|m.liewen.cc|m.qu.la|m.shenmabook.com|m.shumil.com|m.snwx8.com|m.vodtw.com|m.xiaoxiaoshuwu.com|m.xs.la|m.xs222.com|m.ybdu.com|m.zwdu.com|wap.xxbiquge.com|btlibrary.pw|8090hhh.com|www.bywl88.com|subhd.com|b3yy.cc|m.biqugecom.com|m.shumilou.net|www.qyl99.com|m.77kp.com|m.biqugexsw.com|m.duanwenxue.com
 *$xmlhttprequest,domain=alicili.org|btdigg.co|btlibrary.co|cilidaquan.me|diggbt.biz|savebt.com|storebt.pw|torrentkitty.red|zhongzicili.net|baishuku.com|m.shuhuangge.org|m.panduoduo.net|m.kan84.net|m.iask.sina.com.cn|m.gulizw.com
-*$script,third-party,xmlhttprequest,domain=m.23txt.com|m.booktxt.net|m.wenxuemm.com|www.hdbee.net|www.dawangraoming.com|cnbtkitty.com|btlibrary.cc|book.guibuyu.org|chuanyuezhe.yetianzi.com|cilidb.net|btwhat.org|m.shengyan.org|m.23us.cc|diggbt.fyi|btkitty.pet|m.biquwu.cc
+*$third-party,script,xmlhttprequest,domain=m.23txt.com|m.booktxt.net|m.wenxuemm.com|www.hdbee.net|www.dawangraoming.com|cnbtkitty.com|btlibrary.cc|book.guibuyu.org|chuanyuezhe.yetianzi.com|cilidb.net|btwhat.org|m.shengyan.org|m.23us.cc|diggbt.fyi|btkitty.pet|m.biquwu.cc
 !--------------------白名单-------------------
 @@||cdn.hiido.com/sdk/websdk.js$script,domain=wap.yy.com
