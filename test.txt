@@ -2,4 +2,6 @@
 ! Title:test
 ! Author:YanFung
 !----------------特定网站元素-----------------
-t7z.cupid.iqiyi.com/etx
+*$third-party,script,domain=m.biquwu.cc
+*$xmlhttprequest,domain=m.biquwu.cc
+*$third-party,script,xmlhttprequest,domain=m.biquwu.cc
