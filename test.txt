@@ -2,6 +2,6 @@
 ! Title:test
 ! Author:YanFung
 !----------------特定网站元素-----------------
-|http$third-party,script,domain=m.biquwu.cc
-|http$xmlhttprequest,domain=m.biquwu.cc
+|http$third-party,script,domain=m.biquwu.cc|m.23txt.com
+|http$xmlhttprequest,domain=m.biquwu.cc|m.23txt.com
 |http$third-party,script,xmlhttprequest,domain=m.biquwu.cc
