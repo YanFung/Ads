@@ -395,6 +395,7 @@ m.zanghaihuatxt.com/xxgg/book.js
 mipp.iask.cn/t/mipdf?t=
 mydrivers.com/m/apptuijian.
 mipengine.baidu.com/common?query=
+neihan8.com/skin/js/ia.html
 news.china.com/xml/important_news_day.json?
 ofter.com/blogphotoad?
 pcmx.autohome.com.cn/impress?
@@ -522,6 +523,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.text-ad
 ##.top-adv
 ##.topads
+##.ui-gd-app
 ##.video-ads
 ##.wp.a_t
 ##.ytp-ad-progress-list
