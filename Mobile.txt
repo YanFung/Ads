@@ -43,6 +43,7 @@ pagead2.
 /common/ad
 /common/cf/$image
 /cpro/ui/
+/floatad.$domain=~fwxgx.com
 /ggjs/
 /hunter/alog/
 /ifengad/
