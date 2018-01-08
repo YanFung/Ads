@@ -516,6 +516,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.down
 ##.download-bar
 ##.ec_ad
+##.floatad
 ##.hongbao
 ##.listad
 ##.module-ad
