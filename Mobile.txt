@@ -373,6 +373,7 @@ dm530.net/js/newjs/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 fpb1.chinacar.asia
 fcai.com/ifengIndex.html
+google.com/pagead/
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
 google-analytics.com/urchin.js
