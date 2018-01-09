@@ -482,6 +482,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-300
 ##.ad-block
 ##.ad-banner
+##.ad-gift
 ##.ad-item
 ##.ad-line
 ##.ad_pic
@@ -565,6 +566,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="app-down"]
 ##[class*="app_down"]
 ##[class*=gmine_ad]
+##[class^="ad-inner"]
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
@@ -595,6 +597,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 1905.com##.mobile_ad_promote
 1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
 2.taobao.com##[class="idle-start col"]
+265g.com###swiper-bot
 3g.cn##.downloan_3G
 36kr.com##a.fixed-linkedme:last-child
 4399.com##.fixed-down
