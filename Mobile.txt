@@ -779,7 +779,6 @@ v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
-wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.baidu.com##.c-back+div[id]
 www.05wang.com##img[src*="thumb.1010pic.com"]
