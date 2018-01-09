@@ -512,7 +512,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###advert1
 ###adLeftFloat
 ###adRightFloat
-###ad_top_banner
 ###app-layer
 ###bottomAd
 ###hongbao
@@ -560,7 +559,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="app-down"]
 ##[class*="app_down"]
 ##[class*=gmine_ad]
-##[class^="ad-inner"]
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
