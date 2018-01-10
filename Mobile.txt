@@ -592,6 +592,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 163.com##.papa-item
 163.com##.doc-footer-wrapper
 1688.com##.roc-downbanner
+17k.com##.book_home_float
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
 1905.com##.moviewiki
 1905.com##.mobile_ad_promote
