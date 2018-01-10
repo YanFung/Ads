@@ -545,6 +545,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###bottomAd
 ###db_ad
 ###footer_ad
+###footerApp
 ###hongbao
 ###player-advertising
 ###sponsorAdDiv
@@ -749,7 +750,6 @@ play.163.com###J-download-client-box
 pptv.com###installApp
 qiushibaike.com##[style*="margin-left:"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
-qidian.com###footerApp
 qdaily.com##.clearfix.com-header-brief
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
