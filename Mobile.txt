@@ -739,6 +739,7 @@ miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
 nbd.com.cn##[class=header]
+nuomi.com##.BNJS-download-mask
 neihanshe.cn##.tips_bar
 news.baidu.com##.afd-item.index-list-item-container
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
