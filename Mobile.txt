@@ -657,6 +657,7 @@ bilibili.com##.index__cccBtn__M-home-topArea-
 bilibili.com##.index__upBtn__M-videoPage-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
 bilibili.com##.index__openBtn__M-commonComponent-openBtn-
+bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 btbtdy.com##[class^=ADTOPLB_]
 baofeng.com###appview
 budejie.com###topBanner
