@@ -371,6 +371,7 @@ baidu.com/se/transcode/static/img/tc-banner_$image
 bdfpbimg.ifengimg.com
 bdstatic.com^*/mip-*ad
 bitauto.com/bglog.gif?
+baidu.com/?action=getadsdata&
 badmintoncn.com/cbo_include/js/cboaaa.js
 ckck.tv/inc/
 cnbetacdn.com/frontend/vipics/yijian
