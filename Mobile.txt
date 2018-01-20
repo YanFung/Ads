@@ -523,7 +523,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bds-ads-banner
 ##.baidu_ads_cell
 ##.container_ad
-##.down
 ##.download-bar
 ##.ec_ad
 ##.floatad
