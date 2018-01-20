@@ -311,6 +311,7 @@ wfyqc.com
 wikigifth.com
 womenbaby.com
 wanzituandui.com
+xvtpvc.cn
 x-ssp.com
 xkaqt.com
 xkanf.com
@@ -584,6 +585,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
+##A[href*=".com/?Agent="]
 ##a[href*="www.hfcp20.com"]
 ##a[href*="www.crc6789.com"]
 ##li[data-type="ad"]
