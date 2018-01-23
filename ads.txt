@@ -28,3 +28,10 @@
 ##[id$="_ads"]
 ##[id$="-adv"]
 ##[id$="_adv"]
+log.game.tiexue.net
+tiexue.net/wapcommon/mdata/*.txt
+tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
+tiexue.net##a[href*="tiexue.net/game/"]
+tiexue.net##a[href*="/wechat2/"]
+tiexue.net##[class*=moneyBox]
+tiexue.net##.hg_test
