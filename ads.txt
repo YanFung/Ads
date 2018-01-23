@@ -24,7 +24,7 @@ baidu.com##.openAppCarsouselTpl
 baidu.com##.redenvelope-small
 baidu.com##.se-ft-promlink
 baidu.com##.commentEmbed-backHomeCard
-
 btbtdy.com##[class^=ADTOPLB_]
 bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.guilinlife.com###los
+baijiahao.baidu.com##.openBox-shareEntry
