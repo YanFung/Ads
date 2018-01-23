@@ -2,29 +2,7 @@
 ! Title:Mobile Ads (test)
 ! Author:YanFung
 !----------------特定网站元素-----------------
-163.com##.footer
-163.com###docid-docAppClient
-163.com##.home_packet.ne_rps
-163.com##.a_topad
-163.com##.papa-item
-163.com##.doc-footer-wrapper
-1688.com##.roc-downbanner
-17k.com##.book_home_float
-17173.com##.gb-app-gamerss-pop.gb-app-gamerss
-1905.com##.moviewiki
-1905.com##.mobile_ad_promote
-1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
-2.taobao.com##[class="idle-start col"]
-265g.com###swiper-bot
-3g.cn##.downloan_3G
-36kr.com##a.fixed-linkedme:last-child
-4399.com##.fixed-down
-56.com##[class^="app-"] > .banner-container
-58.com##div._1yk_xA3PhiA7sjHwST5Pyy
-58.com##.bban
-9game.cn###bottomFix
-9game.cn###btInfo
-9game.cn##.app-promote-bar
+
 ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
 acfun.cn###prompt-box
