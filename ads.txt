@@ -2,59 +2,44 @@
 ! Title:Mobile Ads (test)
 ! Author:YanFung
 !----------------特定网站元素-----------------
-
-coolapk.com##.under
-coolapk.com###head
-chinaso.com##.bnwrap
-china.com.cn###force_download
-douyu.com###js-fix-download
-douyu.com##.layout-ball
-douyu.com##.banner0 > .btn-open-app.btn
-dongqiudi.com##.red
-dongqiudi.com##.m-hao-foot
-dongqiudi.com##.swiperWrap.slide-hao
-douban.com##.promo_top_banner
-douban.com##.open-in-app-float
-dgtle.com##.footer-abox
-gfan.com##.downs
-geekpark.net##.OpenInAppButton
-hupu.com##.m-app
-hupu.com###J_live_container
-huya.com##.banner-wrap
-huya.com###swiper-banner
-huya.com##.chat_btn
-huxiu.com##.js-open-app.bgw.guide-box
-hexun.com##.serchalert
-huajiao.com##.banner
-huajiao.com##.follow
-huajiao.com##.open_huajiao
-huajiao.com##.tool-bar-open
-huanqiu.com##.fubiao-dialog
-iqiyi.com##.po-fixed.m-guide
-iqiyi.com##.link-app
-iqiyi.com##a.c-btn.c-btn-block
-iqiyi.com###bottomNativePopup
-iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
-iqiyi.com##.m-wl-borderT.m-wl-entrance
-iqiyi.com##div.iqy-items
-iqiyi.com##div.m-ipRelation.m-ipRelation-full
-ifeng.com##[id*=mobile_gg]
-ifeng.com##.newbagicon
-ifeng.com###golddigger_bottom
-ifeng.com###linkrat_bottom
-ifeng.com###slide_1
-ifeng.com##a[href*=".sm.cn"]
-ifeng.com##li[id][style*="height:"]
-ifeng.com##li[id][style*="height:"] + li
-ifeng.com##div[id][style^="display: block; position:"]
-ifeng.com##p[style]
-ithome.com###ruanmei-apps
-image.baidu.com##.mediacy-rs-contain.js-Component-root
-image.baidu.com##.istextlink.ec_image_title_new
-image.baidu.com##.sample0
-jd.com###download_banner
-jianshu.com##.top
-jiangduw.com##.comiis_wx_gzgzh
-jiemian.com##.header-show.header
-jiemian.com##.header-inner
-juejin.im##.mobile-bottom-bar
+baidu.com##.ec_wise_ad
+baidu.com###banner_call + div[id]
+baidu.com##[class*=wra] > b-scroll
+baidu.com##[class^="hongbao_page"]
+baidu.com##.appPromote
+baidu.com##.footer_logo
+baidu.com##a.fixed_bar
+baidu.com###index-tuijian
+baidu.com###app-special
+baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
+baidu.com##.iSlider-wrapper-container-hot-thread
+baidu.com## .daoliu-content-wrap
+baidu.com##.ui_image_header_bottom
+baidu.com###pblist > li[class]:not(.j_post_list_item)
+baidu.com##[id*=dia_mask]
+baidu.com##[id*=dia_wrapper]
+baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
+baidu.com##.picad
+baidu.com##.openAppCarsouselTpl
+baidu.com##.redenvelope-small
+baidu.com##.se-ft-promlink
+baidu.com##.commentEmbed-backHomeCard
+baidu.com##div[class][ style="visibility: visible;"]
+baijiahao.baidu.com##.openBox-shareEntry
+baike.com##.clearfix.hd_ad_app
+baike.com##[class$=-ad]
+blog.sina.cn##.j_fl_da.fl_style_da
+blog.sina.cn###pl-float-bar
+bilibili.com###floatBtn
+bilibili.com###openAppBtn
+bilibili.com##.index__cccBtn__M-home-topArea-
+bilibili.com##.index__upBtn__M-videoPage-topArea-
+bilibili.com##.index__cccTips__M-videoPage-player-
+bilibili.com##.index__openBtn__M-commonComponent-openBtn-
+bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
+btbtdy.com##[class^=ADTOPLB_]
+baofeng.com###appview
+budejie.com###topBanner
+bing.com###BottomAppPro
+bbs.gpsuu.com##.wrap > .mb5.tac
+bbs.guilinlife.com###los
