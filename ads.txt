@@ -28,4 +28,4 @@ btbtdy.com##[class^=ADTOPLB_]
 bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.guilinlife.com###los
 baijiahao.baidu.com##.openBox-shareEntry
-baidu.com##div[class][ style="visibility: visible;"]
+
