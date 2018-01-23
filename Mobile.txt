@@ -461,6 +461,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||m.neihanshe.cn/imgs/metoo.png$image
 ||m.aty.sohu.com
 ||mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js?t=
+||mbd.baidu.com/newspage/api/getrelatednews?nid=news_
 ||p.zol-img.com.cn
 ||pp*.hkslg.net^$image
 ||s.360.cn
@@ -649,6 +650,7 @@ baidu.com##.openAppCarsouselTpl
 baidu.com##.redenvelope-small
 baidu.com##.se-ft-promlink
 baidu.com##.commentEmbed-backHomeCard
+baidu.com##div[class][ style="visibility: visible;"]
 baijiahao.baidu.com##.openBox-shareEntry
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
