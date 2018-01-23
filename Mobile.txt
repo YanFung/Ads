@@ -650,7 +650,6 @@ baidu.com##.openAppCarsouselTpl
 baidu.com##.redenvelope-small
 baidu.com##.se-ft-promlink
 baidu.com##.commentEmbed-backHomeCard
-baidu.com##div[class][ style="visibility: visible;"]
 baijiahao.baidu.com##.openBox-shareEntry
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
@@ -807,6 +806,7 @@ weibo.cn##.m-container-max.tips
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.baidu.com##.c-back+div[id]
+www.baidu.com##div[class][ style="visibility: visible;"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
 xiami.com##.navbar
 xiami.com###J_Slide
