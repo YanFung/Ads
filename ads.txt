@@ -26,20 +26,6 @@ baidu.com##.se-ft-promlink
 baidu.com##.commentEmbed-backHomeCard
 baidu.com##div[class][ style="visibility: visible;"]
 baijiahao.baidu.com##.openBox-shareEntry
-baike.com##.clearfix.hd_ad_app
-baike.com##[class$=-ad]
-blog.sina.cn##.j_fl_da.fl_style_da
-blog.sina.cn###pl-float-bar
-bilibili.com###floatBtn
-bilibili.com###openAppBtn
-bilibili.com##.index__cccBtn__M-home-topArea-
-bilibili.com##.index__upBtn__M-videoPage-topArea-
-bilibili.com##.index__cccTips__M-videoPage-player-
-bilibili.com##.index__openBtn__M-commonComponent-openBtn-
-bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 btbtdy.com##[class^=ADTOPLB_]
-baofeng.com###appview
-budejie.com###topBanner
-bing.com###BottomAppPro
 bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.guilinlife.com###los
