@@ -5,7 +5,7 @@
 !Description:广告反馈QQ群:514536444.
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !
-!-----------------通用URL通配------------------
+!-----------------通用URL通配-------------------
 adsbygoogle.
 googleads.
 pubads.
