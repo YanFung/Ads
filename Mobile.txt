@@ -776,6 +776,7 @@ suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
 tieba.baidu.com##li[class^="tl_shadow tl_shadow_new "]
+tieba.baidu.com##li[class^="tl_shadow tl_shadow_new "] + style
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
