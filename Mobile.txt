@@ -775,8 +775,7 @@ sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
-tieba.baidu.com##a[class="ti_item j_click_stats" ][href="javascript:;"]
-tieba.baidu.com##a[class="ti_item j_click_stats" ][href="javascript:;"] + div
+tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
