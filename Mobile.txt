@@ -637,7 +637,6 @@ baidu.com##.footer_logo
 baidu.com##a.fixed_bar
 baidu.com###index-tuijian
 baidu.com###app-special
-baidu.com## .j_click_stats.ti_item,.tl_shadow > .clearfix.ti_infos
 baidu.com##.iSlider-wrapper-container-hot-thread
 baidu.com## .daoliu-content-wrap
 baidu.com##.ui_image_header_bottom
@@ -776,7 +775,6 @@ sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
-tieba.baidu.com##li[class^="tl_shadow tl_shadow_new "]
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
