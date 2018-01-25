@@ -811,8 +811,9 @@ xiami.com##.navbar
 xiami.com###J_Slide
 xiaomi.cn##[class*=download]
 xici.net###unlogin_wrapper
-xilu.com###imgsc-fixed
+
 xilu.com##.wap_vip
+xilu.com##li[class="cir_article _1268cyl"]
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
