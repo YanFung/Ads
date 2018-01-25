@@ -6,6 +6,7 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !
 !-----------------通用URL通配-------------------
+advert
 adsbygoogle.
 googleads.
 pubads.
@@ -19,8 +20,6 @@ pagead2.
 /adjs/
 /ad/js/
 /adpuba/
-/advert/
-/advertisements?
 /adfolder/*
 /adshow?
 /adtag.
