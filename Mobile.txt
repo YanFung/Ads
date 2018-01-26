@@ -852,3 +852,4 @@ zongheng.com##[id^=dashenjiadao]
 !------------------白名单CSS-------------------
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
+||zz.bdstatic.com/linksubmit/push.js$script,domain=m.miaobige.com
