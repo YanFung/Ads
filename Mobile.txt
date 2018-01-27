@@ -648,6 +648,7 @@ baidu.com##.redenvelope-small
 baidu.com##.se-ft-promlink
 baidu.com##.commentEmbed-backHomeCard
 baijiahao.baidu.com##.openBox-shareEntry
+baijiahao.baidu.com##.openall3
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
