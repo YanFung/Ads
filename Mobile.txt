@@ -515,7 +515,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.article-ad
 ##.appLink
 ##.appAd-line
-##.active.mod-download-tips-con
 ##.bm.a_c
 ##.bannerad
 ##.bottomAd
@@ -566,7 +565,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="downApp"]
 ##[id*="app-down"]
 ##[id*="app_down"]
-##[id^="download-"]
+##[id*="download-"]
 ##[class="ads"]
 ##[class*="appdown"]
 ##[class*="appDown"]
@@ -574,7 +573,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="downapp"]
 ##[class*="app-down"]
 ##[class*="app_down"]
-##[class^="download-"]
+##[class*="download-"]
 ##[class*=gmine_ad]
 ##[class^="ad-inner"]
 ##[src="/ad.js"]
@@ -625,9 +624,7 @@ acfun.cn###prompt-box
 acfun.cn###btn-app
 acfun.cn###bottom-download
 autohome.com.cn##.sign-wp
-app.so##.js-appso-container.appso-download-container.hide
 app.myzaker.com##.zk_top_barwrap
-alibabaplanet.com##.download-bar__wrap
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
@@ -750,7 +747,6 @@ miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
 nbd.com.cn##[class=header]
-nuomi.com##.BNJS-download-mask
 neihanshe.cn##.tips_bar
 news.baidu.com##.afd-item.index-list-item-container
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
@@ -759,7 +755,6 @@ panda.tv###tip-download
 panda.tv##.btn-download
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
-play.163.com###J-download-client-box
 pptv.com###installApp
 qiushibaike.com##[style*="margin-left:"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
@@ -794,7 +789,6 @@ tumblr.com##.mobile-banner-inner
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
-tv.sohu.com##.x-dl-shake.x-download-panel
 v2ex.com##[class^=sidebar_]
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
