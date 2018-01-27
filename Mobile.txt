@@ -524,7 +524,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bds-ads-banner
 ##.baidu_ads_cell
 ##.container_ad
-##.download-bar
 ##.ec_ad
 ##.floatad
 ##.hongbao
@@ -567,6 +566,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="downApp"]
 ##[id*="app-down"]
 ##[id*="app_down"]
+##[id^="download-"]
 ##[class="ads"]
 ##[class*="appdown"]
 ##[class*="appDown"]
@@ -574,6 +574,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="downapp"]
 ##[class*="app-down"]
 ##[class*="app_down"]
+##[class^="download-"]
 ##[class*=gmine_ad]
 ##[class^="ad-inner"]
 ##[src="/ad.js"]
