@@ -803,6 +803,8 @@ weibo.cn##.m-container-max.tips
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.baidu.com##.c-back+div[id]
+www.baidu.com##.callappbox
+www.baidu.com##.logined-banner
 www.baidu.com##.wrap > div div[class][style="visibility: visible;"]>div[class][style="width: 750px;"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
 xiami.com##.navbar
