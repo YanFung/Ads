@@ -819,6 +819,7 @@ youku.com###J_banner
 youku.com###banner
 youku.com###Bigdrama
 youku.com##div[style^="width: 100px; height: 100px; "]
+youtube.com##.sjb.tm.jn
 yy.com###baseText-main
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
 yy.com##.v-player-widget-hudong
