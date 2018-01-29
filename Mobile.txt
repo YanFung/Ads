@@ -570,6 +570,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="app-down"]
 ##[id*="app_down"]
 ##[id*="download-"]
+##[id*=appdownload]
 ##[class="ads"]
 ##[class*="appdown"]
 ##[class*="appDown"]
@@ -598,7 +599,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src*="img.bncoo.com/forum"]
 ##img[src$="/90.jpg"]
 ##img[src$="download.png"]
-##img[src="http://go.gotourl.xyz/bill.gif"]
+##img[src$="go.gotourl.xyz/bill.gif"]
+##img[src$="/toutiaoh5/img/redP/rp-s.gif"]
 !----------------特定网站元素------------------
 163.com##.footer
 163.com###docid-docAppClient
