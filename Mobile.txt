@@ -576,6 +576,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="app-down"]
 ##[class*="app_down"]
 ##[class*="download-"]
+##[class*="openInApp"]
 ##[class*=gmine_ad]
 ##[class^="ad-inner"]
 ##[src="/ad.js"]
@@ -681,7 +682,6 @@ douban.com##.promo_top_banner
 douban.com##.open-in-app-float
 dgtle.com##.footer-abox
 gfan.com##.downs
-geekpark.net##.OpenInAppButton
 hupu.com##.m-app
 hupu.com###J_live_container
 huya.com##.banner-wrap
@@ -830,7 +830,6 @@ y.qq.com##.btn_download
 y.qq.com##.top_bar
 yuedu.163.com##img[src*="/yunyuedu.png"]
 zol.com.cn##.zolapp
-zhihu.com##.is-shown.OpenInAppButton
 zhihu.com##div[data-za-detail-view-path-is_ad]
 zybang.com##div[class][id]
 zybang.com##div[class][style]
