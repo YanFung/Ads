@@ -527,6 +527,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bds-ads-banner
 ##.baidu_ads_cell
 ##.container_ad
+## .down-kanApp
 ##.ec_ad
 ##.floatad
 ##.hongbao
