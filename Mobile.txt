@@ -580,6 +580,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="app_down"]
 ##[class*="download-"]
 ##[class*="openInApp"]
+##[class*="OpenInApp"]
 ##[class*=gmine_ad]
 ##[class^="ad-inner"]
 ##[src="/ad.js"]
