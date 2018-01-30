@@ -634,7 +634,7 @@ acfun.cn###btn-app
 acfun.cn###bottom-download
 autohome.com.cn##.sign-wp
 app.myzaker.com##.zk_top_barwrap
-
+baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
 baidu.com##[class^="hongbao_page"]
