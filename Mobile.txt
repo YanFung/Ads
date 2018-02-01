@@ -8,7 +8,7 @@
 !-----------------通用URL通配-------------------
 ||iqiyi.com/js/pingback/
 ws://*/ws
-*/videos/other/*.ts?*
+/videos/other/$xmlhttprequest,domain=m.iqiyi.com
 advert
 adsbygoogle.
 googleads.
