@@ -6,6 +6,8 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !
 !-----------------通用URL通配-------------------
+||iqiyi.com/js/pingback/
+ws://*/ws
 */videos/other/*.ts?*
 advert
 adsbygoogle.
@@ -535,6 +537,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.floatad
 ##.hongbao
 ##.listad
+##.leftAd
 ##.module-ad
 ##.news-ad
 ##.open-app
