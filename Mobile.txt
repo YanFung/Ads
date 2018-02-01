@@ -7,7 +7,6 @@
 !
 !-----------------通用URL通配-------------------
 */videos/other/*
-ws://*/ws
 advert
 adsbygoogle.
 googleads.
