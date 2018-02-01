@@ -6,6 +6,7 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 !
 !-----------------通用URL通配-------------------
+||t7z.cupid.iqiyi.com
 ||iqiyi.com/js/pingback/
 ws://*/ws
 /videos/other/$xmlhttprequest,domain=m.iqiyi.com
