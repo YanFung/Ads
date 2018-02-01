@@ -3,7 +3,7 @@
 !Title:Mobile Ads（测试）
 !Author:YanFung
 !Description:广告反馈QQ群:514536444.
-!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
+!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
 !------------------正则表达式-------------------
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
