@@ -34,7 +34,6 @@ pagead2.
 /ad.php|
 /adsid/
 /adshow.
-/a_d/$domain=~pan.baidu.com
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
 /acmsd/
 /api/ad/
