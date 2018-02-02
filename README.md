@@ -6,6 +6,6 @@
 
 # DNS 广告列表
 
-列表取自(https://github.com/h2y/Shadowrocket-ADBlock-Rules)小火剪规则转换而来
+列表取自(https://github.com/h2y/Shadowrocket-ADBlock-Rules)  小火剪规则转换而来
 
 如有冒犯，请通知删除
