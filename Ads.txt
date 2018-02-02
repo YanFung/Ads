@@ -3,7 +3,7 @@
 !Title:Mobile Ads（test）
 !Author:YanFung
 !Description:广告反馈QQ群:514536444.
-!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
+!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Ads.txt
 !-----------------特定网站URL-----------------
 ||ark.letv.com^$script,domain=m.le.com
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
