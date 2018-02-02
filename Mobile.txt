@@ -599,6 +599,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="www.hfcp20.com"]
 ##a[href*="www.crc6789.com"]
 ##li[data-type="ad"]
+##img[src="tp/hb1.png"]
 ##img[src*="tui.30pan.com"]
 ##img[src*="img.bncoo.com/forum"]
 ##img[src$="/90.jpg"]
