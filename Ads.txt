@@ -5,13 +5,4 @@
 !Description:广告反馈QQ群:514536444.
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Ads.txt
 !-----------------特定网站URL-----------------
-||ark.letv.com^$script,domain=m.le.com
-||chuantu.biz/t6/41/1504877655x2728309627.gif
-||cdn.bootcss.com/jquery/1.8.3/jquery.min.js
-||becode.qiushibaike.com
-||beacon.sina.com.cn
-||de.as.pptv.com
-||delivery-pc.wasu.cn
-||dol.tianya.cn/s?z=tianya&
-||funbox.upush.cn/images/funbox/icons/*.gif
 ||f*.baidu.com/it/u=*,*&fm=$third-party
