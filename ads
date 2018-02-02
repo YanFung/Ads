@@ -5,7 +5,6 @@
 !Description:广告反馈QQ群:514536444.
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
 !-----------------特定网站URL------------------
-
 aolusb.com/forever/
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
