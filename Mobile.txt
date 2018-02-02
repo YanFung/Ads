@@ -450,7 +450,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||delivery-pc.wasu.cn
 ||dol.tianya.cn/s?z=tianya&
 ||funbox.upush.cn/images/funbox/icons/*.gif
-||f*.baidu.com/it/u=*,*&fm=$third-party
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
 ||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
 ||gss0.bdstatic.com/*/static/wiseindex/js/package/newsActivity_*.js
