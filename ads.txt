@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 !Version:2018/1/6/17:30
-!Title:Mobile Ads（测试）
+!Title:Mobile Ads（test）
 !Author:YanFung
 !Description:广告反馈QQ群:514536444.
-!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txtdu.comm.baidu.comtmom
+!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/ads.txt
 !-----------------特定网站URL------------------
 :8888/mb1/wap_
 17173cdn.com/a/lib/vda/seed.js
