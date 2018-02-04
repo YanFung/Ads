@@ -11,6 +11,7 @@ adsbygoogle.
 googleads.
 pubads.
 pagead2.
+/acmsd/
 /ad1.
 /ad1_
 /ads2.
@@ -325,7 +326,9 @@ xinci8.com
 xyhtys.com
 xcdzsw.com
 xc.mydrivers.com
+xuanmeiguoji.com
 yangjingbang.net
+yjqtp.com
 youle55.com
 ygqczh.com
 ynjczy.net
