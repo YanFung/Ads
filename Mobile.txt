@@ -664,6 +664,7 @@ baidu.com##.picad
 baidu.com##.openAppCarsouselTpl
 baidu.com##.redenvelope-small
 baidu.com##.se-ft-promlink
+baidu.com##div.baiduapp-ad-result
 baidu.com##.commentEmbed-backHomeCard
 baijiahao.baidu.com##.openBox-shareEntry
 baijiahao.baidu.com##.openall3
