@@ -382,6 +382,7 @@ bdstatic.com^*/mip-*ad
 bitauto.com/bglog.gif?
 baidu.com/?action=getadsdata&
 badmintoncn.com/cbo_include/js/cboaaa.js
+bestvogue.com/fans/
 ckck.tv/inc/
 cnbetacdn.com/frontend/vipics/yijian
 ciliba.org/public/static/js/common-v2.js
@@ -455,6 +456,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||de.as.pptv.com
 ||delivery-pc.wasu.cn
 ||dol.tianya.cn/s?z=tianya&
+||fans.*.space/fans/*.php
 ||funbox.upush.cn/images/funbox/icons/*.gif
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
 ||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
@@ -503,6 +505,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-300
 ##.ad-block
 ##.ad-banner
+##.ad_float_left
+##.ad_footerbanner
 ##.ad-gift
 ##.ad-item
 ##.ad-line
@@ -510,6 +514,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-right
 ##.ad-wrapper
 ##.ad_result
+##.ad_text
 ##.ad-widget
 ##.ads-item
 ##.ads-post
@@ -561,6 +566,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###adLeftFloat
 ###adRightFloat
 ###ad_top_banner
+###ad_text:not(textarea)
+###ad_headerbanner
 ###app-layer
 ###bottomAd
 ###db_ad
