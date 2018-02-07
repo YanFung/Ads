@@ -757,7 +757,6 @@ lofter.com##div[class="m-moreselect"][id^="auto-id-"]
 mgtv.com##.on.mg-app-open
 mgtv.com##.bottom-gap.v5-area-bar > .bd
 mgtv.com##.ft
-mgtv.com##.mg-apps-download
 mgtv.com##.add-desktop
 mop.com##.mop-index-gg
 mop.com##[class*=detail-ad]
