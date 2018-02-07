@@ -587,9 +587,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="downApp"]
 ##[id*="app-down"]
 ##[id*="app_down"]
-##[id*="download-"]
-##[id*="download_"]
-##[id*=appdownload]
+##[id*="download"]
 ##[class="ads"]
 ##[class*="appdown_"]
 ##[class*="appDown"]
@@ -597,8 +595,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="downapp"]
 ##[class*="app-down"]
 ##[class*="app_down"]
-##[class*="download_"]
-##[class*="download-"]
+##[class*="download"]
 ##[class*="openInApp"]
 ##[class*="OpenInApp"]
 ##[class*=gmine_ad]
@@ -745,7 +742,6 @@ ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
 image.baidu.com##.sample0
-jd.com###download_banner
 jianshu.com##.top
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
