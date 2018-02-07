@@ -36,7 +36,6 @@ pagead2.
 /adsid/
 /adshow.
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
-/acmsd/
 /api/ad/
 /bottomad/
 /common/ad
