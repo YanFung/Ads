@@ -648,7 +648,6 @@ ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
 acfun.cn###prompt-box
 acfun.cn###btn-app
-acfun.cn###bottom-download
 autohome.com.cn##.sign-wp
 app.myzaker.com##.zk_top_barwrap
 baidu.com##.ec_wise_ad
@@ -696,9 +695,7 @@ bbs.guilinlife.com###los
 coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
-china.com.cn###force_download
 changba.com##.open-div1
-douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
 dongqiudi.com##.red
@@ -750,7 +747,6 @@ juejin.im##.mobile-bottom-bar
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 kuwo.cn##.clearfix.up_btns2.up_btns
-kugou.com###tcdownload
 le.com###j-leappMore
 le.com###j-zhoubian
 le.com###j-recommend > .animate1.column_box
@@ -779,8 +775,6 @@ neihanshe.cn##.tips_bar
 news.baidu.com##.afd-item.index-list-item-container
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 open.163.com##.fix-bot
-panda.tv###tip-download
-panda.tv##.btn-download
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
 pptv.com###installApp
@@ -835,7 +829,6 @@ www.baidu.com##.wrap > div div[class][style="visibility: visible;"]>div[class][s
 www.05wang.com##img[src*="thumb.1010pic.com"]
 xiami.com##.navbar
 xiami.com###J_Slide
-xiaomi.cn##[class*=download]
 xici.net###unlogin_wrapper
 xilu.com###imgsc-fixed
 xilu.com##.wap_vip
@@ -852,7 +845,6 @@ yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
 yiche.com##.float-r-box
 yidianzixun.com##.banner
-y.qq.com##.btn_download
 y.qq.com##.top_bar
 yuedu.163.com##img[src*="/yunyuedu.png"]
 zol.com.cn##.zolapp
