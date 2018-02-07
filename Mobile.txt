@@ -698,6 +698,7 @@ coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
 china.com.cn###force_download
+changba.com##.open-div1
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
