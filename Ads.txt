@@ -1,3 +1,2 @@
-ads.service.kugou.com
-mobilelog.kugou.com
-adserviceretry.kugou.com
+##[class*="app-down"]
+###hongbao
