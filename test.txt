@@ -6,4 +6,4 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/test.txt
 ! ------------测试规则------------
 ||*/videos/other/*.ts?*$xmlhttprequest,domain=m.iqiyi.com
-ws://*/ws
+
