@@ -304,6 +304,7 @@ tajs.qq.com
 tingyun.com
 tt123.eastday.com
 users.51.la
+ueram.com
 unmini.com
 ubmcmm.baidustatic.com
 vnnv777.cn
@@ -526,6 +527,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adArea
 ##.adTop
 ##.adlist
+##.adright
 ##.adbanner
 ##.adsbygoogle
 ##.adsame-banner-box
