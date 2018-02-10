@@ -5,5 +5,5 @@
 !Description:广告反馈QQ群:514536444.
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/test.txt
 ! ------------测试规则------------
-##[class*="app-down"]
-###hongbao
+*/videos/other/*
+ws://*/ws
