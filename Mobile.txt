@@ -57,6 +57,7 @@ pagead2.
 /videoad.
 /z.zolapp.
 /__utm.gif
+=adunit&
 -pagead-id.
 _ads?
 _ad_banner.
@@ -65,10 +66,10 @@ _yad_jsonp_
 &adsize=
 &adnum=
 &ad_ids=
+.8ox.cn
 .ad-plus.cn/
 .net/ads/
 .tv/ads/
-.8ox.cn
 .html?ad_
 .cn/vs.php?id=
 .com/vs.php?id=
@@ -441,6 +442,8 @@ sogou.com/cl.gif?
 sogoucdn.com$domain=~m.sogou.com
 tiexue.net/wapcommon/mdata/*.txt
 tmtpost.com/public/images/app_download.png
+youtube.com/get_midroll_
+youtube.com/pagead/
 vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 variety.tc.qq.com/*.mp4?vkey=
 w5sac788c1.360doc.cn
@@ -507,6 +510,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-300
 ##.ad-block
 ##.ad-banner
+##.ad-container
 ##.ad_float_left
 ##.ad_footerbanner
 ##.ad-gift
