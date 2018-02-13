@@ -362,6 +362,7 @@ zhgg.dre8.com
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
 163.com/*&affiliate=
+18183.com^*.php?pid=
 999d.com^$third-party
 apple.www.letv.com
 a1.jandan.net/*.js
