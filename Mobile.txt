@@ -440,6 +440,7 @@ sogou.com/wap_ask_service?
 sogou.com/ask?id=
 sogou.com/cl.gif?
 sogoucdn.com$domain=~m.sogou.com
+tuwan.com/myad/
 tiexue.net/wapcommon/mdata/*.txt
 tmtpost.com/public/images/app_download.png
 youtube.com/get_midroll_
@@ -492,6 +493,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||tongji.mafengwo.cn
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||ubook.qq.com/8/img/load.png
+||vista.tuwan.com/s.js
 ||www.65yw.com/i.html
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
 ||www.ftchinese.com/m/marketing/a.html?v=
