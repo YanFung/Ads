@@ -818,6 +818,7 @@ toutiao.com##.article_link[data-tag="ad"]
 tudou.com##.td-h5__appguide
 tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
+tudou.com###topbar-slider
 tumblr.com##.mobile-banner-inner
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
