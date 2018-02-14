@@ -505,6 +505,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||www.zhihu.com/api/v4/banners/
 ||yes1.feng.com
 ||zhihu-web-analytics.zhihu.com
+||zpe-klre.18183.com/eezdx.php?sdfs=
 !-------------------通用元素-------------------
 ##.a_cn
 ##.a_pr
