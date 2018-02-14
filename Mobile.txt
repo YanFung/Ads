@@ -366,6 +366,7 @@ zhgg.dre8.com
 999d.com^$third-party
 apple.www.letv.com
 a1.jandan.net/*.js
+ab_res/m/common.js
 alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
