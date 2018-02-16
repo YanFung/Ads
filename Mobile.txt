@@ -867,6 +867,7 @@ zybang.com##div[class][style]
 zimuzu.tv##div[class*="-tip show"]
 zimuzu.tv###nGame
 zimuzu.tv##[class="gameList"]
+zhihu.com##.Kok-mobile.Kok.Lottie
 zhidao.baidu.com###main-content>div>a
 zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##.link
