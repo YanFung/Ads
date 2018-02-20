@@ -711,7 +711,7 @@ coolapk.com###head
 chinaso.com##.bnwrap
 changba.com##.open-div1
 dilidili.wang##.h5game
-dilidili.wang##img[src*="/uploads/"]
+dilidili.wang##img[src^="/uploads/"]
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
 dongqiudi.com##.red
