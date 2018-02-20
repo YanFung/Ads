@@ -710,6 +710,8 @@ coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
 changba.com##.open-div1
+dilidili.wang##.h5game
+dilidili.wang##img[src*="/uploads/"]
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
 dongqiudi.com##.red
@@ -731,6 +733,7 @@ huajiao.com##.follow
 huajiao.com##.open_huajiao
 huajiao.com##.tool-bar-open
 huanqiu.com##.fubiao-dialog
+huanmusic.com##.am-content > .am-g
 iqiyi.com##.po-fixed.m-guide
 iqiyi.com##.link-app
 iqiyi.com##a.c-btn.c-btn-block
