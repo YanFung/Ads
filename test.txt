@@ -5,7 +5,7 @@
 !Description:广告反馈QQ群:514536444.
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/test.txt
 ! ------------测试规则------------
-!-----------------通用URL域名------------------
+!-----------------通用URL域名--------------
 bdjiaoben.wmxa.cn
 bvoer.com
 bjeai.com
