@@ -633,11 +633,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="/90.jpg"]
 ##img[src$="download.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
-##img[src$="/toutiaoh5/img/redP/rp-s.gif"]
-!---------------------------------------------------
-~app.so##[class*="app-down"]
-~pan.baidu.com##[class*="download"]
-~www.lbldy.com##[id*="download"]
+##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
 !----------------特定网站元素------------------
 163.com##.footer
 163.com###docid-docAppClient
