@@ -587,7 +587,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###db_ad
 ###footer_ad
 ###footerApp
-~nuomi.com###hongbao
+###hongbao
 ###player-advertising
 ###sponsorAdDiv
 ###windlocation
@@ -894,5 +894,6 @@ zongheng.com##[id^=dashenjiadao]
 @@||m.12365chia.com/js/rotation.js$xmlhttprequest,domain=m.dilidili.wang
 !---------------------------------------------
 app.so#@#[class*="app-down"]
+nuomi.com#@##hongbao
 pan.baidu.com#@#[class*="download"]
 www.lbldy.com#@#[id*="download"]
