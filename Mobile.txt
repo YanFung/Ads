@@ -892,4 +892,4 @@ zongheng.com##[id^=dashenjiadao]
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
 pan.baidu.com#@#[class*="download"]
-www.lbldy.com#@##download_link
+lbldy.com#@##div[id*="download"][style]
