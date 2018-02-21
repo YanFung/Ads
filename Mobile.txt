@@ -891,4 +891,4 @@ zongheng.com##[id^=dashenjiadao]
 !------------------白名单CSS-------------------
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
-lbldy.com#@#[id="download_link"]
+lbldy.com#@##download_link
