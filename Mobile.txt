@@ -601,7 +601,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="downApp"]
 ##[id*="app-down"]
 ##[id*="app_down"]
-##[id*="download"]
+~www.lbldy.com##[id*="download"]
 ##[class="ads"]
 ##[class*="appdown_"]
 ##[class*="appDown"]
@@ -891,4 +891,3 @@ zongheng.com##[id^=dashenjiadao]
 !------------------白名单CSS-------------------
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
-lbldy.com#@##download_link
