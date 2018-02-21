@@ -601,15 +601,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="downApp"]
 ##[id*="app-down"]
 ##[id*="app_down"]
-~www.lbldy.com##[id*="download"]
 ##[class="ads"]
 ##[class*="appdown_"]
 ##[class*="appDown"]
 ##[class*="AppDown"]
 ##[class*="downapp"]
-~app.so##[class*="app-down"]
 ##[class*="app_down"]
-~pan.baidu.com##[class*="download"]
 ##[class*="openInApp"]
 ##[class*="OpenInApp"]
 ##[class*=gmine_ad]
@@ -634,6 +631,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="download.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
 ##img[src$="/toutiaoh5/img/redP/rp-s.gif"]
+!---------------------------------------------------
+~app.so##[class*="app-down"]
+~pan.baidu.com##[class*="download"]
+~www.lbldy.com##[id*="download"]
 !----------------特定网站元素------------------
 163.com##.footer
 163.com###docid-docAppClient
