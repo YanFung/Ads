@@ -606,7 +606,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="appdown_"]
 ##[class*="appDown"]
 ##[class*="AppDown"]
-##[class*="downapp"]
+~pan.baidu.com##[class*="downapp"]
 ~app.so##[class*="app-down"]
 ##[class*="app_down"]
 ##[class*="download"]
