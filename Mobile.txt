@@ -601,7 +601,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[id*="app_down"]
 ##[id*="downapp"]
 ##[id*="downApp"]
-##[id*="download"]
 ##[class="ads"]
 ##[class*="appdown_"]
 ##[class*="appDown"]
@@ -712,6 +711,7 @@ chinaso.com##.bnwrap
 changba.com##.open-div1
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
+douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
 dongqiudi.com##.red
@@ -892,4 +892,3 @@ zongheng.com##[id^=dashenjiadao]
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
 pan.baidu.com#@#[class*="download"]
-~www.lbldy.com##[id*="download"]
