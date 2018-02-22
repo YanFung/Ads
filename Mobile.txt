@@ -657,6 +657,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 3g.cn##.downloan_3G
 36kr.com##a.fixed-linkedme:last-child
 4399.com##.fixed-down
+52ain.cn###pic_bg_2
 56.com##[class^="app-"] > .banner-container
 58.com##div._1yk_xA3PhiA7sjHwST5Pyy
 58.com##.bban
