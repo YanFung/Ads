@@ -12,7 +12,11 @@ googleads.
 pubads.
 pagead2.
 /acmsd/
-/ad1.
+/ad0.$domain=~vereinslinie.de
+/ad1.$domain=~ad1.de|~ad1.in|~vereinslinie.de
+/ad2.$domain=~vereinslinie.de
+/ad3.$domain=~ad3.eu|~vereinslinie.de
+/ad4.$domain=~ad4.wpengine.com|~vereinslinie.de
 /ad1_
 /ads2.
 /adbanner/
@@ -46,6 +50,7 @@ pagead2.
 /hunter/alog/
 /ifengad/
 /img/ad-
+/images/ad-
 /js/ads/
 /log.gif?
 /o.php?u=*|$third-party,script
@@ -514,6 +519,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_1
 ##.ad_2
 ##.ad-300
+##.ad_box
 ##.ad-block
 ##.ad-banner
 ##.ad-container
