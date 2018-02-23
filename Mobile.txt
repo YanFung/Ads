@@ -7,6 +7,7 @@
 !
 !-----------------URL通配------------------
 advert
+adservice.
 adsbygoogle.
 googleads.
 pubads.
@@ -47,6 +48,7 @@ pagead2.
 /cpro/ui/
 /floatad.$domain=~fwxgx.com
 /ggjs/
+/gen_204?$image
 /hunter/alog/
 /ifengad/
 /img/ad-
@@ -185,6 +187,7 @@ gzdhzb.com
 gdt.qq.com
 guidashu.com
 guangzizai.com
+geiyujieda.com
 game.nduoa.com
 hao61.net
 h0o33.cn
@@ -619,6 +622,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="OpenInApp"]
 ##[class*=gmine_ad]
 ##[class^="ad-inner"]
+##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
