@@ -809,6 +809,8 @@ open.163.com##.fix-bot
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
 pptv.com###installApp
+pcauto.com.cn##[class][style]
+pcauto.com.cn##.club-app-load
 qiushibaike.com##[style*="margin-left:"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
