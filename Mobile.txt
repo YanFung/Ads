@@ -795,6 +795,7 @@ mop.com##[class*=detail-ad]
 music.163.com##.topfr
 music.163.com##.openapp
 music.163.com##.footer-wrap
+m.baidu.com##div.page-banner
 m.baidu.com##div.sfc-image-content-adtext
 m.baidu.com##a.sfc-image-content-detailpage-exchange
 m.baidu.com##div.sfc-image-content-detailpage-looprs
