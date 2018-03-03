@@ -683,6 +683,7 @@ baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
 baidu.com##[class^="hongbao_page"]
 baidu.com##.appPromote
+baidu.com##.page-banner
 baidu.com##div.gh-safariicon-container
 baidu.com##.footer_logo
 baidu.com##a.fixed_bar
@@ -795,7 +796,6 @@ mop.com##[class*=detail-ad]
 music.163.com##.topfr
 music.163.com##.openapp
 music.163.com##.footer-wrap
-m.baidu.com##div.page-banner
 m.baidu.com##div.sfc-image-content-adtext
 m.baidu.com##a.sfc-image-content-detailpage-exchange
 m.baidu.com##div.sfc-image-content-detailpage-looprs
