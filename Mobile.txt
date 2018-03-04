@@ -732,6 +732,7 @@ dilidili.wang##img[src^="/uploads/"]
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
+doutula.com###abptip
 dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
