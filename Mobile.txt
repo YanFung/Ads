@@ -27,6 +27,7 @@ pagead2.
 /adpuba/
 /adfolder/*
 /adshow?
+/adview_
 /adtag.
 /adpic/
 /adstatic/
