@@ -816,7 +816,6 @@ pptv.com###installApp
 pcauto.com.cn##.m-price-enter
 pcauto.com.cn##.ivy_bbs_topimg.wraper
 pcauto.com.cn##[class][style^="display:"]
-pcauto.com.cn##.m-slider-wrap
 pcauto.com.cn###Jmarquee
 pcauto.com.cn##.club-app-load
 qiushibaike.com##[style*="margin-left:"]
