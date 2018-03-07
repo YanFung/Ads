@@ -6,6 +6,5 @@
 !Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/test.txt
 ! ------------测试规则------------
 !-----------------通用URL域名------------------
-##[id*="app_down"]
-##[class*="download"]
+
 
