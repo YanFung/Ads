@@ -8,7 +8,4 @@
 !-----------------通用URL域名------------------
 ##[id*="app_down"]
 ##[class*="download"]
-yiche.com##.float-r-box
-
-bitauto.com/bglog.gif?
 
