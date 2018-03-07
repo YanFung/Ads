@@ -11,4 +11,4 @@
 yiche.com##.float-r-box
 yccdn.com
 bitauto.com/bglog.gif?
-
+@@yccdn.com$script,domain=car.m.yiche.com
