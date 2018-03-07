@@ -918,3 +918,4 @@ zongheng.com##[id^=dashenjiadao]
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
 pan.baidu.com#@#[class*="download"]
+car.m.yiche.com#@#[class*="download"]
