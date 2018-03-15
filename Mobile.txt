@@ -79,6 +79,7 @@ _yad_jsonp_
 .net/ads/
 .tv/ads/
 .html?ad_
+.net/adv/
 .cn/vs.php?id=
 .com/vs.php?id=
 .com/ad?
@@ -506,6 +507,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||sax*.sina.
 ||static.cnqiang.com/images/appdlx.jpg$image
 ||sspai.com/api/v1/recommends?*=article_
+||sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 ||tongji.mafengwo.cn
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
@@ -548,7 +550,11 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ads-player
 ##.ads-footer
 ##.ads-content
+##.adv-1
+##.adv_bottom
+##.adv_left
 ##.adv-text
+##.adv_right
 ##.add_txt
 ##.adArea
 ##.adTop
