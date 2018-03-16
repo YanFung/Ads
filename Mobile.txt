@@ -537,6 +537,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 !-------------------通用元素-------------------
 ##.a_cn
 ##.a_pr
+##.a_pb
+##.a_pt
 ##.a_mu
 ##.ad_1
 ##.ad_2
@@ -601,6 +603,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ui-gd-app
 ##.video-ads
 ##.wp.a_t
+##.wp.a_f
+##.wp.a_h
 ##.ytp-ad-progress-list
 !-----------------------------------------
 ###a_ad
