@@ -40,6 +40,7 @@ pagead2.
 /adsense/
 /ad.php|
 /adsid/
+/ads.js
 /adshow.
 /adx.$domain=~adx.uk.com|~adx.wowfi.com
 /api/ad/
@@ -117,6 +118,7 @@ _yad_jsonp_
 88shu.cn
 9ads.net
 91friend.com
+atas.io
 assigned.cn
 alimama.cn
 anhouhou.cn
@@ -131,6 +133,7 @@ aiclicash.com
 appsflyer.com
 alimama.com
 anyangruisi.com
+ads.adxpansion.com
 bdjiaoben.wmxa.cn
 bvoer.com
 bjeai.com
