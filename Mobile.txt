@@ -724,6 +724,7 @@ bilibili.com##.index__cccTips__M-videoPage-player-
 bilibili.com##.index__openBtn__M-commonComponent-openBtn-
 bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 btbtdy.com##[class^=ADTOPLB_]
+btbtdy.com###bot
 baofeng.com###appview
 budejie.com###topBanner
 bing.com###BottomAppPro
