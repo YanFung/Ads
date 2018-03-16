@@ -121,6 +121,7 @@ assigned.cn
 alimama.cn
 anhouhou.cn
 acs86.com
+addthis.com
 anyysz.com
 aobde.com
 adsame.com
@@ -158,6 +159,7 @@ danangmo.cn
 d1.sina.com.cn
 domyjourney.cn
 dqq.lnfund.org.cn
+dingyuanyao.cn
 diogv.com
 dcxmy.com
 dzribao.com
@@ -184,6 +186,7 @@ farwx.com
 fm-gj.com
 ggxt.net
 gszbba.cn
+georgias.cn
 ge95.com
 gwylm.com
 gjshcn.com
@@ -221,6 +224,7 @@ imgstat.baidu.com
 jkjjkj.top
 jbflil.cn
 jinshasi.cn
+jmhengwei.cn
 juuhe.com
 jegxny.com
 jianduankm.com
@@ -346,6 +350,7 @@ xcdzsw.com
 xc.mydrivers.com
 xuanmeiguoji.com
 yangjingbang.net
+yjkyj.cn
 yjqtp.com
 youle55.com
 ygqczh.com
@@ -466,6 +471,7 @@ youtube.com/pagead/
 vlive.qqvideo.tc.qq.com/*.mp4?vkey=
 variety.tc.qq.com/*.mp4?vkey=
 w5sac788c1.360doc.cn
+waimaofuzhuang.cn
 xueqiu.com/v4/stock/quote.json?code=
 zongheng.com/upload/hzds/
 zdface.com/js/m/zw_banner.js
@@ -491,6 +497,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||img*.xydfn.com/^$image
 ||img.ik123.com/gif/app/index.png$image
 ||images.sohu.com/bill/
+||img.alicdn.com/imgextra/*.gif
 ||image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
 ||icon.zol-img.com.cn/bbs/wapbbs/sign.png$image
 ||m.91kds.com/css/head3.jpg$image
@@ -513,6 +520,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||ubook.qq.com/8/img/load.png
 ||vista.tuwan.com/s.js
+||www.69tang6.com/li/choujiang
 ||www.65yw.com/i.html
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
 ||www.ftchinese.com/m/marketing/a.html?v=
@@ -677,6 +685,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 56.com##[class^="app-"] > .banner-container
 58.com##div._1yk_xA3PhiA7sjHwST5Pyy
 58.com##.bban
+69tang6.com##.dahengfu
 9game.cn###bottomFix
 9game.cn###btInfo
 9game.cn##.app-promote-bar
