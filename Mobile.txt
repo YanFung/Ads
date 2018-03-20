@@ -84,6 +84,7 @@ _yad_jsonp_
 .cn/vs.php?id=
 .com/vs.php?id=
 .com/ad?
+.com/adv/
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/cpc/*.ashx?$third-party,script
@@ -466,6 +467,7 @@ sogou.com/wap_ask_service?
 sogou.com/ask?id=
 sogou.com/cl.gif?
 sogoucdn.com$domain=~m.sogou.com
+sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 tuwan.com/myad/
 tiexue.net/wapcommon/mdata/*.txt
 tmtpost.com/public/images/app_download.png
