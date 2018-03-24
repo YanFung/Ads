@@ -487,8 +487,10 @@ zuoyebang.cc/static/question/m-question/resource*.jpg$image
 zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||0d077ef9e74d8.cdn.sohucs.com
 ||ark.letv.com^$script,domain=m.le.com
+||b17.shangc.net
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||cdn.bootcss.com/jquery/1.8.3/jquery.min.js
+||cir-smart.baidu.com
 ||becode.qiushibaike.com
 ||beacon.sina.com.cn
 ||de.as.pptv.com
