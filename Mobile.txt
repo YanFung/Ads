@@ -494,6 +494,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||de.as.pptv.com
 ||delivery-pc.wasu.cn
 ||dol.tianya.cn/s?z=tianya&
+||f*.baidu.com/it/u=*,*&fm=$third-party
 ||fans.*.space/fans/*.php
 ||funbox.upush.cn/images/funbox/icons/*.gif
 ||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
