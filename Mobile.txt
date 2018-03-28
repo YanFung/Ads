@@ -18,6 +18,9 @@ pagead2.
 /ad2.$domain=~vereinslinie.de
 /ad3.$domain=~ad3.eu|~vereinslinie.de
 /ad4.$domain=~ad4.wpengine.com|~vereinslinie.de
+/ads/1.
+/ads/2.
+/ads/3.
 /ad1_
 /ads2.
 /adbanner/
