@@ -866,6 +866,7 @@ qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
+sohu.com##a[href^="/f/"]
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href^="http://saxs."] > .f_card
 sina.cn###j_fixAppBtn
