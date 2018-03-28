@@ -444,6 +444,7 @@ ifeng.com/burroughsnews?type=
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
 ifengimg.com^*/sta_collection
+itc.cn/w/u/0/old-insertad-
 ja.gamersky.com
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
