@@ -210,6 +210,7 @@ hao61.net
 h0o33.cn
 hyzui.com
 hyz86.com
+hdfdm.com
 hrbpay.com
 hzht666.com
 hntymg.com
@@ -304,6 +305,7 @@ qdp.qidian.com
 quanliyouxi.com
 raeqqe.cn
 rideraid.net
+rannabio.com
 rfese.com
 sifuhe.cn
 symaj.cn
@@ -489,6 +491,7 @@ variety.tc.qq.com/*.mp4?vkey=
 w5sac788c1.360doc.cn
 waimaofuzhuang.cn
 xueqiu.com/v4/stock/quote.json?code=
+zhuyuanp.shop
 zongheng.com/upload/hzds/
 zdface.com/js/m/zw_banner.js
 zuoyebang.cc/static/question/m-question/resource*.jpg$image
