@@ -470,6 +470,7 @@ xuanmeiguoji.com
 xueqiu.com/v4/stock/quote.json?code=
 yangjingbang.net
 yjkyj.cn
+y12f.com
 yjqtp.com
 youle55.com
 ygqczh.com
