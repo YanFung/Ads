@@ -137,6 +137,7 @@ atas.io
 assigned.cn
 alimama.cn
 anhouhou.cn
+adpai.thepaper.cn
 acs86.com
 addthis.com
 anyysz.com
@@ -617,12 +618,14 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ## .down-kanApp
 ##.ec_ad
 ##.floatad
+##.head_ad
 ##.hongbao
 ##.listad
 ##.leftAd
 ##.module-ad
 ##.news-ad
 ##.open-app
+##.rt_ad
 ##.text-ad
 ##.top-adv
 ##.topads
@@ -650,6 +653,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###footer_ad
 ###footerApp
 ###hongbao
+###head_ad
 ###player-advertising
 ###sponsorAdDiv
 ###windlocation
@@ -888,6 +892,9 @@ sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
+thepaper.cn###moblink_top_detail_xiazai
+thepaper.cn##.news_open_app
+thepaper.cn###carousel_banner
 tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.activity-banner
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
