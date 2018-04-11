@@ -88,10 +88,12 @@ _yad_jsonp_
 .com/vs.php?id=
 .com/ad?
 .com/adv/
+.com/ads-
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
+.php?mg=$image
 |http://*/gg/$domain=~11185.cn|~fanfou.com|~gg1z.com|~ha47.cn
 |http://gg.$third-party,domain=~guagua.cn
 |http://*.com/s.php?id=$third-party,script
@@ -151,6 +153,7 @@ alimama.com
 anyangruisi.com
 ads.adxpansion.com
 apple.www.letv.com
+adnxs.com^$third-party
 a1.jandan.net/*.js
 ab_res/m/common.js
 alicdn.com/g/mm/afp-cdn/js/
@@ -303,6 +306,7 @@ juuhe.com
 jegxny.com
 jianduankm.com
 ja.gamersky.com
+juicyads.com^$third-party
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
 kingpolo.com.cn
@@ -368,6 +372,7 @@ pyzxsl.com
 pubbirdf.com
 pos.baidu.com
 pupu.xnhh120.com
+pussl48.com^$third-party
 pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
 pconline.com.cn/_hux_/
@@ -617,9 +622,11 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bds-ads-banner
 ##.baidu_ads_cell
 ##.container_ad
+##.contentad
 ## .down-kanApp
 ##.ec_ad
 ##.floatad
+##.googleAd300x250
 ##.head_ad
 ##.hongbao
 ##.listad
@@ -736,6 +743,7 @@ ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
 acfun.cn###prompt-box
 acfun.cn###btn-app
+avgle.com##a[href*="/redirect"]
 autohome.com.cn##.sign-wp
 app.myzaker.com##.zk_top_barwrap
 baidu.com##.ec_wise_ad
