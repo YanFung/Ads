@@ -626,8 +626,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.contentad
 ## .down-kanApp
 ##.ec_ad
+##.footad
 ##.floatad
 ##.googleAd300x250
+##.global_video_bottom_dbtc
 ##.head_ad
 ##.hongbao
 ##.listad
