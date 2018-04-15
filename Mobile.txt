@@ -775,6 +775,7 @@ baidu.com##.redenvelope-small
 baidu.com##.se-ft-promlink
 baidu.com##div.baiduapp-ad-result
 baidu.com##.commentEmbed-backHomeCard
+baidu.com##.baiduapp-ad-container
 baijiahao.baidu.com##.openBox-shareEntry
 baijiahao.baidu.com##.openall3
 baike.com##.clearfix.hd_ad_app
