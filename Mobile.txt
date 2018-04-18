@@ -575,6 +575,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.a_pr
 ##.a_pb
 ##.a_pt
+##.a_fr
 ##.a_mu
 ##.ad_1
 ##.ad_2
