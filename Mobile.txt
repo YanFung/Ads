@@ -91,6 +91,7 @@ _yad_jsonp_
 .com/ads-
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
+.com/li/choujiang
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 .php?mg=$image
@@ -629,6 +630,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.container_ad
 ##.contentad
 ## .down-kanApp
+##.dahengfu
 ##.ec_ad
 ##.footad
 ##.floatad
