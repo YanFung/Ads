@@ -300,6 +300,7 @@ itc.cn/w/u/0/old-insertad-
 jkjjkj.top
 jbflil.cn
 jinshasi.cn
+jiupinshan.cn
 jryjy.com.cn
 jmhengwei.cn
 juuhe.com
@@ -576,6 +577,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.a_pb
 ##.a_pt
 ##.a_fr
+##.a_fl
 ##.a_mu
 ##.ad_1
 ##.ad_2
