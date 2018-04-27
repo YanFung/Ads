@@ -215,6 +215,7 @@ d1.sina.com.cn
 domyjourney.cn
 dqq.lnfund.org.cn
 dingyuanyao.cn
+d0.xcar.com.cn
 diogv.com
 dcxmy.com
 dzribao.com
@@ -245,6 +246,7 @@ fcsass.org.cn
 ffychb.com
 farwx.com
 fm-gj.com
+focuscat.com
 fpb1.chinacar.asia
 fcai.com/ifengIndex.html
 ggxt.net
@@ -456,6 +458,7 @@ ueram.com
 unmini.com
 ubmcmm.baidustatic.com
 vnnv777.cn
+vsxet.com
 vrbeetv.com
 vamaker.com
 vyishengtai.com
@@ -645,6 +648,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.listad
 ##.leftAd
 ##.module-ad
+##.middlead
 ##.news-ad
 ##.open-app
 ##.rt_ad
@@ -692,6 +696,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="ads"]
 ##[class^=ADTOPLB_]
 ##[class*="appdown_"]
+##[class*="appdown-"]
 ##[class*="appDown"]
 ##[class*="AppDown"]
 ##[class*="app_down"]
