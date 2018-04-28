@@ -803,6 +803,8 @@ bilibili.com##.index__upBtn__M-videoPage-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
 bilibili.com##.index__openBtn__M-commonComponent-openBtn-
 bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
+bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
+bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 btbtdy.com##[class^=ADTOPLB_]
 btbtdy.com###bot
 baofeng.com###appview
