@@ -766,6 +766,7 @@ acfun.cn###btn-app
 avgle.com##a[href*="/redirect"]
 avgle.com###player_3x2_container
 autohome.com.cn##.sign-wp
+autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
