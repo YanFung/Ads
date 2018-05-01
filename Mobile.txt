@@ -157,6 +157,7 @@ apple.www.letv.com
 adnxs.com^$third-party
 a1.jandan.net/*.js
 ab_res/m/common.js
+autohome.com.cn/vr/*?pvareaid=
 alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
@@ -558,6 +559,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||mbd.baidu.com/newspage/api/getrelatednews?nid=news_
 ||p.zol-img.com.cn
 ||pp*.hkslg.net^$image
+||pcmx.autohome.com.cn/impress?
 ||s.360.cn
 ||s.go.sohu.com^*/?callback=
 ||s1.pplive.cn/sta.js
