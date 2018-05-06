@@ -533,6 +533,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||cir-smart.baidu.com
 ||becode.qiushibaike.com
 ||beacon.sina.com.cn
+||bea-s.dinghuoche.com/bvzdlc.js
 ||de.as.pptv.com
 ||delivery-pc.wasu.cn
 ||dol.tianya.cn/s?z=tianya&
