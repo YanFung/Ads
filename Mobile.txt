@@ -928,6 +928,7 @@ sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
+sg169.com##.bottom_khdxz
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
 thepaper.cn###carousel_banner
