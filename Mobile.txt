@@ -660,6 +660,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.text-ad
 ##.top-adv
 ##.topads
+##.trc_rbox_div .syndicatedItem
+##.trc_rbox_border_elm .syndicatedItem
+##.trc_rbox .syndicatedItem
+##.trc-content-sponsored
 ##.ui-gd-app
 ##.video-ads
 ##.wp.a_t
@@ -820,6 +824,9 @@ coolapk.com##.under
 coolapk.com###head
 chinaso.com##.bnwrap
 changba.com##.open-div1
+cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
+cnbeta.com##a[href^="http://click.aliyun.com/"]
+cnbeta.com##.cbimage-fixed
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
 douyu.com###js-fix-download
