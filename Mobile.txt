@@ -13,6 +13,7 @@ googleads.
 pubads.
 pagead2.
 /acmsd/
+/advert/
 /ad0.$domain=~vereinslinie.de
 /ad1.$domain=~ad1.de|~ad1.in|~vereinslinie.de
 /ad2.$domain=~vereinslinie.de
@@ -967,6 +968,7 @@ v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
 v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
+uuu9.com##.yoyofc
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 wasu.cn##.ads
