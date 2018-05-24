@@ -439,8 +439,8 @@ su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
-sogou.com/cl.gif?
-sogoucdn.com$domain=~m.sogou.com
+sogou.com/cl.gif?$domain=~m.sogou.com|~www.sogou.com
+sogoucdn.com$domain=~m.sogou.com|~www.sogou.com
 sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 tuia.cn
 track.uc.cn
@@ -931,6 +931,7 @@ qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
+sogou.com##.vr-recommend
 sohu.com##a[href^="/f/"]
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href^="http://saxs."] > .f_card
