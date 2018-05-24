@@ -130,6 +130,7 @@ _yad_jsonp_
 51gpt.com
 52shouyou.com.cn
 59hi.com
+60608787.com
 77kp.com/gg123/
 85un.com
 88rpg.net
@@ -487,6 +488,7 @@ xitao3.com
 xinci8.com
 xyhtys.com
 xcdzsw.com
+xiangchim0.com
 xc.mydrivers.com
 xuanmeiguoji.com
 xueqiu.com/v4/stock/quote.json?code=
@@ -907,6 +909,7 @@ m.baidu.com##div.sfc-image-content-detailpage-looprs
 miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
+manhuatai.com##.km-banner.km-rdhd-banner
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.baidu.com##.afd-item.index-list-item-container
