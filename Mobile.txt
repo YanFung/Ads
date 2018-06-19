@@ -299,6 +299,8 @@ isdspeed.qq.com
 imgstat.baidu.com
 idyjy.com/js/content/
 ip.hivps.xyz
+ifengimg.com/iis/iis_
+ifengimg.com/ifeng/sources/
 ifeng.com/burroughsnews?type=
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
@@ -445,6 +447,7 @@ sogoucdn.com$domain=~m.sogou.com|~www.sogou.com|~3g.sogou.com
 sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 sinaimg.cn/large/006XXjynly1fp00jsm0fjg30qo01yq5i.gif
 tuia.cn
+tagtic.cn
 track.uc.cn
 tiantianedu.net
 tiaopimiao.net
@@ -765,6 +768,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 36kr.com##a.fixed-linkedme:last-child
 4399.com##.fixed-down
 52ain.cn###pic_bg_2
+52pk.com##.add
 56.com##[class^="app-"] > .banner-container
 58.com##div._1yk_xA3PhiA7sjHwST5Pyy
 58.com##.bban
