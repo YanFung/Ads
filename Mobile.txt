@@ -882,7 +882,7 @@ ifeng.com##li[id][style*="height:"]
 ifeng.com##li[id][style*="height:"] + li
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
- ifanr.com##div.popup.popup-bottom.popup-download.popup-shown.sg_hide_element
+ifanr.com##div.popup.popup-bottom.popup-download.popup-shown.sg_hide_element
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
