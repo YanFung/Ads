@@ -144,6 +144,7 @@ alimama.cn
 anhouhou.cn
 adpai.thepaper.cn
 acs86.com
+alicdn.com
 addthis.com
 anyysz.com
 aobde.com
@@ -246,6 +247,7 @@ edu-wenku.bdimg.com
 fastapi.net
 firefang.cn
 fcsass.org.cn
+front99.com
 ffychb.com
 farwx.com
 fm-gj.com
@@ -537,6 +539,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||0d077ef9e74d8.cdn.sohucs.com
 ||ark.letv.com^$script,domain=m.le.com
 ||b17.shangc.net
+||count.candou.com
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 ||cir-smart.baidu.com
