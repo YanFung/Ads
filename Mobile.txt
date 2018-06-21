@@ -293,6 +293,7 @@ hulemedia.com
 hxsame.hexun.com
 hps.hcuk-jewellery.com
 ibafnw.cn
+ienkdago.cn
 iae365.com
 ivy.pconline.com.cn
 inte.sogou.com
@@ -336,6 +337,7 @@ lu.sogou.com
 lvehaisen.com
 laojiayoufang.com
 log.game.tiexue.net
+mubite.cn
 ms.awqsaged.cn
 mall043.com
 mgid.com
@@ -542,6 +544,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||count.candou.com
 ||chuantu.biz/t6/41/1504877655x2728309627.gif
 ||cdn.bootcss.com/jquery/1.8.3/jquery.min.js
+||changyan.sohu.com/upload/version-v3.js
 ||cir-smart.baidu.com
 ||becode.qiushibaike.com
 ||beacon.sina.com.cn
@@ -568,6 +571,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||m.91kds.com/css/head3.jpg$image
 ||m.neihanshe.cn/imgs/metoo.png$image
 ||m.aty.sohu.com
+||m.youmengkm.com
 ||m.55haitao.com/static/js/common/swiper.js?v=
 ||mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js?t=
 ||mbd.baidu.com/newspage/api/getrelatednews?nid=news_
