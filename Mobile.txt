@@ -86,6 +86,7 @@ _yad_jsonp_
 .html?ad_
 .net/adv/
 .cn/vs.php?id=
+.cn/s.php?id=
 .com/vs.php?id=
 .com/ad?
 .com/adv/
