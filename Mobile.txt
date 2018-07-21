@@ -145,7 +145,7 @@ alimama.cn
 anhouhou.cn
 adpai.thepaper.cn
 acs86.com
-alicdn.com$domain=~www.taobao.com|~s.taobao.com
+alicdn.com$domain=~www.taobao.com|~s.taobao.com|~detail.tmall.com
 addthis.com
 anyysz.com
 aobde.com
