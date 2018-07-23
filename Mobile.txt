@@ -173,6 +173,7 @@ autoimg.cn/bi/mda/ahas_body.
 afd.baidu.com/afd/entry?is_https=
 aolusb.com/forever/
 aili.com^$third-party
+baminw.cn
 bdx.playnext.cn
 bdjiaoben.wmxa.cn
 bvoer.com
@@ -183,7 +184,6 @@ bjzcbx.com
 bmgan.com
 baosmx.com
 bdjs.ixiumei.com
-baminw.cn/lgvovcdvo.js
 btbtt88.com/slade.js
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
