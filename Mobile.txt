@@ -137,9 +137,11 @@ _yad_jsonp_
 88rpg.net
 88shu.cn
 9ads.net
+91byy.cn
 91friend.com
 999d.com^$third-party
 atas.io
+awqsaged.cn
 assigned.cn
 alimama.cn
 anhouhou.cn
@@ -198,6 +200,7 @@ cname.code.dsmi.cc
 ctrhfd.top
 caduka.cn
 ccbccb.cn
+continuedsys.cn
 count.pcauto.com.cn
 ciimg.com
 cnzz.com
@@ -339,7 +342,7 @@ lvehaisen.com
 laojiayoufang.com
 log.game.tiexue.net
 mubite.cn
-ms.awqsaged.cn
+maizhenai.cn
 mall043.com
 mgid.com
 mozist.com
@@ -347,7 +350,6 @@ mediav.com
 meooe.com
 mipujia.com
 mmstat.com
-maizhenai.cn
 miaozhen.com
 msite.baidu.com
 mobads.baidu.com
