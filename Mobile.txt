@@ -159,7 +159,6 @@ alimama.com
 anyangruisi.com
 ads.adxpansion.com
 apple.www.letv.com
-apd-*.qq.com/
 adnxs.com^$third-party
 a1.jandan.net/*.js
 ab_res/m/common.js
