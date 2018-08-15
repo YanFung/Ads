@@ -597,6 +597,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||ubook.qq.com/8/img/load.png
 ||vista.tuwan.com/s.js
 ||wrvdmh.cn
+||www.kl-toys.com
 ||www.65yw.com/i.html
 ||www.cqtimes.cn/Uploads/Picture/*/*.png$image
 ||www.ftchinese.com/m/marketing/a.html?v=
