@@ -696,6 +696,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ytp-ad-progress-list
 !-----------------------------------------
 ###a_ad
+###ad_banner
 ###ads3
 ###ads4
 ###advertise
@@ -839,6 +840,7 @@ bilibili.com##.index__openBtn__M-commonComponent-openBtn-
 bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
 bilibili.com##.index__openBtn__src-commonComponent-openBtn-
+bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 btbtdy.com##[class^=ADTOPLB_]
 btbtdy.com###bot
 baofeng.com###appview
@@ -956,6 +958,8 @@ so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
 sohu.com##a[href^="/f/"]
+sohu.com##.fade-in.show.float-app-btn
+sohu.com##.advertise
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href^="http://saxs."] > .f_card
 sina.cn###j_fixAppBtn
