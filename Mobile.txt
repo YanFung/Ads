@@ -13,7 +13,6 @@ googleads.
 pubads.
 pagead2.
 /acmsd/
-/advert/
 /ad0.$domain=~vereinslinie.de
 /ad1.$domain=~ad1.de|~ad1.in|~vereinslinie.de
 /ad2.$domain=~vereinslinie.de
@@ -586,7 +585,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||mbd.baidu.com/newspage/api/getrelatednews?nid=news_
 ||p.zol-img.com.cn
 ||pp*.hkslg.net^$image
-||pcmx.autohome.com.cn/impress?
 ||s.360.cn
 ||s.go.sohu.com^*/?callback=
 ||s1.pplive.cn/sta.js
@@ -790,7 +788,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 56.com##[class^="app-"] > .banner-container
 58.com##div._1yk_xA3PhiA7sjHwST5Pyy
 58.com##.bban
-69tang6.com##.dahengfu
 9game.cn###bottomFix
 9game.cn###btInfo
 9game.cn##.app-promote-bar
@@ -843,7 +840,6 @@ bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
 bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
-btbtdy.com##[class^=ADTOPLB_]
 btbtdy.com###bot
 baofeng.com###appview
 budejie.com###topBanner
@@ -902,7 +898,6 @@ ifeng.com##li[id][style*="height:"] + li
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
-ifanr.com##div[class="popup-download-wrapper"]
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
