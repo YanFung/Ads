@@ -79,6 +79,7 @@ _yad_jsonp_
 &adsize=
 &adnum=
 &ad_ids=
+&ad_type=
 .8ox.cn
 .ad-plus.cn/
 .net/ads/
@@ -400,6 +401,7 @@ pconline.com.cn/_hux_/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
 qingzhencai.net
+qchannel03.cn
 qcwzx.net.cn
 qzzljx.com
 qxfly.com
@@ -958,6 +960,7 @@ so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
 sohu.com##a[href^="/f/"]
+sohu.com###apkBanner
 sohu.com##.fade-in.show.float-app-btn
 sohu.com##.advertise
 sina.cn##.m_f_a[data-href^="http://saxs."]
