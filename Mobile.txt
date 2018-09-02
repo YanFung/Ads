@@ -903,6 +903,7 @@ ifeng.com##li[id][style*="height:"] + li
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
+ifanr.com##div.popup.popup-top.popup-download.popup-shown
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
