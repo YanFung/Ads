@@ -136,6 +136,7 @@ _yad_jsonp_
 85un.com
 88rpg.net
 88shu.cn
+8881919.cc
 9ads.net
 91byy.cn
 91friend.com
@@ -165,6 +166,7 @@ ab_res/m/common.js
 autohome.com.cn/vr/*?pvareaid=
 alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
+assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
 atm.youku.com
 autohome.com.cn/news/$script
@@ -238,6 +240,7 @@ dup.baidustatic.com
 da.mgtv.com
 dm.92to.com
 dm530.net/js/newjs/
+da.duowan.com/loc/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 ejiakm.net
 epernn.cn
@@ -272,6 +275,7 @@ guangzizai.com
 geiyujieda.com
 game.nduoa.com
 ggcode.2345.com
+gt.duowan.com
 google.com/pagead/
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
