@@ -74,6 +74,7 @@ pagead2.
 _ads?
 _ad_banner.
 _yad_jsonp_
+&adcount=
 &adurl=
 &adsize=
 &adnum=
@@ -626,6 +627,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_box
 ##.ad-block
 ##.ad-banner
+##.ad-card
 ##.ad-container
 ##.ad_float_left
 ##.ad_footerbanner
@@ -671,6 +673,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.contentad
 ## .down-kanApp
 ##.dahengfu
+##.ec-ad
 ##.ec_ad
 ##.footad
 ##.floatad
