@@ -839,7 +839,6 @@ blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 bilibili.com###floatBtn
 bilibili.com###openAppBtn
-bilibili.com##div.h5-download-bar.clearfix
 bilibili.com##.index__cccBtn__M-home-topArea-
 bilibili.com##.index__upBtn__M-videoPage-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
@@ -906,7 +905,6 @@ ifeng.com##li[id][style*="height:"] + li
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
-ifanr.com##div.popup.popup-top.popup-download.popup-shown
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
