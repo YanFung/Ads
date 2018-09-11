@@ -516,12 +516,13 @@ xc.mydrivers.com
 xuanmeiguoji.com
 xueqiu.com/v4/stock/quote.json?code=
 yangjingbang.net
+ynjczy.net
 yjkyj.cn
 y12f.com
 yjqtp.com
 youle55.com
 ygqczh.com
-ynjczy.net
+ysjweb.com
 yccdn.com
 yijikm.com
 yqjxzw.com
