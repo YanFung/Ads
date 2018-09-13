@@ -979,6 +979,9 @@ sg169.com##.bottom_khdxz
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
 thepaper.cn###carousel_banner
+tieba.baidu.com##.top-guide-wrap.top-guide
+tieba.baidu.com##img[src][alt="tieba_logo"][class="footer-logo"]
+tieba.baidu.com##.footer-title
 tieba.baidu.com##.j_daoliubar
 tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.activity-banner
