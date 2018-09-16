@@ -1016,6 +1016,9 @@ v.baidu.com###footerDownloadBanner
 uuu9.com##.yoyofc
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
+weibo.com##.showed.open_dialogbanner.open.footer_banner
+weibo.com##.open_dialogbanner.open.midbanner
+weibo.com##.swiper-wrapper
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.baidu.com##.c-back+div[id]
