@@ -1019,6 +1019,7 @@ weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
 weibo.com##.open_dialogbanner.open.midbanner
 weibo.com##.swiper-wrapper
+weibo.cn##.m-container-max.OpenInAppButton
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.baidu.com##.c-back+div[id]
