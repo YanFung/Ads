@@ -920,6 +920,9 @@ jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
+kuwo.cn###openApp
+kuwo.cn##.fl.single_down
+kuwo.cn##.openapp_btn
 kuwo.cn##.clearfix.up_btns2.up_btns
 le.com###j-leappMore
 le.com###j-zhoubian
