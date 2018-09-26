@@ -188,6 +188,7 @@ bmgan.com
 baosmx.com
 bdjs.ixiumei.com
 btbtt88.com/slade.js
+bdstatic.com^*/mip-*ad
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?page=
@@ -365,6 +366,7 @@ mushizhubao.com
 mengchengbao.com
 maw.wnbfw.com
 m.92to.com/tj/*.json
+mipcdn.com^*/mip-*ad
 m.zanghaihuatxt.com/xxgg/book.js
 mipp.iask.cn/t/mipdf?t=
 mydrivers.com/m/apptuijian.
