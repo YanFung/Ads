@@ -988,6 +988,9 @@ suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
 sg169.com##.bottom_khdxz
+share.iclient.ifeng.com##div.huaweiBanner
+share.iclient.ifeng.com##.showIn.personBanner
+share.iclient.ifeng.com###openAppReadAll
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
 thepaper.cn###carousel_banner
