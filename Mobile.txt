@@ -316,10 +316,11 @@ idyjy.com/js/content/
 ip.hivps.xyz
 ifengimg.com/iis/iis_
 ifengimg.com/ifeng/sources/
-ifeng.com/burroughsnews?type=
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
-ifengimg.com^*/sta_collection
+ifengimg.com^*/sta_collection*$domain=~i.ifeng.com
+ifeng.com/burroughsnews?type=
+ifeng.com/client_share_bottom_
 itc.cn/w/u/0/old-insertad-
 jkjjkj.top
 jbflil.cn
@@ -907,6 +908,8 @@ ifeng.com##.newbagicon
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 ifeng.com###slide_1
+ifeng.com###swiper_bottom
+ifeng.com##.top_carousel
 ifeng.com##a[href*=".sm.cn"]
 ifeng.com##li[id][style*="height:"]
 ifeng.com##li[id][style*="height:"] + li
@@ -986,6 +989,7 @@ suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
 sg169.com##.bottom_khdxz
+share.iclient.ifeng.com##div.huaweiBanner
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
 thepaper.cn###carousel_banner
