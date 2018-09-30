@@ -320,6 +320,7 @@ ifengimg.com/a/o.js
 ifengimg.com/p/ax_
 ifeng.com/burroughsnews?type=
 ifeng.com/client_share_bottom_
+ifengimg.com^*/sta_collection
 itc.cn/w/u/0/old-insertad-
 jkjjkj.top
 jbflil.cn
