@@ -318,7 +318,7 @@ ifengimg.com/iis/iis_
 ifengimg.com/ifeng/sources/
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
-ifengimg.com^*/sta_collection*$domain=~i.ifeng.com
+ifengimg.com^*/sta_collection*$domain=~feng.com
 ifeng.com/burroughsnews?type=
 ifeng.com/client_share_bottom_
 itc.cn/w/u/0/old-insertad-
