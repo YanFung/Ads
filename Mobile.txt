@@ -840,6 +840,7 @@ baidu.com##.commentEmbed-backHomeCard
 baidu.com##.baiduapp-ad-container
 baijiahao.baidu.com##.openBox-shareEntry
 baijiahao.baidu.com##.openall3
+baijiahao.baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
