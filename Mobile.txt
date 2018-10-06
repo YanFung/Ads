@@ -887,6 +887,8 @@ hupu.com##.m-app
 hupu.com###J_live_container
 huya.com##.banner-wrap
 huya.com###swiper-banner
+huya.com##.u-btn-down.header-app-btn
+huya.com##.u-btn-down.start-btn
 huya.com##.chat_btn
 huxiu.com##.js-open-app.bgw.guide-box
 hexun.com##.serchalert
