@@ -12,6 +12,7 @@ adsbygoogle.
 googleads.
 pubads.
 pagead2.
+/2*.html?|$third-party,script
 /acmsd/
 /ad0.$domain=~vereinslinie.de
 /ad1.$domain=~ad1.de|~ad1.in|~vereinslinie.de
@@ -347,15 +348,16 @@ kuaiyan.com
 kaitongyewu.com
 kejet.$third-party
 lnctc.net
+log.game.tiexue.net
 ltcprtc.com
 lu.sogou.com
 lvehaisen.com
 laojiayoufang.com
-log.game.tiexue.net
+mgsue.cn
 mubite.cn
 maizhenai.cn
-mall043.com
 mgid.com
+mall043.com
 mozist.com
 mediav.com
 meooe.com
