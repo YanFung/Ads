@@ -141,6 +141,7 @@ _yad_jsonp_
 9ads.net
 91byy.cn
 91friend.com
+99pps.com
 999d.com^$third-party
 atas.io
 awqsaged.cn
@@ -212,6 +213,7 @@ cnzz.com
 cdfzcz.com
 cxmyq.com
 cdwla.com
+charlesfc.com
 cpu.baidu.com
 cm.baidu.com
 crs.baidu.com
