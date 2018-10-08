@@ -189,7 +189,6 @@ bmgan.com
 baosmx.com
 bdjs.ixiumei.com
 btbtt88.com/slade.js
-bdstatic.com^*/mip-*ad
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?page=
