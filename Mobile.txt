@@ -928,6 +928,7 @@ ifeng.com##p[style]
 ifeng.com##.pullClient
 ifeng.com##a[href*=".app"]
 ifeng.com##a[href*="/g.ifeng."]
+ifeng.com##[id][class] > [id=bw]
 ifeng.com##div[class^="h"] > div[class$="-main"]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
