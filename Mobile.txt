@@ -161,6 +161,7 @@ admin60.com
 aiclicash.com
 appsflyer.com
 alimama.com
+ae4.ifeng.com
 anyangruisi.com
 ads.adxpansion.com
 apple.www.letv.com
@@ -324,6 +325,7 @@ ifengimg.com/p/ax_
 ifeng.com/burroughsnews?type=
 ifeng.com/client_share_bottom_
 ifengimg.com^*/sta_collection
+ifeng.com/showjs?*apids=
 itc.cn/w/u/0/old-insertad-
 jkjjkj.top
 jbflil.cn
@@ -922,6 +924,10 @@ ifeng.com##li[id][style*="height:"]
 ifeng.com##li[id][style*="height:"] + li
 ifeng.com##div[id][style^="display: block; position:"]
 ifeng.com##p[style]
+ifeng.com##.pullClient
+ifeng.com##a[href*=".app"]
+ifeng.com##a[href*="/g.ifeng."]
+ifeng.com##div[class^="h"] > div[class$="-main"]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
