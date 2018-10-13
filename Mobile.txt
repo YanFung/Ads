@@ -931,6 +931,7 @@ ifeng.com##a[href*="/g.ifeng."]
 ifeng.com##div[class^="h"] > div[class$="-main"]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
+ifeng.com##div[id][naqbqqttfchzfead][href="javascript:void(0);"]
 ithome.com###ruanmei-apps
 image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
