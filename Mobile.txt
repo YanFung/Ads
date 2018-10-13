@@ -322,7 +322,7 @@ ifengimg.com/iis/iis_
 ifengimg.com/ifeng/sources/
 ifengimg.com/a/o.js
 ifengimg.com/p/ax_
-ifeng.com/burroughsnews?type=
+ifeng.com/burroughsnews?
 ifeng.com/client_share_bottom_
 ifengimg.com^*/sta_collection
 ifeng.com/showjs?*apids=
