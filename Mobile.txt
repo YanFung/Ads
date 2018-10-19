@@ -76,6 +76,7 @@ _ads?
 _ad_banner.
 _yad_jsonp_
 &adcount=
+&adtype=
 &adurl=
 &adsize=
 &adnum=
@@ -283,6 +284,7 @@ geiyujieda.com
 game.nduoa.com
 ggcode.2345.com
 gt.duowan.com
+gtimg.com/qqlive/
 google.com/pagead/
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
@@ -351,6 +353,7 @@ kkcaicai.com
 kuaiyan.com
 kaitongyewu.com
 kejet.$third-party
+ltsdl.qq.com^*.ts
 lnctc.net
 log.game.tiexue.net
 ltcprtc.com
@@ -487,6 +490,7 @@ tajs.qq.com
 tingyun.com
 tt123.eastday.com
 tuwan.com/myad/
+tencentvideo/script/webtips/
 tiexue.net/wapcommon/mdata/*.txt
 tmtpost.com/public/images/app_download.png
 users.51.la
@@ -499,8 +503,7 @@ vrbeetv.com
 vamaker.com
 vyishengtai.com
 wm.mipcdn.com
-vlive.qqvideo.tc.qq.com/*.mp4?vkey=
-variety.tc.qq.com/*.mp4?vkey=
+variety.tc.qq.com/*.mp4?
 w5sac788c1.360doc.cn
 waimaofuzhuang.cn
 wo-x.cn
