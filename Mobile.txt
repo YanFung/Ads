@@ -611,6 +611,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||s.go.sohu.com^*/?callback=
 ||s1.pplive.cn/sta.js
 ||sax*.sina.
+||shili.downxia.com
 ||static.cnqiang.com/images/appdlx.jpg$image
 ||sspai.com/api/v1/recommends?*=article_
 ||tb*.bdstatic.com/tb/*/hongbao*.png
