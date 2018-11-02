@@ -41,6 +41,7 @@ pagead2.
 /ad/side_
 /ads_image/
 /adv_out.
+/advert/
 /adsense/
 /ad.php|
 /adsid/
@@ -707,6 +708,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.news-ad
 ##.open-app
 ##.rt_ad
+###SOHU_MAIN > .module-cmt-float-bar
 ##.text-ad
 ##.top-adv
 ##.topads
