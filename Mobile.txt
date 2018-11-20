@@ -99,6 +99,7 @@ _yad_jsonp_
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/li/choujiang
+.com/js/ad.
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 .php?mg=$image
