@@ -12,6 +12,7 @@ adsbygoogle.
 googleads.
 pubads.
 pagead2.
+/1*.xhtml?|$third-party,script
 /2*.html?|$third-party,script
 /acmsd/
 /ad0.$domain=~vereinslinie.de
