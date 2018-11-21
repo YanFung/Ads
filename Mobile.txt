@@ -619,6 +619,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||sspai.com/api/v1/recommends?*=article_
 ||tb*.bdstatic.com/tb/*/hongbao*.png
 ||tongji.mafengwo.cn
+||tieba.baidu.com/mo/q/tuijianindex?uid=
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||ubook.qq.com/8/img/load.png
 ||vista.tuwan.com/s.js
@@ -1032,6 +1033,7 @@ tieba.baidu.com##.footer-title
 tieba.baidu.com##.j_daoliubar
 tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.activity-banner
+tieba.baidu.com##.pb_cut_hot_recommend
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
