@@ -1034,6 +1034,8 @@ tieba.baidu.com##.j_daoliubar
 tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.activity-banner
 tieba.baidu.com##.pb_cut_hot_recommend
+tieba.baidu.com##.footer-version-client.footer-version
+tieba.baidu.com##.interest-bar
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
