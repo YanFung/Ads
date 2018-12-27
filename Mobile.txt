@@ -42,7 +42,6 @@ pagead2.
 /ad/side_
 /ads_image/
 /adv_out.
-/advert/
 /adsense/
 /ad.php|
 /adsid/
@@ -1004,7 +1003,6 @@ pcauto.com.cn###Jmarquee
 pcauto.com.cn##.club-app-load
 pcauto.com.cn##.m-guaziTg
 pcauto.com.cn###JpcTopDl
-qiushibaike.com##[style*="margin-left:"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 so.com###msocomBottomBanner
