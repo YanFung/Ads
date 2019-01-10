@@ -424,6 +424,7 @@ pstatp.com^*/bannersdk/
 pconline.com.cn/_hux_/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
+pubimage.360doc.com/transfer/images/zhaishou2.png
 qingzhencai.net
 qchannel03.cn
 qcwzx.net.cn
