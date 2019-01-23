@@ -755,6 +755,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###ad_headerbanner
 ###app-layer
 ###bottomAd
+###container > #pic_container
 ###db_ad
 ###footer_ad
 ###footerApp
@@ -787,6 +788,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class*="OpenInApp"]
 ##div[class*=gmine_ad]
 ##div[class^="ad-inner"]
+##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
+##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
