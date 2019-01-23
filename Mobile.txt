@@ -387,7 +387,6 @@ mengchengbao.com
 maw.wnbfw.com
 m.92to.com/tj/*.json
 mipcdn.com^*/mip-*ad
-
 matwbp.iask.sina.com.cn
 m.zanghaihuatxt.com/xxgg/book.js
 mipp.iask.cn/t/mipdf?t=
@@ -656,11 +655,14 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_1
 ##.ad_2
 ##.ad-300
+##.ad_728
 ##.ad_box
 ##.ad-block
 ##.ad-banner
+##.ad_bottom
 ##.ad-card
 ##.ad-container
+##.ad_float
 ##.ad_float_left
 ##.ad_footerbanner
 ##.ad-gift
@@ -719,9 +721,13 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.middlead
 ##.news-ad
 ##.open-app
+##.pub_300x250
 ##.rt_ad
 ###SOHU_MAIN > .module-cmt-float-bar
+##.textAd
 ##.text-ad
+##.text-ads
+##.text-ad-links
 ##.top-adv
 ##.topads
 ##.trc_rbox_div .syndicatedItem
@@ -785,6 +791,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[src="/ad.js"]
 ##[href^="http://ad.doubleclick.net/"]
 ##a[href*="/cpro/"]
+##a[href*="/cpro."]
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="]
 ##a[href*="/url.cn/"]
