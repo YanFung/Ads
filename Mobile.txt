@@ -198,6 +198,7 @@ baosmx.com
 bdjs.ixiumei.com
 btbtt88.com/slade.js
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
+baidu.com/tcx?infos=adbanner
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?page=
 baidu.com/static/ecom/js/wise/home/nativeAds_
