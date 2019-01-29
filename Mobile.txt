@@ -168,6 +168,7 @@ appsflyer.com
 alimama.com
 ae4.ifeng.com
 anyangruisi.com
+aishangcan.com
 ads.adxpansion.com
 apple.www.letv.com
 adnxs.com^$third-party
@@ -981,6 +982,7 @@ jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
+kdslife.com###foot_pop_banner
 ke.qq.com###app-load-box
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 kuwo.cn###openApp
