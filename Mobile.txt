@@ -211,6 +211,7 @@ baidu.com/?action=getadsdata&
 badmintoncn.com/cbo_include/js/cboaaa.js
 bestvogue.com/fans/
 cname.code.dsmi.cc
+code.ditiezu.net
 ctrhfd.top
 caduka.cn
 ccbccb.cn
