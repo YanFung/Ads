@@ -854,6 +854,7 @@ autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
 baidu.com##.down-bar
+baidu.com##.chunwan-wrapper
 baidu.com##.ec_wise_ad
 baidu.com###banner_call + div[id]
 baidu.com##[class*=wra] > b-scroll
