@@ -883,6 +883,7 @@ baidu.com##.se-ft-promlink
 baidu.com##div.baiduapp-ad-result
 baidu.com##.commentEmbed-backHomeCard
 baidu.com##.baiduapp-ad-container
+baidu.com##div[id="page-pre"][class="se-page-pre-style"]
 baijiahao.baidu.com##.openBox-shareEntry
 baijiahao.baidu.com##.openall3
 baijiahao.baidu.com##._1k19YN3-qdVhoYpBLDMjYV
