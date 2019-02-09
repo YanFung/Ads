@@ -759,6 +759,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###ad_headerbanner
 ###app-layer
 ###bottomAd
+###container.container > a.item
 ###container > #pic_container
 ###db_ad
 ###footer_ad
