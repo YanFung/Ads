@@ -879,6 +879,7 @@ baidu.com##[id*=dia_wrapper]
 baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
 baidu.com##div[id="header"][class="searchbox-exp"] > div[class="first-card-container"][style]
 baidu.com##.picad
+baidu.com##.wrapper-slider
 baidu.com##.left-show.new-answer-entry
 baidu.com##.w-question-list[data-sign]
 baidu.com##.openAppCarsouselTpl
