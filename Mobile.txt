@@ -1086,6 +1086,8 @@ tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 v2ex.com##[class^=sidebar_]
+v.qq.com##._banner.btn_open_v
+v.qq.com##.btn_promotion
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
