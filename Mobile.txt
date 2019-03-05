@@ -130,6 +130,7 @@ _yad_jsonp_
 3xx.vip
 35kds.com
 36cj.com
+3gmfw.cn/js/wap/
 47ks.com^*_ad.js
 4z5o27.cn
 51findu.com/command/qn.js
