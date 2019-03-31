@@ -243,6 +243,7 @@ domyjourney.cn
 dqq.lnfund.org.cn
 dingyuanyao.cn
 d0.xcar.com.cn
+damiren.com
 diogv.com
 dcxmy.com
 dzribao.com
@@ -303,6 +304,8 @@ google-analytics.com/urchin.js
 google-analytics.com/analytics.js
 hao61.net
 h0o33.cn
+hf01il.com
+hfxs01il.com
 hyzui.com
 hyz86.com
 hbhtbn.com
@@ -471,6 +474,7 @@ sufficient.cn
 shanghuitianxia.cn
 slvtx.com
 srrux.com
+sjaidu.com
 sjuqc.com
 shuqw.com
 smucdn.com
