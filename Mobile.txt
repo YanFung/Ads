@@ -147,6 +147,7 @@ _yad_jsonp_
 8881919.cc
 9ads.net
 91byy.cn
+913vt.com
 91friend.com
 99pps.com
 999d.com^$third-party
@@ -364,6 +365,7 @@ juicyads.com^$third-party
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
 kingpolo.com.cn
+kuaituisss.com
 kawinhome.com
 ka5188.com
 kuuad.com
