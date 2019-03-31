@@ -204,7 +204,7 @@ btbtt88.com/slade.js
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com/tcx?infos=adbanner
 baidu.com^*/app/banner_
-baidu.com/newspage/api/getmobads?page=
+baidu.com/newspage/api/getmobads?
 baidu.com/static/ecom/js/wise/home/nativeAds_
 baidu.com/po/api/configure/show.jsonp
 baidu.com/se/transcode/static/img/tc-banner_$image
@@ -1033,6 +1033,8 @@ music.163.com##.footer-wrap
 m.baidu.com##div.sfc-image-content-adtext
 m.baidu.com##a.sfc-image-content-detailpage-exchange
 m.baidu.com##div.sfc-image-content-detailpage-looprs
+mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
+mbd.baidu.com###content_wrapper + div + .default-container
 miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
