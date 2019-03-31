@@ -873,6 +873,7 @@ autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
+baidu.com##div[class$="-container"] > div[class="habody"]
 baidu.com##.down-bar
 baidu.com##.chunwan-wrapper
 baidu.com##.ec_wise_ad
