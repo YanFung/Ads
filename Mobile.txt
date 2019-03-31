@@ -232,6 +232,7 @@ cm.baidu.com
 crs.baidu.com
 cb.baidu.com
 cbjs.baidu.com
+cnzz.172internet.com
 cpro.baidustatic.com
 ckck.tv/inc/
 c6.lnymd.com/nm/nm*.ashx?
