@@ -47,7 +47,6 @@ pagead2.
 /adsid/
 /ads.js
 /adshow.
-/adx.$domain=~adx.uk.com|~adx.wowfi.com
 /api/ad/
 /bottomad/
 /common/ad
@@ -75,6 +74,7 @@ pagead2.
 -pagead-id.
 _ads?
 _ad_banner.
+adx.$domain=~adx.cx|~adx.uk.com|~adx.world|~adx.wowfi.com
 _yad_jsonp_
 &adcount=
 &adtype=
@@ -1003,6 +1003,7 @@ image.baidu.com##.mediacy-rs-contain.js-Component-root
 image.baidu.com##.istextlink.ec_image_title_new
 image.baidu.com##.sample0
 jianshu.com##.top
+jianshu.com##.dt-open-bg
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
