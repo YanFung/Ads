@@ -498,6 +498,7 @@ s.xz15801.com/y.js
 shihuo.cn/alibtn_
 sina.cn^*/impress?
 sina.cn/cm/sinaads_
+static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
 sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 static-cn.plista.com
 sp*.baidu.com^*.gif?
