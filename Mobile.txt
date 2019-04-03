@@ -1161,6 +1161,7 @@ zimuzu.tv##[class="gameList"]
 zhihu.com##.Kok-mobile.Kok.Lottie
 zhidao.baidu.com###main-content>div>a
 zhidao.baidu.com##div[class$="-ecom-ads"]
+zhidao.baidu.com##.header-act-entry
 zhidao.baidu.com##.link
 zhidao.baidu.com##.cur
 zhidao.baidu.com###main-content > [class^="mm-content-box txupk"]
