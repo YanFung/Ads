@@ -4,7 +4,7 @@
 
 订阅Mobile Ads：https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 
-# DNS 广告列表
+# Hosts 广告列表
 
 列表取自(https://github.com/h2y/Shadowrocket-ADBlock-Rules)  小火剪规则转换而来
 
