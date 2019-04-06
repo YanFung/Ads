@@ -4,7 +4,7 @@
 
 订阅Mobile Ads：https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 
-# Hosts 广告列表
+# Hosts/DNS  广告列表
 
 适用于(IOS)adblock/adguard
 
