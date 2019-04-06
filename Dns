@@ -1,4 +1,4 @@
-# Ğ¡Ã×ÊÓÆµ
+# å°ç±³è§†é¢‘
 api.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
 irs01.com
@@ -34,7 +34,7 @@ m.track.ad.xiaomi.com
 dl.url.cn
 msg.71.am
 
-# °®ÆæÒÕ
+# çˆ±å¥‡è‰º
 api.cupid.iqiyi.com
 api.yuedu.iqiyi.com
 c.uaa.iqiyi.com
@@ -73,7 +73,7 @@ rlog-video.conn.aiseet.atianqi.com
 t7z.cupid.ptqy.gitv.tv
 g.dtv.cn.miaozhen.com
 
-# ÌÚÑ¶ÊÓÆµ
+# è…¾è®¯è§†é¢‘
 aiseet.aa.atianqi.com
 dp3.play.aiseet.atianqi.com
 livep.l.aiseet.atianqi.com
@@ -102,7 +102,7 @@ t.l.qq.com
 vd.l.qq.com
 w.l.qq.com
 
-# ËÑºüÊÓÆµ
+# æœç‹è§†é¢‘
 agn.aty.sohu.com
 f.aty.sohu.com
 m.aty.sohu.com
@@ -118,7 +118,7 @@ download.wan.sohu.com
 da.mmarket.com
 sohu.irs01.com
 
-#pkg=le.com;£¨ÀÖÊÓÊÓÆµ£©Letv
+#pkg=le.com;ï¼ˆä¹è§†è§†é¢‘ï¼‰Letv
 api.game.letvstore.com
 dev.dc.letv.com
 msg.m.letv.com
@@ -126,7 +126,7 @@ n.mark.letv.com
 static.app.m.letv.com
 test.ark.letv.com
 
-# PPÊÓÆµ
+# PPè§†é¢‘
 de.as.cp61.ott.cibntv.net
 clickc.admaster.com.cn
 vpptv.admaster.com.cn
@@ -152,7 +152,7 @@ click.suning.cn
 dfp.suning.com
 ssac.suning.com
 
-# Ã¢¹ûTV
+# èŠ’æœTV
 mobile2.da.mgtv.com
 as.mgtv.com
 cdn.cmop.mgtv.com
@@ -175,7 +175,7 @@ x.da.mgtv.com
 y.da.mgtv.com
 imgaliyun.da.mgtv.com
 
-# ÑëÊÓÓ°Òô
+# å¤®è§†å½±éŸ³
 mdrecv.app.cntvwb.cn
 sdapprecv.app.cntvwb.cn
 vdapprecv.app.cntvwb.cn
@@ -183,7 +183,7 @@ cws-cctv.conviva.com
 galaxy.bjcathay.com
 rtas.videocc.net
 
-# ·çĞĞÊÓÆµ 
+# é£è¡Œè§†é¢‘ 
 aa0.pub.funshion.com
 aa1.pub.funshion.com
 adm.funshion.com
@@ -194,7 +194,7 @@ rt.funshion.net
 stat.funshion.net
 fun.adx.admaster.com.cn
 
-# ±©·çÓ°Òô 
+# æš´é£å½±éŸ³ 
 data.danmu.baofeng.com
 static.danmu.baofeng.com
 active.baofeng.com
@@ -247,7 +247,7 @@ wl.houyi.baofeng.net
 wx.houyi.baofeng.net
 xs.houyi.baofeng.net
 
-# ÈËÈËÓ°ÊÓ 
+# äººäººå½±è§† 
 jebe.xnimg.cn
 ebp.renren.com
 bolt.jebe.renren.com
@@ -255,7 +255,7 @@ static.jebe.renren.com
 xray.jebe.renren.com
 pat.farvd.com
 
-# Ä§Á¦ÊÓÆµ 
+# é­”åŠ›è§†é¢‘ 
 ad.molitv.cn
 vyk.admaster.com.cn
 ems.cp12.wasu.tv
@@ -268,7 +268,7 @@ adashxgc.ut.taobao.com
 topapi.cp12.wasu.tv
 countatm.cp12.wasu.tv
 
-# ´óÊ¥¹æÔò²¹³ä
+# å¤§åœ£è§„åˆ™è¡¥å……
 p2sdmkj6t.bkt.clouddn.com
 config.adview.cn
 alog.umeng.com
@@ -308,7 +308,7 @@ sdk.zsdfm.com
 ad.gtbrowser.com
 adnew.wifi8.com
 
-# ÊÖ»úµçÊÓ
+# æ‰‹æœºç”µè§†
 ad-cache.dopool.com
 analytics3.dopool.com
 adapi.starschina.com
@@ -318,7 +318,7 @@ ssp.cibn.starschina.com
 ssp.tadseeker.com
 api.adv.ott.cibntv.net
 
-# ¹È¸è¹ã¸æ·şÎñ
+# è°·æ­Œå¹¿å‘ŠæœåŠ¡
 google-analytics.com
 googlesyndication.com
 pagead.googlesyndication.com
@@ -568,7 +568,7 @@ p.medialytics.com
 px.cdn.creative.medialytics.com
 t.medialytics.com
 
-# °Ù¶È¹ã¸æ·şÎñ
+# ç™¾åº¦å¹¿å‘ŠæœåŠ¡
 afd.baidu.com
 als.baidu.com
 api.share.baidu.com
@@ -616,7 +616,7 @@ videopush.baidu.com
 wisepush.video.baidu.com
 hmma.baidu.com
 
-#pkg=qq.com;ÌÚÑ¶¹ã¸æ·şÎñ
+#pkg=qq.com;è…¾è®¯å¹¿å‘ŠæœåŠ¡
 ad.qq.com
 ad.qun.qq.com
 adping.qq.com
@@ -665,7 +665,7 @@ t.gdt.qq.com
 v.gdt.qq.com
 win.gdt.qq.com
 
-# °¢Àï¹ã¸æ·şÎñ
+# é˜¿é‡Œå¹¿å‘ŠæœåŠ¡
 adash.man.aliyuncs.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 dressimage.img-cn-beijing.aliyuncs.com
@@ -720,7 +720,7 @@ m-adash.m.taobao.com
 tunion-api.m.taobao.com
 unidesk.alicdn.com
 
-# ¹ã¸æÁªÃË
+# å¹¿å‘Šè”ç›Ÿ
 ad.doubleclick.net
 cm.g.doubleclick.net
 googleads.g.doubleclick.net
