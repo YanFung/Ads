@@ -1,5 +1,3 @@
-## 反馈QQ群:514536444
-
 # Adblock规则
 
 适用于(IOS)广告猎手/adblock
