@@ -1,11 +1,11 @@
 # Adblock规则
 
-部分站点网页元素广告，广告猎手(IOS)反馈QQ群:514536444
+部分站点网页元素广告，适用于(IOS)广告猎手/adblock，反馈QQ群:514536444
 
 订阅Mobile Ads：https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 
 # Hosts 广告列表
 
-列表取自(https://github.com/h2y/Shadowrocket-ADBlock-Rules)  小火剪规则转换而来
+适用于(IOS)adblock/adguard
 
-如有冒犯，请通知删除
+https://raw.githubusercontent.com/YanFung/Ads/master/Hosts
