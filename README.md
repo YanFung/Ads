@@ -1,8 +1,10 @@
+## 反馈QQ群:514536444
+
 # Adblock规则
 
-部分站点网页元素广告，适用于(IOS)广告猎手/adblock，反馈QQ群:514536444
+适用于(IOS)广告猎手/adblock
 
-订阅Mobile Ads：https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 
 # Hosts/DNS  广告列表
 
