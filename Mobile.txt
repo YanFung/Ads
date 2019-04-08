@@ -890,6 +890,7 @@ baidu.com##.footer_logo
 baidu.com##a.fixed_bar
 baidu.com###index-tuijian
 baidu.com###app-special
+baidu.com###se-box > .suggest-hot
 baidu.com##.iSlider-wrapper-container-hot-thread
 baidu.com## .daoliu-content-wrap
 baidu.com##.ui_image_header_bottom
