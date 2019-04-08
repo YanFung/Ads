@@ -1110,15 +1110,16 @@ tumblr.com##.mobile-banner-inner
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
+uuu9.com##.yoyofc
 v2ex.com##[class^=sidebar_]
 v.qq.com##._banner.btn_open_v
 v.qq.com##.btn_promotion
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
+v.qq.com###banner
 v.baidu.com##.goAppIndex.btn-addApp-openapp
 v.baidu.com###footerDownloadBanner
-uuu9.com##.yoyofc
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
