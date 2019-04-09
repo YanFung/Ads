@@ -142,11 +142,12 @@ _yad_jsonp_
 59hi.com
 60608787.com
 77kp.com/gg123/
-85un.com
-868iy.cn
-88rpg.net
-88shu.cn
 8881919.cc
+88rpg.net
+8vnq.cn
+868iy.cn
+88shu.cn
+85un.com
 9ads.net
 91byy.cn
 913vt.com
@@ -291,6 +292,7 @@ fpb1.chinacar.asia
 fzb01.qiushibaike.com
 fcai.com/ifengIndex.html
 ggxt.net
+gze3.cn
 gszbba.cn
 georgias.cn
 ge95.com
@@ -348,6 +350,7 @@ isdspeed.qq.com
 imgstat.baidu.com
 idyjy.com/js/content/
 ip.hivps.xyz
+in-addr.arpa
 iask.cn^*model.
 iask.cn^*.param.
 iask.cn^*commercial.
@@ -416,6 +419,7 @@ m.zanghaihuatxt.com/xxgg/book.js
 mipp.iask.cn/t/mipdf?t=
 mydrivers.com/m/apptuijian.
 mipengine.baidu.com/common?query=
+nijiua.com
 nthtcs.com
 njjahb.com
 njxczy.com
@@ -539,6 +543,7 @@ tencentvideo/script/webtips/
 tiexue.net/wapcommon/mdata/*.txt
 tmtpost.com/public/images/app_download.png
 users.51.la
+uc4a.cn
 ueram.com
 unmini.com
 un.dnskuu.com
@@ -563,6 +568,7 @@ womenbaby.com
 wanzituandui.com
 wsoe.kwiago.com
 wuliao.epro.sogou.com
+xcxzxc.cn
 xvtpvc.cn
 x-ssp.com
 xkaqt.com
