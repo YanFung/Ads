@@ -202,6 +202,8 @@ bjzcbx.com
 bmgan.com
 baosmx.com
 bdjs.ixiumei.com
+bds.haochu.com
+bdcode.haochu.com
 btbtt88.com/slade.js
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com/tcx?infos=adbanner
@@ -248,11 +250,12 @@ domyjourney.cn
 dqq.lnfund.org.cn
 dingyuanyao.cn
 d0.xcar.com.cn
-damiren.com
 diogv.com
 dcxmy.com
 dzribao.com
 dydyhg.com
+danjiali.com
+damiren.com
 dupinpu.com
 danpinwu.com
 dai18.mumu01.com
@@ -848,6 +851,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="download.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
+##img[src*="adx9.com/upload/"][style="width:100%;height:auto;"]
 !----------------特定网站元素------------------
 163.com##.footer
 163.com###docid-docAppClient
