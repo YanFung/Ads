@@ -302,6 +302,7 @@ ggcode.2345.com
 gt.duowan.com
 gtimg.com/qqlive/
 google.com/pagead/
+gou1234.com/js/indexbottom.js
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
 google-analytics.com/urchin.js
@@ -328,6 +329,7 @@ heygugu.com
 hm.baidu.com
 hnssyhbkj.com
 hulemedia.com
+hzyuanshan.com
 hxsame.hexun.com
 hps.hcuk-jewellery.com
 hoopchina.com.cn/web/module/dace/
