@@ -64,6 +64,7 @@ pagead2.
 /o.php?u=*|$third-party,script
 /pagead/lvz?
 /partner/gg_sogou.html
+/runtime/ad/*
 /site/ads?
 /topad/
 /track.gif?
