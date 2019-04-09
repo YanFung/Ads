@@ -965,6 +965,7 @@ dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
 douban.com##.promo_top_banner
 douban.com##.open-in-app-float
+douban.com###topnav-openapp
 dgtle.com##.footer-abox
 gfan.com##.downs
 hupu.com##.m-app
