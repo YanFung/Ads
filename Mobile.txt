@@ -90,6 +90,7 @@ _yad_jsonp_
 .tv/ads/
 .html?ad_
 .net/adv/
+.cn/show?id=
 .cn/vs.php?id=
 .cn/s.php?id=
 .com/vs.php?id=
@@ -433,6 +434,7 @@ pimst.cn
 prazpf.cn
 penggua.com.cn
 pmm.people.com.cn
+photo.dongshisheying.cn
 pdfbs.com
 pptte.com
 pyzxsl.com
