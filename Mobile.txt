@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!Version:2018/9/26/17:30
+!Version:2019/4/26/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:广告反馈QQ群:514536444.
@@ -1119,6 +1119,8 @@ tianya.cn##.rec-app
 to8to.com##.float-zb
 to8to.com##.ad
 toutiao.com##[class="icon-container"]
+toutiao.com##.top-banner-container
+toutiao.com##.download-text
 toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
 toutiao.com##.article_link[data-tag="ad"]
 tudou.com##.td-h5__appguide
@@ -1201,8 +1203,9 @@ zongheng.com##[id^=dashenjiadao]
 @@||m.123du.cc$xmlhttprequest,domain=m.123du.cc
 !----------------------------------------------
 app.so#@#[class*="app-down"]
-nuomi.com#@##hongbao
 androidfilehost.com#@#[class*="download"]
-pan.baidu.com#@#[class*="download"]
 car.m.yiche.com#@#[class*="download"]
+nuomi.com#@##hongbao
+pan.baidu.com#@#[class*="download"]
+toutiao.com#@#div[class*="download"]
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
