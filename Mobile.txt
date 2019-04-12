@@ -1121,6 +1121,7 @@ to8to.com##.ad
 toutiao.com##[class="icon-container"]
 toutiao.com##.top-banner-container
 toutiao.com##.download-text
+toutiao.com##.show-banner-undefined.bottom-banner-container
 toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
 toutiao.com##.article_link[data-tag="ad"]
 tudou.com##.td-h5__appguide
