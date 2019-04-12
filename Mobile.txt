@@ -681,7 +681,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||www.v718.com/*ad.gif$image
 ||www.zhihu.com/api/v4/alter_banners/
 ||www.zhihu.com/api/v4/banners/
-||yes1.feng.com
 ||zhihu-web-analytics.zhihu.com
 ||zpe-klre.18183.com/eezdx.php?sdfs=
 !-------------------通用元素-------------------
@@ -790,6 +789,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###advert1
 ###adLeftFloat
 ###adRightFloat
+###ad_box_2
 ###ad_top_banner
 ###ad_text:not(textarea)
 ###ad_headerbanner
@@ -1122,6 +1122,7 @@ toutiao.com##[class="icon-container"]
 toutiao.com##.top-banner-container
 toutiao.com##.download-text
 toutiao.com##.show-banner-undefined.bottom-banner-container
+toutiao.com##a[href][class][data-action-label="click_news_entertainment"][data-tag^="ad."]
 toutiao.com##[class="news-banner-container-new-article banner-top new-style-test"]
 toutiao.com##.article_link[data-tag="ad"]
 tudou.com##.td-h5__appguide
