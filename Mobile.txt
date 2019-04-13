@@ -1068,6 +1068,7 @@ share.iclient.ifeng.com###openAppReadAll
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
 thepaper.cn###carousel_banner
+sv.baidu.com##[class$=container]
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
