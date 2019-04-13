@@ -914,6 +914,14 @@ bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
 bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
+baidu.com##.index-banner-text
+baidu.com##.suggest-hot
+baidu.com##[class^="openApp"]
+baidu.com##.page-banner
+baidu.com###se-box > .suggest-hot
+baidu.com##._1k19YN3-qdVhoYpBLDMjYV
+baidu.com##.openall3
+baidu.com##section[style="position: relative;padding-bottom: 10px;background: #f8f8f8;-webkit-tap-highlight-color: rgba(255, 0, 0, 0);display: block!important;"]
 btbtdy.com###bot
 baofeng.com###appview
 budejie.com###topBanner
@@ -1020,6 +1028,7 @@ miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
 manhuatai.com##.km-banner.km-rdhd-banner
+mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
@@ -1081,6 +1090,14 @@ tumblr.com##.mobile-banner-inner
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
+tieba.baidu.com##[class^=footer]
+tieba.baidu.com##.appPromote
+tieba.baidu.com##.top-guide-wrap.top-guide
+tieba.baidu.com##.fixed_bar_logo
+tieba.baidu.com##[class$="j_click_stats"]
+tieba.baidu.com##.panel_bottom
+tieba.baidu.com##.father-cut-recommend-normal-box
+tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
 uuu9.com##.yoyofc
 v2ex.com##[class^=sidebar_]
 v.qq.com##._banner.btn_open_v
@@ -1098,6 +1115,13 @@ weibo.cn##.m-container-max.OpenInAppButton
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.05wang.com##img[src*="thumb.1010pic.com"]
+wk.baidu.com###carousel
+wk.baidu.com##[class^=afd]
+wk.baidu.com##.wk-container.fc-btm-root
+wk.baidu.com##.wk-container.gain-doc-block-root
+wk.baidu.com##.vip-guide-contanier.guidetowkvipwg-root
+wk.baidu.com##.b-tuijian-root
+wk.baidu.com##.guidetowkappwg-root
 xiami.com##.navbar
 xiami.com###J_Slide
 xici.net###unlogin_wrapper
@@ -1128,6 +1152,10 @@ zimuzu.tv##[class="gameList"]
 zhihu.com##.Kok-mobile.Kok.Lottie
 zhuanzhuan.com##.footer
 zongheng.com##[id^=dashenjiadao]
+zhidao.baidu.com##.header-act-entry
+zhidao.baidu.com##.left-show.new-answer-entry
+zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
+zhidao.baidu.com##.feed-recommend-list
 !----------third-party,script---------
 *$third-party,script,domain=m.bqg5.cc|3g.wenxuemm.com|lwxiaoshuo.com|m.00ksw.org|m.16kxsw.com|m.23sw.net|m.2kxs.com|m.31wxw8.com|m.360118.com|m.37zw.net|m.3dllc.cc|m.3kw.cc|m.50zw.co|m.50zw.la|m.50zww.com|m.52biquge.com|m.555zw.com|m.55xs.com|m.58xs.tw|m.5ccc.net|m.630book.la|m.67shu.com|m.69shu.org|m.6mao.com|m.80txt.com|m.83zw.com|m.88106.com|m.88dushu.com|m.98xiaoshuo.com|m.99shumeng.net|m.aiquxs.com|m.amu520.com|m.aszw.org|m.b5200.org|m.baishulou8.com|m.baoliny.com|m.beijingaishu.net|m.bichi.me|m.biqudu.com|m.biquge.cm|m.biquge.info|m.biquge.tw|m.biqugego.com|m.biqugexsw.com|m.biqugezw.com|m.biqumo.com|m.biquwu.cc|m.blwenku.com|m.boluoxs.com|m.book9.net|m.booktxt.net|m.bqg5200.com|m.brquge.com|m.bxwx9.org|m.chuanyue8.net|m.daizhuzai.com|m.dashubao.cc|m.ddxsw.net|m.dhzw.org|m.duanwenxue.com|m.fhxiaoshuo.com|m.fhxsw.org|m.gsdaquan.com|m.gulizw.com|m.gxwztv.com|m.haxwx2.com|m.heiyanwang.com|m.hkslg.net|m.jjxsw.org|m.kewai.la|m.konlan.org|m.kxs7.com|m.lanseshuba.com|m.lbxs.com|m.leduwo.com|m.lewenxiaoshuo.com|m.liewen.cc|m.lkshu.com|m.longtanxs.com|m.luoqiu.com|m.lwtxt.net|m.miaoshufang.com|m.mishug.com|m.mpzw.com|m.panqis.cn|m.qianrenge.cc|m.qu.la|m.sanjiangge.com|m.shengyan.org|m.shenmabook.com|m.shuanshu.com|m.shuketxt.net|m.shumil.com|m.shuqu8.com|m.shuquge.com|m.shushu8.com|m.silukeke.com|m.sjtxt.com|m.snwx8.com|m.sosoxiaoshuo.cc|m.sqsxs.com|m.suimeng.la|m.tingshuge.com|m.tmetb.net|m.tsxsw.com|m.ttzw.com|m.txt2017.com|m.txtduo.com|m.tywxw.la|m.vodtw.com|m.wanjuanba.com|m.wantxt.com|m.wenxue6.com|m.wenxuemi.com|m.wenxuemm.com|m.wodeshucheng.com|m.wodexiaoshuo1.cc|m.x81zw.com|m.xbxwx.net|m.xiaoxiaoshuwu.net|m.xiashu.cc|m.xinshula.com|m.xs.la|m.xs222.tw|m.xuwange.com|m.xyshu8.net|m.yawenb.com|m.ybdu.com|m.yssm.org|m.yuyouge.com|m.zbzw.com|m.zhenben.cc|m.zhuaji.org|m.zwdu.com|wap.xxbiquge.com|wap.yb3.cc|xntk.net|zaidudu.net|diggbt.fyi|www.btkitty.pet|m.23us.cc|cnbtkitty.com|btlibrary.cc|book.guibuyu.org|chuanyuezhe.yetianzi.com|cilidb.net|btwhat.org|m.23txt.com|www.hdbee.net|www.dawangraoming.com|diggbts.com|m.sosobtt.net|www.btrabbit.net|btcat.org|zhainanbt.net|m.uuxs.net|m.shumilou.net|m.biquge.com.tw|m.biqubao.com|m.biquge0.com|m.bxquge.com|m.uu234.net|www.dybee.me|m.biqugecom.com|m.qiuwu.net|btdiggs.com|m.bookbao.org|m.xiashu.la|m.111bz.net|m.biqu.cm|www.lbldy.com|m.jb51.net|m.uuxs.la|m.blwenku.cc|cnbtkitty.net|m.88dus.com|m.shuhuangge.org|m.wxsky.net|m.65xs.net|cnbtkitty.org|m.bokon.net|m.123du.cc|m.booktxt.net|wap.xbiquge6.co
 !---------xmlhttprequest-----------
