@@ -278,7 +278,6 @@ ejunshi.com
 eiv.baidu.com
 eduad.baidu.com
 ecma.bdimg.com
-edu-wenku.bdimg.com
 fastapi.net
 fecjf.cn
 firefang.cn
