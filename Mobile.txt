@@ -893,44 +893,6 @@ autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
-baidu.com##div[class$="-container"] > div[class="habody"]
-baidu.com##.down-bar
-baidu.com##.chunwan-wrapper
-baidu.com##.ec_wise_ad
-baidu.com###banner_call + div[id]
-baidu.com##[class*=wra] > b-scroll
-baidu.com##[class^="hongbao_page"]
-baidu.com##.appPromote
-baidu.com##.page-banner
-baidu.com##div.gh-safariicon-container
-baidu.com##.footer_logo
-baidu.com##a.fixed_bar
-baidu.com###index-tuijian
-baidu.com###app-special
-baidu.com###se-box > .suggest-hot
-baidu.com##.iSlider-wrapper-container-hot-thread
-baidu.com## .daoliu-content-wrap
-baidu.com##.ui_image_header_bottom
-baidu.com###pblist > li[class]:not(.j_post_list_item)
-baidu.com##[id*=dia_mask]
-baidu.com##[id*=dia_wrapper]
-baidu.com##.j_make_prompt_back.j_make_prompt.make_prompt_back
-baidu.com##div[id="header"][class="searchbox-exp"] > div[class="first-card-container"][style]
-baidu.com##.picad
-baidu.com##.wrapper-slider
-baidu.com##.left-show.new-answer-entry
-baidu.com##.w-question-list[data-sign]
-baidu.com##.openAppCarsouselTpl
-baidu.com##.redenvelope-small
-baidu.com##.se-ft-promlink
-baidu.com##div.baiduapp-ad-result
-baidu.com##.commentEmbed-backHomeCard
-baidu.com##.baiduapp-ad-container
-baidu.com##div[id="page-pre"][class="se-page-pre-style"]
-baijiahao.baidu.com##.bottomMargin
-baijiahao.baidu.com##.openBox-shareEntry
-baijiahao.baidu.com##.openall3
-baijiahao.baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
@@ -1021,9 +983,6 @@ ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
 ifeng.com##[id][href="javascript:void(0);"][style="height: auto;"]
 ithome.com###ruanmei-apps
-image.baidu.com##.mediacy-rs-contain.js-Component-root
-image.baidu.com##.istextlink.ec_image_title_new
-image.baidu.com##.sample0
 jianshu.com##.top
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
@@ -1052,11 +1011,6 @@ mop.com##[class*=detail-ad]
 music.163.com##.topfr
 music.163.com##.openapp
 music.163.com##.footer-wrap
-m.baidu.com##div.sfc-image-content-adtext
-m.baidu.com##a.sfc-image-content-detailpage-exchange
-m.baidu.com##div.sfc-image-content-detailpage-looprs
-mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
-mbd.baidu.com###content_wrapper + div + .default-container
 miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
@@ -1151,11 +1105,6 @@ weibo.com##.swiper-wrapper
 weibo.cn##.m-container-max.OpenInAppButton
 wasu.cn##.ads
 wasu.cn##.ws_more_app
-www.baidu.com##.c-back+div[id]
-www.baidu.com##.callappbox
-www.baidu.com##section
-www.baidu.com##.logined-banner
-www.baidu.com##.wrap > div div[class][style="visibility: visible;"]>div[class][style="width: 750px;"]
 www.05wang.com##img[src*="thumb.1010pic.com"]
 xiami.com##.navbar
 xiami.com###J_Slide
