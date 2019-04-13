@@ -9,6 +9,7 @@
 advert
 adsense
 adservice.
+adbanner
 adsbygoogle.
 googleads.
 pubads.
@@ -26,7 +27,6 @@ pagead2.
 /ads/3.
 /ad1_
 /ads2.
-/adbanner/
 /adcontrol.
 /adjs/
 /ad/js/
@@ -207,7 +207,6 @@ bds.haochu.com
 bdcode.haochu.com
 btbtt88.com/slade.js
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
-baidu.com/tcx?infos=adbanner
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?
 baidu.com/static/ecom/js/wise/home/nativeAds_
@@ -918,7 +917,6 @@ baidu.com##.index-banner-text
 baidu.com##.suggest-hot
 baidu.com##[class^="openApp"]
 baidu.com##.page-banner
-baidu.com###se-box > .suggest-hot
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
 baidu.com##section[style="position: relative;padding-bottom: 10px;background: #f8f8f8;-webkit-tap-highlight-color: rgba(255, 0, 0, 0);display: block!important;"]
