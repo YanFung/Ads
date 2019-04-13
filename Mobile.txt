@@ -175,6 +175,7 @@ alimama.com
 ae4.ifeng.com
 anyangruisi.com
 aishangcan.com
+a2.bookapka.com
 ads.adxpansion.com
 apple.www.letv.com
 adnxs.com^$third-party
@@ -913,6 +914,8 @@ bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
 bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
 bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
+baidu.book.3g.cn##.box2_bg
+baidu.book.3g.cn##.mip-stats-eventload.bot_bar
 baidu.com##.index-banner-text
 baidu.com##.suggest-hot
 baidu.com##[class=related-news]
@@ -937,6 +940,7 @@ changba.com##.open-div1
 cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 cnbeta.com##a[href^="http://click.aliyun.com/"]
 cnbeta.com##.cbimage-fixed
+dushu.baidu.com##.openBox-shareEntry
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
 douyu.com###js-fix-download
@@ -1150,6 +1154,8 @@ yiche.com##.float-r-box
 yidianzixun.com##.banner
 y.qq.com##.top_bar
 yuedu.163.com##img[src*="/yunyuedu.png"]
+zongheng.com##[id^=laialaia]
+zongheng.com###botpic
 zol.com.cn##.zolapp
 zhihu.com##div[data-za-detail-view-path-is_ad]
 zybang.com##div[class][id]
