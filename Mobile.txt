@@ -756,6 +756,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.global_video_bottom_dbtc
 ##.head_ad
 ##.hongbao
+##.icon_ad
 ##.listad
 ##.leftAd
 ##.module-ad
@@ -818,6 +819,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[id*="downapp"]
 ##div[id*="downApp"]
 ##div[class="ads"]
+##div[class$="-ads"]
 ##div[class^=ADTOPLB_]
 ##div[class*="appdown_"]
 ##div[class*="appdown-"]
