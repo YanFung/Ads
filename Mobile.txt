@@ -1145,4 +1145,5 @@ car.m.yiche.com#@#[class*="download"]
 nuomi.com#@##hongbao
 pan.baidu.com#@#[class*="download"]
 toutiao.com#@#div[class*="download"]
+wk.baidu.com#@#div[class*="download"]
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
