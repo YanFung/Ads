@@ -173,7 +173,6 @@ appsflyer.com
 applequan.com
 alimama.com
 ae4.ifeng.com
-afd.baidu.com
 anyangruisi.com
 aishangcan.com
 ads.adxpansion.com
@@ -919,7 +918,7 @@ baidu.com##.suggest-hot
 baidu.com##[class=related-news]
 baidu.com##.news-container
 baidu.com##.banners
-baidu.com##[class^=afd]
+baidu.com##[class*=afd]
 baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
