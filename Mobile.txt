@@ -7,6 +7,7 @@
 !
 !-----------------URL通配------------------
 advert
+adsense
 adservice.
 adsbygoogle.
 googleads.
@@ -42,7 +43,6 @@ pagead2.
 /ad/side_
 /ads_image/
 /adv_out.
-/adsense/
 /ad.php|
 /adsid/
 /ads.js
