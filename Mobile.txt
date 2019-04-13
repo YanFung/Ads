@@ -951,6 +951,8 @@ douban.com##.open-in-app-float
 douban.com###topnav-openapp
 dgtle.com##.footer-abox
 gfan.com##.downs
+hao123.com###btn
+hao123.com##.carousel.cn_tips
 hupu.com##.m-app
 hupu.com##section.money-box > section.bottom > img.money-img
 hupu.com###J_live_container
@@ -1031,6 +1033,9 @@ mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
 manhuatai.com##.km-banner.km-rdhd-banner
 mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
+map.baidu.com##.container.styleguide.index-widget-guidebanner
+map.baidu.com###index-areaEntry-widget
+map.baidu.com##.bottom-banner-float
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
