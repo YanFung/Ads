@@ -918,6 +918,7 @@ baidu.com##.suggest-hot
 baidu.com##[class=related-news]
 baidu.com##.news-container
 baidu.com##.banners
+baidu.com##[class^=afd]
 baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
@@ -1033,6 +1034,7 @@ mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
+news.baidu.com###share
 open.163.com##.fix-bot
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
@@ -1118,7 +1120,6 @@ wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.05wang.com##img[src*="thumb.1010pic.com"]
 wk.baidu.com###carousel
-wk.baidu.com##[class^=afd]
 wk.baidu.com##.wk-container.fc-btm-root
 wk.baidu.com##.wk-container.gain-doc-block-root
 wk.baidu.com##.vip-guide-contanier.guidetowkvipwg-root
