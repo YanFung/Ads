@@ -915,6 +915,9 @@ bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 baidu.com##.index-banner-text
 baidu.com##.suggest-hot
+baidu.com##[class=related-news]
+baidu.com##.news-container
+baidu.com##.banners
 baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
