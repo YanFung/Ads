@@ -1017,7 +1017,6 @@ mydrivers.com###dangbei_down
 manhuatai.com##.km-banner.km-rdhd-banner
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
-news.baidu.com##.afd-item.index-list-item-container
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 open.163.com##.fix-bot
 play.163.com##.m-fixedTop
@@ -1043,7 +1042,6 @@ sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href^="http://saxs."] > .f_card
 sina.cn###j_fixAppBtn
 sina.cn##.j_call_native.videoDes_newsApp
-sv.baidu.com##[class="rmb-carsousel-position-bottom"]
 sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
@@ -1055,15 +1053,6 @@ share.iclient.ifeng.com###openAppReadAll
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
 thepaper.cn###carousel_banner
-tieba.baidu.com##.top-guide-wrap.top-guide
-tieba.baidu.com##img[src][alt="tieba_logo"][class="footer-logo"]
-tieba.baidu.com##.footer-title
-tieba.baidu.com##.j_daoliubar
-tieba.baidu.com##.j_click_stats, .j_click_stats+*
-tieba.baidu.com##.activity-banner
-tieba.baidu.com##.pb_cut_hot_recommend
-tieba.baidu.com##.footer-version-client.footer-version
-tieba.baidu.com##.interest-bar
 tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
 tiexue.net##a[href*="tiexue.net/game/"]
 tiexue.net##a[href*="/wechat2/"]
@@ -1095,8 +1084,6 @@ v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
 v.qq.com###banner
-v.baidu.com##.goAppIndex.btn-addApp-openapp
-v.baidu.com###footerDownloadBanner
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
@@ -1134,12 +1121,6 @@ zimuzu.tv##div[class*="-tip show"]
 zimuzu.tv###nGame
 zimuzu.tv##[class="gameList"]
 zhihu.com##.Kok-mobile.Kok.Lottie
-zhidao.baidu.com###main-content>div>a
-zhidao.baidu.com##div[class$="-ecom-ads"]
-zhidao.baidu.com##.header-act-entry
-zhidao.baidu.com##.link
-zhidao.baidu.com##.cur
-zhidao.baidu.com###main-content > [class^="mm-content-box txupk"]
 zhuanzhuan.com##.footer
 zongheng.com##[id^=dashenjiadao]
 !----------third-party,script---------
