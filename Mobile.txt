@@ -128,6 +128,7 @@ _yad_jsonp_
 17173cdn.com/a/lib/vda/seed.js
 18183.com^*.php?pid=
 193506.com
+2pmob.com
 21.huanqiu.com
 24haitao.net
 3xx.vip
@@ -371,6 +372,7 @@ js.ubaike.cn
 jiupinshan.cn
 jryjy.com.cn
 jmhengwei.cn
+jhwj88.com
 juuhe.com
 jegxny.com
 jianzhousc.com
