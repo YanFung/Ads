@@ -133,8 +133,10 @@ _yad_jsonp_
 21.huanqiu.com
 24haitao.net
 3xx.vip
+34mob.com
 35kds.com
 36cj.com
+34mob.com
 3gmfw.cn/js/wap/
 47ks.com^*_ad.js
 4z5o27.cn
