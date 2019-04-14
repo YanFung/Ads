@@ -316,6 +316,7 @@ google-analytics.com/urchin.js
 google-analytics.com/analytics.js
 hao61.net
 h0o33.cn
+hechaocheng.cn
 hf01il.com
 hfxs01il.com
 hyzui.com
