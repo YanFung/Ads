@@ -11,6 +11,7 @@ adsense
 adservice.
 adbanner
 adsbygoogle.
+adsrvr.org^$third-party
 googleads.
 pubads.
 pagead2.
