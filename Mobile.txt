@@ -86,6 +86,8 @@ _yad_jsonp_
 &ad_ids=
 &ad_type=
 .8ox.cn
+:8888/mb1/wap_
+_960_90.
 .ad-plus.cn/
 .net/ads/
 .tv/ads/
@@ -112,7 +114,6 @@ _yad_jsonp_
 |http://*.cn/ad/
 |http://ad.$domain=~ad.3gsc.com.cn
 !-----------------特定URL------------------
-:8888/mb1/wap_
 0xxd.com
 0571hy.com
 0571yy.com
@@ -731,6 +732,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adv_left
 ##.adv-text
 ##.adv_right
+##.advbox
 ##.add_txt
 ##.adArea
 ##.adTop
