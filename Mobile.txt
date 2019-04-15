@@ -839,7 +839,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class*="app_down"]
 ##div[class*="app-down"]
 ##div[class*="downapp"]
-##div[class*="download"]
 ##div[class*="openInApp"]
 ##div[class*="OpenInApp"]
 ##div[class*=gmine_ad]
@@ -1195,10 +1194,5 @@ zhidao.baidu.com##.feed-recommend-list
 @@||m.123du.cc$xmlhttprequest,domain=m.123du.cc
 !----------------------------------------------
 app.so#@#[class*="app-down"]
-androidfilehost.com#@#[class*="download"]
-car.m.yiche.com#@#[class*="download"]
 nuomi.com#@##hongbao
-pan.baidu.com#@#[class*="download"]
-toutiao.com#@#div[class*="download"]
-wk.baidu.com#@#div[class*="download"]
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
