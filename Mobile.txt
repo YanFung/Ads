@@ -31,6 +31,7 @@ pagead2.
 /adcontrol.
 /adjs/
 /ad/js/
+/adv.js
 /adpuba/
 /adfolder/*
 /adshow?
@@ -451,6 +452,7 @@ optaim.com
 olo.6niuwang.com
 ofter.com/blogphotoad?
 pagechoice.net
+p0y.cn
 pimst.cn
 prazpf.cn
 penggua.com.cn
