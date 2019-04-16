@@ -146,6 +146,7 @@ _960_90.
 51gpt.com
 52shouyou.com.cn
 59hi.com
+58cdn.com.cn/zt/appdown/js/m_invoke_app.js?
 60608787.com
 77kp.com/gg123/
 8881919.cc
@@ -276,6 +277,7 @@ dm.92to.com
 dm530.net/js/newjs/
 da.duowan.com/loc/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
+down.58.com/js/58appLaunch.js?
 ejiakm.net
 epernn.cn
 ent1.12584.cn
@@ -895,8 +897,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 52ain.cn###pic_bg_2
 52pk.com##.add
 56.com##[class^="app-"] > .banner-container
-58.com##div._1yk_xA3PhiA7sjHwST5Pyy
-58.com##.bban
 72g.com##.recommended
 9game.cn###bottomFix
 9game.cn###btInfo
