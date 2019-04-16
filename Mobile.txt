@@ -218,6 +218,7 @@ bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?
 baidu.com/static/ecom/js/wise/home/nativeAds_
+baidu.com/feproxy/ad/list?
 baidu.com/po/api/configure/show.jsonp
 baidu.com/se/transcode/static/img/tc-banner_$image
 bdfpbimg.ifengimg.com
