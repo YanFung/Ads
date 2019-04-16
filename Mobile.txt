@@ -897,6 +897,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 52ain.cn###pic_bg_2
 52pk.com##.add
 56.com##[class^="app-"] > .banner-container
+58.com##.bban
 72g.com##.recommended
 9game.cn###bottomFix
 9game.cn###btInfo
