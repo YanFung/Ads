@@ -947,7 +947,9 @@ baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
-baidu.com##section[style="position: relative;padding-bottom: 10px;background: #f8f8f8;-webkit-tap-highlight-color: rgba(255, 0, 0, 0);display: block!important;"]
+baidu.com##article[style^="position: relative;padding-bottom: 10px;background: #f8f8f8;"][style]
+baidu.com##section^[style="position: relative;padding-bottom: 10px;background: #f8f8f8;"][style]
+baijiahao.baidu.com##.bottomMargin
 btbtdy.com###bot
 baofeng.com###appview
 budejie.com###topBanner
