@@ -108,6 +108,7 @@ _960_90.
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 .php?mg=$image
+*btbtt.*/imgs.js
 |http://*/gg/$domain=~11185.cn|~fanfou.com|~gg1z.com|~ha47.cn
 |http://gg.$third-party,domain=~guagua.cn
 |http://*.com/s.php?id=$third-party,script
@@ -547,6 +548,7 @@ tanx.com
 txtxr.com
 tjgxzs.com
 tiimg.com
+th21333.com
 tajs.qq.com
 tingyun.com
 tt123.eastday.com
@@ -765,6 +767,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ec_ad
 ##.ec_ad_results
 ##.ec_wise_ad
+##.error > #qqs
 ##.footad
 ##.floatad
 ##.googleAd300x250
@@ -861,7 +864,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="]
 ##a[href*="/url.cn/"]
-##a[href*=".com/Register/?a="]
+##a[href*="/Register?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
@@ -870,6 +873,9 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="www.crc6789.com"]
 ##a[href^="http://go.gotourl.xyz/"]
 ##a > img[width="960"][src*=".sinaimg."]
+##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
+##a#wrapper_right_bg[target="_blank"]
+##a#wrapper_left_bg[target="_blank"]
 ##li[data-type="ad"]
 ##img[src="tp/hb1.png"]
 ##img[src*="tui.30pan.com"]
