@@ -1117,6 +1117,8 @@ tiexue.net##a[href*="/wechat2/"]
 tiexue.net##[class*=moneyBox]
 tiexue.net##.hg_test
 tianya.cn##.rec-app
+tingvoa.com##.rightgood
+tingvoa.com##a[href*="?adid="]
 to8to.com##.float-zb
 to8to.com##.ad
 toutiao.com##[class="icon-container"]
