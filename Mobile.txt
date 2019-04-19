@@ -87,10 +87,11 @@ _yad_jsonp_
 &adnum=
 &ad_ids=
 &ad_type=
+_300_250.
+_728_90.
+_960_90.
 .8ox.cn
 :8888/mb1/wap_
-_960_90.
-_300_250.
 .ad-plus.cn/
 .net/ads/
 .tv/ads/
@@ -752,6 +753,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adsbygoogle
 ##.adsense160
 ##.adsame-banner-box
+##.adMArea
 ##.article-ad
 ##.asd-imga
 ##.appLink
