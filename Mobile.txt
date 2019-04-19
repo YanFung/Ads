@@ -61,6 +61,7 @@ pagead2.
 /ifengad/
 /img/ad-
 /images/ad-
+/images/adv_
 /js/ads/
 /log.gif?
 /o.php?u=*|$third-party,script
@@ -791,6 +792,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.text-ads
 ##.text-ad-links
 ##.top-adv
+##.top-Adv
 ##.topads
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
@@ -1037,6 +1039,7 @@ jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
 kdslife.com###foot_pop_banner
 ke.qq.com###app-load-box
+kekenet.com###bottomlink
 kdslife.com##a[href="//club.kdslife.com/app.php"]
 kuwo.cn###openApp
 kuwo.cn##.fl.single_down
