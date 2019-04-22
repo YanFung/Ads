@@ -1065,6 +1065,9 @@ mop.com##[class*=detail-ad]
 music.163.com##.topfr
 music.163.com##.openapp
 music.163.com##.footer-wrap
+m.y.qq.com###js_mod_dialog
+m.y.qq.com##.top_box__btn
+m.y.qq.com##.bottom_bar
 miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
@@ -1191,7 +1194,6 @@ yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
 yiche.com##.float-r-box
 yidianzixun.com##.banner
-y.qq.com##.top_bar
 yuedu.163.com##img[src*="/yunyuedu.png"]
 zongheng.com##[id^=laialaia]
 zongheng.com###botpic
