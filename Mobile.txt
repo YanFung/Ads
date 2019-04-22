@@ -376,6 +376,7 @@ ifeng.com/burroughsnews?
 ifeng.com/client_share_bottom_
 ifengimg.com^*/sta_collection
 ifeng.com/showjs?*apids=
+ithome.com/api/lapin/
 itc.cn/w/u/0/old-insertad-
 jkjjkj.top
 jbflil.cn
@@ -1035,6 +1036,8 @@ ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
 ifeng.com##[id][href="javascript:void(0);"][style="height: auto;"]
 ithome.com###ruanmei-apps
+ithome.com##.lapin
+ithome.com##.down-app-box
 jianshu.com##.top
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
