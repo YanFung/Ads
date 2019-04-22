@@ -1163,6 +1163,9 @@ weibo.cn##.m-container-max.OpenInAppButton
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.05wang.com##img[src*="thumb.1010pic.com"]
+www.baidu.com##.direct-new
+www.baidu.com##.gh-safariicon-container
+www.baidu.com##div[class="c-result-content"] > [class="c-container aladdin__2AELi"]
 wk.baidu.com###carousel
 wk.baidu.com##.wk-container.fc-btm-root
 wk.baidu.com##.wk-container.gain-doc-block-root
