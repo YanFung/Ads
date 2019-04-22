@@ -1038,6 +1038,7 @@ ifeng.com##[id][href="javascript:void(0);"][style="height: auto;"]
 ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
+ithome.com##.hot-app
 jianshu.com##.top
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
@@ -1047,10 +1048,9 @@ kdslife.com###foot_pop_banner
 ke.qq.com###app-load-box
 kekenet.com###bottomlink
 kdslife.com##a[href="//club.kdslife.com/app.php"]
-kuwo.cn###openApp
-kuwo.cn##.fl.single_down
-kuwo.cn##.openapp_btn
-kuwo.cn##.clearfix.up_btns2.up_btns
+kuwo.cn##.downapp_btn
+kuwo.cn##.topAppWrap
+kuwo.cn##.download
 kugou.com##[class="download-app js-downloadApp"]
 le.com###j-leappMore
 le.com###j-zhoubian
