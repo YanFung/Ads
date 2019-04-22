@@ -1048,6 +1048,7 @@ kuwo.cn###openApp
 kuwo.cn##.fl.single_down
 kuwo.cn##.openapp_btn
 kuwo.cn##.clearfix.up_btns2.up_btns
+kugou.com##[class="download-app js-downloadApp"]
 le.com###j-leappMore
 le.com###j-zhoubian
 le.com###j-recommend > .animate1.column_box
