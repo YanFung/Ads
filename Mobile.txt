@@ -1218,6 +1218,7 @@ yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
 yiche.com##.float-r-box
 yidianzixun.com##.banner
+yxflz.com##.c_box > div[style]
 yuedu.163.com##img[src*="/yunyuedu.png"]
 zongheng.com##[id^=laialaia]
 zongheng.com###botpic
