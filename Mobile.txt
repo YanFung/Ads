@@ -92,7 +92,7 @@ _960_90.
 .8ox.cn
 :8888/mb1/wap_
 .ad-plus.cn/
-.gif|$third-party,domain=33235.net|www.avtb388.com
+.gif|$third-party,image,domain=33235.net|www.avtb388.com
 .net/ads/
 .tv/ads/
 .html?ad_
