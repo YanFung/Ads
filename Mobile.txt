@@ -476,6 +476,7 @@ pyzxsl.com
 pubbirdf.com
 pos.baidu.com
 pupu.xnhh120.com
+pfp.sina.net/ea/ad/
 pussl48.com^$third-party
 pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
@@ -533,6 +534,8 @@ shongcheng.com
 shili.downxia.com
 shuoshuocm.com
 spcode.baidu.com
+sina.cn*/view?
+sina.cn/cm/sinaads_
 s.xz15801.com/y.js
 shihuo.cn/alibtn_
 sina.cn^*/impress?
@@ -1116,7 +1119,7 @@ sohu.com###apkBanner
 sohu.com##.fade-in.show.float-app-btn
 sohu.com##.advertise
 sina.cn##.m_f_a[data-href^="http://saxs."]
-sina.cn##[href^="http://saxs."] > .f_card
+sina.cn##[href*="://sax"]
 sina.cn###j_fixAppBtn
 sina.cn##.j_call_native.videoDes_newsApp
 sspai.com##.is-shown.open-in-app-button
