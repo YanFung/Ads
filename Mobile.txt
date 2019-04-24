@@ -1214,13 +1214,15 @@ yuedu.163.com##img[src*="/yunyuedu.png"]
 zongheng.com##[id^=laialaia]
 zongheng.com###botpic
 zol.com.cn##.zolapp
-zhihu.com##div[data-za-detail-view-path-is_ad]
 zybang.com##div[class][id]
 zybang.com##div[class][style]
 zimuzu.tv##div[class*="-tip show"]
 zimuzu.tv###nGame
 zimuzu.tv##[class="gameList"]
 zhihu.com##.Kok-mobile.Kok.Lottie
+zhihu.com##.is-shown.OpenInApp.OpenInAppButton
+zhihu.com##.MobileAppHeader-downloadLink
+zhihu.com##div[data-za-detail-view-path-is_ad]
 zhuanzhuan.com##.footer
 zongheng.com##[id^=dashenjiadao]
 zhidao.baidu.com##.header-act-entry
