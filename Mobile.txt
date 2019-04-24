@@ -1235,3 +1235,4 @@ zhidao.baidu.com##.conference-banner-all
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
+@@||js.users.51.la$script,domain=www.ktkkt.com
