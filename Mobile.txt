@@ -395,7 +395,6 @@ ja.gamersky.com
 juicyads.com^$third-party
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
-ktkkt.com/js/tvb/
 kingpolo.com.cn
 kuaituisss.com
 kawinhome.com
