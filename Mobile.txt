@@ -176,6 +176,7 @@ assigned.cn
 alimama.cn
 anhouhou.cn
 adpai.thepaper.cn
+alicdn.com
 acs86.com
 addthis.com
 anyysz.com
@@ -198,7 +199,6 @@ adnxs.com^$third-party
 a1.jandan.net/*.js
 ab_res/m/common.js
 autohome.com.cn/vr/*?pvareaid=
-alicdn.com/g/mm/afp-cdn/js/
 ali213.net/js/data/3gcommon.js
 assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
