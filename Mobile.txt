@@ -938,6 +938,7 @@ autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
+avtb388.com##a[href^="http"] > [style][src*="upload"]
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
