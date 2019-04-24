@@ -120,6 +120,7 @@ _960_90.
 |http://ad.$domain=~ad.3gsc.com.cn
 !-----------------特定URL------------------
 0xxd.com
+0551zgz.com
 0571hy.com
 0571yy.com
 16k6.com
@@ -239,6 +240,7 @@ ctrhfd.top
 caduka.cn
 ccbccb.cn
 continuedsys.cn
+channn.hzmiyou.cn
 count.pcauto.com.cn
 ciimg.com
 cnzz.com
