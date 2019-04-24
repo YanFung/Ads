@@ -888,11 +888,11 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="]
 ##a[href*="/url.cn/"]
+##a[href*="/?intr="]
 ##a[href*="/Register?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register?a="]
-
 ##a[href*=".com/Register/?a="]
 ##A[href*=".com/?Agent="]
 ##a[href*="www.hfcp20.com"]
