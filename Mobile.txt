@@ -47,7 +47,6 @@ pagead2.
 /ads_image/
 /adv_out.
 /ad.php|
-/adsid/
 /ads.js
 /adshow.
 /api/ad/
