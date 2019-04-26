@@ -972,6 +972,7 @@ baidu.com##article[style^="position: relative;padding-bottom: 10px;background: #
 baidu.com##section^[style="position: relative;padding-bottom: 10px;background: #f8f8f8;"][style]
 baidu.com##div[class="c-result-content"] > [class="c-container aladdin__2AELi"]
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
+baidu.com###relative_shop_flow
 baijiahao.baidu.com##.bottomMargin
 btbtdy.com###bot
 baofeng.com###appview
@@ -1200,6 +1201,7 @@ wk.baidu.com##.wk-container.gain-doc-block-root
 wk.baidu.com##.vip-guide-contanier.guidetowkvipwg-root
 wk.baidu.com##.b-tuijian-root
 wk.baidu.com##.guidetowkappwg-root
+wapbaike.baidu.com##ul[class][id] > li
 xiami.com##.navbar
 xiami.com###J_Slide
 xici.net###unlogin_wrapper
