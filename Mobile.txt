@@ -1054,7 +1054,12 @@ ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
 ithome.com##.hot-app
-jianshu.com##.top
+jianshu.com##.download-btn
+jianshu.com##.header-download
+jianshu.com##.download
+jianshu.com##.open-app-btn
+jianshu.com##.recommend-ad.recommend-wrap
+jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
