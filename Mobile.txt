@@ -1245,6 +1245,7 @@ zhidao.baidu.com##.conference-banner-all
 @@||m.12365chia.com/js/rotation.js$xmlhttprequest,domain=m.dilidili.wang
 @@||m.123du.cc$xmlhttprequest,domain=m.123du.cc
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
+@@||track.uc.cn$image,domain=z.25pp.com
 !----------------------------------------------
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
