@@ -215,6 +215,7 @@ bdjs.ixiumei.com
 bds.haochu.com
 bdcode.haochu.com
 btbtt88.com/slade.js
+bytecdn.cn/ta/resource/v0/analytics.js
 bdstatic.com/*/static/itemrep/bottomBanner/index_*.js
 baidu.com^*/app/banner_
 baidu.com/newspage/api/getmobads?
