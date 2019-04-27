@@ -1051,7 +1051,6 @@ ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
 ithome.com##.hot-app
-ip.cn##img[id="tp"][data-cfsrc$="jpg"][src$="jpg"]
 ip.cn###tp:style(width: 101px;height: 0px !important)
 jianshu.com##.download-btn
 jianshu.com##.header-download
