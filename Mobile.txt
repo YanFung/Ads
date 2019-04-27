@@ -856,6 +856,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###hongbao
 ###head_ad
 ###newapp2018
+##.new-free-ad
 ###midThreeAds
 ###player-advertising
 ###sponsorAdDiv
@@ -1111,6 +1112,8 @@ le.com##.footer
 le.com##.leapp_btn
 le.com##.addDesktop
 lofter.com##div[class="m-moreselect"][id^="auto-id-"]
+longzhu.com##.scroll-download
+longzhu.com##.app-download
 mtime.cn###clientDownload
 mtime.cn###app >div >div._1QFIS
 mgtv.com##.on.mg-app-open
@@ -1155,6 +1158,7 @@ pingwest.com##.download-bar
 pingwest.com##.download-app-tip
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
+qidian.com##[class="module module-merge"][data-l1="13"]
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
@@ -1216,6 +1220,8 @@ tieba.baidu.com##.panel_bottom
 tieba.baidu.com##.father-cut-recommend-normal-box
 tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
 uuu9.com##.yoyofc
+v.6.cn##.zoro
+v.6.cn##.charge
 v2ex.com##[class^=sidebar_]
 v.qq.com##._banner.btn_open_v
 v.qq.com##.btn_promotion
@@ -1262,6 +1268,7 @@ yidianzixun.com##.banner
 yxflz.com##.c_box > div[style]
 yuedu.163.com##img[src*="/yunyuedu.png"]
 zhanqi.tv##.footer
+zhanqi.tv##.js-btn-open-app.footer-suspend
 zongheng.com##[id^=laialaia]
 zongheng.com###botpic
 zol.com.cn##.zolapp
