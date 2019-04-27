@@ -53,7 +53,7 @@ pagead2.
 /bottomad/
 /common/ad
 /common/cf/$image
-/cpro/ui/
+/cpro/ui/*
 /floatad.$domain=~fwxgx.com
 /ggjs/
 /gen_204?$image
@@ -431,7 +431,6 @@ mozist.com
 mediav.com
 meooe.com
 mipujia.com
-mmstat.com
 miaozhen.com
 msite.baidu.com
 mobads.baidu.com
