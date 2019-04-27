@@ -64,6 +64,7 @@ pagead2.
 /images/adv_
 /js/ads/
 /log.gif?
+/m_dilidili_main.js
 /o.php?u=*|$third-party,script
 /pagead/lvz?
 /partner/gg_sogou.html
@@ -114,7 +115,7 @@ _960_90.
 *btbtt.*/imgs.js
 !--------------------------------------
 0xxd.com
-550tg.com
+005.tv/s/setcores.js
 0551zgz.com
 0571hy.com
 0571yy.com
@@ -148,6 +149,7 @@ g.163.com/ur?site=netease&affiliate=
 51gpt.com
 51.la^$third-party
 52shouyou.com.cn
+550tg.com
 59hi.com
 58cdn.com.cn/zt/appdown/js/m_invoke_app.js?
 60608787.com
@@ -186,6 +188,7 @@ ae4.ifeng.com
 anyangruisi.com
 aishangcan.com
 a2.bookapka.com
+adyun.com
 ads.adxpansion.com
 apple.www.letv.com
 adnxs.com^$third-party
