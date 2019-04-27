@@ -92,7 +92,6 @@ _960_90.
 .8ox.cn
 :8888/mb1/wap_
 .ad-plus.cn/
-.gif|$third-party,image,domain=33235.net|www.avtb388.com
 .net/ads/
 .tv/ads/
 .html?ad_
@@ -202,7 +201,6 @@ afd.baidu.com/afd/entry?is_https=
 aolusb.com/forever/
 aili.com^$third-party
 adx.$domain=~adx.cx|~adx.uk.com|~adx.world|~adx.wowfi.com
-alicdn.com^$domain=www.avtb388.com
 baminw.cn
 bdx.playnext.cn
 bdjiaoben.wmxa.cn
@@ -394,7 +392,6 @@ juicyads.com^$third-party
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
 ktkkt.com/js/tvb/
-Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile
 kingpolo.com.cn
 kuaituisss.com
 kawinhome.com
@@ -939,7 +936,6 @@ autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
-avtb388.com##a[href^="http"] > [style][src*="upload"]
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
