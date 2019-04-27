@@ -69,6 +69,7 @@ pagead2.
 /partner/gg_sogou.html
 /runtime/ad/*
 /site/ads?
+/style/wap/ads/*.js
 /topad/
 /track.gif?
 /videoad.
@@ -481,6 +482,7 @@ pstatp.com^*/bannersdk/
 pconline.com.cn/_hux_/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
+passport.qihucdn.com/11.0.1.js
 pubimage.360doc.com/transfer/images/zhaishou2.png
 qingzhencai.net
 qchannel03.cn
@@ -915,6 +917,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="go.gotourl.xyz/bill.gif"]
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
 ##img[src*="adx9.com/upload/"][style="width:100%;height:auto;"]
+##img[src="http://yskk8.com/template/mid97/images/1.gif"]
 !----------------特定网站元素------------------
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
