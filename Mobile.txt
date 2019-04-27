@@ -1261,6 +1261,7 @@ yiche.com##.float-r-box
 yidianzixun.com##.banner
 yxflz.com##.c_box > div[style]
 yuedu.163.com##img[src*="/yunyuedu.png"]
+zhanqi.tv##.footer
 zongheng.com##[id^=laialaia]
 zongheng.com###botpic
 zol.com.cn##.zolapp
