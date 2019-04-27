@@ -109,6 +109,7 @@ _960_90.
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/li/choujiang
 .com/js/ad.
+.com/js/ads/
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 .php?mg=$image
@@ -679,8 +680,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ||f*.baidu.com/it/u=*,*&fm=$third-party
 ||fans.*.space/fans/*.php
 ||funbox.upush.cn/images/funbox/icons/*.gif
-||g.alicdn.com/ku/app-smartbanner/*/js/yksmartbanner.min.js
-||g.alicdn.com/mtb/app-idle-pc/*/widget/footer5/index-min.js
 ||ggs.myzaker.com
 ||h5.m.taobao.com/applink/smbConfig.html
 ||h5.1ting.com/zfbhb/s/b.jpg$image
@@ -1045,6 +1044,7 @@ huajiao.com##.open_huajiao
 huajiao.com##.tool-bar-open
 huanqiu.com##.fubiao-dialog
 huanmusic.com##.am-content > .am-g
+ixigua.com##a[href][class][data-action-label][data-tag="ad.platform.site"]
 iqiyi.com##.po-fixed.m-guide
 iqiyi.com##.link-app
 iqiyi.com##a.c-btn.c-btn-block
