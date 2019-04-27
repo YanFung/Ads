@@ -542,7 +542,6 @@ sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
 sogou.com/cl.gif?
-sogoucdn.com$domain=~m.sogou.com|~www.sogou.com|~3g.sogou.com
 sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 sinaimg.cn/large/006XXjynly1fp00jsm0fjg30qo01yq5i.gif
 tuia.cn
