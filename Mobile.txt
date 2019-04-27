@@ -193,6 +193,7 @@ autohome.com.cn/vr/*?pvareaid=
 ali213.net/js/data/3gcommon.js
 assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
+ads.sohu.com
 atm.youku.com
 autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
@@ -469,6 +470,7 @@ pptte.com
 pyzxsl.com
 pubbirdf.com
 pos.baidu.com
+pvtest.zol.com.cn
 pupu.xnhh120.com
 pfp.sina.net/ea/ad/
 pussl48.com^$third-party
@@ -539,7 +541,7 @@ sina.cn/cm/sinaads_
 static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
 sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
 static-cn.plista.com
-sp*.baidu.com^*.gif?
+sp*.baidu.com*.gif?
 su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
@@ -780,6 +782,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.container_ad
 ##.contentad
 ## .down-kanApp
+##.down-app-button
 ##.dahengfu
 ##.ec-ad
 ##.ec_ad
@@ -939,8 +942,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 9game.cn##.app-promote-bar
 ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
-acfun.cn###prompt-box
-acfun.cn###btn-app
+acfun.cn##.header-ico
+acfun.cn##.open-app-btn
 autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
@@ -1007,6 +1010,7 @@ douban.com##.promo_top_banner
 douban.com##.open-in-app-float
 douban.com###topnav-openapp
 dgtle.com##.footer-abox
+engadget.com##.mt-20.container\@m-
 gfan.com##.downs
 hao123.com###btn
 hao123.com##.carousel.cn_tips
@@ -1087,6 +1091,8 @@ le.com##.footer
 le.com##.leapp_btn
 le.com##.addDesktop
 lofter.com##div[class="m-moreselect"][id^="auto-id-"]
+mtime.cn###clientDownload
+mtime.cn###app >div >div._1QFIS
 mgtv.com##.on.mg-app-open
 mgtv.com##.bottom-gap.v5-area-bar > .bd
 mgtv.com##.ft
@@ -1113,6 +1119,7 @@ neihanshe.cn##.tips_bar
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 news.baidu.com###share
 open.163.com##.fix-bot
+open.163.com##.call_app
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
 pptv.com###installApp
@@ -1123,6 +1130,8 @@ pcauto.com.cn###Jmarquee
 pcauto.com.cn##.club-app-load
 pcauto.com.cn##.m-guaziTg
 pcauto.com.cn###JpcTopDl
+pingwest.com##.download-bar
+pingwest.com##.download-app-tip
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 so.com###msocomBottomBanner
@@ -1172,6 +1181,8 @@ tudou.com###topbar-slider
 tumblr.com##.mobile-banner-inner
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
+tv.sohu.com##.actv-banner
+tv.sohu.com##.btn-comment-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 tieba.baidu.com##[class^=footer]
 tieba.baidu.com##.appPromote
@@ -1230,6 +1241,7 @@ yuedu.163.com##img[src*="/yunyuedu.png"]
 zongheng.com##[id^=laialaia]
 zongheng.com###botpic
 zol.com.cn##.zolapp
+zol.com.cn##.square-pic.item
 zybang.com##div[class][id]
 zybang.com##div[class][style]
 zimuzu.tv##div[class*="-tip show"]
