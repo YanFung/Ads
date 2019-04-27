@@ -1087,6 +1087,7 @@ jiangduw.com##.comiis_wx_gzgzh
 jiemian.com##.header-show.header
 jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
+jiaoshouwang.com###wrapper > div> a > img
 kdslife.com###foot_pop_banner
 ke.qq.com###app-load-box
 kekenet.com###bottomlink
