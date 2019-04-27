@@ -1016,6 +1016,7 @@ douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
 douyu.com##.HomeHeader-openApp
 douyu.com##.HomeFooter-downLoadClient
+douyu.com##.btn-open-app
 doutula.com###abptip
 dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
@@ -1054,6 +1055,9 @@ iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com##.m-wl-borderT.m-wl-entrance
 iqiyi.com##div.iqy-items
 iqiyi.com##div.m-ipRelation.m-ipRelation-full
+inke.cn##.bottom-fixed-layer
+inke.cn##.fadeout.launch-inkeapp
+inke.cn##.promotion
 ifeng.com##[enxcq0c],##[xmgktaq]
 ifeng.com##[id*=mobile_gg]
 ifeng.com##.newbagicon
