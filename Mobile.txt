@@ -761,8 +761,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adsame-banner-box
 ##.adMArea
 ##.article-ad
+##.article-top-ad
 ##.asd-imga
 ##.appLink
+##.app-open
 ##.appAd-line
 ##.bm.a_c
 ##.bannerad
@@ -788,6 +790,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.hongbao
 ##.icon_ad
 ##.listad
+##.j_ads
 ##.leftAd
 ##.module-ad
 ##.middlead
@@ -812,6 +815,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.wp.a_t
 ##.wp.a_f
 ##.wp.a_h
+##.download-app
 ##.ytp-ad-progress-list
 !-----------------------------------------
 ###a_ad
