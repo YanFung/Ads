@@ -191,6 +191,7 @@ a2.bookapka.com
 adyun.com
 ads.adxpansion.com
 apple.www.letv.com
+analytics-union.xunlei.com
 adnxs.com^$third-party
 a1.jandan.net/*.js
 ab_res/m/common.js
@@ -923,6 +924,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
 ##img[src*="adx9.com/upload/"][style="width:100%;height:auto;"]
 ##img[src="http://yskk8.com/template/mid97/images/1.gif"]
+##img[src="img/qkwx_m.jpg"][style="display: block; width: 100%; height: auto;"]
 !----------------特定网站元素------------------
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
@@ -942,6 +944,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 36kr.com##div[class="kr-mobile-goapp"]
 36kr.com##.goapp-btn
 4399.com##.fixed-down
+49914.com##[src="/sucai.gif"]
 52ain.cn###pic_bg_2
 52pk.com##.add
 56.com##[class^="app-"] > .banner-container
@@ -1133,6 +1136,7 @@ open.163.com##.call_app
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
 pptv.com###installApp
+pearvideo.com###actApp
 pcauto.com.cn##.m-price-enter
 pcauto.com.cn##.ivy_bbs_topimg.wraper
 pcauto.com.cn##[class][style^="display:"]
@@ -1189,6 +1193,8 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 tudou.com###topbar-slider
 tumblr.com##.mobile-banner-inner
+tv.uc.cn###web_video_index_hot_above
+tv.uc.cn##div[class*=ucdownload]
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##.actv-banner
