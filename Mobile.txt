@@ -401,6 +401,7 @@ jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
 ktkkt.com/js/tvb/
 kingpolo.com.cn
+kfd3sm2c.com
 kuaituisss.com
 kawinhome.com
 ka5188.com
@@ -654,6 +655,7 @@ zx.kqzwg.com
 zjkdaikuan.com
 zhgg.dre8.com
 zhixiuchang.com
+zhfosenghtr.com
 zhuyuanp.shop
 zongheng.com/upload/hzds/
 zdface.com/js/m/zw_banner.js
