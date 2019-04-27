@@ -798,6 +798,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.middlead
 ##.news-ad
 ##.open-app
+##.open-app-banner
 ##.pub_300x250
 ##.rt_ad
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -923,7 +924,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 2.taobao.com##[class="idle-start col"]
 265g.com###swiper-bot
 3g.cn##.downloan_3G
-36kr.com##a.fixed-linkedme:last-child
+36kr.com##div[class="kr-mobile-goapp"]
+36kr.com##.goapp-btn
 4399.com##.fixed-down
 52ain.cn###pic_bg_2
 52pk.com##.add
