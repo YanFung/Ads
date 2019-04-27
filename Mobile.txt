@@ -113,6 +113,7 @@ _960_90.
 *btbtt.*/imgs.js
 !--------------------------------------
 0xxd.com
+550tg.com
 0551zgz.com
 0571hy.com
 0571yy.com
@@ -353,14 +354,15 @@ hzyuanshan.com
 hxsame.hexun.com
 hps.hcuk-jewellery.com
 hoopchina.com.cn/web/module/dace/
+img6.kousou.cc
 ibafnw.cn
 ienkdago.cn
 iae365.com
 ivy.pconline.com.cn
 inte.sogou.com
 img.namusai.com
-isdspeed.qq.com
 imgstat.baidu.com
+isdspeed.qq.com
 idyjy.com/js/content/
 ip.hivps.xyz
 in-addr.arpa
