@@ -814,7 +814,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open-app-banner
 ##.pub_300x250
 ##.rt_ad
-###SOHU_MAIN > .module-cmt-float-bar
 ##.textAd
 ##.text-ad
 ##.text-ads
@@ -860,6 +859,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###midThreeAds
 ###player-advertising
 ###sponsorAdDiv
+###SOHU_MAIN > .module-cmt-float-bar
 ###windlocation
 ###_embed_v3_dc
 !---------------------------------------------
@@ -1014,6 +1014,8 @@ dilidili.wang##img[src^="/uploads/"]
 douyu.com###js-fix-download
 douyu.com##.layout-ball
 douyu.com##.banner0 > .btn-open-app.btn
+douyu.com##.HomeHeader-openApp
+douyu.com##.HomeFooter-downLoadClient
 doutula.com###abptip
 dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
