@@ -962,8 +962,6 @@ autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
-baike.com##.clearfix.hd_ad_app
-baike.com##[class$=-ad]
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 bilibili.com###floatBtn
@@ -995,7 +993,11 @@ baidu.com##section^[style="position: relative;padding-bottom: 10px;background: #
 baidu.com##div[class="c-result-content"] > [class="c-container aladdin__2AELi"]
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
 baidu.com###relative_shop_flow
+baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
+baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baijiahao.baidu.com##.bottomMargin
+baike.com##.clearfix.hd_ad_app
+baike.com##[class$=-ad]
 btbtdy.com###bot
 baofeng.com###appview
 budejie.com###topBanner
