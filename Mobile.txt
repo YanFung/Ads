@@ -914,6 +914,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="www.hfcp20.com"]
 ##a[href*="www.crc6789.com"]
 ##a[href^="http://go.gotourl.xyz/"]
+##a[href] > img[style][src*="/upload.cc"]
 ##a > img[width="960"][src*=".sinaimg."]
 ##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ##a#wrapper_right_bg[target="_blank"]
