@@ -91,7 +91,7 @@ _yad_jsonp_
 _300_250.
 _728_90.
 _960_90.
-:5678/mb1/wap_8888.css
+:5678/mb1/wap_
 :8888/mb1/wap_
 .8ox.cn
 .ad-plus.cn/
