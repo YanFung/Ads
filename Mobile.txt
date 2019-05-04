@@ -292,6 +292,7 @@ dm530.net/js/newjs/
 da.duowan.com/loc/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 down.58.com/js/58appLaunch.js?
+alicdn.com/img/ibank/*_1746120392.
 ejiakm.net
 epernn.cn
 ent1.12584.cn
@@ -644,6 +645,7 @@ yingshidaquan.cc/templet/js/
 zcsfs.cn
 zgclmw.cn
 zencu.com.cn
+zyqp9.com
 zf313.com
 zjycy.com
 zstjy.com
