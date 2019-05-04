@@ -91,8 +91,9 @@ _yad_jsonp_
 _300_250.
 _728_90.
 _960_90.
-.8ox.cn
+:5678/mb1/wap_8888.css
 :8888/mb1/wap_
+.8ox.cn
 .ad-plus.cn/
 .net/ads/
 .tv/ads/
@@ -128,7 +129,7 @@ _960_90.
 12365chia.com
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
-g.163.com/ur?site=netease&affiliate=
+163.com/ur?site=netease&affiliate=
 163.com/wap/special/article_cooper_piapia/
 17173cdn.com/a/lib/vda/seed.js
 181mob.com
