@@ -1089,6 +1089,7 @@ ifeng.com##div[class^="h"] > div[class$="-main"]
 ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
 ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
 ifeng.com##[id][href="javascript:void(0);"][style="height: auto;"]
+ifanr.com##.popup-shown.popup-download.popup-top.popup
 ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
