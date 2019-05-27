@@ -34,7 +34,7 @@ pagead2.
 /ad/js/
 /adv.js
 /adpuba/
-/adfolder/*
+/adfolder/
 /adshow?
 /adview_
 /adtag.
@@ -146,6 +146,7 @@ _960_90.
 36cj.com
 34mob.com
 3gmfw.cn/js/wap/
+3conline.com/pconlinenew/data/app/*/lixuan/js/module.js
 47ks.com^*_ad.js
 4z5o27.cn
 51findu.com/command/qn.js
@@ -485,6 +486,7 @@ pos.baidu.com
 pvtest.zol.com.cn
 pupu.xnhh120.com
 pfp.sina.net/ea/ad/
+pconline.com.cn/_hux_/
 pussl48.com^$third-party
 pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
