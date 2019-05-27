@@ -1330,6 +1330,7 @@ zhidao.baidu.com##[id^=kwlgn]
 @@||m.12365chia.com/js/rotation.js$xmlhttprequest,domain=m.dilidili.wang
 @@||m.123du.cc$xmlhttprequest,domain=m.123du.cc
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
+@@||jing.58.com/$domain=m.58.com
 !----------------------------------------------
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
