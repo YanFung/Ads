@@ -941,6 +941,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 163.com##.redpacket-subbox
 163.com##.redpacket-footer
 163.com##.redpacket-topbar
+163.com##.redpacket-toolsbar
 1688.com##.roc-downbanner
 17k.com##.book_home_float
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
