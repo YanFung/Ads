@@ -36,6 +36,7 @@ pagead2.
 /adpuba/
 /adfolder/
 /adshow?
+/adsys/
 /adview_
 /adtag.
 /adpic/
@@ -50,6 +51,7 @@ pagead2.
 /ads.js
 /adshow.
 /api/ad/
+/api/adv
 /bottomad/
 /common/ad
 /common/cf/$image
@@ -962,6 +964,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 52pk.com##.add
 56.com##[class^="app-"] > .banner-container
 58.com##.bban
+58.com##.app_pop
+58.com###app_pop_mask
 72g.com##.recommended
 9game.cn###bottomFix
 9game.cn###btInfo
