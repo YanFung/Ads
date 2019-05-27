@@ -1227,6 +1227,8 @@ tv.sohu.com##.btn-xz-app
 tv.sohu.com##.actv-banner
 tv.sohu.com##.btn-comment-app
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
+tieba.baidu.com##.ui_image_header_bottom
+tieba.baidu.com##.img_info_introduce
 tieba.baidu.com##[class^=footer]
 tieba.baidu.com##.appPromote
 tieba.baidu.com##.top-guide-wrap.top-guide
