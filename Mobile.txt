@@ -851,6 +851,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###advert1
 ###adLeftFloat
 ###adRightFloat
+###ad_js_content
 ###ad_box_2
 ###ad_top_banner
 ###ad_text:not(textarea)
