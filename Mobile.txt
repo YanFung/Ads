@@ -1247,6 +1247,7 @@ tieba.baidu.com##[class$="j_click_stats"]
 tieba.baidu.com##.panel_bottom
 tieba.baidu.com##.father-cut-recommend-normal-box
 tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
+tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
 uuu9.com##.yoyofc
 v.6.cn##.zoro
 v.6.cn##.charge
