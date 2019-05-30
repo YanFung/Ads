@@ -72,6 +72,7 @@ pagead2.
 /partner/gg_sogou.html
 /runtime/ad/*
 /site/ads?
+/ssp_ad.*.js
 /style/wap/ads/*.js
 /topad/
 /track.gif?
