@@ -82,6 +82,7 @@ pagead2.
 =adunit&
 -pagead-id.
 _ads?
+_adview_
 _ad_banner.
 _yad_jsonp_
 &adcount=
@@ -509,6 +510,7 @@ qsbz2011.com
 qmname.com
 qdp.qidian.com
 quanliyouxi.com
+qcvf.ifeng.com
 qq.com/xw/getUserH5Games?
 qq.com/static/web/websites/newsplugin/ssp_ad_
 rcynoe.cn
@@ -666,6 +668,7 @@ zjkdaikuan.com
 zhgg.dre8.com
 zhixiuchang.com
 zhfosenghtr.com
+ztyumn.ifeng.com
 zhuyuanp.shop
 zongheng.com/upload/hzds/
 zdface.com/js/m/zw_banner.js
