@@ -113,7 +113,6 @@ _960_90.
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/li/choujiang
 .com/js/ad.
-.com/js/ads/
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 .php?mg=$image
@@ -146,7 +145,6 @@ _960_90.
 34mob.com
 35kds.com
 36cj.com
-34mob.com
 3gmfw.cn/js/wap/
 3conline.com/pconlinenew/data/app/*/lixuan/js/module.js
 47ks.com^*_ad.js
@@ -407,7 +405,6 @@ jianduankm.com
 ja.gamersky.com
 juicyads.com^$third-party
 jd.com/exsites?spread_type=
-js.passport.qihucdn.com/11.0.1.js
 ktkkt.com/js/tvb/
 kingpolo.com.cn
 kfd3sm2c.com
@@ -493,7 +490,6 @@ pconline.com.cn/_hux_/
 pussl48.com^$third-party
 pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
-pconline.com.cn/_hux_/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
 passport.qihucdn.com/11.0.1.js
@@ -552,7 +548,6 @@ shili.downxia.com
 shuoshuocm.com
 spcode.baidu.com
 sina.cn*/view?
-sina.cn/cm/sinaads_
 s.xz15801.com/y.js
 shihuo.cn/alibtn_
 sina.cn^*/impress?
@@ -920,7 +915,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="/Register?a="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?Extend="]
-##a[href*=".com/Register?a="]
 ##a[href*=".com/Register/?a="]
 ##A[href*=".com/?Agent="]
 ##a[href*="www.hfcp20.com"]
@@ -1020,7 +1014,6 @@ baidu.com##section^[style="position: relative;padding-bottom: 10px;background: #
 baidu.com###index-card > div[style="position: relative;overflow: hidden;line-height: 0;z-index: 1;margin-bottom: 10px;"]
 baidu.com###header > div[style="position: relative;overflow: hidden;line-height: 0;z-index: 1;margin-bottom: 10px;"]
 baidu.com###header > div >div[style="display: -webkit-box;display: -ms-flexbox;display: flex;position: relative;background-color: #fff;white-space: nowrap;height: 113px;"]
-baidu.com##div[id="header"][class="searchbox-exp"]>#navs>div[class="navs-bottom-bar"]
 baidu.com##div[class="c-result-content"] > [class="c-container aladdin__2AELi"]
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
 baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
@@ -1049,7 +1042,6 @@ dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
 douyu.com###js-fix-download
 douyu.com##.layout-ball
-douyu.com##.banner0 > .btn-open-app.btn
 douyu.com##.HomeHeader-openApp
 douyu.com##.HomeFooter-downLoadClient
 douyu.com##.btn-open-app
