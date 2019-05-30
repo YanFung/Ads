@@ -615,6 +615,7 @@ wuliao.epro.sogou.com
 wenxiu998.com/static/js/top.js
 xcxzxc.cn
 xvtpvc.cn
+xinyijiasc.cn
 xl911.com
 x-ssp.com
 xkaqt.com
@@ -825,6 +826,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open-app-banner
 ##.pub_300x250
 ##.rt_ad
+##.softAdsBox
 ##.textAd
 ##.text-ad
 ##.text-ads
