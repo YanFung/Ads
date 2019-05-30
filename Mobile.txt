@@ -977,6 +977,8 @@ ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
 acfun.cn##.header-ico
 acfun.cn##.open-app-btn
+autohome.com.cn###section_homtpop
+autohome.com.cn###qabotLayer
 autohome.com.cn##.sign-wp
 autohome.com.cn##div[style="margin: 0 15px"]
 app.myzaker.com##.zk_top_barwrap
