@@ -1132,7 +1132,6 @@ kuwo.cn##.topAppWrap
 kuwo.cn##.download
 kuwo.cn##.open_app
 kuwo.cn##.collectSongList
-kugou.com##[class="download-app js-downloadApp"]
 le.com###j-leappMore
 le.com###j-zhoubian
 le.com###j-recommend > .animate1.column_box
