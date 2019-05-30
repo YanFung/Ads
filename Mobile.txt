@@ -1236,6 +1236,7 @@ tumblr.com##.mobile-banner-inner
 tv.uc.cn###web_video_index_hot_above
 tv.uc.cn##div[class*=ucdownload]
 tv.sohu.com##.dl-top-banner
+tv.sohu.com##.banner-container
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##.actv-banner
 tv.sohu.com##.btn-comment-app
