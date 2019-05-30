@@ -1006,10 +1006,13 @@ baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
 baidu.com##.c-container.ec-container
+baidu.com##.square-banner-icon.index-banner
+baidu.com##.navs-bottom-bar
 baidu.com##article[style^="position: relative;padding-bottom: 10px;background: #f8f8f8;"][style]
 baidu.com##section^[style="position: relative;padding-bottom: 10px;background: #f8f8f8;"][style]
 baidu.com###index-card > div[style="position: relative;overflow: hidden;line-height: 0;z-index: 1;margin-bottom: 10px;"]
 baidu.com###header > div[style="position: relative;overflow: hidden;line-height: 0;z-index: 1;margin-bottom: 10px;"]
+baidu.com###header > div >div[style="display: -webkit-box;display: -ms-flexbox;display: flex;position: relative;background-color: #fff;white-space: nowrap;height: 113px;"]
 baidu.com##div[id="header"][class="searchbox-exp"]>#navs>div[class="navs-bottom-bar"]
 baidu.com##div[class="c-result-content"] > [class="c-container aladdin__2AELi"]
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
