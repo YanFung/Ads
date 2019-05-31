@@ -131,6 +131,7 @@ _960_90.
 1.xilu.com
 100669.com
 1.1010pic.com
+198dh.cn
 1234xm.com
 12365chia.com
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
@@ -163,6 +164,7 @@ _960_90.
 59hi.com
 58cdn.com.cn/zt/appdown/js/m_invoke_app.js?
 60608787.com
+65yw.com/i.html
 77kp.com/gg123/
 8881919.cc
 88rpg.net
@@ -284,6 +286,7 @@ cnbetacdn.com/frontend/vipics/yijian
 ciliba.org/public/static/js/common-v2.js
 changyan.sohu.com/upload/version-v3.js
 cdn.bootcss.com/jquery/1.8.3/jquery.min.js
+cqtimes.cn/Uploads/Picture/*/*.png$image
 chuantu.biz/t6/41/1504877655x2728309627.gif
 difnxm.cn
 danangmo.cn
@@ -337,6 +340,7 @@ fpb1.chinacar.asia
 fzb01.qiushibaike.com
 fcai.com/ifengIndex.html
 fans.*.space/fans/*.php
+ftchinese.com/m/marketing/a.html?v=
 f*.baidu.com/it/u=*,*&fm=$third-party
 funbox.upush.cn/images/funbox/icons/*.gif
 ggxt.net
@@ -364,6 +368,7 @@ googletagmanager.com/gtm.js
 google-analytics.com/ga.js
 google-analytics.com/urchin.js
 google-analytics.com/analytics.js
+hivps.xyz
 hao61.net
 h0o33.cn
 hechaocheng.cn
@@ -402,6 +407,7 @@ inte.sogou.com
 img.namusai.com
 imgstat.baidu.com
 images.sohu.com/bill/
+image//image/352
 img*.xydfn.com/^$image
 img.ik123.com/gif/app/index.png$image
 img.alicdn.com/imgextra/*.gif
@@ -424,6 +430,7 @@ ifengimg.com^*/sta_collection
 ifeng.com/showjs?*apids=
 ithome.com/api/lapin/
 itc.cn/w/u/0/old-insertad-
+jsdelivr.net
 jkjjkj.top
 jbflil.cn
 jinshasi.cn
@@ -536,6 +543,7 @@ pstatp.com^*/bannersdk/
 pstatp.com/growth/mobile_list/image/bonus_
 push.zhanzhang.baidu.com/push.js
 passport.qihucdn.com/11.0.1.js
+pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 pubimage.360doc.com/transfer/images/zhaishou2.png
 qingzhencai.net
 qchannel03.cn
@@ -551,6 +559,7 @@ qsbz2011.com
 qmname.com
 qdp.qidian.com
 quanliyouxi.com
+qiaopiguniang.com
 qcvf.ifeng.com
 qq.com/xw/getUserH5Games?
 qq.com/static/web/websites/newsplugin/ssp_ad_
@@ -651,6 +660,7 @@ vsxet.com
 vrbeetv.com
 vamaker.com
 vyishengtai.com
+v718.com/*ad.gif$image
 wm.mipcdn.com
 variety.tc.qq.com/*.mp4?
 vista.tuwan.com/s.js
@@ -668,14 +678,6 @@ womenbaby.com
 wanzituandui.com
 wsoe.kwiago.com
 wuliao.epro.sogou.com
-www.qiaopiguniang.com
-www.65yw.com/i.html
-www.ftchinese.com/m/marketing/a.html?v=
-www.zhihu.com/api/v4/alter_banners/
-www.zhihu.com/api/v4/banners/
-www.v718.com/*ad.gif$image
-www.cqtimes.cn/Uploads/Picture/*/*.png$image
-www.pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 wenxiu998.com/static/js/top.js
 xcxzxc.cn
 xvtpvc.cn
@@ -696,6 +698,7 @@ xueqiu.com/v4/stock/quote.json?code=
 yangjingbang.net
 ynjczy.net
 yjkyj.cn
+youhm.cn
 y12f.com
 yyfymj.com
 yzjlsb.com
@@ -738,6 +741,8 @@ zhfosenghtr.com
 ztyumn.ifeng.com
 zhihu-web-analytics.zhihu.com
 zhuyuanp.shop
+zhihu.com/api/v4/alter_banners/
+zhihu.com/api/v4/banners/
 zongheng.com/upload/hzds/
 zdface.com/js/m/zw_banner.js
 zpe-klre.18183.com/eezdx.php?sdfs=
