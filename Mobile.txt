@@ -118,6 +118,7 @@ _960_90.
 .com/js/ad.
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
+.com/s.php?id=$third-party,script
 .php?mg=$image
 *btbtt.*/imgs.js
 !--------------------------------------
@@ -409,7 +410,7 @@ isdspeed.qq.com
 img.namusai.com
 imgstat.baidu.com
 images.sohu.com/bill/
-image/352^$script
+image/352^$third-party,script
 img*.xydfn.com/^$image
 img.ik123.com/gif/app/index.png$image
 img.alicdn.com/imgextra/*.gif
