@@ -142,6 +142,7 @@ _960_90.
 18183.com^*.php?pid=
 193506.com
 2pmob.com
+265958.com
 21.huanqiu.com
 24haitao.net
 3xx.vip
@@ -518,6 +519,7 @@ penggua.com.cn
 p.zol-img.com.cn
 pmm.people.com.cn
 photo.dongshisheying.cn
+pp9kk.com
 pdfbs.com
 pptte.com
 pyzxsl.com
