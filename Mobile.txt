@@ -1025,7 +1025,7 @@ baidu.com##div[class="c-result-content"] > [class="c-container aladdin__2AELi"]
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
 baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
 baidu.com###relative_shop_flow
-baidu.com##.med-invoke-box.aladdin__2AELi.c-container
+baidu.com##div[class="c-result result"][srcid="med_invoke_box"][new_srcid][order][tpl="med_invoke_box"][data-log="{'fm':'alop','ensrcid':'med_invoke_box','order':'3','mu':''}"]
 baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baijiahao.baidu.com##.bottomMargin
