@@ -65,6 +65,7 @@ pagead2.
 /images/ad-
 /images/adv_
 /js/ads/
+/js/tc.js?=
 /log.gif?
 /m_dilidili_main.js
 /o.php?u=*|$third-party,script
@@ -256,6 +257,7 @@ cnzz.com
 cdfzcz.com
 cxmyq.com
 cdwla.com
+csbthyhh.com
 charlesfc.com
 cpu.baidu.com
 cm.baidu.com
@@ -333,6 +335,7 @@ game.nduoa.com
 ggcode.2345.com
 gt.duowan.com
 greenbetterkids.com
+guanguangyou9999.com
 gtimg.com/qqlive/
 google.com/pagead/
 gou1234.com/js/indexbottom.js
