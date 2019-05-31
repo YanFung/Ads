@@ -1206,6 +1206,7 @@ pcauto.com.cn##.m-guaziTg
 pcauto.com.cn###JpcTopDl
 pingwest.com##.download-bar
 pingwest.com##.download-app-tip
+pan.baidu.com##.activity-icon
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
