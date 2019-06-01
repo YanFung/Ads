@@ -78,6 +78,7 @@ pagead2.
 /topad/
 /track.gif?
 /videoad.
+/v.aspx?bln=$third-party,script
 /z.zolapp.
 /__utm.gif
 =adunit&
@@ -157,6 +158,7 @@ _960_90.
 47ks.com^*_ad.js
 4z5o27.cn
 51findu.com/command/qn.js
+5151gj.com
 5125129.com
 51gpt.com
 51.la^$third-party
