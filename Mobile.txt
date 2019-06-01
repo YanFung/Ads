@@ -180,6 +180,7 @@ _960_90.
 99pps.com
 999d.com^$third-party
 atas.io
+adsrvr.org
 awqsaged.cn
 assigned.cn
 alimama.cn
@@ -216,6 +217,7 @@ ali213.net/js/data/3gcommon.js
 assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
 ads.sohu.com
+ads.pubmatic.com
 atm.youku.com
 autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
@@ -473,6 +475,7 @@ mgsue.cn
 mubite.cn
 maizhenai.cn
 mgid.com
+mathtag.com
 mall043.com
 mozist.com
 mediav.com
