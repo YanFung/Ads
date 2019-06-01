@@ -78,7 +78,7 @@ pagead2.
 /topad/
 /track.gif?
 /videoad.
-/v.aspx?bln=$third-party,script
+/v.aspx?bln=
 /z.zolapp.
 /__utm.gif
 =adunit&
