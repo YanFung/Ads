@@ -821,6 +821,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.contentad
 ## .down-kanApp
 ##.down-app-button
+##.download-app-go
 ##.dahengfu
 ##.ec-ad
 ##.ec_ad
