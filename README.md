@@ -11,6 +11,6 @@ https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 https://raw.githubusercontent.com/YanFung/Ads/master/Hosts
 
 # 扫码领红包
-![扫码领红包](https://raw.githubusercontent.com/YanFung/Ads/master/Pictures/1.PNG)
+![扫码领红包](https://raw.githubusercontent.com/YanFung/Ads/master/Pictures/1.png)
 
 
