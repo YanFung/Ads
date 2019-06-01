@@ -30,6 +30,7 @@ pagead2.
 /ads2.
 /adcontrol.
 /adjs/
+/ads/*.js
 /ad/js/
 /adv.js
 /adpuba/
