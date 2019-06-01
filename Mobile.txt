@@ -926,6 +926,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^=ec_ad]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
+##[src$="co.baifubao.com/kangbo_001.png"]
 ##[href^="http://ad.doubleclick.net/"]
 ##[href*="630031.com"]
 ##a[href*="/cpro/"]
@@ -1149,6 +1150,7 @@ jiemian.com##.header-show.header
 jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
 jiaoshouwang.com###wrapper > div> a > img
+jin.baidu.com##.grid-mt.loan-recommend
 kdslife.com###foot_pop_banner
 ke.qq.com###app-load-box
 kekenet.com###bottomlink
