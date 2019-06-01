@@ -1345,6 +1345,8 @@ zhihu.com##.MobileAppHeader-downloadLink
 zhihu.com##div[data-za-detail-view-path-is_ad]
 zhuanzhuan.com##.footer
 zongheng.com##[id^=dashenjiadao]
+zongheng.com##.grbtn
+zongheng.com##[id^=guards]
 zhidao.baidu.com##.header-act-entry
 zhidao.baidu.com##.left-show.new-answer-entry
 zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
