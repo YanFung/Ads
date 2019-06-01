@@ -1185,6 +1185,7 @@ m.y.qq.com##.bottom_bar
 miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
+mydrivers.com##a[href*="jd.dangbei.com"]
 mydrivers.com##a[href*=".jd.com"]
 mydrivers.com##a[href*=".taobao.com"]
 manhuatai.com##.km-banner.km-rdhd-banner
