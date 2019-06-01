@@ -9,3 +9,7 @@ https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 适用于(IOS)adblock/adguard
 
 https://raw.githubusercontent.com/YanFung/Ads/master/Hosts
+
+![扫码领红包](https://raw.githubusercontent.com/YanFung/Ads/master/Pictures/1.PNG)
+
+
