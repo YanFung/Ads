@@ -11,7 +11,6 @@ adsense
 adservice.
 adbanner
 adsbygoogle.
-adsrvr.org^$third-party
 googleads.
 pubads.
 pagead2.
@@ -181,9 +180,10 @@ _960_90.
 999d.com^$third-party
 atas.io
 adsrvr.org
-awqsaged.cn
+adget.cn
 assigned.cn
 alimama.cn
+awqsaged.cn
 anhouhou.cn
 adpai.thepaper.cn
 acs86.com
