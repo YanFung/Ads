@@ -28,7 +28,6 @@ pagead2.
 /ads/3.
 /ad1_
 /ads2.
-/adcontrol.
 /adjs/
 /ads/*.js
 /ad/js/
@@ -41,6 +40,7 @@ pagead2.
 /adtag.
 /adpic/
 /adstatic/
+/adcontrol.
 /ad_status.
 /ad_banner.
 /adproxy.
