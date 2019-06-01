@@ -578,6 +578,7 @@ symaj.cn
 symaa.cn
 symag.cn
 s.360.cn
+sc.csai.cn
 symaw.cn
 sysadult.cn
 siyinlong.cn
@@ -880,6 +881,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###ad_headerbanner
 ###app-layer
 ###bottomAd
+###baoxianAd
 ###container.container > a.item
 ###container > #pic_container
 ###db_ad
@@ -927,8 +929,9 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
 ##[src$="co.baifubao.com/kangbo_001.png"]
-##[href^="http://ad.doubleclick.net/"]
 ##[href*="630031.com"]
+##[href="ad.doubleclick.net"]
+##[href*="bx.baoxianjie.net/shenqing.html"]
 ##a[href*="/cpro/"]
 ##a[href*="/cpro."]
 ##a[href*="/?Intr="]
