@@ -187,6 +187,7 @@ awqsaged.cn
 anhouhou.cn
 adpai.thepaper.cn
 acs86.com
+adyun.com
 addthis.com
 anyysz.com
 aobde.com
@@ -195,6 +196,8 @@ adsame.com
 admddc.com
 ark.letv.com
 aty.sohu.com
+ads.sohu.com
+atm.youku.com
 admin60.com
 aiclicash.com
 appsflyer.com
@@ -203,22 +206,20 @@ alimama.com
 ae4.ifeng.com
 anyangruisi.com
 aishangcan.com
+ads.pubmatic.com
 a2.bookapka.com
-adyun.com
 ads.adxpansion.com
 apple.www.letv.com
 analytics-union.xunlei.com
 adnxs.com^$third-party
 a1.jandan.net/*.js
 ab_res/m/common.js
+ali213.net/js/data/3gcommon.js
+ali213.net/js/common/zpro/zprotxtpicurl.js
+assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
 alicdn.com/img/ibank/*_1746120392.
 autohome.com.cn/vr/*?pvareaid=
-ali213.net/js/data/3gcommon.js
-assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
-ali213.net/js/common/zpro/zprotxtpicurl.js
-ads.sohu.com
-ads.pubmatic.com
-atm.youku.com
+alicdn.com/openad/dsp-front-booth/
 autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
 autoimg.cn/bi/mda/ahas_body.
@@ -782,6 +783,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-wrapper
 ##.ad_result
 ##.ad_text
+##.ad-vod
 ##.ad-widget
 ##.ads-item
 ##.ads-post
@@ -838,6 +840,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.listad
 ##.j_ads
 ##.leftAd
+##.loadApp.tjw_common
 ##.module-ad
 ##.middlead
 ##.news-ad
@@ -981,6 +984,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
 1905.com##.moviewiki
 1905.com##.mobile_ad_promote
+1905.com##a.tjw_common
 1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
 2.taobao.com##[class="idle-start col"]
 265g.com###swiper-bot
