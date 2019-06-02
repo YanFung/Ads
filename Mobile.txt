@@ -1043,13 +1043,14 @@ baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
+baidu.com##[href*="recommend_"]
+baidu.com##[rl-link-href*=".recommend_"]
 baidu.com##.navs-bottom-bar
 baidu.com###relative_shop_flow
 baidu.com##.c-container.ec-container
 baidu.com##.square-banner-icon.index-banner
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
 baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
-baidu.com##[class^="c-container aladdin__"][rl-link-href*=".recommend_"]
 baidu.com##div[style^="position: relative;overflow: hidden;line-height: 0;z-index: 1;"]
 baidu.com##div[class="c-result result"][srcid][new_srcid][order][tpl="recommend_list"][data-log^="{'fm':'alop','ensrcid':'9Xx','order':'6','waplogo':1,'mu'"]
 baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
