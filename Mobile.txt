@@ -1348,6 +1348,7 @@ zongheng.com##[id^=laialaia]
 zongheng.com###botpic
 zol.com.cn##.zolapp
 zol.com.cn##.square-pic.item
+zol.com.cn##[page-type] > div[class$="__box"]
 zybang.com##div[class][id]
 zybang.com##div[class][style]
 zimuzu.tv##div[class*="-tip show"]
