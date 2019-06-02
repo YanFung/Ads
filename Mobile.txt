@@ -1043,8 +1043,9 @@ baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
-baidu.com##article[class^="c-container aladdin__"][href*="recommend"]
-baidu.com##article[class^="c-container aladdin__"][rl-link-href*="recommend"]
+baidu.com##[class^="c-container aladdin__"][href*="recommend"]
+baidu.com##[class^="c-container aladdin__"][rl-link-href*="recommend"]
+baidu.com##article[rl-link-data-xcx][rl-link-data-ivk][rl-link-data-light][class*="c-container aladdin__"][rl-link-href*="recommend"]
 baidu.com##.navs-bottom-bar
 baidu.com###relative_shop_flow
 baidu.com##.c-container.ec-container
