@@ -1102,6 +1102,8 @@ huya.com##.u-btn-down.start-btn
 huya.com##.chat_btn
 huxiu.com##.js-open-app.bgw.guide-box
 huxiu.com##.topToApp.js-guide-box.js-open-app.bgw.guide-wrap
+huxiu.com##.fresh-article-box
+huxiu.com###related-article-wrap
 hexun.com##.serchalert
 huajiao.com##.banner
 huajiao.com##.follow
