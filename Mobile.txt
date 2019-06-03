@@ -74,7 +74,6 @@ pagead2.
 /runtime/ad/*
 /site/ads?
 /ssp_ad.*.js
-/style/wap/ads/*.js
 /topad/
 /track.gif?
 /videoad.
