@@ -1042,8 +1042,6 @@ baidu.com##[class^="openApp"]
 baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
-baidu.com##[href*="recommend"]
-baidu.com##[rl-link-href*="recommend"]
 baidu.com##.navs-bottom-bar
 baidu.com###relative_shop_flow
 baidu.com##.c-container.ec-container
