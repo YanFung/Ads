@@ -1325,6 +1325,10 @@ xici.net###unlogin_wrapper
 xilu.com###imgsc-fixed
 xilu.com##.wap_vip
 xilu.com##li[class="cir_article _1268cyl"]
+xiaohongshu.com##.fixed
+xiaohongshu.com###navbar
+xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
+xiaohongshu.com##.download-bar
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
