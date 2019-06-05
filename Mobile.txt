@@ -2,8 +2,8 @@
 !Version:2019/6/26/17:30
 !Title:Mobile Ads
 !Author:YanFung
-!Description:广告反馈QQ群:514536444.
-!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+!Description:IOS广告猎手广告反馈QQ群:514536444.
+!Homepage:https://github.com/YanFung/Ads/
 ! 
 !----------------------------------
 advert
