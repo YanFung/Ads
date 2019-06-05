@@ -1089,6 +1089,7 @@ douban.com##.open-in-app-float
 douban.com###topnav-openapp
 dgtle.com##.footer-abox
 engadget.com##.mt-20.container\@m-
+feng.com##.header
 gfan.com##.downs
 hao123.com###btn
 hao123.com##.carousel.cn_tips
