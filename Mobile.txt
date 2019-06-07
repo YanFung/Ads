@@ -552,6 +552,7 @@ passport.qihucdn.com/11.0.1.js
 pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 pubimage.360doc.com/transfer/images/zhaishou2.png
 qingzhencai.net
+q53ztm.cn
 qchannel03.cn
 qcwzx.net.cn
 qhcfzg.com
@@ -631,6 +632,7 @@ sogou.com/cl.gif?
 sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 sinaimg.cn/large/006XXjynly1fp00jsm0fjg30qo01yq5i.gif
 tuia.cn
+tv38q.cn
 tagtic.cn
 track.uc.cn
 tuliao1.cn
