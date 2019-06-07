@@ -1205,10 +1205,11 @@ mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
 map.baidu.com##.container.styleguide.index-widget-guidebanner
 map.baidu.com###index-areaEntry-widget
 map.baidu.com##.bottom-banner-float
+news.baidu.com###share
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
-news.baidu.com###share
+news.ifeng.com##[class^=content-]>[class^=link-]
 open.163.com##.fix-bot
 open.163.com##.call_app
 play.163.com##.m-fixedTop
