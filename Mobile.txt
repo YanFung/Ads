@@ -1335,6 +1335,7 @@ xiaohongshu.com##.fixed
 xiaohongshu.com###navbar
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.download-bar
+xiaohongshu.com##.red-block
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
