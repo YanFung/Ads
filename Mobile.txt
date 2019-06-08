@@ -1168,6 +1168,8 @@ juejin.im##.mobile-bottom-bar
 jiaoshouwang.com###wrapper > div> a > img
 jin.baidu.com##.grid-mt.loan-recommend
 klm123.com###download
+klm123.com##div[id="ignoreMe"][style="height: .96rem;background: #fff;"]
+klm123.com##.swiper-container-horizontal.header-swiper > .swiper-wrapper
 kdslife.com###foot_pop_banner
 ke.qq.com###app-load-box
 kekenet.com###bottomlink
