@@ -850,6 +850,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.module-ad
 ##.middlead
 ##.news-ad
+##.new-free-ad
 ##.open-app
 ##.open-app-banner
 ##.pub_300x250
@@ -900,11 +901,11 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###hongbao
 ###head_ad
 ###newapp2018
-##.new-free-ad
 ###midThreeAds
 ###player-advertising
 ###sponsorAdDiv
 ###SOHU_MAIN > .module-cmt-float-bar
+###updownApp
 ###windlocation
 ###_embed_v3_dc
 !---------------------------------------------
