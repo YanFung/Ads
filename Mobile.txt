@@ -861,6 +861,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.error > #qqs
 ##.footad
 ##.floatad
+##.g-ad
 ##.googleAd300x250
 ##.global_video_bottom_dbtc
 ##.head_ad
@@ -868,6 +869,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.icon_ad
 ##.listad
 ##.j_ads
+##.js-ad
 ##.leftAd
 ##.loadApp.tjw_common
 ##.module-ad
@@ -1012,6 +1014,9 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 163.com##.papa-item
 163.com##.doc-footer-wrapper
 163.com##.js-wakeupclient.wakeup_client
+163.com##.loaded.js-top-slider.g-top-slider
+163.com##.m-slider-footer
+163.com##.g-btn-open-newsapp
 163.com##.redpacket-subbox
 163.com##.redpacket-footer
 163.com##.redpacket-topbar
