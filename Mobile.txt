@@ -1329,7 +1329,6 @@ weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
 weibo.com##.open_dialogbanner.open.midbanner
 weibo.com##.swiper-wrapper
-weibo.cn##.m-container-max.OpenInAppButton
 wasu.cn##.ads
 wasu.cn##.ws_more_app
 www.05wang.com##img[src*="thumb.1010pic.com"]
@@ -1381,7 +1380,6 @@ zimuzu.tv##div[class*="-tip show"]
 zimuzu.tv###nGame
 zimuzu.tv##[class="gameList"]
 zhihu.com##.Kok-mobile.Kok.Lottie
-zhihu.com##.is-shown.OpenInApp.OpenInAppButton
 zhihu.com##.MobileAppHeader-downloadLink
 zhihu.com##div[data-za-detail-view-path-is_ad]
 zhuanzhuan.com##.footer
