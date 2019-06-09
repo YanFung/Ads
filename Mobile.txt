@@ -373,6 +373,7 @@ greenbetterkids.com
 guanguangyou9999.com
 gtimg.com/qqlive/
 google.com/pagead/
+go.sohu.com^*/?callback=
 gou1234.com/js/indexbottom.js
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
@@ -551,6 +552,7 @@ pussl48.com^$third-party
 pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
 pstatp.com/growth/mobile_list/image/bonus_
+pplive.cn/sta.js
 push.zhanzhang.baidu.com/push.js
 passport.qihucdn.com/11.0.1.js
 pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
@@ -616,12 +618,10 @@ shuoshuocm.com
 spcode.baidu.com
 sax*.sina.
 sina.cn*/view?
-s.xz15801.com/y.js
 shihuo.cn/alibtn_
 sina.cn^*/impress?
 sina.cn/cm/sinaads_
-s1.pplive.cn/sta.js
-s.go.sohu.com^*/?callback=
+sogoucdn.com/wap/js/
 sspai.com/api/v1/recommends?*=article_
 static.cnqiang.com/images/appdlx.jpg$image
 static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
@@ -709,6 +709,7 @@ xcdzsw.com
 xiangchim0.com
 xc.mydrivers.com
 xuanmeiguoji.com
+xz15801.com/y.js
 xueqiu.com/v4/stock/quote.json?code=
 yangjingbang.net
 ynjczy.net
@@ -830,6 +831,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bottom-adv
 ##.bds-ads-banner
 ##.baidu_ads_cell
+##.btn_app_link
 ##.container_ad
 ##.contentad
 ## .down-kanApp
