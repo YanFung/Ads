@@ -965,6 +965,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^=ec_ad]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
+##[src*="img.fl6n.com/adtop/"]
 ##[src$="co.baifubao.com/kangbo_001.png"]
 ##[href*="630031.com"]
 ##[href="ad.doubleclick.net"]
