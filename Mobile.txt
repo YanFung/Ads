@@ -208,10 +208,13 @@ alimama.com
 ae4.ifeng.com
 anyangruisi.com
 aishangcan.com
+adsrich.qq.com
+adss.video.qq.com
 ads.pubmatic.com
 a2.bookapka.com
 ads.adxpansion.com
 apple.www.letv.com
+ad.mobile.youku.com
 analytics-union.xunlei.com
 adnxs.com^$third-party
 a1.jandan.net/*.js
