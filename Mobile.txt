@@ -864,6 +864,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.new-free-ad
 ##.open-app
 ##.open-app-banner
+##.OpenInAppButton
 ##.pub_300x250
 ##.rt_ad
 ##.softAdsBox
