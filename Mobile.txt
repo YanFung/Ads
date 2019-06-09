@@ -851,6 +851,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ## .down-kanApp
 ##.down-app-button
 ##.download-app-go
+##.downloadApp
 ##.dahengfu
 ##.ec-ad
 ##.ec_ad
@@ -925,6 +926,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###hongbao
 ###head_ad
 ###js-openInApp
+###js-download
 ###newapp2018
 ###midThreeAds
 ###player-advertising
