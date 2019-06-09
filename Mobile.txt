@@ -332,6 +332,7 @@ da.duowan.com/loc/
 discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 down.58.com/js/58appLaunch.js?
 ejiakm.net
+e739.cn
 epernn.cn
 ent1.12584.cn
 esyzdb.com
