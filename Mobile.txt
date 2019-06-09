@@ -766,6 +766,8 @@ zhfosenghtr.com
 ztyumn.ifeng.com
 zhihu-web-analytics.zhihu.com
 zhuyuanp.shop
+zol.com.cn/pvn/
+zol.com/index.php?c=Shop_ZolShopIndex
 zdw.w8.com.cn/p.ht?
 zhihu.com/api/v4/alter_banners/
 zhihu.com/api/v4/banners/
