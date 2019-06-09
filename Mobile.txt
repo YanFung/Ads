@@ -244,6 +244,7 @@ baosmx.com
 bds.haochu.com
 bdjs.ixiumei.com
 bdcode.haochu.com
+baidu.dengzhoull.com
 becode.qiushibaike.com
 bdfpbimg.ifengimg.com
 btbtt88.com/slade.js
@@ -343,14 +344,16 @@ ffychb.com
 farwx.com
 fm-gj.com
 focuscat.com
-fpb1.chinacar.asia
+feihongjiaoyu.com
 fzb01.qiushibaike.com
+fpb1.chinacar.asia
 fcai.com/ifengIndex.html
 fans.*.space/fans/*.php
 ftchinese.com/m/marketing/a.html?v=
 f*.baidu.com/it/u=*,*&fm=$third-party
 funbox.upush.cn/images/funbox/icons/*.gif
 ggxt.net
+gg.5di.tv
 gze3.cn
 gszbba.cn
 georgias.cn
@@ -526,6 +529,7 @@ olo.6niuwang.com
 ofter.com/blogphotoad?
 pagechoice.net
 p0y.cn
+pozwf.cn
 pimst.cn
 prazpf.cn
 penggua.com.cn
