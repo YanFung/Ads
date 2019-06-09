@@ -64,6 +64,7 @@ pagead2.
 /img/ad-
 /images/ad-
 /images/adv_
+/js/adv.
 /js/ads/
 /js/tc.js?=
 /log.gif?
