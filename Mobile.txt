@@ -911,6 +911,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###app-layer
 ###bottomAd
 ###baoxianAd
+###callVideoAppHeader
 ###container.container > a.item
 ###container > #pic_container
 ###db_ad
