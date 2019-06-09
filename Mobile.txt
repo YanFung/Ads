@@ -911,6 +911,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###footerApp
 ###hongbao
 ###head_ad
+###js-openInApp
 ###newapp2018
 ###midThreeAds
 ###player-advertising
