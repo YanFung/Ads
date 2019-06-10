@@ -868,8 +868,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.down-kanApp
 ##.down-app-button
 ##.download-app-go
-##.downloadBtn
 ##.download-btn
+##.download-bar
+##.download-app-tip
+##.downloadBtn
 ##.downloadApp
 ##.dahengfu
 ##.ec-ad
@@ -1296,8 +1298,6 @@ pcauto.com.cn###Jmarquee
 pcauto.com.cn##.club-app-load
 pcauto.com.cn##.m-guaziTg
 pcauto.com.cn###JpcTopDl
-pingwest.com##.download-bar
-pingwest.com##.download-app-tip
 pan.baidu.com##.activity-icon
 pansou.com##div[style*="width: 70%;height: 40px;"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
@@ -1462,3 +1462,4 @@ zhidao.baidu.com##[id^=kwlgn]
 !----------------------------------------------
 app.so#@#[class*="app-down"]
 nuomi.com#@##hongbao
+douban.com#@#.download-app
