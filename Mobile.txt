@@ -1319,6 +1319,7 @@ sohu.com##.advertise
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href*="://sax"]
 sina.cn###j_fixAppBtn
+sina.cn###goActivity
 sina.cn##.j_call_native.videoDes_newsApp
 sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
