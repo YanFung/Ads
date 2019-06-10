@@ -807,6 +807,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_float_left
 ##.ad_footerbanner
 ##.ad-gift
+##.ad-card
 ##.ad-item
 ##.ad_item
 ##.ad-line
@@ -855,10 +856,11 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn_app_link
 ##.container_ad
 ##.contentad
-## .down-kanApp
+##.down-kanApp
 ##.down-app-button
 ##.download-app-go
 ##.downloadBtn
+##.download-btn
 ##.downloadApp
 ##.dahengfu
 ##.ec-ad
@@ -908,6 +910,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.wp.a_f
 ##.wp.a_h
 ##.write_ad
+##.wgt-ad-recommend
 ##.download-app
 ##.ytp-ad-progress-list
 !----------------------------------------- 
@@ -1205,7 +1208,6 @@ ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
 ithome.com##.hot-app
-jianshu.com##.download-btn
 jianshu.com##.header-download
 jianshu.com##.download
 jianshu.com##.open-app-btn
@@ -1217,6 +1219,7 @@ jiemian.com##.header-inner
 juejin.im##.mobile-bottom-bar
 jiaoshouwang.com###wrapper > div> a > img
 jin.baidu.com##.grid-mt.loan-recommend
+jingyan.baidu.com##.wgt-ad-recommend + div[class]
 klm123.com###download
 klm123.com##div[id="ignoreMe"][style="height: .96rem;background: #fff;"]
 klm123.com##.swiper-container-horizontal.header-swiper > .swiper-wrapper
