@@ -978,6 +978,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
 ##[src*="img.fl6n.com/adtop/"]
+##[src="http://v.lree.cn/qq.jpeg"]
 ##[src$="co.baifubao.com/kangbo_001.png"]
 ##[href*="630031.com"]
 ##[href*="lolbaicai.com"]
