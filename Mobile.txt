@@ -56,6 +56,7 @@ pagead2.
 /common/ad
 /common/cf/$image
 /cpro/ui/*
+/footerad.
 /floatad.$domain=~fwxgx.com
 /ggjs/
 /gen_204?$image
@@ -650,8 +651,9 @@ sinaimg.cn/large/006XXjynly1fp00jsm0fjg30qo01yq5i.gif
 tuia.cn
 tv38q.cn
 tagtic.cn
-track.uc.cn
 tuliao1.cn
+ttyyxxy.cn
+track.uc.cn
 tongji.mafengwo.cn
 tiantianedu.net
 tiaopimiao.net
