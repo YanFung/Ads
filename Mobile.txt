@@ -1002,6 +1002,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##[src="/ad.js"]
+##[src*="tiexue.net/zgg/"]
 ##[src*="img.fl6n.com/adtop/"]
 ##[src="http://v.lree.cn/qq.jpeg"]
 ##[src$="co.baifubao.com/kangbo_001.png"]
