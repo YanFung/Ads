@@ -453,6 +453,7 @@ ifengimg.com^*/sta_collection
 ifeng.com/showjs?*apids=
 ithome.com/api/lapin/
 itc.cn/w/u/0/old-insertad-
+itiexue.net/wap/tiexue/js/chuping/nativeshare
 jsdelivr.net
 jkjjkj.top
 jbflil.cn
@@ -676,6 +677,7 @@ tajs.qq.com
 tingyun.com
 tharbadir.com
 tt123.eastday.com
+tiexue.net/zgg/
 tuwan.com/myad/
 taobao.com/adloader?uuid=
 tencentvideo/script/webtips/
