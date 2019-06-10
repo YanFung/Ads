@@ -1395,6 +1395,7 @@ youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
 youku.com###Bigdrama
+youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
 youtube.com###koya_child_7
 yy.com###baseText-main
