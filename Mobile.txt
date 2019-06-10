@@ -952,6 +952,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###container.container > a.item
 ###container > #pic_container
 ###db_ad
+###div_ad
 ###footer_ad
 ###footerApp
 ###hongbao
@@ -971,14 +972,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###xinnxi
 ###_embed_v3_dc
 !---------------------------------------------
-##div[id="ads"]
-##div[id*="appDown"]
-##div[id*="appdown"]
-##div[id*="AppDown"]
-##div[id*="app-down"]
-##div[id*="app_down"]
-##div[id*="downapp"]
-##div[id*="downApp"]
+##[class^="adv-doc-top"]
+##[class*="-ad-body"]
+##[class^=ec_ad]
+##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[class="ads"]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
@@ -994,12 +991,16 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class*="OpenInApp"]
 ##div[class*=gmine_ad]
 ##div[class^="ad-inner"]
+##div[id="ads"]
+##div[id*="appDown"]
+##div[id*="appdown"]
+##div[id*="AppDown"]
+##div[id*="app-down"]
+##div[id*="app_down"]
+##div[id*="downapp"]
+##div[id*="downApp"]
 ##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
-##[class^="adv-doc-top"]
-##[class*="-ad-body"]
-##[class^=ec_ad]
-##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[src="/ad.js"]
 ##[src*="img.fl6n.com/adtop/"]
 ##[src="http://v.lree.cn/qq.jpeg"]
