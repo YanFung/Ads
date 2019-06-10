@@ -848,6 +848,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bottomAD
 ##.bottom-adv
 ##.bds-ads-banner
+##.bottom-fixed-app
 ##.baidu_ads_cell
 ##.btn_app_link
 ##.container_ad
@@ -932,6 +933,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###footerApp
 ###hongbao
 ###head_ad
+###installAppFixed
+###install_app
 ###js-openInApp
 ###js-download
 ###newapp2018
