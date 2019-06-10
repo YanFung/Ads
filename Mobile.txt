@@ -1306,6 +1306,7 @@ pansou.com##div[style*="width: 70%;height: 40px;"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
+sv.baidu.com##[class$=container]
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
@@ -1327,13 +1328,10 @@ share.iclient.ifeng.com##.showIn.personBanner
 share.iclient.ifeng.com###openAppReadAll
 thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.news_open_app
+tiexue.net##div.g_iframe
 thepaper.cn###carousel_banner
-sv.baidu.com##[class$=container]
-tiexue.net##.oneImg > a[href*="landing.pq94.com/?id="]
-tiexue.net##a[href*="tiexue.net/game/"]
-tiexue.net##a[href*="/wechat2/"]
-tiexue.net##[class*=moneyBox]
-tiexue.net##.hg_test
+tiexue.net##a[href*="game.tiexue."]
+tiexue.net##a[href*=".junp"]
 tianya.cn##.rec-app
 tingvoa.com##.rightgood
 tingvoa.com##a[href*="?adid="]
