@@ -880,6 +880,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.j_ads
 ##.js-ad
 ##.leftAd
+##.link-app-img
 ##.loadApp.tjw_common
 ##.module-ad
 ##.middlead
