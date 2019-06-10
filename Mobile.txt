@@ -991,6 +991,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class*="OpenInApp"]
 ##div[class*=gmine_ad]
 ##div[class^="ad-inner"]
+##div[class^="ad_box"]
 ##div[id="ads"]
 ##div[id*="appDown"]
 ##div[id*="appdown"]
@@ -1202,28 +1203,6 @@ iqiyi.com##div.m-ipRelation.m-ipRelation-full
 inke.cn##.bottom-fixed-layer
 inke.cn##.fadeout.launch-inkeapp
 inke.cn##.promotion
-ifeng.com##[enxcq0c],##[xmgktaq]
-ifeng.com##[id*=mobile_gg]
-ifeng.com##.newbagicon
-ifeng.com###golddigger_bottom
-ifeng.com###linkrat_bottom
-ifeng.com###slide_1
-ifeng.com###swiper_bottom
-ifeng.com##.top_carousel
-ifeng.com##a[href*=".sm.cn"]
-ifeng.com##li[id][style*="height:"]
-ifeng.com##li[id][style*="height:"] + li
-ifeng.com##div[id][style^="display: block; position:"]
-ifeng.com##p[style]
-ifeng.com##.pullClient
-ifeng.com##a[href*=".app"]
-ifeng.com##a[href*="/g.ifeng."]
-ifeng.com##[id][class] > [id=bw]
-ifeng.com##div[class^="h"] > div[class$="-main"]
-ifeng.com##div[class="secwrap"] > div >div[class="sliders"][id="sliders"]
-ifeng.com##.i_con + :not(.i_con):not([href="javascript:void(0);"])
-ifeng.com##[id][href="javascript:void(0);"][style="height: auto;"]
-ifanr.com##.popup-shown.popup-download.popup-top.popup
 ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
