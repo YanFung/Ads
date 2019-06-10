@@ -857,6 +857,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ## .down-kanApp
 ##.down-app-button
 ##.download-app-go
+##.downloadBtn
 ##.downloadApp
 ##.dahengfu
 ##.ec-ad
@@ -1392,6 +1393,7 @@ youku.com###Bigdrama
 youku.com##div[style^="width: 100px; height: 100px; "]
 youtube.com###koya_child_7
 yy.com###baseText-main
+yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
 yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
