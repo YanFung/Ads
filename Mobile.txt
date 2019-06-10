@@ -339,6 +339,7 @@ down.58.com/js/58appLaunch.js?
 ejiakm.net
 e739.cn
 epernn.cn
+egjq.com.cn
 ent1.12584.cn
 esyzdb.com
 ejunshi.com
@@ -490,6 +491,7 @@ lu.sogou.com
 lvehaisen.com
 love745221.com
 laojiayoufang.com
+loldyttw.net/blr.js
 mgsue.cn
 mubite.cn
 maizhenai.cn
@@ -955,6 +957,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###updownApp
 ###write_ad
 ###windlocation
+###xinnxi
 ###_embed_v3_dc
 !---------------------------------------------
 ##div[id="ads"]
