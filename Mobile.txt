@@ -884,6 +884,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.global_video_bottom_dbtc
 ##.head_ad
 ##.hongbao
+##.hongbao_hd
 ##.icon_ad
 ##.listad
 ##.j_ads
