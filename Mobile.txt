@@ -881,6 +881,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.new-free-ad
 ##.open-app
 ##.open-app-banner
+##.openapp
 ##.OpenInAppButton
 ##.pub_300x250
 ##.rt_ad
@@ -1236,7 +1237,6 @@ mgtv.com##.add-desktop
 mop.com##.mop-index-gg
 mop.com##[class*=detail-ad]
 music.163.com##.topfr
-music.163.com##.openapp
 music.163.com##.footer-wrap
 m.y.qq.com###js_mod_dialog
 m.y.qq.com##.top_box__btn
