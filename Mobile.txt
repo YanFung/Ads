@@ -69,6 +69,7 @@ pagead2.
 /js/ads/
 /js/tc.js?=
 /log.gif?
+/logo_ad.gif
 /m_dilidili_main.js
 /o.php?u=*|$third-party,script
 /pagead/lvz?
@@ -453,9 +454,10 @@ jkjjkj.top
 jbflil.cn
 jinshasi.cn
 js.ubaike.cn
-jiupinshan.cn
 jryjy.com.cn
+jiupinshan.cn
 jmhengwei.cn
+jktopia.com
 jhwj88.com
 juuhe.com
 jegxny.com
@@ -1053,6 +1055,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 58.com##.app_pop
 58.com###app_pop_mask
 72g.com##.recommended
+7192.com###fixed_menus
 9game.cn###bottomFix
 9game.cn###btInfo
 9game.cn##.app-promote-bar
