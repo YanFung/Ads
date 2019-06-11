@@ -1134,6 +1134,7 @@ baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
 baidu.com##.navs-bottom-bar
 baidu.com###relative_shop_flow
+baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.c-container.ec-container
 baidu.com##.square-banner-icon.index-banner
 baidu.com##div[class$="-result se-predestroy"]
