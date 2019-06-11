@@ -51,6 +51,7 @@
 /footerad.
 /floatad.$domain=~fwxgx.com
 /ggjs/
+/ggao/js
 /gen_204?$image
 /hunter/alog/
 /ifengad/
@@ -1016,6 +1017,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[src*="img.fl6n.com/adtop/"]
 ##[src="http://v.lree.cn/qq.jpeg"]
 ##[src$="co.baifubao.com/kangbo_001.png"]
+##[src="//wap.xinmin.cn/assets/m/images/app_rec.png"]
 ##[href*="630031.com"]
 ##[href*="lolbaicai.com"]
 ##[href*="ad.doubleclick.net"]
