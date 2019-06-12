@@ -900,6 +900,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.googleAd300x250
 ##.global_video_bottom_dbtc
 ##.head_ad
+##.hide_ad
 ##.hongbao
 ##.hongbao_hd
 ##.icon_ad
@@ -983,11 +984,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###windlocation
 ###xinnxi
 ###_embed_v3_dc
-!---------------------------------------------
+!--------------------------------------------
 ##[class^="adv-doc-top"]
 ##[class*="-ad-body"]
 ##[class^=ec_ad]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
+##div[ad_name]
 ##div[class="ads"]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
