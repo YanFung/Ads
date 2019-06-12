@@ -1303,6 +1303,7 @@ qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
 qiushibaike.com##.banner
 sv.baidu.com##[class$=container]
+so.com##.e_idea_list
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
