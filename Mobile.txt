@@ -1267,6 +1267,7 @@ music.163.com##.footer-wrap
 m.y.qq.com###js_mod_dialog
 m.y.qq.com##.top_box__btn
 m.y.qq.com##.bottom_bar
+m.sm.cn##.banner-1.banner
 miercn.com##.color-box
 mafengwo.cn##a.omcToBan
 mydrivers.com###dangbei_down
