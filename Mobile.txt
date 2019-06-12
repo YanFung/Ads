@@ -49,6 +49,7 @@
 /common/cf/$image
 /cpro/ui/*
 /footerad.
+/fuckadblock.js
 /floatad.$domain=~fwxgx.com
 /ggjs/
 /ggao/js
@@ -1188,6 +1189,7 @@ douban.com##.promo_top_banner
 douban.com##.open-in-app-float
 douban.com###topnav-openapp
 dgtle.com##.footer-abox
+download.csdn.net##.fixed_box
 engadget.com##.mt-20.container\@m-
 feng.com##.header
 gfan.com##.downs
