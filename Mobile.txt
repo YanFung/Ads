@@ -885,11 +885,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.container_ad
 ##.contentad
 ##.down-kanApp
-##.down-app-button
+##.download-app
 ##.download-app-go
+##.download-app-tip
+##.down-app-button
 ##.download-btn
 ##.download-bar
-##.download-app-tip
 ##.downloadBtn
 ##.downloadApp
 ##.dahengfu
@@ -945,7 +946,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.wp.a_h
 ##.write_ad
 ##.wgt-ad-recommend
-##.download-app
+##.ymw-app-open
 ##.ytp-ad-progress-list
 !----------------------------------------- 
 ###a_ad
