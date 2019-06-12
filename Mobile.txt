@@ -834,7 +834,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_float_left
 ##.ad_footerbanner
 ##.ad-gift
-##.ad-card
 ##.ad-item
 ##.ad_item
 ##.ad-line
@@ -996,7 +995,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^=ec_ad]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[ad_name]
-##div[class="ads"]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
 ##div[class^=ADTOPLB_]
@@ -1414,7 +1412,6 @@ xilu.com##li[class="cir_article _1268cyl"]
 xiaohongshu.com##.fixed
 xiaohongshu.com###navbar
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
-xiaohongshu.com##.download-bar
 xiaohongshu.com##.red-block
 youku.com###FullPromotion
 youku.com###J_banner
