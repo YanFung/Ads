@@ -53,6 +53,7 @@
 /ggjs/
 /ggao/js
 /gen_204?$image
+/head_ad.js
 /hunter/alog/
 /ifengad/
 /img/ad-
@@ -500,6 +501,7 @@ loldyttw.net/blr.js
 mgsue.cn
 mubite.cn
 maizhenai.cn
+matwbp.iask.sina.com.cn
 mgid.com
 mathtag.com
 mall043.com
@@ -511,6 +513,7 @@ myappsky.com
 miaozhen.com
 msite.baidu.com
 mcs.snssdk.com
+mydisplay.ctfile.com
 mobads.baidu.com
 mushizhubao.com
 mengchengbao.com
@@ -518,15 +521,14 @@ maw.wnbfw.com
 m.youmengkm.com
 m.92to.com/tj/*.json
 mipcdn.com^*/mip-*ad
-matwbp.iask.sina.com.cn
-m.zanghaihuatxt.com/xxgg/book.js
 mipp.iask.cn/t/mipdf?t=
 mydrivers.com/m/apptuijian.
-m.55haitao.com/static/js/common/swiper.js?v=
 mipengine.baidu.com/common?query=
 mbd.baidu.com/newspage/api/getrelatednews?nid=news_
-mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js?t=
-mydisplay.ctfile.com
+mycodes.net/js/hf_txt.js
+m.55haitao.com/static/js/common/swiper.js
+mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js
+mycodes.net/js/$image
 nijiua.com
 nthtcs.com
 njjahb.com
@@ -804,6 +806,7 @@ zdw.w8.com.cn/p.ht?
 zhihu.com/api/v4/alter_banners/
 zhihu.com/api/v4/banners/
 zongheng.com/upload/hzds/
+zanghaihuatxt.com/xxgg/book.js
 zdface.com/js/m/zw_banner.js
 zpe-klre.18183.com/eezdx.php?sdfs=
 zuoyebang.cc/static/question/m-question/resource*.jpg$image
