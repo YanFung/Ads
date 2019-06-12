@@ -901,6 +901,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.error > #qqs
 ##.footad
 ##.floatad
+##.float-openapp
 ##.g-ad
 ##.googleAd300x250
 ##.global_video_bottom_dbtc
