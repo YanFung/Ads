@@ -390,6 +390,7 @@ guanguangyou9999.com
 gtimg.com/qqlive/
 google.com/pagead/
 go.sohu.com^*/?callback=
+gamersky.com/common/tg/
 gou1234.com/js/indexbottom.js
 googletagmanager.com/gtm.js
 google-analytics.com/ga.js
@@ -958,6 +959,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###advert1
 ###adLeftFloat
 ###adRightFloat
+###adscontainer_background_back_index1100_all
 ###ad_js_content
 ###ad_box_2
 ###ad_top_banner
