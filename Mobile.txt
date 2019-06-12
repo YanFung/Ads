@@ -472,10 +472,9 @@ juuhe.com
 jegxny.com
 jianzhousc.com
 jianduankm.com
-ja.gamersky.com
+ja*.gamersky.com
 juicyads.com^$third-party
 jd.com/exsites?spread_type=
-ktkkt.com/js/tvb/
 kingpolo.com.cn
 ka5188.com
 kuuad.com
@@ -488,6 +487,7 @@ kawinhome.com
 khlgauqt2000.com
 kaitongyewu.com
 kejet.$third-party
+ktkkt.com/js/tvb/
 ltsdl.qq.com^*.ts
 lnctc.net
 log.game.tiexue.net
