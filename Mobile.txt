@@ -1057,6 +1057,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##A[href*=".com/?Agent="]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*="http"] > img[src$=".gif"][width="100%"]
+##a[href*="mob28.fengxuhui.com"]
 ##a[href*="www.hfcp20.com"]
 ##a[href*="www.crc6789.com"]
 ##a[href^="http://go.gotourl.xyz/"]
