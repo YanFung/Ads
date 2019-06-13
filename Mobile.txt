@@ -1073,6 +1073,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="download.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
+##img[src="https://www.9uys.co/img2/nq2.gif"]
 ##img[src*="adx9.com/upload/"][style="width:100%;height:auto;"]
 ##img[src="http://yskk8.com/template/mid97/images/1.gif"]
 ##img[src="img/qkwx_m.jpg"][style="display: block; width: 100%; height: auto;"]
