@@ -128,11 +128,12 @@ _960_90.
 0571hy.com
 0571yy.com
 0d077ef9e74d8.cdn.sohucs.com
+1024txt.xyz
+198dh.cn
 16k6.com
 1.xilu.com
 100669.com
 1.1010pic.com
-198dh.cn
 1234xm.com
 12365chia.com
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
@@ -162,8 +163,9 @@ _960_90.
 51gpt.com
 51.la^$third-party
 52shouyou.com.cn
-550tg.com
 59hi.com
+550tg.com
+520meirenyu.com
 58cdn.com.cn/zt/appdown/js/m_invoke_app.js?
 60608787.com
 65yw.com/i.html
@@ -591,6 +593,7 @@ push.zhanzhang.baidu.com/push.js
 passport.qihucdn.com/11.0.1.js
 pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 pubimage.360doc.com/transfer/images/zhaishou2.png
+qiansi.pw
 qingzhencai.net
 q53ztm.cn
 qchannel03.cn
