@@ -467,7 +467,6 @@ ifeng.com/showjs?*apids=
 ithome.com/api/lapin/
 itc.cn/w/u/0/old-insertad-
 itiexue.net/wap/tiexue/js/chuping/nativeshare
-jsdelivr.net
 jkjjkj.top
 jbflil.cn
 jozee.cn
