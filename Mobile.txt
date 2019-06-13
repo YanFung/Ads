@@ -590,6 +590,7 @@ pvtest.zol.com.cn
 pupu.xnhh120.com
 pp*.hkslg.net^$image
 pfp.sina.net/ea/ad/
+phncdn.com/iframe
 pconline.com.cn/_hux_/
 pussl48.com^$third-party
 pcmx.autohome.com.cn/impress?
@@ -691,6 +692,7 @@ tuliao1.cn
 ttyyxxy.cn
 track.uc.cn
 tongji.mafengwo.cn
+trafficjunky.net
 tiantianedu.net
 tiaopimiao.net
 tcnmf.com
@@ -844,6 +846,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-banner
 ##.ad_bottom
 ##.ad-card
+##.ad-link
 ##.ad-container
 ##.ad_float
 ##.ad_float_left
@@ -941,6 +944,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.OpenInAppButton
 ##.pub_300x250
 ##.rt_ad
+##.removeAdsStyle
 ##.softAdsBox
 ##.textAd
 ##.text-ad
