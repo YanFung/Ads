@@ -79,10 +79,11 @@
 /z.zolapp.
 /__utm.gif
 =adunit&
--pagead-id.
 _ads?
+-ads-widget/
 _adview_
 _ad_banner.
+-pagead-id.
 _yad_jsonp_
 &adcount=
 &adstrade=
