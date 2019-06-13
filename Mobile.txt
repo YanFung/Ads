@@ -137,6 +137,7 @@ _960_90.
 1.1010pic.com
 1234xm.com
 12365chia.com
+149.129.74.152/pcsygg.js
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
 163.com/ur?site=netease&affiliate=
