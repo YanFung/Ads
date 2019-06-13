@@ -602,10 +602,6 @@ pstatp.com/growth/mobile_list/image/bonus_
 pplive.cn/sta.js
 passport.qihucdn.com/11.0.1.js
 push.zhanzhang.baidu.com/push.js
-phncdn.com/www-static/js/vmobile/flipbook.js
-phncdn.com/www-static/js/vmobile/premium/slider.js
-phncdn.com/www-static/js/vmobile/premium/premium-modals.js
-phncdn.com/www-static/js/vmobile/atatus.js
 pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 pubimage.360doc.com/transfer/images/zhaishou2.png
 qiansi.pw
