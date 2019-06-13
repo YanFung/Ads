@@ -1109,6 +1109,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 9game.cn##.app-promote-bar
 ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
+acwifi.net##a[href*="u.jd.com"]
 acfun.cn##.header-ico
 acfun.cn##.open-app-btn
 autohome.com.cn###section_homtpop
