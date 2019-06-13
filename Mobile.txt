@@ -55,6 +55,7 @@
 /ggjs/
 /ggao/js
 /gen_204?$image
+/ht.js?site_
 /head_ad.js
 /hunter/alog/
 /ifengad/
@@ -68,6 +69,7 @@
 /logo_ad.gif
 /m_dilidili_main.js
 /o.php?u=*|$third-party,script
+/popunder-
 /pagead/lvz?
 /partner/gg_sogou.html
 /runtime/ad/*
@@ -597,8 +599,8 @@ pcmx.autohome.com.cn/impress?
 pstatp.com^*/bannersdk/
 pstatp.com/growth/mobile_list/image/bonus_
 pplive.cn/sta.js
-push.zhanzhang.baidu.com/push.js
 passport.qihucdn.com/11.0.1.js
+push.zhanzhang.baidu.com/push.js
 pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 pubimage.360doc.com/transfer/images/zhaishou2.png
 qiansi.pw
@@ -882,6 +884,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adbanner
 ##.adsbygoogle
 ##.adsense160
+##.adContainer
 ##.adsame-banner-box
 ##.adMArea
 ##.article-ad
@@ -1070,6 +1073,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="www.hfcp20.com"]
 ##a[href*="www.crc6789.com"]
 ##a[href*="www.7999518.com"]
+##a[href*="ads.trafficjunky.net"]
 ##a[href^="http://go.gotourl.xyz/"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a#wrapper_left_bg[target="_blank"]
