@@ -238,6 +238,7 @@ afd.baidu.com/afd/entry?is_https=
 aolusb.com/forever/
 aili.com^$third-party
 adx.$domain=~adx.cx|~adx.uk.com|~adx.world|~adx.wowfi.com
+beibei100.net
 b17.shangc.net
 baminw.cn
 bdx.playnext.cn
@@ -400,6 +401,7 @@ google-analytics.com/analytics.js
 hivps.xyz
 hao61.net
 h0o33.cn
+hutao1.cn
 hechaocheng.cn
 hmjb.cnmo-img.com.cn
 hf01il.com
@@ -490,9 +492,9 @@ khlgauqt2000.com
 kaitongyewu.com
 kejet.$third-party
 ktkkt.com/js/tvb/
-ltsdl.qq.com^*.ts
 lnctc.net
 log.game.tiexue.net
+lunqudai.com
 laksdn.com
 ltcprtc.com
 lfhnkp.com
@@ -500,6 +502,7 @@ lu.sogou.com
 lvehaisen.com
 love745221.com
 laojiayoufang.com
+ltsdl.qq.com^*.ts
 loldyttw.net/blr.js
 mgsue.cn
 mubite.cn
