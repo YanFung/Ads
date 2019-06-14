@@ -43,6 +43,7 @@
 /ad.php|
 /ads.js
 /adshow.
+/afd/entry
 /api/ad/
 /api/adv
 /ads/iframe
@@ -278,8 +279,10 @@ baidu.com^*/app/banner_
 bdstatic.com^*/tam-ogel/
 baidu.com/feproxy/ad/list?
 baidu.com/?action=getadsdata&
+baidu.com/view/api/fc_btm?
 baidu.com/po/api/configure/show.jsonp
 baidu.com/newspage/api/getmobads?
+baidu.com/common/fc/wap/view_top?
 baidu.com/static/ecom/js/wise/home/nativeAds_
 baidu.com/se/transcode/static/img/tc-banner_$image
 cname.code.dsmi.cc
