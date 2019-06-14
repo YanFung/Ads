@@ -47,6 +47,7 @@
 /api/ad/
 /api/adv
 /ads/iframe
+/adsbygoogle
 /bottomad/
 /common/ad
 /common/cf/$image
@@ -1080,6 +1081,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="www.crc6789.com"]
 ##a[href*="www.7999518.com"]
 ##a[href*="ads.trafficjunky.net"]
+##a[href="http://www.speedtest.cn/products/mifi"]
 ##a[href^="http://go.gotourl.xyz/"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a#wrapper_left_bg[target="_blank"]
