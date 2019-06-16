@@ -186,6 +186,7 @@ _960_90.
 88shu.cn
 85un.com
 9ads.net
+9yyg.cn
 91byy.cn
 960q.com
 913vt.com
@@ -681,6 +682,7 @@ sina.cn*/view?
 shihuo.cn/alibtn_
 sina.cn^*/impress?
 sina.cn/cm/sinaads_
+shimo.im/api/ads?
 sogoucdn.com/wap/js/
 sspai.com/api/v1/recommends?*=article_
 static.cnqiang.com/images/appdlx.jpg$image
