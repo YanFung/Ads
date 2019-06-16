@@ -1376,6 +1376,7 @@ sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
 suning.com##.float-b
+shimo.im##.RbGWk.sc-bwzfXH
 sg169.com##.bottom_khdxz
 share.iclient.ifeng.com##div.huaweiBanner
 share.iclient.ifeng.com##.showIn.personBanner
