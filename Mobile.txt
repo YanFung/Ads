@@ -899,6 +899,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.appLink
 ##.app-open
 ##.appAd-line
+##a.download-app
 ##.bm.a_c
 ##.bannerad
 ##.bottomAd
@@ -909,6 +910,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bottom-fixed-app
 ##.baidu_ads_cell
 ##.btn_app_link
+##.btn.app-open-btn
 ##.container_ad
 ##.contentad
 ##.down-kanApp
