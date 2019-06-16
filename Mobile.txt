@@ -135,6 +135,7 @@ _960_90.
 0571yy.com
 0d077ef9e74d8.cdn.sohucs.com
 1024txt.xyz
+1.ttxs123.net
 198dh.cn
 16k6.com
 1.xilu.com
@@ -995,6 +996,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###ad_top_banner
 ###ad_text:not(textarea)
 ###ad_headerbanner
+###ad-recommend
 ###app-layer
 ###bottomAd
 ###baoxianAd
