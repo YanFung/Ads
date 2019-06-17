@@ -942,6 +942,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.floatad
 ##.float-openapp
 ##.g-ad
+##.gg_320
 ##.googleAd300x250
 ##.global_video_bottom_dbtc
 ##.head_ad
@@ -1280,6 +1281,7 @@ ithome.com###ruanmei-apps
 ithome.com##.lapin
 ithome.com##.down-app-box
 ithome.com##.hot-app
+imobile.com.cn##.baidunosee.yoceng
 ifanr.com##.popup-shown.popup-download.popup-top.popup
 jianshu.com##.header-download
 jianshu.com##.download
