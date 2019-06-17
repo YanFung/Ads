@@ -1244,6 +1244,9 @@ douban.com###topnav-openapp
 dgtle.com##.footer-abox
 download.csdn.net##.fixed_box
 engadget.com##.mt-20.container\@m-
+egame.qq.com###installbar
+egame.qq.com##.islider-outer
+egame.qq.com##.ui-util-installbar
 feng.com##.header
 gfan.com##.downs
 hao123.com###btn
