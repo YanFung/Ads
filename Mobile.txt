@@ -443,6 +443,7 @@ hulemedia.com
 hzyuanshan.com
 hxsame.hexun.com
 hps.hcuk-jewellery.com
+huimg.cn/e/hd.e.wap.
 h5.m.taobao.com/applink/smbConfig.html
 hoopchina.com.cn/web/module/dace/
 h5.1ting.com/zfbhb/s/b.jpg$image
@@ -520,6 +521,7 @@ lfhnkp.com
 ldlwdsx.com
 lu.sogou.com
 lvehaisen.com
+ll.hudong.com
 ljqnbiogjp.com
 love745221.com
 laojiayoufang.com
@@ -879,6 +881,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_text
 ##.ad-vod
 ##.ad-widget
+##.ad_xuanban
 ##.ads-item
 ##.ads-post
 ##.ads-player
