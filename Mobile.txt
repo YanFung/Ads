@@ -1099,6 +1099,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="ads.trafficjunky.net"]
 ##a[href="http://www.speedtest.cn/products/mifi"]
 ##a[href^="http://go.gotourl.xyz/"]
+##a[href*="/youhui/#ad="]
 ##a#wrapper_right_bg[target="_blank"]
 ##a#wrapper_left_bg[target="_blank"]
 ##img[width="960"][src*=".sinaimg."]
