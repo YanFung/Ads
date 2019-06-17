@@ -148,6 +148,7 @@ _960_90.
 163.com*/special/*_ad_
 163.com/ur?site=netease&affiliate=
 163.com/wap/special/article_cooper_piapia/
+17ce.com/118/
 17173cdn.com/a/lib/vda/seed.js
 181mob.com
 18183.com^*.php?pid=
@@ -976,6 +977,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.top-adv
 ##.top-Adv
 ##.topads
+##.top-banner-app
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
 ##.trc_rbox .syndicatedItem
