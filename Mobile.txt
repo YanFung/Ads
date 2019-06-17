@@ -24,7 +24,6 @@
 /ads/*.js
 /ad/js/
 /adv.js
-/adjs/
 /adpuba/
 /adfolder/
 /adshow?
@@ -1159,7 +1158,6 @@ ali213.net##.zadmainholder
 ac.qq.com##.app-guiding
 acwifi.net##a[href*="u.jd.com"]
 acfun.cn##.header-ico
-acfun.cn##.open-app-btn
 autohome.com.cn###section_homtpop
 autohome.com.cn###qabotLayer
 autohome.com.cn##.sign-wp
