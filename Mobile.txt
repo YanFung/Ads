@@ -923,6 +923,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn.app-open-btn
 ##.container_ad
 ##.contentad
+##.down-app-box
 ##.down-kanApp
 ##.download-app
 ##.download-app-go
@@ -961,6 +962,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.news-ad
 ##.new-free-ad
 ##.open-app
+##.open-app-btn
 ##.open-app-banner
 ##.openapp
 ##.OpenInAppButton
@@ -1279,13 +1281,11 @@ inke.cn##.fadeout.launch-inkeapp
 inke.cn##.promotion
 ithome.com###ruanmei-apps
 ithome.com##.lapin
-ithome.com##.down-app-box
 ithome.com##.hot-app
 imobile.com.cn##.baidunosee.yoceng
 ifanr.com##.popup-shown.popup-download.popup-top.popup
 jianshu.com##.header-download
 jianshu.com##.download
-jianshu.com##.open-app-btn
 jianshu.com##.recommend-ad.recommend-wrap
 jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jiangduw.com##.comiis_wx_gzgzh
