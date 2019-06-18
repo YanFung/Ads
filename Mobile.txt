@@ -288,6 +288,8 @@ baidu.com/newspage/api/getmobads?
 baidu.com/common/fc/wap/view_top?
 baidu.com/static/ecom/js/wise/home/nativeAds_
 baidu.com/se/transcode/static/img/tc-banner_$image
+bdstatic.com/searchbox/icms/searchbox/img/*.jpg
+bdstatic.com^*/static/itemrep/afdtujituijian/
 cname.code.dsmi.cc
 code.ditiezu.net
 ctrhfd.top
