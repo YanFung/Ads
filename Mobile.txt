@@ -883,6 +883,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_result
 ##.ad_text
 ##.ad-vod
+##.ad-img
 ##.ad-widget
 ##.ad_xuanban
 ##.ads
@@ -1007,6 +1008,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###advertise
 ###adsad
 ###advert1
+###adBottom
 ###adLeftFloat
 ###adRightFloat
 ###adscontainer_background_back_index1100_all
