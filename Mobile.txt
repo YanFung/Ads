@@ -1423,6 +1423,10 @@ tudou.com##.td-h5__appguide-fix
 tudou.com##.td-h5__player__appguide
 tudou.com###topbar-slider
 tumblr.com##.mobile-banner-inner
+tv.cztv.com##.swiper-container-horizontal.swiper-container3.banner
+tv.cztv.com##.banner-bg
+tv.cztv.com##.zhishiqi-ul
+tv.cztv.com##.lantv-yindao-btn
 tv.uc.cn###web_video_index_hot_above
 tv.uc.cn##div[class*=ucdownload]
 tv.sohu.com##.dl-top-banner
