@@ -1298,6 +1298,8 @@ ithome.com##.lapin
 ithome.com##.hot-app
 imobile.com.cn##.baidunosee.yoceng
 ifanr.com##.popup-shown.popup-download.popup-top.popup
+i.y.qq.com##.js_pg_content.top_operation_box
+i.y.qq.com##.js_tj.js_download.btn_download
 jianshu.com##.header-download
 jianshu.com##.download
 jianshu.com##.recommend-ad.recommend-wrap
@@ -1321,6 +1323,7 @@ kuwo.cn##.topAppWrap
 kuwo.cn##.download
 kuwo.cn##.open_app
 kuwo.cn##.collectSongList
+kugou.com###mod_down
 le.com###j-leappMore
 le.com###j-zhoubian
 le.com###j-recommend > .animate1.column_box
@@ -1477,6 +1480,7 @@ wk.baidu.com##.guidetowkappwg-root
 wapbaike.baidu.com##ul[class][id] > li
 xiami.com##.navbar
 xiami.com###J_Slide
+xiami.com##.deep-link-box
 xici.net###unlogin_wrapper
 xilu.com###imgsc-fixed
 xilu.com##.wap_vip
