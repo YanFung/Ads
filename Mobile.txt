@@ -988,6 +988,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.top-Adv
 ##.topads
 ##.top-banner-app
+##.tg-download-app
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
 ##.trc_rbox .syndicatedItem
