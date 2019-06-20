@@ -685,6 +685,7 @@ shongcheng.com
 shili.downxia.com
 shuoshuocm.com
 spcode.baidu.com
+static.gridsumdissector.com
 sax*.sina.
 sina.cn*/view?
 shihuo.cn/alibtn_
@@ -897,6 +898,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adv_left
 ##.adv-text
 ##.adv_right
+##.ads01
 ##.advbox
 ##.adver-in
 ##.add_txt
@@ -1300,6 +1302,7 @@ imobile.com.cn##.baidunosee.yoceng
 ifanr.com##.popup-shown.popup-download.popup-top.popup
 i.y.qq.com##.js_pg_content.top_operation_box
 i.y.qq.com##.js_tj.js_download.btn_download
+jstv.com###slider
 jianshu.com##.header-download
 jianshu.com##.download
 jianshu.com##.recommend-ad.recommend-wrap
