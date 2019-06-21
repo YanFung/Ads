@@ -844,6 +844,7 @@ ztyumn.ifeng.com
 zhihu-web-analytics.zhihu.com
 zhuyuanp.shop
 zol.com.cn/pvn/
+zol.com.cn/adrs/
 zol.com/index.php?c=Shop_ZolShopIndex
 zdw.w8.com.cn/p.ht?
 zhihu.com/api/v4/alter_banners/
@@ -957,6 +958,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.float-openapp
 ##.g-ad
 ##.gg_320
+##.google-ad
 ##.googleAd300x250
 ##.global_video_bottom_dbtc
 ##.head_ad
@@ -1522,7 +1524,7 @@ zongheng.com##[id^=laialaia]
 zongheng.com###botpic
 zol.com.cn##.zolapp
 zol.com.cn##.square-pic.item
-zol.com.cn##[page-type] > div[class$="__box"]
+zol.com.cn##div[class$="__box"]
 zybang.com##div[class][id]
 zybang.com##div[class][style]
 zimuzu.tv##div[class*="-tip show"]
