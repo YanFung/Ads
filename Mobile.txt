@@ -118,6 +118,7 @@ _960_90.
 .com/ad?
 .com/adv/
 .com/ads-
+.com/ads/$image
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/li/choujiang
@@ -226,6 +227,7 @@ appsflyer.com
 applequan.com
 alimama.com
 ae4.ifeng.com
+ad-survey.com
 anyangruisi.com
 aishangcan.com
 adsrich.qq.com
@@ -425,6 +427,7 @@ h0o33.cn
 hutao1.cn
 hechaocheng.cn
 hmjb.cnmo-img.com.cn
+hdc.watchtimes.com.cn
 hf01il.com
 hfxs01il.com
 hyzui.com
@@ -448,6 +451,7 @@ hzyuanshan.com
 hxsame.hexun.com
 hps.hcuk-jewellery.com
 huimg.cn/e/hd.e.wap.
+huanqiu.com/resource/js/base
 h5.m.taobao.com/applink/smbConfig.html
 hoopchina.com.cn/web/module/dace/
 h5.1ting.com/zfbhb/s/b.jpg$image
@@ -647,6 +651,7 @@ qq.com/tbs/tbsad/
 qq.com/xw/getUserH5Games?
 qq.com/static/web/websites/newsplugin/ssp_ad_
 rideraid.net
+rdance.cn
 rcynoe.cn
 raeqqe.cn
 ruxmc.cn
@@ -667,6 +672,7 @@ symaw.cn
 sysadult.cn
 siyinlong.cn
 sufficient.cn
+shen9192.cn
 sogou.g3t3.cn
 shanghuitianxia.cn
 sdjjr.com
