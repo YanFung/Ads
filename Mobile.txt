@@ -939,6 +939,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn.app-open-btn
 ##.container_ad
 ##.contentad
+##.down-top
 ##.down-app-box
 ##.down-kanApp
 ##.download-app
@@ -1460,6 +1461,7 @@ tieba.baidu.com##.ui_image_header_bottom
 tieba.baidu.com##.img_info_introduce
 tieba.baidu.com##[class^=footer]
 tieba.baidu.com##.appPromote
+tieba.baidu.com##.appBottomPromote
 tieba.baidu.com##.top-guide-wrap.top-guide
 tieba.baidu.com##.fixed_bar_logo
 tieba.baidu.com##[class$="j_click_stats"]
