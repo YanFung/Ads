@@ -532,6 +532,7 @@ ltsdl.qq.com^*.ts
 loldyttw.net/blr.js
 mgsue.cn
 mubite.cn
+mqcwr.cn
 maizhenai.cn
 matwbp.iask.sina.com.cn
 mgid.com
@@ -1136,6 +1137,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src="img/qkwx_m.jpg"][style="display: block; width: 100%; height: auto;"]
 ##img[style="width: 950px; height: 60px; left: 10px;"][src*="/upload.cc"]
 ##img[style="width:100%;"][src*="src.pcsoft.com.cn"]
+##img[src*="www.zuixinkanpian.com/upload/art_editor/"]
 !----------------特定网站元素------------------
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
