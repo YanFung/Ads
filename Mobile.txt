@@ -943,6 +943,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.down-app-button
 ##.download-btn
 ##.download-bar
+##.download_m
 ##.downloadBtn
 ##.downloadApp
 ##.dahengfu
