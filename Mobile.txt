@@ -84,6 +84,7 @@
 /v.aspx?bln=
 /z.zolapp.
 /__utm.gif
+?ad_type=
 =adunit&
 _ads?
 -ads-widget/
@@ -699,6 +700,7 @@ shuoshuocm.com
 spcode.baidu.com
 static.gridsumdissector.com
 sax*.sina.
+securepubads.
 sina.cn*/view?
 shihuo.cn/alibtn_
 sina.cn^*/impress?
@@ -983,6 +985,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.j_ads
 ##.js-ad
 ##.leftAd
+##.logo-download
 ##.link-app-img
 ##.loadApp.tjw_common
 ##.module-ad
@@ -1090,6 +1093,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class^="ad-inner"]
 ##div[class^="ad_box"]
 ##div[id="ads"]
+##div[id^="div-gpt-ad"]
 ##div[id*="appDown"]
 ##div[id*="appdown"]
 ##div[id*="AppDown"]
