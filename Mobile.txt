@@ -1049,6 +1049,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###container > #pic_container
 ###db_ad
 ###div_ad
+###download_wrap
 ###footer_ad
 ###footerApp
 ###hongbao
