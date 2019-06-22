@@ -1435,6 +1435,7 @@ suning.com##.wtable
 suning.com##.float-b
 shimo.im##.RbGWk.sc-bwzfXH
 sg169.com##.bottom_khdxz
+smzdm.com##.foot-banner
 share.iclient.ifeng.com##div.huaweiBanner
 share.iclient.ifeng.com##.showIn.personBanner
 share.iclient.ifeng.com###openAppReadAll
