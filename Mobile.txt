@@ -256,6 +256,7 @@ autoimg.cn/bi/mda/ahas_body.
 aolusb.com/forever/
 aili.com^$third-party
 adx.$domain=~adx.cx|~adx.uk.com|~adx.world|~adx.wowfi.com
+abtestin-api.smzdm.com/abtest-api/api/getexperiment?appKey=
 beibei100.net
 b17.shangc.net
 baminw.cn
