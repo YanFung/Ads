@@ -764,6 +764,7 @@ vsxet.com
 vrbeetv.com
 vamaker.com
 vyishengtai.com
+v1.phb123.com
 v718.com/*ad.gif$image
 vipbuluo.com/2/123.png
 variety.tc.qq.com/*.mp4?
@@ -946,6 +947,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn.app-open-btn
 ##.container_ad
 ##.contentad
+##.centerAd
 ##.down-top
 ##.down-app-box
 ##.down-kanApp
@@ -991,6 +993,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open-app-btn
 ##.open-app-banner
 ##.openapp
+##.openInAPP
 ##.OpenInAppButton
 ##.pub_300x250
 ##.rt_ad
@@ -1148,6 +1151,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[style="width: 950px; height: 60px; left: 10px;"][src*="/upload.cc"]
 ##img[style="width:100%;"][src*="src.pcsoft.com.cn"]
 ##img[src*="www.zuixinkanpian.com/upload/art_editor/"]
+##img[src*="gbfek.dfcfw.com/project/gubawap/ad/"]
 !----------------特定网站元素------------------
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
