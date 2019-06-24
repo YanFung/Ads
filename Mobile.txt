@@ -74,6 +74,7 @@
 /o.php?u=*|$third-party,script
 /popunder-
 /pagead/lvz?
+/page/?s=$third-party
 /partner/gg_sogou.html
 /runtime/ad/*
 /site/ads?
@@ -497,10 +498,11 @@ js.ubaike.cn
 jryjy.com.cn
 jiupinshan.cn
 jmhengwei.cn
-jktopia.com
 jhwj88.com
 juuhe.com
 jegxny.com
+jktopia.com
+jugg003.com
 jianzhousc.com
 jianduankm.com
 ja*.gamersky.com
@@ -569,6 +571,7 @@ mycodes.net/js/hf_txt.js
 m.55haitao.com/static/js/common/swiper.js
 mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js
 mycodes.net/js/$image
+netsop.cn
 nijiua.com
 nthtcs.com
 njjahb.com
@@ -777,9 +780,10 @@ wo-x.cn
 wzry5.cn
 wrvdmh.cn
 wcnmd.top
-weekslw.com
 wfyqc.com
 wikigifth.com
+weekslw.com
+wm.lrswl.com
 wm.mipcdn.com
 www.kl-toys.com
 womenbaby.com
@@ -1046,6 +1050,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###ad_text:not(textarea)
 ###ad_headerbanner
 ###ad-recommend
+###apDivd
 ###app-layer
 ###bottomAd
 ###baoxianAd
