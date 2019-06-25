@@ -714,7 +714,8 @@ sogoucdn.com/wap/js/
 sspai.com/api/v1/recommends?*=article_
 static.cnqiang.com/images/appdlx.jpg$image
 static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
-sinaimg.cn/large/ed5e6a1*.gif$domain=gaoqing.la
+sinaimg.cn/large/ed5e6a1*.gif
+sinaimg.cn/sina_vr/*vr/bannerbottom.png
 static-cn.plista.com
 sp*.baidu.com*.gif?
 su.bdimg.com/static/dspui/js/
@@ -1008,6 +1009,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.OpenInAppButton
 ##.pub_300x250
 ##.rt_ad
+##.rightad
 ##.removeAdsStyle
 ##.softAdsBox
 ##.textAd
@@ -1016,6 +1018,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.text-ad-links
 ##.top-adv
 ##.top-Adv
+##.topad
 ##.topads
 ##.top-banner-app
 ##.tg-download-app
@@ -1073,6 +1076,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###newapp2018
 ###midThreeAds
 ###player-advertising
+###rightad
 ###sponsorAdDiv
 ###SOHU_MAIN > .module-cmt-float-bar
 ###updownApp
