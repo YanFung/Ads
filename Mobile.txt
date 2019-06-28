@@ -213,6 +213,7 @@ awqsaged.cn
 anhouhou.cn
 adpai.thepaper.cn
 acs86.com
+a.xywy.com
 adyun.com
 addthis.com
 anyysz.com
@@ -812,6 +813,7 @@ xiangchim0.com
 xc.mydrivers.com
 xuanmeiguoji.com
 xz15801.com/y.js
+xywy.com/zhixing
 xueqiu.com/v4/stock/quote.json?code=
 yangjingbang.net
 ynjczy.net
@@ -1060,6 +1062,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###ad_headerbanner
 ###ad-recommend
 ###apDivd
+###AppBar
 ###app-layer
 ###bottomAd
 ###baoxianAd
