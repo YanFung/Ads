@@ -278,6 +278,7 @@ bdcode.haochu.com
 baidu.dengzhoull.com
 becode.qiushibaike.com
 bdfpbimg.ifengimg.com
+bdwmhz.120askimages.com
 btbtt88.com/slade.js
 bea-s.dinghuoche.com/bvzdlc.js
 bytecdn.cn/ta/resource/v0/analytics.js
@@ -984,6 +985,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.error > #qqs
 ##.footad
 ##.floatad
+##.floorAd
 ##.float-openapp
 ##.g-ad
 ##.gg_320
@@ -1041,6 +1043,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.wp.a_h
 ##.write_ad
 ##.wgt-ad-recommend
+## .YWBDAD
 ##.ymw-app-open
 ##.ytp-ad-progress-list
 !----------------------------------------- 
