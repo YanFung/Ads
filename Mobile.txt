@@ -86,14 +86,6 @@
 /v.aspx?bln=
 /z.zolapp.
 /__utm.gif
-?ad_type=
-=adunit&
-_ads?
--ads-widget/
-_adview_
-_ad_banner.
--pagead-id.
-_yad_jsonp_
 &adcount=
 &adstrade=
 &adtype=
@@ -103,6 +95,14 @@ _yad_jsonp_
 &ad_ids=
 &ad_type=
 &type=ad&
+?ad_type=
+=adunit&
+_ads?
+-ads-widget/
+_adview_
+_ad_banner.
+-pagead-id.
+_yad_jsonp_
 _300_250.
 _728_90.
 _960_90.
@@ -1178,11 +1178,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ##img[src*="adx9.com/upload/"][style="width:100%;height:auto;"]
 ##img[src="http://yskk8.com/template/mid97/images/1.gif"]
+##img[src*="www.zuixinkanpian.com/upload/art_editor/"]
+##img[src*="gbfek.dfcfw.com/project/gubawap/ad/"]
 ##img[src="img/qkwx_m.jpg"][style="display: block; width: 100%; height: auto;"]
 ##img[style="width: 950px; height: 60px; left: 10px;"][src*="/upload.cc"]
 ##img[style="width:100%;"][src*="src.pcsoft.com.cn"]
-##img[src*="www.zuixinkanpian.com/upload/art_editor/"]
-##img[src*="gbfek.dfcfw.com/project/gubawap/ad/"]
+##img[lazyload*="/jingyan.baidu.com/event/img/"]
 !----------------特定网站元素------------------
 163.com###docid-docAppClient
 163.com##.home_packet.ne_rps
