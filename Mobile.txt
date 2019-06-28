@@ -507,6 +507,7 @@ juuhe.com
 jegxny.com
 jktopia.com
 jugg003.com
+jke1.jianke.com
 jianzhousc.com
 jianduankm.com
 ja*.gamersky.com
@@ -893,6 +894,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-300
 ##.ad_728
 ##.ad_box
+##.ad-box
 ##.ad-block
 ##.ad-banner
 ##.ad_bottom
