@@ -757,6 +757,7 @@ taobao.com/adloader?uuid=
 tencentvideo/script/webtips/
 tiexue.net/wapcommon/mdata/*.txt
 tieba.baidu.com/mo/q/tuijianindex?uid=
+t*.baidu.com/it/u=*,*&fm=76$third-party
 tb*.bdstatic.com/tb/*/hongbao*.png
 tmtpost.com/public/images/app_download.png
 users.51.la
