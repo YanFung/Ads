@@ -375,6 +375,7 @@ ent1.12584.cn
 esyzdb.com
 ejunshi.com
 eiv.baidu.com
+em.baidu.com
 eduad.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
