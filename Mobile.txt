@@ -1006,6 +1006,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.hide_ad
 ##.hongbao
 ##.hongbao_hd
+##.HomeHeader-openApp
 ##.icon_ad
 ##.listad
 ##.j_ads
@@ -1021,6 +1022,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open-app
 ##.open-app-btn
 ##.open-app-banner
+##.open-in-app-float
 ##.openapp
 ##.openInAPP
 ##.OpenInAppButton
@@ -1094,6 +1096,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###install_app
 ###js-openInApp
 ###js-download
+###js-fix-download
 ###newapp2018
 ###midThreeAds
 ###player-advertising
@@ -1306,17 +1309,13 @@ ctfile.com##div[class="alert alert-info alert-block"][style="margin: 0;padding: 
 dushu.baidu.com##.openBox-shareEntry
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
-douyu.com###js-fix-download
 douyu.com##.layout-ball
-douyu.com##.HomeHeader-openApp
 douyu.com##.HomeFooter-downLoadClient
-douyu.com##.btn-open-app
 doutula.com###abptip
 dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
 douban.com##.promo_top_banner
-douban.com##.open-in-app-float
 douban.com###topnav-openapp
 dgtle.com##.footer-abox
 download.csdn.net##.fixed_box
