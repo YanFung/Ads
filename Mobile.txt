@@ -986,6 +986,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.download_m
 ##.downloadBtn
 ##.downloadApp
+##div.download-app
 ##.dahengfu
 ##.ec-ad
 ##.ec_ad
@@ -1364,6 +1365,7 @@ ithome.com##.lapin
 ithome.com##.hot-app
 imobile.com.cn##.baidunosee.yoceng
 ifanr.com##.popup-shown.popup-download.popup-top.popup
+ifeng.com##.ifengLookori
 i.y.qq.com##.js_pg_content.top_operation_box
 i.y.qq.com##.js_tj.js_download.btn_download
 jstv.com###slider
