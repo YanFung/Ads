@@ -1038,6 +1038,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.text-ad
 ##.text-ads
 ##.text-ad-links
+##.top_ad
 ##.top-adv
 ##.top-Adv
 ##.topad
