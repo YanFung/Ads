@@ -1031,6 +1031,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.rightad
 ##.reply-ad
 ##.reply-ad-banner
+##.rv-open-app-btn
 ##.removeAdsStyle
 ##.softAdsBox
 ##.textAd
@@ -1310,6 +1311,7 @@ dushu.baidu.com##.openBox-shareEntry
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
 douyu.com##.layout-ball
+douyu.com##.see-super-definition-videos
 douyu.com##.HomeFooter-downLoadClient
 doutula.com###abptip
 dongqiudi.com##.red
