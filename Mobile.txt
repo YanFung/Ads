@@ -332,6 +332,7 @@ cir-smart.baidu.com
 ckck.tv/inc/
 chnmoney.com/dfile/
 c6.lnymd.com/nm/nm*.ashx?
+chinacloudsites.cn/api/promotion?
 cnbetacdn.com/frontend/vipics/yijian
 cnmo.com/pv.js
 cnmo-img.com.cn/oddjs/
