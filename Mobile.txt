@@ -1634,5 +1634,6 @@ znds.com###rec-pic
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
 !----------------------------------------------
 app.so#@#[class*="app-down"]
+graph.baidu.com#@#.page-banner
 nuomi.com#@##hongbao
 douban.com#@#.download-app
