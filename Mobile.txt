@@ -410,6 +410,7 @@ gg.5di.tv
 gze3.cn
 gszbba.cn
 georgias.cn
+gotoniubiurl.pw
 ge95.com
 gw069.com
 gwylm.com
@@ -1187,6 +1188,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="/youhui/#ad="]
 ##a#wrapper_right_bg[target="_blank"]
 ##a#wrapper_left_bg[target="_blank"]
+##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
 ##img[width="960"][src*=".sinaimg."]
 ##img[src="tp/hb1.png"]
 ##img[src*="tui.30pan.com"]
