@@ -897,6 +897,7 @@ zongheng.com/upload/hzds/
 zanghaihuatxt.com/xxgg/book.js
 zdface.com/js/m/zw_banner.js
 zpe-klre.18183.com/eezdx.php?sdfs=
+zhihu.com/commercial_api/banners_
 zuoyebang.cc/static/question/m-question/resource*.jpg$image
 zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 !-------------------通用元素-------------------
