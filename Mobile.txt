@@ -1020,6 +1020,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.hongbao
 ##.hongbao_hd
 ##.HomeHeader-openApp
+##.header-right-download-app
 ##.icon_ad
 ##.listad
 ##.j_ads
@@ -1322,6 +1323,7 @@ cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 cnbeta.com##a[href^="http://click.aliyun.com/"]
 cnbeta.com##.cbimage-fixed
 ctfile.com##div[class="alert alert-info alert-block"][style="margin: 0;padding: 0; border: 0;height: 60px;"]
+dxy.cn##.page-wrap > .wrap
 dushu.baidu.com##.openBox-shareEntry
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
