@@ -925,6 +925,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-container
 ##.ad_float
 ##.ad_float_left
+##.ad-feed-big
 ##.ad_footerbanner
 ##.ad-gift
 ##.ad-item
@@ -939,7 +940,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-img
 ##.ad-widget
 ##.ad_xuanban
-##.ad-feed-big
 ##.ads
 ##.ads-item
 ##.ads-post
