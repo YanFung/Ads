@@ -1378,6 +1378,7 @@ iqiyi.com###bottomNativePopup
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com##.m-wl-borderT.m-wl-entrance
 iqiyi.com##div.iqy-items
+iqiyi.com##[class="longDiversion-content"]
 iqiyi.com##div.m-ipRelation.m-ipRelation-full
 inke.cn##.bottom-fixed-layer
 inke.cn##.fadeout.launch-inkeapp
