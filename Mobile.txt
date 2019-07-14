@@ -444,6 +444,7 @@ hivps.xyz
 hao61.net
 h0o33.cn
 hutao1.cn
+hbssjd.cn
 hechaocheng.cn
 hmjb.cnmo-img.com.cn
 hdc.watchtimes.com.cn
@@ -868,6 +869,7 @@ youdao.com/market/banner/banner
 zndsssp.dangbei.net
 zcsfs.cn
 zkba9.cn
+zmlled.cn
 zgclmw.cn
 zencu.com.cn
 zyqp9.com
@@ -1395,6 +1397,7 @@ i.y.qq.com##.js_tj.js_download.btn_download
 jstv.com###slider
 jianshu.com##.header-download
 jianshu.com##.download
+jianshu.com##.fubiao-dialog
 jianshu.com##.recommend-ad.recommend-wrap
 jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jiangduw.com##.comiis_wx_gzgzh
