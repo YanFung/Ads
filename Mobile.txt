@@ -1205,7 +1205,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src*="tui.30pan.com"]
 ##img[src$="/90.jpg"]
 ##img[src*="ganxiyizu.com"]
-##img[src$="download.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
 ##img[src="https://www.9uys.co/img2/nq2.gif"]
