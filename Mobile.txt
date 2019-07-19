@@ -84,6 +84,7 @@
 /track.gif?
 /videoad.
 /v.aspx?bln=
+/v.gif?logtype=
 /z.zolapp.
 /__utm.gif
 &adcount=
