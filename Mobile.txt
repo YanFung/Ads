@@ -1589,6 +1589,7 @@ xiaohongshu.com##.fixed
 xiaohongshu.com###navbar
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.red-block
+xw.qq.com##.hairline-top
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
