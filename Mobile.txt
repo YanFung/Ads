@@ -1350,6 +1350,7 @@ egame.qq.com###installbar
 egame.qq.com##.islider-outer
 egame.qq.com##.ui-util-installbar
 feng.com##.header
+fanyi.baidu.com##.app-bar
 gfan.com##.downs
 hao123.com###btn
 hao123.com##.popup
