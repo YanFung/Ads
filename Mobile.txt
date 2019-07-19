@@ -5,7 +5,7 @@
 !Description:广告反馈QQ群:514536444
 !Homepage:https://github.com/YanFung/Ads/
 ! 
-!--------------------------------
+!------------------------------
 /104_150/1360_1
 /1*.xhtml?|$third-party,script
 /2*.html?|$third-party,script
