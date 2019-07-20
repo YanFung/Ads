@@ -1332,6 +1332,7 @@ cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 cnbeta.com##a[href^="http://click.aliyun.com/"]
 cnbeta.com##.cbimage-fixed
 ctfile.com##div[class="alert alert-info alert-block"][style="margin: 0;padding: 0; border: 0;height: 60px;"]
+cloud.tencent.com##.com-event-panel
 dxy.cn##.page-wrap > .wrap
 dushu.baidu.com##.openBox-shareEntry
 dilidili.wang##.h5game
