@@ -588,7 +588,7 @@ m.92to.com/tj/*.json
 mipcdn.com^*/mip-*ad
 mipp.iask.cn/t/mipdf?t=
 mydrivers.com/m/apptuijian.
-mipengine.baidu.com/common?query=
+mipengine.baidu.com/common?
 mbd.baidu.com/newspage/api/getrelatednews?nid=news_
 mycodes.net/js/hf_txt.js
 m.55haitao.com/static/js/common/swiper.js
