@@ -1608,6 +1608,7 @@ youku.com###Bigdrama
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
 youtube.com###koya_child_7
+youtube.com##.mealbar-promo-renderer
 yy.com###baseText-main
 yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
