@@ -927,7 +927,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-banner
 ##.ad_bottom
 ##.ad-card
-##.ad-link
 ##.ad-container
 ##.ad_float
 ##.ad_float_left
@@ -936,15 +935,17 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-gift
 ##.ad-item
 ##.ad_item
+##.ad-img
+##.ad-link
 ##.ad-line
 ##.ad_pic
 ##.ad-right
-##.ad-wrapper
 ##.ad_result
 ##.ad_text
+##.ad_top
 ##.ad-vod
-##.ad-img
 ##.ad-widget
+##.ad-wrapper
 ##.ad_xuanban
 ##.ads
 ##.ads-item
@@ -1597,6 +1598,8 @@ xiaohongshu.com###navbar
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.red-block
 xw.qq.com##.hairline-top
+xinli001.com###AppGuide
+xinli001.com##.red-paper-tool
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
