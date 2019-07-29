@@ -1363,6 +1363,7 @@ gfan.com##.downs
 hao123.com###btn
 hao123.com##.popup
 hao123.com##[class*="cn_tips"]
+hroot.com##.TJ_app
 hupu.com##.m-app
 hupu.com##section.money-box > section.bottom > img.money-img
 hupu.com###J_live_container
