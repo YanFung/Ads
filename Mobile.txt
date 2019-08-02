@@ -992,6 +992,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bds-ads-banner
 ##.bottom_ad_download
 ##.bottom-fixed-app
+##.baichuan-ad-wrapper
 ##.baidu_ads_cell
 ##.btn_app_link
 ##.btn.app-open-btn
