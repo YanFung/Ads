@@ -56,6 +56,7 @@
 /footerad.
 /fuckadblock.js
 /floatad.$domain=~fwxgx.com
+/gg_details_
 /ggjs/
 /ggao/js
 /gen_204?$image
