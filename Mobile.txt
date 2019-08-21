@@ -1035,6 +1035,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.hide_ad
 ##.hongbao
 ##.hongbao_hd
+##.HomeHeader-openAppB
 ##.HomeHeader-openApp
 ##.header-right-download-app
 ##.icon_ad
