@@ -595,6 +595,7 @@ mycodes.net/js/hf_txt.js
 m.55haitao.com/static/js/common/swiper.js
 mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js
 mycodes.net/js/$image
+nbyhj.top
 netsop.cn
 nijiua.com
 nthtcs.com
@@ -681,6 +682,7 @@ qiaopiguniang.com
 qq.com/tbs/tbsad/
 qq.com/xw/getUserH5Games?
 qq.com/static/web/websites/newsplugin/ssp_ad_
+rjy0521.top
 rideraid.net
 rdance.cn
 rcynoe.cn
