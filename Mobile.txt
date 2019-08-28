@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!Version:2019/6/26/17:30
+!Version:2019/9/1/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:广告反馈QQ群:514536444
@@ -1209,6 +1209,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href="http://www.speedtest.cn/products/mifi"]
 ##a[href^="http://go.gotourl.xyz/"]
 ##a[href*="/youhui/#ad="]
+##a[href*="mob288.hscdq.com"]
+##a[href*="tlqinzi.com"]
 ##a#wrapper_right_bg[target="_blank"]
 ##a#wrapper_left_bg[target="_blank"]
 ##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
