@@ -319,6 +319,7 @@ count.pcauto.com.cn
 code.chulang.hn.cn
 ciimg.com
 cnzz.com
+cytcm.com
 cdfzcz.com
 cxmyq.com
 cdwla.com
@@ -646,6 +647,7 @@ pvtest.zol.com.cn
 pupu.xnhh120.com
 pp*.hkslg.net^$image
 pfp.sina.net/ea/ad/
+p4yy.com/gg/
 phncdn.com/iframe
 pconline.com.cn/_hux_/
 pussl48.com^$third-party
@@ -1492,6 +1494,7 @@ pcauto.com.cn###Jmarquee
 pcauto.com.cn##.club-app-load
 pcauto.com.cn##.m-guaziTg
 pcauto.com.cn###JpcTopDl
+p4yy.com##.leaveNavInfo
 pan.baidu.com##.activity-icon
 pansou.com##div[style*="width: 70%;height: 40px;"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
