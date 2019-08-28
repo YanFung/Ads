@@ -1151,6 +1151,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="adv-doc-top"]
 ##[class*="-ad-body"]
 ##[class^=ec_ad]
+##[class="f_f"][id="f_f"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[ad_name]
 ##div[class$="_ads"]
