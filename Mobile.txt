@@ -268,6 +268,7 @@ autoimg.cn/bi/mda/ahas_body.
 aolusb.com/forever/
 aili.com^$third-party
 adx.$domain=~adx.cx|~adx.uk.com|~adx.world|~adx.wowfi.com
+blogdaka.co
 beibei100.net
 b17.shangc.net
 baminw.cn
@@ -316,6 +317,7 @@ ctrhfd.top
 caduka.cn
 ccbccb.cn
 continuedsys.cn
+chinagcdxyjng.cn
 channn.hzmiyou.cn
 count.pcauto.com.cn
 code.chulang.hn.cn
@@ -439,6 +441,7 @@ greenbetterkids.com
 guanguangyou9999.com
 gtimg.com/qqlive/
 google.com/pagead/
+godli.cn/uploads/
 go.sohu.com^*/?callback=
 gamersky.com/common/tg/
 google-analytics.com/ga.js
@@ -617,6 +620,7 @@ neihanshe.cn/imgs/metoo.png$image
 neihan8.com/skin/js/ia.html
 news.china.com/xml/important_news_day.json?
 olc0.cn
+o6uea.cn
 okmgy.cn
 openxt.cn
 onsnv.com
