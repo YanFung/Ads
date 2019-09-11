@@ -335,6 +335,7 @@ cm.baidu.com
 crs.baidu.com
 cb.baidu.com
 cbjs.baidu.com
+cdn.beiwo77.com
 count.candou.com
 cnzz.172internet.com
 cpro.baidustatic.com
@@ -422,6 +423,7 @@ ggxt.net
 gg.5di.tv
 gze3.cn
 gszbba.cn
+ghosttty.cn
 georgias.cn
 gotoniubiurl.pw
 ge95.com
@@ -861,6 +863,7 @@ xc.mydrivers.com
 xuanmeiguoji.com
 xz15801.com/y.js
 xywy.com/zhixing
+xunlei.com/api/stat/rt/js?
 xueqiu.com/v4/stock/quote.json?code=
 xn--wxtr9fwyxk9c.xn--io0a7i
 yangjingbang.net
