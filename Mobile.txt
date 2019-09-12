@@ -762,7 +762,6 @@ sinaimg.cn/large/ed5e6a1*.gif
 sinaimg.cn/sina_vr/*vr/bannerbottom.png
 static-cn.plista.com
 sp*.baidu.com*.gif?
-s.go.sohu.com^*/?callback=
 su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
 sogou.com/wap_ask_service?
