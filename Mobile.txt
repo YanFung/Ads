@@ -1522,6 +1522,8 @@ pcauto.com.cn##.m-guaziTg
 pcauto.com.cn###JpcTopDl
 p4yy.com##.leaveNavInfo
 pan.baidu.com##.activity-icon
+pan.baidu.com##.active-msg
+pan.baidu.com##.box
 pansou.com##div[style*="width: 70%;height: 40px;"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
