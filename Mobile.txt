@@ -353,6 +353,7 @@ cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 cqtimes.cn/Uploads/Picture/*/*.png$image
 chuantu.biz/t6/41/1504877655x2728309627.gif
 dakawm.cc
+dadawm.cc
 dlads.cn
 difnxm.cn
 danangmo.cn
