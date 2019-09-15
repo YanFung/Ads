@@ -769,6 +769,8 @@ static-cn.plista.com
 sp*.baidu.com*.gif?
 su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
+sohu.com/integration-api/pure/region
+sohu.com/integration-api/batch/web
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
 sogou.com/cl.gif?
