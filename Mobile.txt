@@ -1330,6 +1330,7 @@ bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 baidu.com##div[class="gh-safari-btn-wrap2"]
 baidu.book.3g.cn##.box2_bg
+baidu.com###page-copyright
 baidu.book.3g.cn##.mip-stats-eventload.bot_bar
 baidu.com##.index-banner-text
 baidu.com##.suggest-hot
