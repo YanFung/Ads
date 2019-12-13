@@ -245,7 +245,7 @@ ad-survey.com
 anyangruisi.com
 aishangcan.com
 adsrich.qq.com
-at1.doubanio.com
+at*.doubanio.com
 as1.m.hao123.com
 adss.video.qq.com
 ads.pubmatic.com
@@ -399,6 +399,7 @@ em.baidu.com
 eduad.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
+erebor.douban.com
 fuyigo.top
 fastapi.net
 fecjf.cn
