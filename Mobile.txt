@@ -1212,6 +1212,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[id*="downapp"]
 ##div[id*="downApp"]
 ##div[data-href^="https://www.insuf.cn"]
+##div[data-href*="www.xingtai0.com"]
 ##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##li[data-type="ad"]
