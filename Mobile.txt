@@ -1510,6 +1510,7 @@ mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
 map.baidu.com##.container.styleguide.index-widget-guidebanner
 map.baidu.com###index-areaEntry-widget
 map.baidu.com##.bottom-banner-float
+miaopai.com##.footer
 news.baidu.com###share
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
