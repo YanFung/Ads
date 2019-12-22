@@ -71,6 +71,9 @@
 /js/ads/
 /js/tc.js?=
 /js/gg_2.js
+/js/easyad.js
+/js/easyad2.js
+/js/mangoindexbanner.js
 /log.gif?
 /logo_ad.gif
 /m_dilidili_main.js
