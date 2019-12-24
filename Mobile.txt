@@ -82,6 +82,7 @@
 /pagead/lvz?
 /page/?s=$third-party
 /partner/gg_sogou.html
+/proxy_top_banner_js.php
 /runtime/ad/*
 /site/ads?
 /ssp_ad.*.js
