@@ -1040,6 +1040,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.baidu_ads_cell
 ##.btn_app_link
 ##.btn.app-open-btn
+##.btn_openapp
 ##.btn-open-app
 ##.container_ad
 ##.contentad
@@ -1446,6 +1447,7 @@ iqiyi.com##.m-wl-borderT.m-wl-entrance
 iqiyi.com##div.iqy-items
 iqiyi.com##[class="longDiversion-content"]
 iqiyi.com##div.m-ipRelation.m-ipRelation-full
+iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
 inke.cn##.bottom-fixed-layer
 inke.cn##.fadeout.launch-inkeapp
 inke.cn##.promotion
@@ -1628,6 +1630,10 @@ v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
 v.qq.com###banner
+v.qq.com##.swiper-wrapper
+v.qq.com##[id*=game_rec]
+v.qq.com###vip_privilege
+v.qq.com###vip_activity
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
@@ -1661,6 +1667,8 @@ xiaohongshu.com##.red-block
 xw.qq.com##.hairline-top
 xinli001.com###AppGuide
 xinli001.com##.red-paper-tool
+ximalaya.com##.btn.tc.xm-btn
+ximalaya.com##.pulse-run.free
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
