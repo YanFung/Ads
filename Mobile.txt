@@ -881,7 +881,7 @@ xz15801.com/y.js
 xywy.com/zhixing
 xunlei.com/api/stat/rt/js?
 xueqiu.com/v4/stock/quote.json?code=
-xn--wxtr9fwyxk9c.xn--io0a7i
+xn--wxtr9fwyxk9c.
 yangjingbang.net
 ynjczy.net
 yjkyj.cn
@@ -937,6 +937,7 @@ zhgg.dre8.com
 zhixiuchang.com
 zhunishunli.com
 zhfosenghtr.com
+zhengyejixie.com
 ztyumn.ifeng.com
 zfds1.tianya999.com
 zhihu-web-analytics.zhihu.com
