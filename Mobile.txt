@@ -70,6 +70,7 @@
 /js/adv.
 /js/ads/
 /js/tc.js?=
+/js/cnzz
 /js/gg_2.js
 /js/easyad.js
 /js/easyad2.js
@@ -430,6 +431,7 @@ funbox.upush.cn/images/funbox/icons/*.gif
 googleads.
 ggxt.net
 gg.5di.tv
+gshtrl.top
 gze3.cn
 gszbba.cn
 ghosttty.cn
