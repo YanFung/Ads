@@ -88,9 +88,11 @@
 /ssp_ad.*.js
 /topad/
 /track.gif?
+/template/*/ads/*
 /videoad.
 /v.aspx?bln=
 /v.gif?logtype=
+/vtdd/*$script
 /z.zolapp.
 /__utm.gif
 &adcount=
