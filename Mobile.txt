@@ -887,8 +887,7 @@ xz15801.com/y.js
 xywy.com/zhixing
 xunlei.com/api/stat/rt/js?
 xueqiu.com/v4/stock/quote.json?code=
-xn--wxtr9fwyxk9c.
-xn--xhq9mt12cf5v.
+xn--*.
 yangjingbang.net
 ynjczy.net
 yjkyj.cn
