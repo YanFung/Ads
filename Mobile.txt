@@ -1640,7 +1640,7 @@ v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
 v.qq.com##div[_hot="minisbanner"]
 v.qq.com###banner
-v.qq.com##.swiper-wrapper
+v.qq.com##.swiper-wrapper.source_container
 v.qq.com##[id*=game_rec]
 v.qq.com###vip_privilege
 v.qq.com###vip_activity
