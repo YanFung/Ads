@@ -1645,6 +1645,7 @@ v.qq.com##.swiper-wrapper.source_container
 v.qq.com##[id*=game_rec]
 v.qq.com###vip_privilege
 v.qq.com###vip_activity
+v.qq.com##.mod_game_rec.mod_box
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
