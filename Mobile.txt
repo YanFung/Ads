@@ -1018,7 +1018,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.add_txt
 ##.adArea
 ##.adTop
-##.adText
 ##.adlist
 ##.adright
 ##.adbanner
@@ -1355,6 +1354,7 @@ baidu.com###page-copyright
 baidu.book.3g.cn##.mip-stats-eventload.bot_bar
 baidu.com##.index-banner-text
 baidu.com##.suggest-hot
+baidu.com##[class*=afd]
 baidu.com##[class=related-news]
 baidu.com##.news-container
 baidu.com##.banners
