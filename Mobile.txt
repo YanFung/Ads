@@ -979,6 +979,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-block
 ##.ad-banner
 ##.ad_bottom
+##.ad-banner-wrapper
 ##.ad-card
 ##.ad-container
 ##.ad_float
@@ -1683,6 +1684,7 @@ youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
 youku.com###Bigdrama
+youku.com##.clipboard
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
 youtube.com###koya_child_7
