@@ -94,6 +94,7 @@
 /v.aspx?bln=
 /v.gif?logtype=
 /vtdd/*$script
+/xxd.php?id=$script
 /z.zolapp.
 /__utm.gif
 &adcount=
