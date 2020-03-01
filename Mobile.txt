@@ -136,6 +136,7 @@ _960_90.
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/li/choujiang
 .com/js/ad.
+.com/o/*o1o.js
 .com/cpc/*.ashx?$third-party,script
 .com/cpv/*.ashx?$third-party,script
 .com/s.php?id=$third-party,script
