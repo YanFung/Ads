@@ -503,6 +503,7 @@ huanqiu.com/resource/js/base
 h5.m.taobao.com/applink/smbConfig.html
 hoopchina.com.cn/web/module/dace/
 h5.1ting.com/zfbhb/s/b.jpg$image
+iqiyi.pub
 img6.kousou.cc
 ibafnw.cn
 ienkdago.cn
