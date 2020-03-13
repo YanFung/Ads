@@ -33,6 +33,7 @@
 /adpic/
 /adstatic/
 /adcontrol.
+/adtopbar.
 /ad_status.
 /ad_banner.
 /ad_unified_access?
@@ -733,6 +734,7 @@ symaj.cn
 symaa.cn
 symag.cn
 s94pb.cn
+sa.sina.cn
 sc.csai.cn
 symaw.cn
 sysadult.cn
@@ -1189,6 +1191,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###newapp2018
 ###midThreeAds
 ###player-advertising
+###pl-ad-after-comments
 ###rightad
 ###sponsorAdDiv
 ###SOHU_MAIN > .module-cmt-float-bar
