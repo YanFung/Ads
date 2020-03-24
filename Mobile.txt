@@ -1357,8 +1357,8 @@ bilibili.com##.index__openBtn__src-commonComponent-openBtn-
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 baidu.com##div[class="gh-safari-btn-wrap2"]
 baidu.book.3g.cn##.box2_bg
-baidu.com###page-copyright
 baidu.book.3g.cn##.mip-stats-eventload.bot_bar
+baidu.com###page-copyright
 baidu.com##.index-banner-text
 baidu.com##.suggest-hot
 baidu.com##[class*=afd]
@@ -1385,10 +1385,13 @@ baidu.com##article[class*="c-container aladdin__3qKHL"][rl-link-href$=".recommen
 baidu.com##div[style^="position: relative;overflow: hidden;line-height: 0;z-index: 1;"]
 baidu.com##div[class="c-result result"][srcid][new_srcid][order][tpl="recommend_list"][data-log^="{'fm':'alop','ensrcid':'9Xx','order':'6','waplogo':1,'mu'"]
 baidu.com##.egg-red-envelope
+baidu.com##div[class="na-like-container"]
+baidu.com##div[class="egg-bubble"]
 baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baijiahao.baidu.com##.bottomMargin
 baijiahao.baidu.com###searchwordSdk
+baijiahao.baidu.com##div.contentPadding.contentMedia.contentSpd
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 btbtdy.com###bot
