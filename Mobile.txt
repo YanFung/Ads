@@ -144,6 +144,7 @@ _960_90.
 .com/s.php?id=$third-party,script
 .php?mg=$image
 *btbtt.*/imgs.js
+(com?$script
 !--------------------------------------
 0xxd.com
 005.tv/s/setcores.js
