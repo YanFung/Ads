@@ -1584,8 +1584,9 @@ sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href*="://sax"]
 sina.cn###j_fixAppBtn
 sina.cn###goActivity
-sina.cn##a[class="j_call_native art_call" ][href="javascript:void(0);"][data-app="news"]
+sina.cn###j_nba_banner
 sina.cn##.j_call_native.videoDes_newsApp
+sina.cn##a[class="j_call_native art_call" ][href="javascript:void(0);"][data-app="news"]
 sspai.com##.is-shown.open-in-app-button
 suning.com##.v5-headDown
 suning.com##.wtable
