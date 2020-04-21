@@ -326,6 +326,7 @@ baidu.com/se/transcode/static/img/tc-banner_$image
 bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 bdstatic.com^*/static/itemrep/afdtujituijian/
 bdimg.com/static/m-question-new/widget/ad-union-
+cooltool.cc
 cname.code.dsmi.cc
 code.ditiezu.net
 ctrhfd.top
@@ -385,6 +386,7 @@ danjiali.com
 damiren.com
 dupinpu.com
 danpinwu.com
+dazibenwm.com
 dottexpress.com
 dai18.mumu01.com
 df888.eastday.com
