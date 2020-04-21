@@ -877,11 +877,13 @@ wanzituandui.com
 wsoe.kwiago.com
 wneia.iaskhot.com
 wuliao.epro.sogou.com
+webservice.360doc.com
 wenxiu998.com/static/js/top.js
 xjbsj.cn
 xcxzxc.cn
 xvtpvc.cn
 xinyijiasc.cn
+xne1ocient87zxz.360doc.cn
 xl911.com
 x-ssp.com
 xkaqt.com
@@ -896,11 +898,11 @@ xingtai0.com
 xiangchim0.com
 xc.mydrivers.com
 xuanmeiguoji.com
+xn--*.
 xz15801.com/y.js
 xywy.com/zhixing
 xunlei.com/api/stat/rt/js?
 xueqiu.com/v4/stock/quote.json?code=
-xn--*.
 yangjingbang.net
 ynjczy.net
 yjkyj.cn
