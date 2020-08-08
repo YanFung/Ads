@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-!Version:2019/9/13/17:30
+!Version:2020/8/8/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:广告反馈QQ群:514536444
-!Homepage:https://github.com/YanFung/Ads/
+!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
 ! 
 !------------------------------
 /104_150/1360_1
@@ -54,6 +54,7 @@
 /bottomad/
 /common/ad
 /common/cf/$image
+/csi_204?$image
 /cpro/ui/*
 /footerad.
 /fuckadblock.js
@@ -62,6 +63,8 @@
 /ggjs/
 /ggao/js
 /gen_204?$image
+/generate_204$image
+/generate_204$other
 /ht.js?site_
 /head_ad.js
 /hunter/alog/
@@ -110,6 +113,7 @@
 &ad_ids=
 &ad_type=
 &type=ad&
+&AdRootDomain=&AdDomain=$script
 ?ad_type=
 =adunit&
 _ads?
@@ -171,6 +175,7 @@ _960_90.
 163.com/wap/special/article_cooper_piapia/
 17ce.com/118/
 1711811.com
+17house.com/iphone/
 17173cdn.com/a/lib/vda/seed.js
 181mob.com
 18183.com^*.php?pid=
@@ -178,6 +183,7 @@ _960_90.
 2pmob.com
 265958.com
 21.huanqiu.com
+21ic.com/images/article_group_right.png
 24haitao.net
 3xx.vip
 3vn52l.cn
@@ -190,6 +196,7 @@ _960_90.
 47ks.com^*_ad.js
 4z5o27.cn
 51findu.com/command/qn.js
+51dongshi.com/okmqmyi.js
 5151gj.com
 51gpt.com
 5125129.com
@@ -277,6 +284,9 @@ ali213.net/js/data/3gcommon.js
 ali213.net/js/common/zpro/zprotxtpicurl.js
 assets.dwstatic.com/project/dwbbs_mobi/1.0.0/js/lib/pop.js
 alicdn.com/img/ibank/*_1746120392.
+alicdn.com/img/ibank/*_1409595492.
+alicdn.com/img/ibank/*_872274545.
+alicdn.com/img/ibank/*_735370984.
 autohome.com.cn/vr/*?pvareaid=
 alicdn.com/openad/dsp-front-booth/
 autohome.com.cn/news/$script
@@ -291,6 +301,7 @@ beibei100.net
 b17.shangc.net
 baminw.cn
 bdx.playnext.cn
+bd1.guancha.cn
 bdjiaoben.wmxa.cn
 beacon.sina.com.cn
 bbbr8.com
@@ -347,6 +358,7 @@ count.pcauto.com.cn
 code.chulang.hn.cn
 ciimg.com
 cnzz.com
+cavcz.com
 cytcm.com
 cdfzcz.com
 cxmyq.com
@@ -394,6 +406,7 @@ danjiali.com
 damiren.com
 dupinpu.com
 danpinwu.com
+dzxwnews.com
 dazibenwm.com
 dottexpress.com
 dai18.mumu01.com
@@ -441,7 +454,7 @@ fpb1.chinacar.asia
 fcai.com/ifengIndex.html
 fans.*.space/fans/*.php
 ftchinese.com/m/marketing/a.html?v=
-f*.baidu.com/it/u=*,*&fm=$third-party
+f*.baidu.com/it/u=*,*&fm=$third-party,domain=~baijiahao.baidu.com
 funbox.upush.cn/images/funbox/icons/*.gif
 foundertype.com/public/home/img/guidexcx/telpic.png$image
 googleads.
@@ -453,6 +466,7 @@ gszbba.cn
 ghosttty.cn
 georgias.cn
 gotoniubiurl.pw
+g.doubleclick.net
 ge95.com
 gw069.com
 gwylm.com
@@ -522,6 +536,7 @@ ibafnw.cn
 ienkdago.cn
 ivy.pconline.com.cn
 iae365.com
+innvitor.com
 iavfta8090.com
 inte.sogou.com
 isdspeed.qq.com
@@ -550,6 +565,7 @@ ifeng.com/showjs?*apids=
 ithome.com/api/lapin/
 itc.cn/w/u/0/old-insertad-
 itiexue.net/wap/tiexue/js/chuping/nativeshare
+ip.ws.126.net^$domain=~fxingw.com
 jkjjkj.top
 jbflil.cn
 jozee.cn
@@ -614,6 +630,7 @@ mideaqd.com
 mathtag.com
 mall043.com
 mozist.com
+mieyisi.com
 mediav.com
 meooe.com
 mipujia.com
@@ -638,6 +655,8 @@ m.55haitao.com/static/js/common/swiper.js
 mbd.baidu.com/newspage/api/getrelatednews?nid=news_
 mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js
 mycodes.net/js/$image
+mat1.gtimg.com/rain/bailing*.redbeg.png$image
+mat1.gtimg.com/rain/bailing20/f*.png$image
 nbyhj.top
 netsop.cn
 nijiua.com
@@ -649,6 +668,7 @@ nex.163.com
 nbhxgjz.com
 niudashu.com
 nxliyuan.com
+njcn888.com
 nirentang.com
 niuxgame77.com
 nixiclothing.com
@@ -677,6 +697,7 @@ pncdn.cn
 pv061o.cn
 penggua.com.cn
 p.zol-img.com.cn
+pvtest.zol.com.cn
 pmm.people.com.cn
 photo.dongshisheying.cn
 pp9kk.com
@@ -688,11 +709,12 @@ poklytk.com
 pubbirdf.com
 pghwwjd.com
 pos.baidu.com
-pvtest.zol.com.cn
+pingping888.com
 pupu.xnhh120.com
 pp*.hkslg.net^$image
 pfp.sina.net/ea/ad/
 p4yy.com/gg/
+pianku.tv/ajax/MyJs
 phncdn.com/iframe
 pconline.com.cn/_hux_/
 pussl48.com^$third-party
@@ -743,6 +765,7 @@ rannabio.com
 rabc1.iteye.com
 renren.com/static/*?ad_
 search.ditiezu.net
+static.doubleclick.net
 sg888.vip
 s.360.cn
 sclrjyb.cn
@@ -796,8 +819,8 @@ sina.cn*/view?
 shihuo.cn/alibtn_
 sina.cn^*/impress?
 sina.cn/cm/sinaads_
+sina.com.cn/litong/
 sogoucdn.com/wap/js/
-s.go.sohu.com^*/?callback=
 sspai.com/api/v1/recommends?*=article_
 static.cnqiang.com/images/appdlx.jpg$image
 static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
@@ -812,6 +835,8 @@ sohu.com/integration-api/batch/web
 sogou.com/wap_ask_service?
 sogou.com/ask?id=
 sogou.com/cl.gif?
+sinaimg.cn/wap/project/blog_to_news_banner/
+smzdm.com/ajax_m/ajax_618_haojia_floating_layer?article_id=
 sinaimg.cn/mw690/a561b538ly1flbyr7jbg1g208203mdiq.gif
 sinaimg.cn/large/006XXjynly1fp00jsm0fjg30qo01yq5i.gif
 tuia.cn
@@ -826,10 +851,12 @@ trafficjunky.net
 tiantianedu.net
 tiaopimiao.net
 tuan.szonline.net
+t58b.com
 tanx.com
 txtxr.com
 tjgxzs.com
 tiimg.com
+tj.21ic.com
 tcnmf.com
 tajs.qq.com
 tianjin4.com
@@ -944,6 +971,9 @@ yingchengtou.com
 youdao.com/rlog.php
 youtube.com/get_midroll_
 youtube.com/pagead/
+youtube.com/ptracking?
+youtube.com/api/stats/qoe?
+youtube.com/api/stats/ads?
 yingshidaquan.cc/templet/js/
 youdao.com/market/banner/banner
 zndsssp.dangbei.net
@@ -973,6 +1003,7 @@ zhixiuchang.com
 zhunishunli.com
 zhfosenghtr.com
 zhengyejixie.com
+zaitouwang.com
 ztyumn.ifeng.com
 zfds1.tianya999.com
 zhengzhoupengbo.com
@@ -1004,6 +1035,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad_2
 ##.ad-300
 ##.ad_728
+##.ad-article-middle
+##.ad-article-top
 ##.ad_box
 ##.ad-box
 ##.ad-block
@@ -1020,6 +1053,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-item
 ##.ad_item
 ##.ad-img
+##.ad-icon
 ##.ad-link
 ##.ad-line
 ##.ad_pic
@@ -1063,6 +1097,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.appLink
 ##.app-open
 ##.app-ad
+##.app-box
 ##.appAd-line
 ##a.download-app
 ##.bm.a_c
@@ -1075,6 +1110,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bottom-adv
 ##.bds-ads-banner
 ##.bottom_ad_download
+##.bottom_open_app
 ##.bottom-fixed-app
 ##.baichuan-ad-wrapper
 ##.baidu_ads_cell
@@ -1087,7 +1123,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.container_ad
 ##.contentad
 ##.centerAd
+##.call-app-btn
+##.container > .ads
 ##.container > .pic_container
+##.content-video > .ads-player
 ##.down-top
 ##.down-app-box
 ##.down-kanApp
@@ -1103,6 +1142,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.downloadBtn
 ##.downloadApp
 ##div.download-app
+##.daily-header-download
 ##.dahengfu
 ##.ec-ad
 ##.ec_ad
@@ -1112,6 +1152,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.footad
 ##.floatad
 ##.floorAd
+##.foot-ad
 ##.float-openapp
 ##.float-bottom-bar
 ##.g-ad
@@ -1120,6 +1161,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.googleAd300x250
 ##.global_video_bottom_dbtc
 ##.head_ad
+##.head-ad
 ##.hide_ad
 ##.hongbao
 ##.hongbao_hd
@@ -1129,19 +1171,22 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.HomeHeader-openApp
 ##.header-right-download-app
 ##.icon_ad
-##.listad
 ##.j_ads
 ##.js-ad
+##.listad
 ##.leftAd
 ##.logo-download
 ##.link-app-img
 ##.loadApp.tjw_common
 ##.module-ad
 ##.middlead
+##.mobile-footer-download
 ##.MRelateFeedAd
 ##.MHotFeedAd
 ##.m-video-openapp
+##.m-video2-openapp
 ##.m-video-float-openapp
+##.m-video2-float-openapp
 ##.news-ad
 ##.new-free-ad
 ##.open-app
@@ -1149,6 +1194,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open-app-banner
 ##.open-in-app-float
 ##.openapp
+##.openApp
 ##.openInAPP
 ##.OpenInAppButton
 ##.pub_300x250
@@ -1158,6 +1204,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.reply-ad-banner
 ##.rv-open-app-btn
 ##.removeAdsStyle
+##.right > .content > .ads
 ##.softAdsBox
 ##.textAd
 ##.text-ad
@@ -1169,6 +1216,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.topad
 ##.topads
 ##.top-banner-app
+##.top_app_ad
 ##.tg-download-app
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
@@ -1197,11 +1245,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###adLeftFloat
 ###adRightFloat
 ###adscontainer_background_back_index1100_all
-###ad_js_content
+###ad_channel
 ###ad_box_2
 ###ad_top_banner
 ###ad_text:not(textarea)
 ###ad_headerbanner
+###ad_js_content
 ###ad-recommend
 ###apDivd
 ###AppBar
@@ -1215,6 +1264,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###db_ad
 ###div_ad
 ###download_wrap
+###download-wrapper
 ###footer_ad
 ###footerApp
 ###hongbao
@@ -1227,6 +1277,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###jctj.jctj
 ###newapp2018
 ###midThreeAds
+###openapp__fix
 ###player-advertising
 ###pl-ad-after-comments
 ###rightad
@@ -1260,6 +1311,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class*=gmine_ad]
 ##div[class^="ad-inner"]
 ##div[class^="ad_box"]
+##div[class="mobile_header-down cl"]
 ##div[id="ads"]
 ##div[id^="div-gpt-ad"]
 ##div[id*="appDown"]
@@ -1288,6 +1340,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[href*="www.qkweixin.com"]
 ##[href*="bx.baoxianjie.net/shenqing.html"]
 ##[href^="http://www.360doc.cn/khd.aspx"]
+##[href="https://member.guancha.cn/gw-gift/index"]
 ##a[href*="/cpro/"]
 ##a[href*="/cpro."]
 ##a[href*="/?Intr="]
@@ -1349,18 +1402,22 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 1688.com##.roc-downbanner
 17k.com##.book_home_float
 17173.com##.gb-app-gamerss-pop.gb-app-gamerss
+17house.com##.PopupForm
+17house.com##table
+17house.com###wrapper > p
 1905.com##.moviewiki
 1905.com##.mobile_ad_promote
 1905.com##a.tjw_common
 1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
 2.taobao.com##[class="idle-start col"]
 265g.com###swiper-bot
+21ic.com##.topbanner
 3g.cn##.downloan_3G
-360doc-cn.mipcdn.com##.mip-img-loaded.mip-layout-container.mip-element.pic2
 36kr.com##div[class="kr-mobile-goapp"]
 36kr.com##.goapp-btn
 4399.com##.fixed-down
 49914.com##[src="/sucai.gif"]
+51dongshi.com##[width][height][src^="//d.51dongshi.com/"]
 52ain.cn###pic_bg_2
 52pk.com##.add
 56.com##[class^="app-"] > .banner-container
@@ -1386,6 +1443,7 @@ author.baidu.com##.shareEntry-blank
 author.baidu.com##.ht-container
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
+blog.csdn.net##.feed-Sign-span
 bilibili.com###floatBtn
 bilibili.com###openAppBtn
 bilibili.com##.bili-app-link
@@ -1428,6 +1486,7 @@ baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
 baudu.com##div[id="page-copyright"][class="se-page-copyright "][style="margin-bottom: 50px;"]
 baidu.com##article[class*="c-container aladdin__3qKHL"][rl-link-href$=".recommend_list.baidu.com"]
 baidu.com##div[style^="position: relative;overflow: hidden;line-height: 0;z-index: 1;"]
+baidu.com##div[wat-item-data-id="no-img"][class="sfc-image-content-waterfall-item"]
 baidu.com##div[class="c-result result"][srcid][new_srcid][order][tpl="recommend_list"][data-log^="{'fm':'alop','ensrcid':'9Xx','order':'6','waplogo':1,'mu'"]
 baidu.com##.egg-red-envelope
 baidu.com##div[class="na-like-container"]
@@ -1439,6 +1498,7 @@ baijiahao.baidu.com###searchwordSdk
 baijiahao.baidu.com##div.contentPadding.contentMedia.contentSpd
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
+baike.baidu.com###J-super-layer-promote
 btbtdy.com###bot
 baofeng.com###appview
 budejie.com###topBanner
@@ -1476,6 +1536,7 @@ egame.qq.com###installbar
 egame.qq.com##.islider-outer
 egame.qq.com##.ui-util-installbar
 feng.com##.header
+feng.com##.float-tip > [src^="data:image/png"]
 fanyi.baidu.com##.app-bar
 gfan.com##.downs
 hao123.com###btn
@@ -1493,8 +1554,10 @@ huya.com##.chat_btn
 huxiu.com##.js-open-app.bgw.guide-box
 huxiu.com##.topToApp.js-guide-box.js-open-app.bgw.guide-wrap
 huxiu.com##.fresh-article-box
+huxiu.com###guide-box
 huxiu.com###related-article-wrap
 huxiu.com##div[class="placeholder-box"][style="height: 56px;"]
+huxiu.com##.js-top-fixed.bgW.article-detail-swiper-container
 hexun.com##.serchalert
 huajiao.com##.banner
 huajiao.com##.follow
@@ -1513,6 +1576,8 @@ iqiyi.com##div.iqy-items
 iqiyi.com##[class="longDiversion-content"]
 iqiyi.com##div.m-ipRelation.m-ipRelation-full
 iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
+iqiyi.com##.ChannelHomeBanner_hbd_eiF93
+iqiyi.com##a.c-guide-img
 inke.cn##.bottom-fixed-layer
 inke.cn##.fadeout.launch-inkeapp
 inke.cn##.promotion
@@ -1621,8 +1686,11 @@ qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
 qiushibaike.com##.banner
+pcbeta.com,pcbeta.org##div#wp>style+div
+pcbeta.com,pcbeta.org##div[style="width:998px;height:75px;border:1px solid #cdcdcd;border-top:3px solid #009ad9;margin:0 0 10px 0;background:#fff;"]
 sv.baidu.com##[class$=container]
 so.com##.e_idea_list
+so.com##.js-business-list
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
@@ -1632,8 +1700,9 @@ sohu.com##.fade-in.show.float-app-btn
 sohu.com##.advertise
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href*="://sax"]
-sina.cn###j_fixAppBtn
+sina.cn##.an.fl_feedFous
 sina.cn###goActivity
+sina.cn###j_fixAppBtn
 sina.cn###j_nba_banner
 sina.cn##.j_call_native.videoDes_newsApp
 sina.cn##.an.cm_art_push
@@ -1642,6 +1711,12 @@ sina.cn##[src*="/tuijianyuedu.png"]
 sina.cn##[src*="/xiangguan.png"]
 sina.cn##.fl_listen_template
 sina.cn##a[class="j_call_native art_call" ][href="javascript:void(0);"][data-app="news"]
+sina.cn###pl-blog-artad
+sina.cn###pl-blog-tbyy
+sina.cn##a.art_call.j_call_native
+sina.cn###faiz_middle_btn
+sina.cn###faiz_top_banner_swiper
+sina.cn##.j_call_native.sp.cm_fl_call
 sspai.com##.is-shown.open-in-app-button
 sspai.com##div .recommend-card
 suning.com##.v5-headDown
@@ -1651,6 +1726,7 @@ shimo.im##.RbGWk.sc-bwzfXH
 sg169.com##.bottom_khdxz
 smzdm.com##.red-btn.J_ota
 smzdm.com##.swiper-container-ios
+smzdm.com##.hot-price
 share.iclient.ifeng.com##div.huaweiBanner
 share.iclient.ifeng.com##.showIn.personBanner
 share.iclient.ifeng.com###openAppReadAll
@@ -1750,6 +1826,7 @@ wasu.cn##.appdown
 www.05wang.com##img[src*="thumb.1010pic.com"]
 www.baidu.com##.direct-new
 www.baidu.com##.gh-safariicon-container
+www-360doc-cn.mipcdn.com##.mip-img-loaded
 wk.baidu.com###carousel
 wk.baidu.com##.wk-container.fc-btm-root
 wk.baidu.com##.wk-container.gain-doc-block-root
@@ -1770,10 +1847,12 @@ xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.red-block
 xw.qq.com##.hairline-top
 xw.qq.com###taskTips > div[class^="jsx-"]
+xw.qq.com##div[style="max-width:768px;margin:0px auto"] > .top-red
 xinli001.com###AppGuide
 xinli001.com##.red-paper-tool
 ximalaya.com##.btn.tc.xm-btn
 ximalaya.com##.pulse-run.free
+xueqiu.com###swiper
 youku.com###FullPromotion
 youku.com###J_banner
 youku.com###banner
@@ -1782,8 +1861,13 @@ youku.com##.clipboard
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
 youku.com##div[class="Corner-container"][style]
-youtube.com###koya_child_7
 youtube.com##.mealbar-promo-renderer
+youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+youtube.com###YtSparklesVisibilityIdentifier
+youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com##ytm-promoted-sparkles-text-search-renderer
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
+youtube.com##.promoted-sparkles-text-search-root-container
 yy.com###baseText-main
 yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
@@ -1843,6 +1927,7 @@ znds.com###rec-pic
 @@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
 !----------------------------------------------
 app.so#@#[class*="app-down"]
+blog.csdn.net#@#.app-box
 nuomi.com#@##hongbao
 douban.com#@#.download-app
 motrix.app#@#.download-btn
