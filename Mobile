@@ -1495,6 +1495,8 @@ baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baijiahao.baidu.com##.bottomMargin
 baijiahao.baidu.com###searchwordSdk
+baijiahao.baidu.com##.btnContainer
+baijiahao.baidu.com###page_wrapper > div > [class^="uukjsi6a_"]
 baijiahao.baidu.com##div.contentPadding.contentMedia.contentSpd
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
