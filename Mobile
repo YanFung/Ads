@@ -1,14 +1,15 @@
 [Adblock Plus 2.0]
-!Version:2020/8/8/17:30
+!Version:2020/12/13/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:广告反馈QQ群:514536444
-!Homepage:https://raw.githubusercontent.com/YanFung/Ads/master/Mobile.txt
+!Homepage:https://github.com/YanFung/Ads/
 ! 
 !------------------------------
 /104_150/1360_1
 /1*.xhtml?|$third-party,script
 /2*.html?|$third-party,script
+/99rejs/js/adv
 /acmsd/
 /ad0.$domain=~vereinslinie.de
 /ad1.$domain=~ad1.de|~ad1.in|~vereinslinie.de
@@ -85,6 +86,7 @@
 /logo_ad.gif
 /m_dilidili_main.js
 /o.php?u=*|$third-party,script
+/pingd?
 /popunder-
 /pagead/lvz?
 /page/?s=$third-party
@@ -113,6 +115,7 @@
 &ad_ids=
 &ad_type=
 &type=ad&
+&action=js_stats
 &AdRootDomain=&AdDomain=$script
 ?ad_type=
 =adunit&
@@ -141,6 +144,7 @@ _960_90.
 .com/adv/
 .com/ads-
 .com/ads/$image
+.com/css/adv*.css
 .com/ad.$domain=~ad-tuning.de
 .com/ad/$domain=~blogs.technet.microsoft.com|~channel4.com|~cspace.com|~linkedin.com|~mediaplex.com|~online.wsj.com
 .com/li/choujiang
@@ -161,6 +165,7 @@ _960_90.
 0d077ef9e74d8.cdn.sohucs.com
 1024txt.xyz
 1.ttxs123.net
+1.cmiyu.com/jfhlor.js
 198dh.cn
 16k6.com
 1.xilu.com
@@ -313,6 +318,7 @@ bjzcbx.com
 bmgan.com
 baosmx.com
 bnq86.com
+btrace.qq.com
 bds.haochu.com
 bdjs.ixiumei.com
 b17.xiumucn.com
@@ -351,6 +357,7 @@ code.ditiezu.net
 ctrhfd.top
 caduka.cn
 ccbccb.cn
+click.suning.cn
 continuedsys.cn
 chinagcdxyjng.cn
 channn.hzmiyou.cn
@@ -653,6 +660,7 @@ mipengine.baidu.com/common?
 myqqjd.com/wp-content/plugins/*$script
 m.55haitao.com/static/js/common/swiper.js
 mbd.baidu.com/newspage/api/getrelatednews?nid=news_
+mbd.baidu.com/newspage/api/landing?page=landingshare&refresh=
 mipcache.bdstatic.com/static/v1/mip-360doc-script/mip-360doc-script.js
 mycodes.net/js/$image
 mat1.gtimg.com/rain/bailing*.redbeg.png$image
@@ -750,6 +758,7 @@ qdp.qidian.com
 qpb.sohu.com
 quanliyouxi.com
 qiaopiguniang.com
+qq.com/collect?
 qq.com/tbs/tbsad/
 qq.com/xw/getUserH5Games?
 qq.com/static/web/websites/newsplugin/ssp_ad_
@@ -827,7 +836,6 @@ static.thefifthera.com/h5/wapSdk/asset/sdk/sdk-doutui.js
 sinaimg.cn/large/ed5e6a1*.gif
 sinaimg.cn/sina_vr/*vr/bannerbottom.png
 static-cn.plista.com
-sp*.baidu.com*.gif?
 su.bdimg.com/static/dspui/js/
 sohu.com/api/labs/hotnews/c/load?
 sohu.com/integration-api/pure/region
@@ -972,7 +980,6 @@ youdao.com/rlog.php
 youtube.com/get_midroll_
 youtube.com/pagead/
 youtube.com/ptracking?
-youtube.com/api/stats/qoe?
 youtube.com/api/stats/ads?
 yingshidaquan.cc/templet/js/
 youdao.com/market/banner/banner
@@ -1155,6 +1162,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.foot-ad
 ##.float-openapp
 ##.float-bottom-bar
+##.fadeInUp.animated.Appbottom
 ##.g-ad
 ##.gg_320
 ##.google-ad
@@ -1180,19 +1188,17 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.loadApp.tjw_common
 ##.module-ad
 ##.middlead
+##.mobile_header-down
 ##.mobile-footer-download
 ##.MRelateFeedAd
 ##.MHotFeedAd
-##.m-video-openapp
-##.m-video2-openapp
-##.m-video-float-openapp
-##.m-video2-float-openapp
 ##.news-ad
 ##.new-free-ad
 ##.open-app
 ##.open-app-btn
 ##.open-app-banner
 ##.open-in-app-float
+##.open-app-suspension
 ##.openapp
 ##.openApp
 ##.openInAPP
@@ -1247,6 +1253,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###adscontainer_background_back_index1100_all
 ###ad_channel
 ###ad_box_2
+###ad_wrap
 ###ad_top_banner
 ###ad_text:not(textarea)
 ###ad_headerbanner
@@ -1294,10 +1301,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="-ad-body"]
 ##[class^=ec_ad]
 ##[class="f_f"][id="f_f"]
+##[class^="app_slider"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
+##div[class$="-openapp"]
 ##div[class^=ADTOPLB_]
 ##div[class*="appdown_"]
 ##div[class*="appdown-"]
@@ -1413,6 +1422,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 265g.com###swiper-bot
 21ic.com##.topbanner
 3g.cn##.downloan_3G
+3g.163.com##div[class="widget-slider-article-content"]
 36kr.com##div[class="kr-mobile-goapp"]
 36kr.com##.goapp-btn
 4399.com##.fixed-down
@@ -1446,6 +1456,7 @@ blog.sina.cn###pl-float-bar
 blog.csdn.net##.feed-Sign-span
 bilibili.com###floatBtn
 bilibili.com###openAppBtn
+bilibili.com##div[class*="-callapp"]
 bilibili.com##.bili-app-link
 bilibili.com##.pink.f-right.basic.bili-btn
 bilibili.com##.index__cccBtn__M-home-topArea-
@@ -1475,6 +1486,7 @@ baidu.com##.openall3
 baidu.com##article[style*="rgba(255, 0, 0, 0);display:"]
 baidu.com##.navs-bottom-bar
 baidu.com###relative_shop_flow
+baidu.com##.mkt-ball-wrapper
 baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.c-container.ec-container
 baidu.com##.square-banner-icon.index-banner
@@ -1495,9 +1507,10 @@ baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baijiahao.baidu.com##.bottomMargin
 baijiahao.baidu.com###searchwordSdk
-baijiahao.baidu.com##.btnContainer
-baijiahao.baidu.com###page_wrapper > div > [class^="uukjsi6a_"]
+baijiahao.baidu.com##.is-shown
 baijiahao.baidu.com##div.contentPadding.contentMedia.contentSpd
+baijiahao.baidu.com##.btnContainer
+baijiahao.baidu.com##.uukjsi6a_zpZccrqYiI3k
 baike.com##.clearfix.hd_ad_app
 baike.com##[class$=-ad]
 baike.baidu.com###J-super-layer-promote
@@ -1548,11 +1561,16 @@ hroot.com##.TJ_app
 hupu.com##.m-app
 hupu.com##section.money-box > section.bottom > img.money-img
 hupu.com###J_live_container
+hupu.com##.swiper-header
+hupu.com##.hot-topic-wrapper
 huya.com##.banner-wrap
 huya.com###swiper-banner
 huya.com##.u-btn-down.header-app-btn
 huya.com##.u-btn-down.start-btn
 huya.com##.chat_btn
+huya.com###template
+huya.com##.u-btn-down
+huya.com##.header-app-btn
 huxiu.com##.js-open-app.bgw.guide-box
 huxiu.com##.topToApp.js-guide-box.js-open-app.bgw.guide-wrap
 huxiu.com##.fresh-article-box
@@ -1669,6 +1687,8 @@ open.163.com##.call_app
 play.163.com##.m-fixedTop
 play.163.com###FixedBot
 pptv.com###installApp
+pptv.com##.foot_app
+pptv.com##.layout-discuss.layout
 pearvideo.com###actApp
 pcauto.com.cn##.m-price-enter
 pcauto.com.cn##.ivy_bbs_topimg.wraper
@@ -1828,6 +1848,9 @@ wasu.cn##.appdown
 www.05wang.com##img[src*="thumb.1010pic.com"]
 www.baidu.com##.direct-new
 www.baidu.com##.gh-safariicon-container
+www.baidu.com##.med-invoke-box
+www.baidu.com##.rw-list-container2.rw-list-container > .c-line-clamp1
+www.baidu.com##.c-invoke-willshow-class.c-line-clamp1
 www-360doc-cn.mipcdn.com##.mip-img-loaded
 wk.baidu.com###carousel
 wk.baidu.com##.wk-container.fc-btm-root
@@ -1850,6 +1873,7 @@ xiaohongshu.com##.red-block
 xw.qq.com##.hairline-top
 xw.qq.com###taskTips > div[class^="jsx-"]
 xw.qq.com##div[style="max-width:768px;margin:0px auto"] > .top-red
+xw.qq.com##.focus_slider
 xinli001.com###AppGuide
 xinli001.com##.red-paper-tool
 ximalaya.com##.btn.tc.xm-btn
