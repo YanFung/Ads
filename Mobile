@@ -1476,6 +1476,7 @@ baidu.com###page-copyright
 baidu.com##.index-banner-text
 baidu.com##.suggest-hot
 baidu.com##[class*=afd]
+baidu.com##[class^="ball-wrapper"]
 baidu.com##[class=related-news]
 baidu.com##.news-container
 baidu.com##.banners
