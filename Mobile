@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!Version:2020/12/13/17:30
+!Version:2021/8/8/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:广告反馈QQ群:514536444
@@ -1285,7 +1285,9 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###jctj.jctj
 ###newapp2018
 ###midThreeAds
+###masthead-ad
 ###openapp__fix
+###player-ads
 ###player-advertising
 ###pl-ad-after-comments
 ###rightad
@@ -1890,13 +1892,6 @@ youku.com##.clipboard
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
 youku.com##div[class="Corner-container"][style]
-youtube.com##.mealbar-promo-renderer
-youtube.com##YTM-PROMOTED-VIDEO-RENDERER
-youtube.com###YtSparklesVisibilityIdentifier
-youtube.com##ytm-promoted-sparkles-web-renderer
-youtube.com##ytm-promoted-sparkles-text-search-renderer
-youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
-youtube.com##.promoted-sparkles-text-search-root-container
 yy.com###baseText-main
 yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
