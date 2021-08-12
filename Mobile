@@ -1127,6 +1127,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn.app-open-btn
 ##.btn_openapp
 ##.btn-open-app
+##.btn_open_app_prompt_item
 ##.container_ad
 ##.contentad
 ##.centerAd
@@ -1457,6 +1458,7 @@ author.baidu.com##.ht-container
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 blog.csdn.net##.feed-Sign-span
+blog.csdn.net##.weixin-shadowbox
 bilibili.com###floatBtn
 bilibili.com###openAppBtn
 bilibili.com##div[class*="-callapp"]
