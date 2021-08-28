@@ -1464,19 +1464,6 @@ blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##.weixin-shadowbox
-bilibili.com###floatBtn
-bilibili.com###openAppBtn
-bilibili.com##div[class*="-callapp"]
-bilibili.com##.bili-app-link
-bilibili.com##.pink.f-right.basic.bili-btn
-bilibili.com##.index__cccBtn__M-home-topArea-
-bilibili.com##.index__upBtn__M-videoPage-topArea-
-bilibili.com##.index__cccTips__M-videoPage-player-
-bilibili.com##.index__openBtn__M-commonComponent-openBtn-
-bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
-bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
-bilibili.com##.index__openBtn__src-commonComponent-openBtn-
-bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 baidu.com###header > [style="overflow: hidden;background: #fff;"]
 baidu.com##div[class="c-result result"][srcid="med_invoke_box"][tpl="med_invoke_box"]
 baidu.com##div[class="gh-safari-btn-wrap2"]
