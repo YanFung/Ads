@@ -57,6 +57,7 @@
 /common/cf/$image
 /csi_204?$image
 /cpro/ui/*
+/d/*-*-*.ap|$script
 /footerad.
 /fuckadblock.js
 /floatad.$domain=~fwxgx.com
@@ -128,6 +129,7 @@ _yad_jsonp_
 _300_250.
 _728_90.
 _960_90.
+:10443/*/*-*-*.js
 :5678/mb1/wap_
 :8888/mb1/wap_
 .8ox.cn
@@ -573,6 +575,7 @@ ithome.com/api/lapin/
 itc.cn/w/u/0/old-insertad-
 itiexue.net/wap/tiexue/js/chuping/nativeshare
 ip.ws.126.net^$domain=~fxingw.com
+jinrongwang.net
 jkjjkj.top
 jbflil.cn
 jozee.cn
