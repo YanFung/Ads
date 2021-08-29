@@ -1137,6 +1137,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.contentad
 ##.centerAd
 ##.callApp_fl_btn
+##.callApp_fl_btn_di
 ##.call-app-btn
 ##.container > .ads
 ##.container > .pic_container
@@ -1293,6 +1294,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###newapp2018
 ###midThreeAds
 ###masthead-ad
+###midThreeAds
 ###openapp__fix
 ###player-ads
 ###player-advertising
@@ -1681,7 +1683,6 @@ miaopai.com##.footer
 news.baidu.com###share
 nbd.com.cn##[class=header]
 neihanshe.cn##.tips_bar
-news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 news.ifeng.com##[class^=content-]>[class^=link-]
 open.163.com##.fix-bot
 open.163.com##.call_app
