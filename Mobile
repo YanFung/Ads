@@ -39,6 +39,7 @@
 /ad_banner.
 /ad-banner.
 /ad_unified_access?
+/ad_status.js
 /adproxy.
 /ad/side_
 /ads_image/
@@ -982,9 +983,6 @@ yijieweizf.com
 yes1.feng.com
 yingchengtou.com
 youdao.com/rlog.php
-youtube.com/get_midroll_
-youtube.com/pagead/
-youtube.com/ptracking?
 youtube.com/api/stats/ads?
 yingshidaquan.cc/templet/js/
 youdao.com/market/banner/banner
@@ -1121,6 +1119,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bottomads
 ##.bottom-adv
 ##.bds-ads-banner
+##.badge-style-type-ad
 ##.bottom_ad_download
 ##.bottom_open_app
 ##.bottom-fixed-app
@@ -1309,6 +1308,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###xinnxi
 ###_embed_v3_dc
 !--------------------------------------------
+##[layout*="display-ad-"]
 ##[class^="adv-doc-top"]
 ##[class*="-ad-body"]
 ##[class^=ec_ad]
@@ -1362,6 +1362,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[href*="bx.baoxianjie.net/shenqing.html"]
 ##[href^="http://www.360doc.cn/khd.aspx"]
 ##[href="https://member.guancha.cn/gw-gift/index"]
+##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href*="/cpro/"]
 ##a[href*="/cpro."]
 ##a[href*="/?Intr="]
