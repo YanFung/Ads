@@ -1482,7 +1482,6 @@ baidu.com##[class=related-news]
 baidu.com##.news-container
 baidu.com##.banners
 baidu.com##[class^="openApp"]
-baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.openall3
 baidu.com##article[style*="rgba(255, 0, 0, 0);display:"]
