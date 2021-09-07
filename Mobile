@@ -1557,6 +1557,7 @@ fanyi.baidu.com##.app-bar
 gfan.com##.downs
 guancha.cn##.g_swiper_container
 guancha.cn##.g_header44
+gerenjianli.com##[src^="https://ss.gerenjianli.com"]
 hao123.com###btn
 hao123.com##.popup
 hao123.com##[class*="cn_tips"]
