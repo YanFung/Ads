@@ -56,6 +56,7 @@
 /bottomad/
 /common/ad
 /common/cf/$image
+/common/openjs/openBox.js
 /csi_204?$image
 /cpro/ui/*
 /d/*-*-*.ap|$script
