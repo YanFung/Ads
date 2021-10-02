@@ -1164,9 +1164,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div.download-app
 ##.daily-header-download
 ##.dahengfu
-##.ec-ad
-##.ec_ad
-##.ec_ad_results
 ##.ec_wise_ad
 ##.error > #qqs
 ##.footad
@@ -1319,7 +1316,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[layout*="display-ad-"]
 ##[class^="adv-doc-top"]
 ##[class*="-ad-body"]
-##[class^=ec_ad]
+##[class*="ec_ad"]
+##[class*="ec-ad"]
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
