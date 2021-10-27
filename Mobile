@@ -1137,7 +1137,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###newapp2018
 ###midThreeAds
 ###masthead-ad
-###midThreeAds
 ###openapp__fix
 ###player-ads
 ###player-advertising
@@ -1635,6 +1634,7 @@ tv.sohu.com##.banner-container
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##.actv-banner
 tv.sohu.com##.btn-comment-app
+tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 tieba.baidu.com##.ui_image_header_bottom
 tieba.baidu.com##.img_info_introduce
 tieba.baidu.com##[class^=footer]
@@ -1647,17 +1647,6 @@ tieba.baidu.com##.panel_bottom
 tieba.baidu.com##.father-cut-recommend-normal-box
 tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
 tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
-tieba.baidu.com##.clearfix.top-sec
-tieba.baidu.com##.r-top-sec
-tieba.baidu.com###spage_liveshow_slide
-tieba.baidu.com##.u_member
-tieba.baidu.com###celebrity
-tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
-tieba.baidu.com##.tbui_fbar_share.tbui_aside_fbar_button
-tieba.baidu.com##.tbui_fbar_feedback.tbui_aside_fbar_button
-tieba.baidu.com##.pb_bright_share.p_share_ding
-tieba.baidu.com##.celebrity.aside_region
-tieba.baidu.com###spage_game_tab_wrapper
 tieba.baidu.com##.clearfix.top-sec
 tieba.baidu.com##.r-top-sec
 tieba.baidu.com###spage_liveshow_slide
