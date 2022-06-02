@@ -89,7 +89,6 @@
 /logo_ad.gif
 /m_dilidili_main.js
 /o.php?u=*|$third-party,script
-/btn-open-app.png$image
 /pingd?
 /popunder-
 /pagead/lvz?
@@ -1402,6 +1401,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src*="tui.30pan.com"]
 ##img[src$="/90.jpg"]
 ##img[src*="ganxiyizu.com"]
+##img[src*="/btn-open-app.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
 ##img[src="https://www.9uys.co/img2/nq2.gif"]
