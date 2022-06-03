@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!Version:2021/10/8/17:30
+!Version:2022/6/8/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
@@ -1530,6 +1530,7 @@ bing.com###BottomAppPro
 blog.csdn.net##div[class="weixin-shadowbox wap-shadowbox"]
 bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.guilinlife.com###los
+bilibili.com##.mplayer-widescreen-callapp
 cnmo.com##ul[class="entrance"]
 coolapk.com##.under
 coolapk.com###head
