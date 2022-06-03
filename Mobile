@@ -1543,8 +1543,6 @@ cloud.tencent.com##.com-event-panel
 colg.cn##.box-flex.container
 dxy.cn##.page-wrap > .wrap
 dushu.baidu.com##.openBox-shareEntry
-dilidili.wang##.h5game
-dilidili.wang##img[src^="/uploads/"]
 douyu.com##.layout-ball
 douyu.com##.see-super-definition-videos
 douyu.com##.HomeFooter-downLoadClient
@@ -1947,14 +1945,8 @@ znds.com###rec-pic
 *$script,third-party,xmlhttprequest,domain=m.23txt.com|wap.biqiuge.com
 !------------------白名单-------------------
 @@||*/js/ads_*$script,domain=author.baidu.com
-@@tiimg.com$image,domain=m.yuewz.com
 @@/adpic/$xmlhttprequest,domain=baidu.com
 @@||m.baidu.com/tcx?appui=*$xhr,domain=m.baidu.com
-@@||apps.bdimg.com/libs/zepto/1.1.3/zepto.min.js$script,domain=m.qu.la
-@@||edge.yunjiasu.com/cdn-cgi/scripts/*/cloudflare-static/mirage2.min.js$script,domain=m.biquge.com.tw
-@@||m.12365chia.com/js/rotation.js$xmlhttprequest,domain=m.dilidili.wang
-@@||m.123du.cc$xmlhttprequest,domain=m.123du.cc
-@@||m.bokon.net*$xmlhttprequest,domain=m.bokon.net
 !----------------------------------------------
 app.so#@#[class*="app-down"]
 blog.csdn.net#@#.app-box
