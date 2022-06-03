@@ -1544,6 +1544,7 @@ colg.cn##.box-flex.container
 dxy.cn##.page-wrap > .wrap
 dushu.baidu.com##.openBox-shareEntry
 douyu.com##.layout-ball
+douyu.com###root > div.HomePage > a.DownloadBtn
 douyu.com##.see-super-definition-videos
 douyu.com##.HomeFooter-downLoadClient
 doutula.com###abptip
