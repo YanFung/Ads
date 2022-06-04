@@ -1321,6 +1321,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="ec-ad"]
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
+##[class="site-top__open-app"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[ad_name]
 ##div[class$="_ads"]
@@ -1349,6 +1350,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[id*="app_down"]
 ##div[id*="downapp"]
 ##div[id*="downApp"]
+##div[dt-eid="open_app_bottom"]
 ##div[data-href^="https://www.insuf.cn"]
 ##div[data-href*="www.xingtai0.com"]
 ##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
@@ -1610,6 +1612,8 @@ ifanr.com##.popup-shown.popup-download.popup-top.popup
 ifeng.com##.ifengLookori
 i.y.qq.com##.js_pg_content.top_operation_box
 i.y.qq.com##.js_tj.js_download.btn_download
+iqiyi.com##div.m-box-items-full.m-box-items
+iqiyi.com##.hotWords-wrap
 jstv.com###slider
 jfdaily.com###xiazaiBottom
 jianshu.com##.header-download
@@ -1824,17 +1828,6 @@ uuu9.com##.yoyofc
 v.6.cn##.zoro
 v.6.cn##.charge
 v2ex.com##[class^=sidebar_]
-v.qq.com##._banner.btn_open_v
-v.qq.com##.btn_promotion
-v.qq.com##div[_hot="banner"]
-v.qq.com##div[_hot="commentsbanner"]
-v.qq.com##div[_hot="minisbanner"]
-v.qq.com###banner
-v.qq.com##.swiper-wrapper.source_container
-v.qq.com##[id*=game_rec]
-v.qq.com###vip_privilege
-v.qq.com###vip_activity
-v.qq.com##.mod_game_rec.mod_box
 weibo.cn##.appTips
 weibo.cn##.m-container-max.tips
 weibo.com##.showed.open_dialogbanner.open.footer_banner
@@ -1888,6 +1881,9 @@ yiche.com##.float-r-box
 yidianzixun.com##.banner
 yxflz.com##.c_box > div[style]
 yuedu.163.com##img[src*="/yunyuedu.png"]
+youku.com###download_btn
+youku.com##.callEnd_fixed_box
+youku.com##img[src^="//ykimg.alicdn.com/develop/image/"]
 zhanqi.tv##.footer
 zhanqi.tv##.js-btn-open-app.footer-suspend
 zongheng.com##[id^=laialaia]
