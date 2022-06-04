@@ -1599,18 +1599,6 @@ huajiao.com##.tool-bar-open
 huanqiu.com##.fubiao-dialog
 huanmusic.com##.am-content > .am-g
 ixigua.com##a[href][class][data-action-label][data-tag="ad.platform.site"]
-iqiyi.com##.po-fixed.m-guide
-iqiyi.com##.link-app
-iqiyi.com##a.c-btn.c-btn-block
-iqiyi.com###bottomNativePopup
-iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
-iqiyi.com##.m-wl-borderT.m-wl-entrance
-iqiyi.com##div.iqy-items
-iqiyi.com##[class="longDiversion-content"]
-iqiyi.com##div.m-ipRelation.m-ipRelation-full
-iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
-iqiyi.com##.ChannelHomeBanner_hbd_eiF93
-iqiyi.com##a.c-guide-img
 inke.cn##.bottom-fixed-layer
 inke.cn##.fadeout.launch-inkeapp
 inke.cn##.promotion
@@ -1890,14 +1878,6 @@ xinli001.com##.red-paper-tool
 ximalaya.com##.btn.tc.xm-btn
 ximalaya.com##.pulse-run.free
 xueqiu.com###swiper
-youku.com###FullPromotion
-youku.com###J_banner
-youku.com###banner
-youku.com###Bigdrama
-youku.com##.clipboard
-youku.com##div[id][class*="circle-wrapper"]
-youku.com##div[style^="width: 100px; height: 100px; "]
-youku.com##div[class="Corner-container"][style]
 yy.com###baseText-main
 yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
