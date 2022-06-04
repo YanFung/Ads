@@ -1882,7 +1882,8 @@ yidianzixun.com##.banner
 yxflz.com##.c_box > div[style]
 yuedu.163.com##img[src*="/yunyuedu.png"]
 youku.com###download_btn
-youku.com##.callEnd_fixed_box
+youku.com##div.callEnd_fixed_box
+youku.com##div.callEnd_box
 youku.com##img[src^="//ykimg.alicdn.com/develop/image/"]
 zhanqi.tv##.footer
 zhanqi.tv##.js-btn-open-app.footer-suspend
