@@ -1885,6 +1885,7 @@ youku.com###download_btn
 youku.com##div.callEnd_fixed_box
 youku.com##div.callEnd_box
 youku.com##img[src^="//ykimg.alicdn.com/develop/image/"]
+youku.com##div[class^="clipboard h5-detail"]
 zhanqi.tv##.footer
 zhanqi.tv##.js-btn-open-app.footer-suspend
 zongheng.com##[id^=laialaia]
