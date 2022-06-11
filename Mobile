@@ -1322,6 +1322,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
 ##[class="site-top__open-app"]
+##[class="bili-app-link-container none-select"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[ad_name]
 ##div[class$="_ads"]
