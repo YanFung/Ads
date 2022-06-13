@@ -1077,6 +1077,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ad-widget
 ##.ad-wrapper
 ##.ad_xuanban
+##.AD-BOX-CON
 ##.ads
 ##.ads-item
 ##.ads-post
@@ -1837,6 +1838,7 @@ weibo.com##.open_dialogbanner.open.midbanner
 weibo.com##.swiper-wrapper
 weibo.cn##.m-ctrl-box
 weibo.cn##.footer-bar.m-btn-orange.m-btn-block.m-btn
+weibo.cn##.weibo-main + div[class]
 wasu.cn##.ws_more_app
 wasu.cn##.appdown
 www.05wang.com##img[src*="thumb.1010pic.com"]
