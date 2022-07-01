@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!Version:2022/6/8/17:30
+!Version:2022/7/8/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
@@ -1214,6 +1214,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.openapp
 ##.openApp
 ##.openInAPP
+##.openapp-content 
+##.openapp-mask
 ##.OpenInAppButton
 ##.pub_300x250
 ##.rt_ad
@@ -1536,6 +1538,8 @@ blog.csdn.net##div[class="weixin-shadowbox wap-shadowbox"]
 bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.guilinlife.com###los
 bilibili.com##.mplayer-widescreen-callapp
+bilibili.com##.m-video2-awaken-btn
+bilibili.com##.mplayer-buff-app
 cnmo.com##ul[class="entrance"]
 coolapk.com##.under
 coolapk.com###head
