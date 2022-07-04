@@ -1387,6 +1387,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/Register/?a="]
 ##A[href*=".com/?Agent="]
+##a[href^="http://gamein.baidu.com/game/"]
 ##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*="http"] > img[src$=".gif"][width="100%"]
 ##a[href] > img[style][src*="/upload.cc"]
