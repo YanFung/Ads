@@ -1714,8 +1714,6 @@ pan.baidu.com##.activity-icon
 pan.baidu.com##.active-msg
 pan.baidu.com##.box
 pansou.com##div[style*="width: 70%;height: 40px;"]
-qq.com##+js(json-prune, ad, vinfo)
-qq.com##+js(json-prune, ad, errCode)
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
