@@ -1197,10 +1197,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.logo-download
 ##.link-app-img
 ##.loadApp.tjw_common
+##.home-float-openapp.launch-app-btn
 ##.module-ad
 ##.middlead
 ##.mobile_header-down
 ##.mobile-footer-download
+##.m-video2-awaken-btn
 ##.MRelateFeedAd
 ##.MHotFeedAd
 ##.news-ad
@@ -1608,6 +1610,8 @@ huajiao.com##.open_huajiao
 huajiao.com##.tool-bar-open
 huanqiu.com##.fubiao-dialog
 huanmusic.com##.am-content > .am-g
+hanyu.baidu.com###J_Suspens
+hanyu.baidu.com##.promotion-top-el
 ixigua.com##a[href][class][data-action-label][data-tag="ad.platform.site"]
 inke.cn##.bottom-fixed-layer
 inke.cn##.fadeout.launch-inkeapp
@@ -1893,6 +1897,7 @@ youku.com##div.callEnd_fixed_box
 youku.com##div.callEnd_box
 youku.com##img[src^="//ykimg.alicdn.com/develop/image/"]
 youku.com##div[class^="clipboard h5-detail"]
+youku.com##[class^="u-phone_"]
 zhanqi.tv##.footer
 zhanqi.tv##.js-btn-open-app.footer-suspend
 zongheng.com##[id^=laialaia]
