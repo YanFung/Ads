@@ -98,6 +98,7 @@
 /runtime/ad/*
 /site/ads?
 /ssp_ad.*.js
+/tj.js
 /topad/
 /track.gif?
 /template/*/ads/*
