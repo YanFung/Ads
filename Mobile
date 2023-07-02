@@ -1943,6 +1943,7 @@ znds.com###rec-pic
 @@||*/js/ads_*$script,domain=author.baidu.com
 @@/adpic/$xmlhttprequest,domain=baidu.com
 @@||m.baidu.com/tcx?appui=*$xhr,domain=m.baidu.com
+@@/tj.js$script,domain=122.gov.cn
 !----------------------------------------------
 app.so#@#[class*="app-down"]
 blog.csdn.net#@#.app-box
