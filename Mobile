@@ -11,6 +11,7 @@
 /2*.html?|$third-party,script
 /99rejs/js/adv
 /acmsd/
+/adserver$xhr
 /ad0.$domain=~vereinslinie.de
 /ad1.$domain=~ad1.de|~ad1.in|~vereinslinie.de
 /ad2.$domain=~vereinslinie.de
@@ -657,6 +658,7 @@ mobads.baidu.com
 mushizhubao.com
 mengchengbao.com
 maw.wnbfw.com
+mvgucp.com
 m.youmengkm.com
 m.92to.com/tj/*.json
 mipcdn.com^*/mip-*ad
@@ -1726,6 +1728,8 @@ qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
 qiushibaike.com##.banner
+qb5.co##[href="https://qqmh.app"]
+qb5.co##[src^="http://danm.xsgyfm.com"]
 sv.baidu.com##[class$=container]
 so.com##.e_idea_list
 so.com##.js-business-list
