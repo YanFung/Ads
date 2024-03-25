@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!Version:2023/7/8/17:30
+!Version:2024/7/8/17:30
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
@@ -1141,6 +1141,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn_app_link
 ##.btn.app-open-btn
 ##.btn_openapp
+##.btn-open-adpp
 ##.btn-open-app
 ##.btn_open_app_prompt_item
 ##.btn_open_app_prompt_div
@@ -1209,6 +1210,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.middlead
 ##.mobile_header-down
 ##.mobile-footer-download
+##.mplayer-control-btn-callapp
 ##.m-video2-awaken-btn
 ##.MRelateFeedAd
 ##.MHotFeedAd
@@ -1216,6 +1218,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.new-free-ad
 ##.oo-ad
 ##.open-app
+##.open-app-button
 ##.open-app-btn
 ##.open-app-banner
 ##.open-in-app-float
@@ -1247,6 +1250,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.top-banner-app
 ##.top_app_ad
 ##.tg-download-app
+##.tabs-component-search-app
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
 ##.trc_rbox .syndicatedItem
@@ -1289,6 +1293,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###bottomAd
 ###baoxianAd
 ###bottomads
+###btn-call-app
 ###callVideoAppHeader
 ###container.container > a.item
 ###container > #pic_container
