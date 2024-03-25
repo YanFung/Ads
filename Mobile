@@ -449,6 +449,7 @@ eduad.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
 erebor.douban.com
+fv7q2.com
 fuyigo.top
 fastapi.net
 fecjf.cn
@@ -1968,5 +1969,8 @@ znds.com###rec-pic
 app.so#@#[class*="app-down"]
 blog.csdn.net#@#.app-box
 nuomi.com#@##hongbao
+finn.no#@#.ads
 douban.com#@#.download-app
 motrix.app#@#.download-btn
+mail.google.com#@#.ads
+roblox.com#@#div[class$="-ads"]
