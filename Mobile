@@ -1397,6 +1397,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[src="https://jt.dangbei.net/img/news/news_dbtouying.jpg"]
 ##[href*="630031.com"]
 ##[href*="lolbaicai.com"]
+##[href^="https://app.smzdm.com/xiazai/?json="]
 ##[href*="ad.doubleclick.net"]
 ##[href*="www.qkweixin.com"]
 ##[href*="bx.baoxianjie.net/shenqing.html"]
@@ -1598,6 +1599,7 @@ engadget.com##.mt-20.container\@m-
 egame.qq.com###installbar
 egame.qq.com##.islider-outer
 egame.qq.com##.ui-util-installbar
+flyert.com###topHeader
 feng.com##.header
 feng.com##div.top-bar > button
 feng.com##.float-tip > [src^="data:image/png"]
