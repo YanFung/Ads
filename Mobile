@@ -1204,6 +1204,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.icon_ad
 ##.j_ads
 ##.js-ad
+##.js-open-app
 ##.listad
 ##.leftAd
 ##.logo-download
@@ -1298,6 +1299,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###apDivd
 ###AppBar
 ###app-layer
+###bottomBtnGoApp
 ###bottomAd
 ###baoxianAd
 ###bottomads
@@ -1319,6 +1321,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###js-download
 ###js-fix-download
 ###jctj.jctj
+###longopenApp_btn
 ###newapp2018
 ###midThreeAds
 ###masthead-ad
@@ -1347,6 +1350,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class*="ec-ad"]
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
+##[class="Button css-183aq3r Button--blue"]
 ##[class="site-top__open-app"]
 ##[class="bili-app-link-container none-select"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
@@ -1745,6 +1749,7 @@ pansou.com##div[style*="width: 70%;height: 40px;"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
+qidian.com##[class="bottom-float"]
 qiushibaike.com##.banner
 qb5.co##[href="https://qqmh.app"]
 qb5.co##[src^="http://danm.xsgyfm.com"]
