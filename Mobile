@@ -1149,6 +1149,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.btn_open_app_prompt_item
 ##.btn_open_app_prompt_div
 ##.btnForAppOpenA
+##.bottom-bar_buttonWrap__NXBe-
 ##.container_ad
 ##.contentad
 ##.centerAd
@@ -1215,10 +1216,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.mobile-footer-download
 ##.mplayer-control-btn-callapp
 ##.m-video2-awaken-btn
+##.main-video_downloaderMainVideo__-U0bL
 ##.MRelateFeedAd
 ##.MHotFeedAd
 ##.news-ad
 ##.new-free-ad
+##.new-recommend_wrapper__oj9SS
 ##.oo-ad
 ##.open-app
 ##.open-app-button
@@ -1242,6 +1245,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.removeAdsStyle
 ##.right > .content > .ads
 ##.softAdsBox
+##.slider-top-bar_newSliderWrapper__UwCbo
 ##.textAd
 ##.text-ad
 ##.text-ads
@@ -1268,7 +1272,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.write_ad
 ##.wgt-ad-recommend
 ##.web-header-ad-item
-## .YWBDAD
+##.YWBDAD
 ##.ymw-app-open
 ##.ytp-ad-progress-list
 !----------------------------------------- 
