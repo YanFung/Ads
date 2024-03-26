@@ -1342,6 +1342,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###windlocation
 ###xinnxi
 ###_embed_v3_dc
+###__stay_inject_selecte_ad_tag_js_
 !--------------------------------------------
 ##[layout*="display-ad-"]
 ##[class^="adv-doc-top"]
