@@ -1359,6 +1359,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="bili-app-link-container none-select"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[class^="Button Button--primary Button--blue Button--withLabel css-"]
+##[class="news-banner-container download_app"]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
@@ -1777,6 +1778,7 @@ sohu.com##a[href^="/f/"]
 sohu.com###apkBanner
 sohu.com##.fade-in.show.float-app-btn
 sohu.com##.advertise
+sohu.com###CallAppContainer
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href*="://sax"]
 sina.cn##.an.fl_feedFous
