@@ -1201,6 +1201,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.HomeHeader-openAppB
 ##.HomeHeader-openApp
 ##.header-right-download-app
+##.home-float-openapp.launch-app-btn
 ##.icon_ad
 ##.j_ads
 ##.js-ad
@@ -1210,7 +1211,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.logo-download
 ##.link-app-img
 ##.loadApp.tjw_common
-##.home-float-openapp.launch-app-btn
+##.KfeCollection-VipRecommendCard
 ##.module-ad
 ##.middlead
 ##.mobile_header-down
@@ -1355,6 +1356,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="Button css-183aq3r Button--blue"]
 ##[class="site-top__open-app"]
 ##[class="bili-app-link-container none-select"]
+##[class^="Button Button--primary Button--blue Button--withLabel css-"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##div[ad_name]
 ##div[class$="_ads"]
