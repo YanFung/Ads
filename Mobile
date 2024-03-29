@@ -1122,6 +1122,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.app-box
 ##.appAd-line
 ##.app_download_box
+##.appDown-gallery
 ##a.download-app
 ##.abtn_openapp
 ##.bm.a_c
@@ -1273,6 +1274,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.wp.a_t
 ##.wp.a_f
 ##.wp.a_h
+##.wap__bottom-app-button
 ##.write_ad
 ##.wgt-ad-recommend
 ##.web-header-ad-item
@@ -1307,6 +1309,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###baoxianAd
 ###bottomads
 ###btn-call-app
+###bottom-fixed-wrapper
 ###callVideoAppHeader
 ###container.container > a.item
 ###container > #pic_container
@@ -1459,6 +1462,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src*="www.zuixinkanpian.com/upload/art_editor/"]
 ##img[src*="gbfek.dfcfw.com/project/gubawap/ad/"]
 ##img[src="img/qkwx_m.jpg"][style="display: block; width: 100%; height: auto;"]
+##img[src^="https://dg-fd.zol-img.com.cn/t_s640x2000"]
 ##img[style="width: 950px; height: 60px; left: 10px;"][src*="/upload.cc"]
 ##img[style="width:100%;"][src*="src.pcsoft.com.cn"]
 ##img[lazyload*="/jingyan.baidu.com/event/img/"]
@@ -1606,8 +1610,11 @@ dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
 douban.com##.promo_top_banner
 douban.com###topnav-openapp
+douban.com##.TalionNav-static > *
 dgtle.com##.footer-abox
 download.csdn.net##.fixed_box
+duitang.com###bottomBrowBtn2
+duitang.com###topBtn1
 engadget.com##.mt-20.container\@m-
 egame.qq.com###installbar
 egame.qq.com##.islider-outer
