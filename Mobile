@@ -2,7 +2,7 @@
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
-!Version:20240506
+!Version:20240409
 !Last modified:2024/05/06 21:31 +0800
 !Homepage:https://github.com/YanFung/Ads/
 ! 
@@ -1236,6 +1236,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open-app-suspension
 ##.openapp
 ##.openApp
+##.open-btn
 ##.openapp_
 ##.openInAPP
 ##.openapp-content 
@@ -1275,6 +1276,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.wp.a_f
 ##.wp.a_h
 ##.wap__bottom-app-button
+##.wise-download-tip
 ##.write_ad
 ##.wgt-ad-recommend
 ##.web-header-ad-item
@@ -1308,6 +1310,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###bottomAd
 ###baoxianAd
 ###bottomads
+###bottomBrowBtn2
 ###btn-call-app
 ###bottom-fixed-wrapper
 ###callVideoAppHeader
@@ -1319,6 +1322,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###download-wrapper
 ###footer_ad
 ###footerApp
+###goAppWrap
 ###hongbao
 ###head_ad
 ###installAppFixed
@@ -1329,10 +1333,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###jctj.jctj
 ###longopenApp_btn
 ###newapp2018
+###new-top-btn.m-song-unityTop
 ###midThreeAds
 ###masthead-ad
 ###midThreeAds
 ###openapp__fix
+###opeApp
 ###OCCC_TOP_AD
 ###player-ads
 ###player-advertising
@@ -1364,6 +1370,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[class^="Button Button--primary Button--blue Button--withLabel css-"]
 ##[class="news-banner-container download_app"]
+##[class^="slider-top-bar_sliderWrapper"]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
@@ -1408,6 +1415,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[src="https://jt.dangbei.net/img/news/news_dbtouying.jpg"]
 ##[href*="630031.com"]
 ##[href*="lolbaicai.com"]
+##[href^="https://universalxx.yuewen.com/web2app.html"]
 ##[href^="https://app.smzdm.com/xiazai/?json="]
 ##[href*="ad.doubleclick.net"]
 ##[href*="www.qkweixin.com"]
@@ -1620,6 +1628,7 @@ egame.qq.com###installbar
 egame.qq.com##.islider-outer
 egame.qq.com##.ui-util-installbar
 flyert.com###topHeader
+fnscore.cn##.button
 feng.com##.header
 feng.com##div.top-bar > button
 feng.com##.float-tip > [src^="data:image/png"]
