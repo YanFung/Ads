@@ -62,6 +62,7 @@
 /csi_204?$image
 /cpro/ui/*
 /d/*-*-*.ap|$script
+/douban-ad-helper.js
 /footerad.
 /fuckadblock.js
 /floatad.$domain=~fwxgx.com
@@ -1185,6 +1186,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.floatad
 ##.floorAd
 ##.foot-ad
+##.feng-ad
 ##.float-openapp
 ##.float-bottom-bar
 ##.fadeInUp.animated.Appbottom
@@ -1226,6 +1228,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.MHotFeedAd
 ##.news-ad
 ##.new-free-ad
+##.nav-open-app
 ##.new-recommend_wrapper__oj9SS
 ##.oo-ad
 ##.open-app
@@ -1246,6 +1249,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.rt_ad
 ##.rightad
 ##.reply-ad
+##.rynb_open_btn
 ##.reply-ad-banner
 ##.rv-open-app-btn
 ##.removeAdsStyle
@@ -1283,6 +1287,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.YWBDAD
 ##.ymw-app-open
 ##.ytp-ad-progress-list
+##.z-appdonwload
 !----------------------------------------- 
 ###a_ad
 ###ad_banner
@@ -1347,6 +1352,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###sponsorText
 ###sponsorAdDiv
 ###SOHU_MAIN > .module-cmt-float-bar
+###topnav-openapp
 ###updownApp
 ###wgt-ad-guess
 ###wgt-ad-bmc
@@ -1356,6 +1362,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###_embed_v3_dc
 ###__stay_inject_selecte_ad_tag_js_
 !--------------------------------------------
+##[alt="【赛事官网】-直播间-赞助商广告图"]
 ##[layout*="display-ad-"]
 ##[class^="adv-doc-top"]
 ##[class*="-ad-body"]
@@ -1371,6 +1378,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="Button Button--primary Button--blue Button--withLabel css-"]
 ##[class="news-banner-container download_app"]
 ##[class^="slider-top-bar_sliderWrapper"]
+##[class="talion-nav-footer"][style^="width: 174px; height: 40px; position: fixed; left: calc(50% - 87px); bottom: 40px;"]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
@@ -1451,13 +1459,12 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##a[href*="/youhui/#ad="]
 ##a[href*="mob288.hscdq.com"]
 ##a[href*="tlqinzi.com"]
-##a#wrapper_right_bg[target="_blank"]
-##a#wrapper_left_bg[target="_blank"]
 ##a[style="display:inline-block;font-weight:bold;color:#f00;border:1px solid #f00;border-radius:15px;padding:2px 5px 2px 5px;margin:5px 5px 5px 0px;"]
 ##img[width="960"][src*=".sinaimg."]
 ##img[src="tp/hb1.png"]
 ##img[src*="tui.30pan.com"]
 ##img[src$="/90.jpg"]
+##img[src*="/download_app_banner.png"]
 ##img[src*="ganxiyizu.com"]
 ##img[src*="/btn-open-app.png"]
 ##img[src$="go.gotourl.xyz/bill.gif"]
@@ -1617,8 +1624,7 @@ dongqiudi.com##.red
 dongqiudi.com##.m-hao-foot
 dongqiudi.com##.swiperWrap.slide-hao
 douban.com##.promo_top_banner
-douban.com###topnav-openapp
-douban.com##.TalionNav-static > *
+douban.com##.TalionNav-static
 dgtle.com##.footer-abox
 download.csdn.net##.fixed_box
 duitang.com###bottomBrowBtn2
