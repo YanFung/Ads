@@ -2,7 +2,7 @@
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
-!Version:20240409
+!Version:20240509
 !Last modified:2024/05/06 21:31 +0800
 !Homepage:https://github.com/YanFung/Ads/
 ! 
@@ -1124,6 +1124,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.appAd-line
 ##.app_download_box
 ##.appDown-gallery
+##.appdownload
 ##a.download-app
 ##.abtn_openapp
 ##.bm.a_c
@@ -1353,6 +1354,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###sponsorAdDiv
 ###SOHU_MAIN > .module-cmt-float-bar
 ###topnav-openapp
+###top_app
 ###updownApp
 ###wgt-ad-guess
 ###wgt-ad-bmc
@@ -1371,6 +1373,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
 ##[class="app-abk"]
+##[class="topApplicationWrap topApplicationWrapActive"]
+##[class="mobile_redeem_mail mobile_bbk_follow"]
 ##[class="Button css-183aq3r Button--blue"]
 ##[class="site-top__open-app"]
 ##[class="bili-app-link-container none-select"]
@@ -1412,6 +1416,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[data-href^="https://www.insuf.cn"]
 ##div[data-href*="www.xingtai0.com"]
 ##div[data-toggle="seasonal-banner"][data-target="https://www.tenorshare.cn/products/dll-repair.html?banner=footer"]
+##[id^="rfads"]
 ##li[data-type="ad"]
 ##[src="/ad.js"]
 ##[src*="tiexue.net/zgg/"]
@@ -1813,6 +1818,7 @@ sina.cn##.an.cm_art_push
 sina.cn##.fl_oem_img.fl_suspension_link
 sina.cn##[src*="/tuijianyuedu.png"]
 sina.cn##[src*="/xiangguan.png"]
+sina.cn##[class="sw_c0 sina_sliders_pos"]
 sina.cn##.fl_listen_template
 sina.cn##a[class="j_call_native art_call" ][href="javascript:void(0);"][data-app="news"]
 sina.cn###pl-blog-artad
