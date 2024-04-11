@@ -963,6 +963,7 @@ xingtai0.com
 xiangchim0.com
 xc.mydrivers.com
 xuanmeiguoji.com
+xxsmcps.com
 xn--*.
 xz15801.com/y.js
 xywy.com/zhixing
@@ -1212,6 +1213,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.j_ads
 ##.js-ad
 ##.js-open-app
+##.js-oper-pos
+##.js-app-redbtn-act
 ##.KfeCollection-VipRecommendCard
 ##.listad
 ##.leftAd
@@ -1438,6 +1441,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[href^="https://114.132.237.42:9898"]
 ##[href*="bx.baoxianjie.net/shenqing.html"]
 ##[href^="http://www.360doc.cn/khd.aspx"]
+##[href="http://a.biquge-app.com/apps/"]
 ##[href="https://member.guancha.cn/gw-gift/index"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href*="/cpro/"]
@@ -1802,6 +1806,7 @@ so.com##.js-business-list
 so.com###msocomBottomBanner
 sogou.com###indexAppOne
 sogou.com##.vr-recommend
+sohu.com##.banner_yunying
 sohu.com##a[href^="/f/"]
 sohu.com###apkBanner
 sohu.com##.fade-in.show.float-app-btn
