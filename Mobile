@@ -546,6 +546,7 @@ huanqiu.com/resource/js/base
 h5.m.taobao.com/applink/smbConfig.html
 hoopchina.com.cn/web/module/dace/
 h5.1ting.com/zfbhb/s/b.jpg$image
+i8.rb67g.icu
 iqiyi.pub
 img6.kousou.cc
 ibafnw.cn
@@ -867,6 +868,7 @@ s1.hdslb.com/bfs/static/jinkela/mstation-video-h5/assets/btn-open-app.png$image
 tuia.cn
 tv38q.cn
 tagtic.cn
+tyzfoej.cn
 tuliao1.cn
 ttyyxxy.cn
 track.uc.cn
@@ -1046,6 +1048,7 @@ zhihu.com/commercial_api/banners_
 zuoyebang.cc/static/question/m-question/resource*.jpg$image
 zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 !-------------------通用元素-------------------
+##._1eqtk61
 ##._3j0kQ-8WsgCmUba-Z5kG0y
 ##.a_cn
 ##.a_pr
@@ -1178,6 +1181,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.download_m
 ##.downloadBtn
 ##.downloadApp
+##.download-tip
 ##.download-app-image-btn
 ##div.download-app
 ##.daily-header-download
@@ -1213,6 +1217,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.j_ads
 ##.js-ad
 ##.js-open-app
+##.js-download-link
 ##.js-oper-pos
 ##.js-app-redbtn-act
 ##.KfeCollection-VipRecommendCard
@@ -1272,6 +1277,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.top-banner-app
 ##.top_app_ad
 ##.tg-download-app
+##.top-download
 ##.tabs-component-search-app
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
@@ -1376,6 +1382,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
 ##[class="app-abk"]
+##[class^="_dlBookWrapper"]
+##[class="download-box read"]
 ##[class="topApplicationWrap topApplicationWrapActive"]
 ##[class="mobile_redeem_mail mobile_bbk_follow"]
 ##[class="Button css-183aq3r Button--blue"]
@@ -1430,6 +1438,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[src="//wap.xinmin.cn/assets/m/images/app_rec.png"]
 ##[src="https://jt.dangbei.net/img/news/news_dbtouying.jpg"]
 ##[href*="630031.com"]
+##[href^="/appinfo?apprchl="]
 ##[href*="lolbaicai.com"]
 ##[href^="https://universalxx.yuewen.com/web2app.html"]
 ##[href^="https://app.smzdm.com/xiazai/?json="]
@@ -1795,6 +1804,7 @@ pansou.com##div[style*="width: 70%;height: 40px;"]
 qingmang.me##.appbanner.navbar-fixed-bottom.navbar-default.navbar
 qdaily.com##.clearfix.com-header-brief
 qidian.com##[class="module module-merge"][data-l1="13"]
+qidian.com###r-authorSay
 qidian.com##[class="bottom-float"]
 qiushibaike.com##.banner
 qb5.co##[href="https://qqmh.app"]
