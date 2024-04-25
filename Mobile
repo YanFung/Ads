@@ -402,6 +402,7 @@ changyan.sohu.com/upload/version-v3.js
 cdn.bootcss.com/jquery/1.8.3/jquery.min.js
 cqtimes.cn/Uploads/Picture/*/*.png$image
 chuantu.biz/t6/41/1504877655x2728309627.gif
+dsjaa.top
 dakawm.cc
 dadawm.cc
 dlads.cn
@@ -607,6 +608,7 @@ jianpian.vip/ad_
 juicyads.com^$third-party
 jd.com/exsites?spread_type=
 js.passport.qihucdn.com/11.0.1.js
+ksjaa.top
 k12y9d.cn
 kingpolo.com.cn
 kuuad.com
@@ -777,6 +779,7 @@ qq.com/collect?
 qq.com/tbs/tbsad/
 qq.com/xw/getUserH5Games?
 qq.com/static/web/websites/newsplugin/ssp_ad_
+romiyee.icu
 rjy0521.top
 rideraid.net
 rx616.cn
@@ -795,6 +798,7 @@ s.360.cn
 sclrjyb.cn
 sifuhe.cn
 symaj.cn
+szpxp.cn
 symaa.cn
 symag.cn
 s94pb.cn
@@ -927,6 +931,7 @@ v718.com/*ad.gif$image
 vipbuluo.com/2/123.png
 variety.tc.qq.com/*.mp4?
 vista.tuwan.com/s.js
+wdrpmu632.shop
 w5sac788c1.360doc.cn
 waimaofuzhuang.cn
 wo-x.cn
@@ -1001,6 +1006,7 @@ youdao.com/rlog.php
 youtube.com/api/stats/ads?
 yingshidaquan.cc/templet/js/
 youdao.com/market/banner/banner
+yuxseocdn.yuewen.com/pro/readnovel_m/_prelease/hongxium/icon/common/sprite-*.js
 zndsssp.dangbei.net
 zxhrq.cn
 zcsfs.cn
@@ -1299,6 +1305,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.ytp-ad-progress-list
 ##.z-appdonwload
 !----------------------------------------- 
+###__stay_inject_selecte_ad_tag_js_
 ###a_ad
 ###ad_banner
 ###ads3
@@ -1327,6 +1334,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###bottomads
 ###bottomBrowBtn2
 ###btn-call-app
+###bottom-launch-btn-new
 ###bottom-fixed-wrapper
 ###callVideoAppHeader
 ###container.container > a.item
@@ -1337,6 +1345,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###download-wrapper
 ###footer_ad
 ###footerApp
+###feed-open-app-btn
+###feed-Sign-weixin-btn
 ###goAppWrap
 ###hongbao
 ###head_ad
@@ -1452,6 +1462,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[href^="http://www.360doc.cn/khd.aspx"]
 ##[href="http://a.biquge-app.com/apps/"]
 ##[href="https://member.guancha.cn/gw-gift/index"]
+##[href^="https://yuedu.reader.qq.com/common/common/down/dist/index.html"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href*="/cpro/"]
 ##a[href*="/cpro."]
@@ -1908,6 +1919,7 @@ tieba.baidu.com##.r-top-sec
 tieba.baidu.com###spage_liveshow_slide
 tieba.baidu.com##.u_member
 tieba.baidu.com###celebrity
+tieba.baidu.com##[class="l_post l_post_bright j_l_post clearfix"][data-field="{}"]
 tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
 tieba.baidu.com##.tbui_fbar_share.tbui_aside_fbar_button
 tieba.baidu.com##.tbui_fbar_feedback.tbui_aside_fbar_button
