@@ -148,6 +148,7 @@ _960_90.
 .cn/vs.php?id=
 .cn/s.php?id=
 .com/vs.php?id=
+.com:8003
 .com/ad?
 .com/adv/
 .com/ads-
@@ -248,6 +249,7 @@ adbanner
 adsbygoogle.
 atas.io
 adsrvr.org
+asdzxc1.top
 adget.cn
 assigned.cn
 alimama.cn
@@ -478,6 +480,7 @@ googleads.
 ggxt.net
 gg.5di.tv
 gshtrl.top
+gdfdhshfh.top
 gze3.cn
 gszbba.cn
 ghosttty.cn
@@ -548,6 +551,7 @@ h5.m.taobao.com/applink/smbConfig.html
 hoopchina.com.cn/web/module/dace/
 h5.1ting.com/zfbhb/s/b.jpg$image
 i8.rb67g.icu
+ijmxco.xyz
 iqiyi.pub
 img6.kousou.cc
 ibafnw.cn
@@ -713,6 +717,7 @@ olo.6niuwang.com
 ofter.com/blogphotoad?
 pubads.
 pagead2.
+pwcegau.icu
 pagechoice.net
 p0y.cn
 pozwf.cn
@@ -824,6 +829,7 @@ smucdn.com
 sgzs999.com
 sp.dnqc.com
 sdqoi2d.com
+slkkbnsgn.com
 s1.hiapk.com
 sanwen8.com
 sdtbhbyb.com
@@ -882,6 +888,7 @@ trafficjunky.net
 tiantianedu.net
 tiaopimiao.net
 tuan.szonline.net
+tgjfd.com
 t58b.com
 tanx.com
 txtxr.com
@@ -1284,6 +1291,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.top_app_ad
 ##.tg-download-app
 ##.top-download
+##.top-guide
 ##.tabs-component-search-app
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_border_elm .syndicatedItem
@@ -1392,6 +1400,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="f_f"][id="f_f"]
 ##[class^="app_slider"]
 ##[class="app-abk"]
+##[class="icon downloadApp"]
+##[class="page-reader-btn download"]
 ##[class^="_dlBookWrapper"]
 ##[class="download-box read"]
 ##[class="topApplicationWrap topApplicationWrapActive"]
@@ -1441,6 +1451,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##li[data-type="ad"]
 ##[src="/ad.js"]
 ##[src*="tiexue.net/zgg/"]
+##[src^="//static.xiaoshuo.qq.com/m-chuangshi/static/go-app."]
 ##[src*="img.fl6n.com/adtop/"]
 ##[src="http://v.lree.cn/qq.jpeg"]
 ##[src^="https://2.999km.net"]
@@ -1493,6 +1504,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src="tp/hb1.png"]
 ##img[src*="tui.30pan.com"]
 ##img[src$="/90.jpg"]
+##img[src*="ijmxco.xyz"]
 ##img[src*="/download_app_banner.png"]
 ##img[src*="ganxiyizu.com"]
 ##img[src*="/btn-open-app.png"]
