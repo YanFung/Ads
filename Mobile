@@ -686,6 +686,7 @@ mat1.gtimg.com/rain/bailing*.redbeg.png$image
 mat1.gtimg.com/rain/bailing20/f*.png$image
 nbyhj.top
 netsop.cn
+nhcdn.cn
 nijiua.com
 nthtcs.com
 njjahb.com
@@ -896,6 +897,7 @@ tjgxzs.com
 tiimg.com
 tj.21ic.com
 tcnmf.com
+tongjiniao.com
 tajs.qq.com
 tianjin4.com
 tingyun.com
@@ -928,6 +930,7 @@ ubmcmm.baidustatic.com
 ubook.qq.com/8/img/load.png
 uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 vnnv777.cn
+verstug.cn
 vip.jtkshop.net
 vsxet.com
 vrbeetv.com
@@ -1047,6 +1050,7 @@ zaitouwang.com
 ztyumn.ifeng.com
 zfds1.tianya999.com
 zhengzhoupengbo.com
+zwzdjb.xyz
 zhihu-web-analytics.zhihu.com
 zhuyuanp.shop
 zol.com.cn/pvn/
@@ -1159,6 +1163,9 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.bottom_ad_download
 ##.bottom_open_app
 ##.bottom-fixed-app
+##.bottomButton-open-wrap
+##.bottomButton-download
+##.bottomButton-open
 ##.baichuan-ad-wrapper
 ##.baidu_ads_cell
 ##.bt-bottom
@@ -1366,6 +1373,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###js-openInApp
 ###js-download
 ###js-fix-download
+###js-special-open-app-btn
 ###jctj.jctj
 ###longopenApp_btn
 ###newapp2018
@@ -1418,6 +1426,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="bili-app-link-container none-select"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[class^="Button Button--primary Button--blue Button--withLabel css-"]
+##[class*="open-app-btn"]
+##[class^="_readApp_"]
 ##[class="news-banner-container download_app"]
 ##[class^="slider-top-bar_sliderWrapper"]
 ##[class="talion-nav-footer"][style^="width: 174px; height: 40px; position: fixed; left: calc(50% - 87px); bottom: 40px;"]
@@ -1454,6 +1464,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[data-href^="https://www.insuf.cn"]
 ##div[data-href*="www.xingtai0.com"]
 ##div[data-toggle="seasonal-banner"][data-target="https://www.tenorshare.cn/products/dll-repair.html?banner=footer"]
+##div[data-ios-href*="/moment.html?download"]
 ##[id^="rfads"]
 ##li[data-type="ad"]
 ##[src="/ad.js"]
