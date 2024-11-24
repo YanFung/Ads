@@ -2,8 +2,8 @@
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
-!Version:20241115
-!Last modified:2024/11/15 21:31 +0800
+!Version:20241215
+!Last modified:2024/12/15 21:31 +0800
 !Homepage:https://github.com/YanFung/Ads/
 ! 
 !------------------------------
@@ -1292,6 +1292,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.head_ad
 ##.head-ad
 ##.hide_ad
+##.head_3g-down
 ##.hongbao
 ##.hongbao_hd
 ##.Header-download
@@ -1447,6 +1448,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###feed-Sign-weixin-btn
 ###faiz_top_banner_swiper
 ###faiz_middle_btn
+###float_new_button
 ###goAppWrap
 ###hongbao
 ###head_ad
@@ -1650,13 +1652,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 51dongshi.com##[width][height][src^="//d.51dongshi.com/"]
 56.com##[class^="app-"] > .banner-container
 58.com##.bban
-ali213.net##.zadmainholder
 acwifi.net##a[href*="u.jd.com"]
 acfun.cn##.header-ico
 app.myzaker.com##.zk_top_barwrap
 a.xcar.com.cn##a[href][target="_blank"][class="lazy loaded"][data-original]
-author.baidu.com##.shareEntry-blank
-author.baidu.com##.ht-container
 blog.sina.cn##.j_fl_da.fl_style_da
 blog.sina.cn###pl-float-bar
 blog.csdn.net##.feed-Sign-span
