@@ -1341,6 +1341,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.open_app_channelCode
 ##.pub_300x250
 ##.page-float-box
+##.playBtnApp
 ##.popup-download-wrap
 ##.rt_ad
 ##.rightad
@@ -1348,6 +1349,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.rynb_open_btn
 ##.reply-ad-banner
 ##.rv-open-app-btn
+##.roc-downbanner
 ##.removeAdsStyle
 ##.right > .content > .ads
 ##.softAdsBox
@@ -1453,6 +1455,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###masthead-ad
 ###midThreeAds
 ###openapp__fix
+###open-click
 ###opeApp
 ###OCCC_TOP_AD
 ###player-ads
@@ -1613,6 +1616,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[src$="/toutiaoh5/ig/redP/rp-s.gif"]
 ##img[src="https://www.9uys.co/img2/nq2.gif"]
 ##img[src*="img.bncoo.com/forum"]
+##img[src$="/img/wakeUpNew.png"]
+##img[src$="/images/indexh5/downapp.png"]
 ##img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
 ##img[src*="adx9.com/upload/"][style="width:100%;height:auto;"]
 ##img[src="http://yskk8.com/template/mid97/images/1.gif"]
@@ -1625,26 +1630,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##img[class="img-button"]
 ##img[lazyload*="/jingyan.baidu.com/event/img/"]
 !----------------特定网站元素------------------
-163.com###docid-docAppClient
-163.com##.home_packet.ne_rps
-163.com##.a_topad
-163.com##.papa-item
-163.com##.doc-footer-wrapper
-163.com##.js-wakeupclient.wakeup_client
-163.com##.loaded.js-top-slider.g-top-slider
-163.com##.m-slider-footer
-163.com##.g-btn-open-newsapp
-163.com##.redpacket-subbox
-163.com##.redpacket-footer
-163.com##.redpacket-topbar
-163.com##.redpacket-toolsbar
-1688.com##.roc-downbanner
+163.com##.floatMenu-backflow
 17k.com##.book_home_float
-1905.com##.moviewiki
-1905.com##.mobile_ad_promote
-1905.com##a.tjw_common
-1905.com##a[href^="https://engine.lvehaisen.com/index/activity"]
-2.taobao.com##[class="idle-start col"]
 265g.com###swiper-bot
 21ic.com##.topbanner
 3g.cn##.downloan_3G
