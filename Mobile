@@ -148,7 +148,9 @@ _960_90.
 .cn/vs.php?id=
 .cn/s.php?id=
 .com/vs.php?id=
-.com:8003
+.com:800
+.com:21233
+.com:22600
 .com/ad?
 .com/adv/
 .com/ads-
@@ -164,11 +166,12 @@ _960_90.
 .com/s.php?id=$third-party,script
 .php?mg=$image
 *btbtt.*/imgs.js
-(com?$script
+.xyz:9189
 !--------------------------------------
 0xxd.com
 0eqbeb.com
 005.tv/s/setcores.js
+0a2j1l.com
 0551zgz.com
 0571hy.com
 0571yy.com
@@ -183,6 +186,8 @@ _960_90.
 1.1010pic.com
 1234xm.com
 12365chia.com
+2wa9vg.com
+2b4dlx.com
 149.129.74.152/pcsygg.js
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com*/special/*_ad_
@@ -255,6 +260,7 @@ adservice.
 adbanner
 adsbygoogle.
 atas.io
+ak47gg.vip
 adsrvr.org
 asdzxc1.top
 adget.cn
@@ -429,6 +435,7 @@ dingyuanyao.cn
 d0.xcar.com.cn
 delivery-pc.wasu.cn
 dkjahfkanf.com
+dtindrofe.com
 diogv.com
 dcxmy.com
 dzribao.com
@@ -482,6 +489,7 @@ ffychb.com
 fexiaen.com
 front99.com
 focuscat.com
+ffvmgevrid.com
 feihongjiaoyu.com
 fzb01.qiushibaike.com
 fpb1.chinacar.asia
@@ -880,6 +888,7 @@ shongcheng.com
 shili.downxia.com
 shuoshuocm.com
 spcode.baidu.com
+sifacailpq.com
 shanxiyizhao.com
 smartadserver.com
 ssskuaiguang666.com
@@ -960,6 +969,7 @@ uc4a.cn
 urlat.cn
 union.360.cn
 ueram.com
+ubudhal.com
 unmini.com
 uc.zhuici.com
 un.dnskuu.com
@@ -983,6 +993,7 @@ variety.tc.qq.com/*.mp4?
 vista.tuwan.com/s.js
 vcxv787.fun
 wnojded.icu
+wmcbld.top
 wdrpmu632.shop
 w5sac788c1.360doc.cn
 waimaofuzhuang.cn
@@ -1200,6 +1211,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.app_download_box
 ##.app-promote-bar
 ##.appAd-line
+##.appOpenBtn
 ##.appDown-gallery
 ##.appdownload
 ##.abtn_openapp
@@ -1337,6 +1349,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.MHotFeedAd
 ##.msan_ads_container
 ##.middle-insert-ad
+##.m-bottom
 ##.m-nav-openapp
 ##.m-open-app
 ##.news-ad
@@ -1361,6 +1374,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.openInAPP
 ##.openapp-content 
 ##.openapp-mask
+##.openAppBtn
+##.openInApp
 ##.OpenInAppButton
 ##.open_app_channelCode
 ##.pub_300x250
@@ -1380,6 +1395,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.softAdsBox
 ##.sgui-radius-flex__open-text
 ##.s-openApp
+##.snp-bottom-bar
 ##.slider-top-bar_newSliderWrapper__UwCbo
 ##.textAd
 ##.text-ad
@@ -1448,6 +1464,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###btn-call-app
 ###bottom-launch-btn-new
 ###bottom-fixed-wrapper
+###bdrainrwDragButton
 ###callVideoAppHeader
 ###container.container > a.item
 ###container > #pic_container
@@ -1481,6 +1498,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ###midThreeAds
 ###masthead-ad
 ###midThreeAds
+###middleBanner
 ###openapp__fix
 ###open-click
 ###opeApp
@@ -1529,12 +1547,14 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="bili-app-link-container none-select"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
 ##[class^="Button Button--primary Button--blue Button--withLabel css-"]
+##[class^="w-button w-button-round w-button-blue w-button-filled"]
 ##[class*="open-app-btn"]
 ##[class^="_readApp_"]
 ##[class="ldy_art_bottom_button"]
 ##[class^="open-hupu"]
 ##[class="CommonBottomImage info-note"]
 ##[class="home-download auto-report jsDownloadLink"]
+##[class^="navbar-fixed-bottom down"]
 ##[class="auto-report jsDownloadLink"]
 ##[class^="index_footer_banner_"]
 ##[class="crvouwtamnp"][style="position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 22149; bottom: 0px; left: 0px;"]
@@ -1559,6 +1579,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class^="ad-inner"]
 ##div[class^="ad_box"]
 ##div[class="mobile_header-down cl"]
+##[id^=ad_browse]
 ##div[id="ads"]
 ##div[id^="div-gpt-ad"]
 ##div[id*="appDown"]
@@ -1568,6 +1589,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[id*="app_down"]
 ##div[id*="downapp"]
 ##div[id*="downApp"]
+##div[rseat="download"]
+##div[role="button"]
 ##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[dt-eid="open_app_bottom"]
