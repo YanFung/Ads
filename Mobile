@@ -2,14 +2,12 @@
 !Title:Mobile Ads
 !Author:YanFung
 !Description:移动网站广告过滤规则
-!Version:20241215
-!Last modified:2024/12/15 21:31 +0800
+!Version:20260215
+!Last modified:2026/2/15 21:31 +0800
 !Homepage:https://github.com/YanFung/Ads/
 ! 
 !------------------------------
 /104_150/1360_1
-/1*.xhtml?|$third-party,script
-/2*.html?|$third-party,script
 /99rejs/js/adv
 /acmsd/
 /adserver$xhr
@@ -41,7 +39,6 @@
 /ad_banner.
 /ad-banner.
 /ad_unified_access?
-/ad_status.js
 /adproxy.
 /ad/side_
 /ads_image/
@@ -61,7 +58,6 @@
 /common/openjs/openBox.js
 /csi_204?$image
 /cpro/ui/*
-/d/*-*-*.ap|$script
 /douban-ad-helper.js
 /footerad.
 /fuckadblock.js
@@ -643,7 +639,6 @@ jianpian.vip/ad_
 jingjs.top:22655
 juicyads.com^$third-party
 jd.com/exsites?spread_type=
-js.passport.qihucdn.com/11.0.1.js
 klnkpdcy.icu
 ksjaa.top
 k12y9d.cn
@@ -678,7 +673,6 @@ ll.hudong.com
 ljqnbiogjp.com
 love745221.com
 laojiayoufang.com
-lf6-cdn-tos.bytecdntp.com
 ltsdl.qq.com^*.ts
 loldyttw.net/blr.js
 mrsho3g9yztbex9k.top
@@ -894,7 +888,6 @@ smartadserver.com
 ssskuaiguang666.com
 static.gridsumdissector.com
 sax*.sina.
-securepubads.
 sina.cn*/view?
 shihuo.cn/alibtn_
 sina.cn^*/impress?
