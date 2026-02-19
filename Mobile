@@ -2185,6 +2185,7 @@ znds.com###rec-pic
 app.so#@#[class*="app-down"]
 blog.csdn.net#@#.app-box
 blog.csdn.net#@#.open_app_channelCode
+bilibili.com#@#div[role="button"]
 nuomi.com#@##hongbao
 finn.no#@#.ads
 douban.com#@#.download-app
