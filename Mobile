@@ -1180,6 +1180,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.adlist
 ##.adright
 ##.adbanner
+##.advertising-mask
 ##.adsbygoogle
 ##.adsense160
 ##.adContainer
@@ -1350,6 +1351,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.news-ad
 ##.new-free-ad
 ##.nav-open-app
+##.nav-block
 ##.new-recommend_wrapper__oj9SS
 ##.nd-operate-guidance
 ##.nd-vip-btn
@@ -1549,6 +1551,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="w-button w-button-round w-button-blue w-button-filled"]
 ##[class*="open-app-btn"]
 ##[class^="_readApp_"]
+##[class^=to-app--]
+##[class^=to-desktop--]
 ##[class="ldy_art_bottom_button"]
 ##[class^="open-hupu"]
 ##[class="CommonBottomImage info-note"]
@@ -1561,6 +1565,8 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="u-button wp-s-agile-tool-bar__h-action-button u-button--text u-button--small"][title="打开电脑端"]
 ##[class="talion-nav-footer"][style^="width: 174px; height: 40px; position: fixed; left: calc(50% - 87px); bottom: 40px;"]
 ##[class="crvouwtamnp"][style="position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 22149; bottom: 0px; left: 0px;"]
+##[id^=ad_browse]
+##[id=^fwin_banadblock]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
@@ -1579,7 +1585,6 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##div[class^="ad-inner"]
 ##div[class^="ad_box"]
 ##div[class="mobile_header-down cl"]
-##[id^=ad_browse]
 ##div[id="ads"]
 ##div[id^="div-gpt-ad"]
 ##div[id*="appDown"]
