@@ -1201,8 +1201,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.app_tj
 ##.app-guiding
 ##.app-open-button
+##.app-download
 ##.app_download_box
 ##.app-promote-bar
+##.app-user-vip-center
 ##.appAd-line
 ##.appOpenBtn
 ##.appDown-gallery
@@ -1349,6 +1351,10 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##.new-free-ad
 ##.nav-open-app
 ##.new-recommend_wrapper__oj9SS
+##.nd-operate-guidance
+##.nd-vip-btn
+##.nd-bottom-right-popover
+##.nd-custom-btn-wrapper
 ##.oo-ad
 ##.open-app
 ##.open-app-button
@@ -1550,10 +1556,11 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class^="navbar-fixed-bottom down"]
 ##[class="auto-report jsDownloadLink"]
 ##[class^="index_footer_banner_"]
-##[class="crvouwtamnp"][style="position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 22149; bottom: 0px; left: 0px;"]
 ##[class="news-banner-container download_app"]
 ##[class^="slider-top-bar_sliderWrapper"]
+##[class="u-button wp-s-agile-tool-bar__h-action-button u-button--text u-button--small"][title="打开电脑端"]
 ##[class="talion-nav-footer"][style^="width: 174px; height: 40px; position: fixed; left: calc(50% - 87px); bottom: 40px;"]
+##[class="crvouwtamnp"][style="position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 22149; bottom: 0px; left: 0px;"]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
