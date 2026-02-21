@@ -1568,7 +1568,7 @@ zimuzu.tv/mobile/lib/style/images/temp/migu2.png$image
 ##[class="talion-nav-footer"][style^="width: 174px; height: 40px; position: fixed; left: calc(50% - 87px); bottom: 40px;"]
 ##[class="crvouwtamnp"][style="position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 22149; bottom: 0px; left: 0px;"]
 ##[id^=ad_browse]
-##[id=^fwin_banadblock]
+##[id^=fwin_banadblock]
 ##div[ad_name]
 ##div[class$="_ads"]
 ##div[class$="-ads"]
